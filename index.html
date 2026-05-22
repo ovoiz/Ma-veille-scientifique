@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Veille scientifique — Archéologie & Paléoanthropologie</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: Georgia, 'Times New Roman', serif; background: #f7f5f0; color: #2a2520; min-height: 100vh; }
+header { background: #1e1a16; color: #f0ebe2; padding: 1.5rem 2rem; display: flex; align-items: baseline; gap: 1.5rem; flex-wrap: wrap; }
+header h1 { font-size: 1.3rem; font-weight: normal; letter-spacing: 0.05em; }
+header span { font-size: 0.8rem; color: #8a7f74; font-family: 'Courier New', monospace; }
+.container { max-width: 960px; margin: 0 auto; padding: 1.5rem; }
+.tabs { display: flex; border-bottom: 1px solid #d5cfc5; margin-bottom: 1.5rem; flex-wrap: wrap; }
+.tab { font-size: 0.82rem; padding: 0.6rem 1.1rem; cursor: pointer; border: none; background: transparent; color: #7a7068; border-bottom: 2px solid transparent; margin-bottom: -1px; font-family: inherit; }
+.tab.active { color: #1e1a16; border-bottom-color: #8b4513; font-weight: bold; }
+.tab:hover { color: #2a2520; }
+.toolbar { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 1.2rem; align-items: center; }
+.filter-btn { font-size: 0.75rem; padding: 4px 12px; cursor: pointer; border-radius: 20px; border: 1px solid #c5bfb5; background: transparent; color: #7a7068; font-family: inherit; }
+.filter-btn.active { background: #1e1a16; color: #f0ebe2; border-color: #1e1a16; }
+.filter-btn:hover:not(.active) { border-color: #8a7f74; }
+.sep { width: 1px; height: 20px; background: #d5cfc5; margin: 0 2px; }
+.action-btn { font-size: 0.78rem; padding: 5px 14px; cursor: pointer; border-radius: 4px; border: 1px solid #c5bfb5; background: #fff; color: #2a2520; font-family: inherit; }
+.action-btn:hover { background: #f0ebe2; }
+.action-btn.primary { background: #8b4513; color: #fff; border-color: #8b4513; }
+.action-btn.primary:hover { background: #6b3410; }
+.stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 1.5rem; }
+.stat { background: #fff; border: 1px solid #e0d9d0; border-radius: 6px; padding: 0.8rem 1rem; }
+.stat-label { font-size: 0.7rem; color: #8a7f74; font-family: 'Courier New', monospace; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 2px; }
+.stat-value { font-size: 1.8rem; color: #1e1a16; }
+.article { background: #fff; border: 1px solid #e0d9d0; border-radius: 6px; padding: 1rem 1.2rem; margin-bottom: 10px; }
+.article:hover { border-color: #b5a898; }
+.article-title { font-size: 0.9rem; font-weight: bold; color: #1e1a16; text-decoration: none; display: block; margin-bottom: 5px; line-height: 1.45; }
+.article-title:hover { color: #8b4513; }
+.article-meta { font-size: 0.72rem; color: #8a7f74; margin-bottom: 8px; font-family: 'Courier New', monospace; }
+.source-badge { display: inline-block; font-size: 0.67rem; padding: 1px 7px; border-radius: 3px; background: #e8f0f8; color: #2a4a7f; border: 1px solid #bdd0e8; font-family: 'Courier New', monospace; margin-right: 6px; }
+.source-badge.media { background: #edf5e8; color: #2a5a1a; border-color: #b5d8a0; }
+.media-row { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; align-items: center; }
+.score { font-size: 0.7rem; padding: 2px 8px; border-radius: 3px; background: #fdf3e3; color: #7a4a10; border: 1px solid #f0d0a0; font-family: 'Courier New', monospace; }
+.pill { font-size: 0.7rem; padding: 2px 9px; border-radius: 20px; border: 1px solid #ddd; color: #555; background: #f9f9f9; }
+.pill.news { background: #edf5e8; color: #2a5a1a; border-color: #b5d8a0; }
+.pill.blog { background: #fdf3e3; color: #7a4a10; border-color: #f0c878; }
+.pill.twitter { background: #e8f0f8; color: #1a3a6a; border-color: #a0b8d8; }
+.no-coverage { font-size: 0.73rem; color: #bbb; font-style: italic; }
+.empty { text-align: center; padding: 3rem; color: #8a7f74; font-size: 0.9rem; line-height: 1.7; }
+.doi-intro { font-size: 0.85rem; color: #7a7068; margin-bottom: 1rem; line-height: 1.6; }
+.doi-form { display: flex; gap: 8px; margin-bottom: 1rem; }
+.doi-form input { flex: 1; font-size: 0.85rem; padding: 7px 10px; border: 1px solid #c5bfb5; border-radius: 4px; font-family: 'Courier New', monospace; background: #fff; }
+.doi-form input:focus { outline: none; border-color: #8b4513; }
+.sources-section { margin-bottom: 1.5rem; }
+.sources-section h3 { font-size: 0.85rem; font-weight: bold; margin-bottom: 0.8rem; border-bottom: 1px solid #e0d9d0; padding-bottom: 0.5rem; }
+.source-row { display: flex; align-items: center; gap: 8px; padding: 6px 10px; border: 1px solid #e0d9d0; border-radius: 4px; margin-bottom: 5px; background: #fff; font-size: 0.82rem; }
+.source-row .src-name { flex: 1; font-weight: bold; min-width: 0; }
+.source-row .src-url { flex: 2; font-family: 'Courier New', monospace; font-size: 0.68rem; color: #8a7f74; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }
+.del-btn { font-size: 0.72rem; padding: 2px 8px; cursor: pointer; border-radius: 3px; border: 1px solid #e0d9d0; background: transparent; color: #c0392b; font-family: inherit; white-space: nowrap; }
+.del-btn:hover { background: #fdf3e3; }
+.add-form { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
+.add-form input { flex: 1; min-width: 120px; font-size: 0.8rem; padding: 5px 8px; border: 1px solid #c5bfb5; border-radius: 4px; font-family: inherit; background: #fff; }
+.add-form input:focus { outline: none; border-color: #8b4513; }
+.status-line { font-size: 0.75rem; color: #8a7f74; margin-bottom: 0.8rem; min-height: 1.1rem; font-family: 'Courier New', monospace; }
+.spinner { display: inline-block; width: 11px; height: 11px; border: 2px solid #ddd; border-top-color: #8b4513; border-radius: 50%; animation: spin 0.7s linear infinite; vertical-align: middle; margin-right: 5px; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.proxy-info { font-size: 0.72rem; background: #fffbe6; border: 1px solid #f0d0a0; border-radius: 4px; padding: 0.6rem 0.9rem; margin-bottom: 1rem; color: #7a4a10; font-family: 'Courier New', monospace; display: none; }
+.note { font-size: 0.72rem; color: #aaa; margin-top: 1.5rem; line-height: 1.7; border-top: 1px solid #e0d9d0; padding-top: 1rem; font-family: 'Courier New', monospace; }
+footer { text-align: center; font-size: 0.7rem; color: #bbb; padding: 1.5rem; font-family: 'Courier New', monospace; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Veille scientifique</h1>
+  <span>Archéologie · Paléoanthropologie · Anthropologie</span>
+</header>
+<div class="container">
+
+  <div id="proxy-banner" class="proxy-info"></div>
+
+  <div class="tabs">
+    <button class="tab active" onclick="showTab('flux')"    id="tab-flux">Revues scientifiques</button>
+    <button class="tab"        onclick="showTab('media')"   id="tab-media">Médias &amp; blogs</button>
+    <button class="tab"        onclick="showTab('doi')"     id="tab-doi">Recherche par DOI</button>
+    <button class="tab"        onclick="showTab('sources')" id="tab-sources">⚙ Mes sources</button>
+  </div>
+
+  <!-- REVUES -->
+  <div id="pane-flux">
+    <div class="toolbar">
+      <button class="filter-btn active" id="ff-all"       onclick="setFluxFilter('all',this)">Tous</button>
+      <button class="filter-btn"        id="ff-covered"   onclick="setFluxFilter('covered',this)">Déjà couverts</button>
+      <button class="filter-btn"        id="ff-uncovered" onclick="setFluxFilter('uncovered',this)">Non encore couverts</button>
+      <div class="sep"></div>
+      <button class="filter-btn active" id="fd-all"   onclick="setFluxDate('all',this)">Toutes dates</button>
+      <button class="filter-btn"        id="fd-today" onclick="setFluxDate('today',this)">Aujourd'hui</button>
+      <button class="filter-btn"        id="fd-7"     onclick="setFluxDate('7',this)">7 jours</button>
+      <button class="filter-btn"        id="fd-30"    onclick="setFluxDate('30',this)">30 jours</button>
+      <div class="sep"></div>
+      <button class="action-btn" onclick="loadFlux()">↻ Actualiser</button>
+    </div>
+    <div id="stats-flux" class="stats" style="display:none">
+      <div class="stat"><div class="stat-label">Articles chargés</div><div class="stat-value" id="sf-total">—</div></div>
+      <div class="stat"><div class="stat-label">Déjà couverts</div><div class="stat-value" id="sf-covered">—</div></div>
+      <div class="stat"><div class="stat-label">Non couverts</div><div class="stat-value" id="sf-new">—</div></div>
+    </div>
+    <div class="status-line" id="status-flux"></div>
+    <div id="list-flux"><div class="empty">Cliquez sur <strong>↻ Actualiser</strong> pour charger les derniers articles des revues.</div></div>
+  </div>
+
+  <!-- MÉDIAS -->
+  <div id="pane-media" style="display:none">
+    <div class="toolbar">
+      <button class="filter-btn active" id="md-all"   onclick="setMediaDate('all',this)">Toutes dates</button>
+      <button class="filter-btn"        id="md-today" onclick="setMediaDate('today',this)">Aujourd'hui</button>
+      <button class="filter-btn"        id="md-7"     onclick="setMediaDate('7',this)">7 jours</button>
+      <button class="filter-btn"        id="md-30"    onclick="setMediaDate('30',this)">30 jours</button>
+      <div class="sep"></div>
+      <button class="action-btn" onclick="loadMedia()">↻ Actualiser</button>
+    </div>
+    <div id="stats-media" class="stats" style="display:none">
+      <div class="stat"><div class="stat-label">Articles chargés</div><div class="stat-value" id="sm-total">—</div></div>
+      <div class="stat"><div class="stat-label">Sources actives</div><div class="stat-value" id="sm-sources">—</div></div>
+      <div class="stat"><div class="stat-label">Aujourd'hui</div><div class="stat-value" id="sm-today">—</div></div>
+    </div>
+    <div class="status-line" id="status-media"></div>
+    <div id="list-media"><div class="empty">Cliquez sur <strong>↻ Actualiser</strong> pour charger les derniers articles des médias.</div></div>
+  </div>
+
+  <!-- DOI -->
+  <div id="pane-doi" style="display:none">
+    <p class="doi-intro">Entrez le DOI d'un article pour consulter ses reprises médiatiques via Altmetric.<br>
+    Exemple : <code>10.1038/s41586-021-03351-7</code> ou l'URL <code>https://doi.org/10.1038/…</code></p>
+    <div class="doi-form">
+      <input type="text" id="doi-input" placeholder="10.xxxx/xxxxxxx" onkeydown="if(event.key==='Enter')lookupDoi()"/>
+      <button class="action-btn primary" onclick="lookupDoi()">Rechercher</button>
+    </div>
+    <div id="doi-result"></div>
+  </div>
+
+  <!-- SOURCES -->
+  <div id="pane-sources" style="display:none">
+    <div class="sources-section">
+      <h3>Revues scientifiques</h3>
+      <div id="src-list-journal"></div>
+      <div class="add-form">
+        <input type="text" id="add-name-journal" placeholder="Nom affiché" />
+        <input type="text" id="add-url-journal"  placeholder="URL du flux RSS" />
+        <button class="action-btn primary" onclick="addSource('journal')">+ Ajouter</button>
+      </div>
+    </div>
+    <div class="sources-section">
+      <h3>Médias, blogs, agrégateurs</h3>
+      <div id="src-list-media"></div>
+      <div class="add-form">
+        <input type="text" id="add-name-media" placeholder="Nom affiché" />
+        <input type="text" id="add-url-media"  placeholder="URL du flux RSS" />
+        <button class="action-btn primary" onclick="addSource('media')">+ Ajouter</button>
+      </div>
+    </div>
+    <p style="font-size:0.78rem;color:#8a7f74;margin-top:1rem;font-family:'Courier New',monospace;">
+      Les sources sont sauvegardées dans votre navigateur (localStorage).
+    </p>
+  </div>
+
+  <div class="note">
+    Couverture médiatique via API Altmetric (gratuite, sans clé) · Les articles sans DOI ne peuvent pas être vérifiés via Altmetric.
+  </div>
+</div>
+<footer>Usage personnel · généré par Claude</footer>
+
+<script>
+// ── Sources par défaut ────────────────────────────────────────────────
+const DEFAULT_SOURCES = {
+  journal: [
+    { name: "American Journal of Archaeology",        url: "https://www.ajaonline.org/rss.xml" },
+    { name: "Journal of Roman Archaeology",           url: "https://www.cambridge.org/core/rss/product/id/6416A125CE6B7CE18129EE0692D0C8B8" },
+    { name: "European Journal of Archaeology",        url: "https://www.cambridge.org/core/rss/product/id/8741BEBDCB9451080BB5565CAC157C45" },
+    { name: "Oxford Journal of Archaeology",          url: "http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1468-0092" },
+    { name: "Journal of Anthropological Archaeology", url: "https://rss.sciencedirect.com/publication/science/02784165" }
+  ],
+  media: [
+    { name: "EurekAlert! Archaeology",  url: "https://www.eurekalert.org/rss/archaeology.xml" },
+    { name: "Phys.org Archéologie",     url: "https://phys.org/rss-feed/science-news/archaeology-fossils/" },
+    { name: "ScienceDaily Archaeology", url: "https://www.sciencedaily.com/rss/fossils_ruins/archaeology.xml" },
+    { name: "The Guardian Archaeology", url: "http://www.guardian.co.uk/science/archaeology/rss" },
+    { name: "Archaeology Magazine",     url: "https://www.archaeology.org/rss.xml" },
+    { name: "Smithsonian History",      url: "https://feeds.feedburner.com/smithsonianmag/history-archaeology" },
+    { name: "Anthropology.net",         url: "https://anthropology.net/feed/" },
+    { name: "Popular Archaeology",      url: "https://popular-archaeology.com/section/archaeology-news-daily/feed/" }
+  ]
+};
+
+// ── Proxies CORS à essayer en cascade ────────────────────────────────
+// Chaque proxy a une fonction qui construit l'URL et une fonction qui extrait le XML
+const PROXIES = [
+  {
+    name: "rss2json.com",
+    buildUrl: (feedUrl) => `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}&count=100`,
+    parse: async (resp) => {
+      const d = await resp.json();
+      if (d.status !== 'ok' || !d.items) return null;
+      return d.items.map(item => ({
+        title:   item.title || '(sans titre)',
+        link:    item.link  || '#',
+        pubDate: item.pubDate ? new Date(item.pubDate) : null,
+        content: (item.content || '') + ' ' + (item.description || '')
+      }));
+    }
+  },
+  {
+    name: "allorigins.win",
+    buildUrl: (feedUrl) => `https://api.allorigins.win/get?url=${encodeURIComponent(feedUrl)}`,
+    parse: async (resp) => {
+      const d = await resp.json();
+      if (!d.contents) return null;
+      return parseXmlFeed(d.contents);
+    }
+  },
+  {
+    name: "corsproxy.io",
+    buildUrl: (feedUrl) => `https://corsproxy.io/?${encodeURIComponent(feedUrl)}`,
+    parse: async (resp) => {
+      const xml = await resp.text();
+      return parseXmlFeed(xml);
+    }
+  },
+  {
+    name: "thingproxy.freeboard.io",
+    buildUrl: (feedUrl) => `https://thingproxy.freeboard.io/fetch/${feedUrl}`,
+    parse: async (resp) => {
+      const xml = await resp.text();
+      return parseXmlFeed(xml);
+    }
+  }
+];
+
+let workingProxy = null; // mémorise le premier proxy qui marche
+
+// ── Parser XML RSS/Atom maison ────────────────────────────────────────
+function parseXmlFeed(xmlStr) {
+  try {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(xmlStr, 'text/xml');
+    const isAtom = doc.querySelector('feed') !== null;
+    const items = isAtom
+      ? Array.from(doc.querySelectorAll('entry'))
+      : Array.from(doc.querySelectorAll('item'));
+    if (!items.length) return null;
+    return items.map(item => {
+      const get = (sel) => { const el = item.querySelector(sel); return el ? el.textContent.trim() : ''; };
+      const getAttr = (sel, attr) => { const el = item.querySelector(sel); return el ? el.getAttribute(attr) : ''; };
+      const link = isAtom
+        ? (getAttr('link[rel="alternate"]','href') || getAttr('link','href') || get('id'))
+        : (get('link') || get('guid'));
+      const dateStr = isAtom ? get('updated') || get('published') : get('pubDate');
+      return {
+        title:   get('title') || '(sans titre)',
+        link:    link || '#',
+        pubDate: dateStr ? new Date(dateStr) : null,
+        content: get('description') + ' ' + get('content') + ' ' + get('summary')
+      };
+    });
+  } catch(e) { return null; }
+}
+
+// ── Fetch RSS via proxy en cascade ────────────────────────────────────
+async function fetchViaProxy(feedUrl) {
+  // Si on a déjà un proxy qui marche, l'essayer en premier
+  const ordered = workingProxy
+    ? [PROXIES.find(p => p.name === workingProxy), ...PROXIES.filter(p => p.name !== workingProxy)]
+    : PROXIES;
+
+  for (const proxy of ordered) {
+    try {
+      const resp = await fetch(proxy.buildUrl(feedUrl), { signal: AbortSignal.timeout(8000) });
+      if (!resp.ok) continue;
+      const items = await proxy.parse(resp);
+      if (items && items.length > 0) {
+        if (workingProxy !== proxy.name) {
+          workingProxy = proxy.name;
+          showProxyBanner(`Proxy actif : ${proxy.name}`);
+        }
+        return items;
+      }
+    } catch(e) { /* essayer le suivant */ }
+  }
+  return [];
+}
+
+function showProxyBanner(msg) {
+  const b = document.getElementById('proxy-banner');
+  b.textContent = msg;
+  b.style.display = 'block';
+}
+
+// ── Fetch d'un flux complet ───────────────────────────────────────────
+function extractDoi(text) {
+  const m = text.match(/10\.\d{4,}\/[^\s"'<>&]+/);
+  return m ? m[0].replace(/[.,;)>\]]+$/, '') : null;
+}
+
+async function fetchFeed(feed) {
+  const items = await fetchViaProxy(feed.url);
+  return items.map(item => ({
+    title:   item.title,
+    link:    item.link,
+    pubDate: item.pubDate,
+    source:  feed.name,
+    doi:     extractDoi(item.link + ' ' + item.content),
+    altmetric: null,
+    hits: []
+  }));
+}
+
+// ── Altmetric ─────────────────────────────────────────────────────────
+async function fetchAltmetric(doi) {
+  try {
+    const r = await fetch('https://api.altmetric.com/v1/doi/' + encodeURIComponent(doi),
+      { signal: AbortSignal.timeout(6000) });
+    if (!r.ok) return null;
+    return await r.json();
+  } catch(e) { return null; }
+}
+
+function parseHits(data) {
+  if (!data) return [];
+  const hits = [];
+  if (data.news_stories && data.news_stories.length > 0)
+    data.news_stories.slice(0,6).forEach(s => hits.push({type:'news', name: s.outlet||s.title||'Presse'}));
+  else if (data.cited_by_msm_count > 0)
+    hits.push({type:'news', name: data.cited_by_msm_count + ' article(s) presse'});
+  if (data.cited_by_blog_count     > 0) hits.push({type:'blog',    name: data.cited_by_blog_count + ' blog(s)'});
+  if (data.cited_by_tweeters_count > 0) hits.push({type:'twitter', name: data.cited_by_tweeters_count + ' tweet(s)'});
+  return hits;
+}
+
+// ── State ─────────────────────────────────────────────────────────────
+let sources       = loadSources();
+let fluxArticles  = [];
+let mediaArticles = [];
+let fluxFilter    = 'all';
+let fluxDate      = 'all';
+let mediaDate     = 'all';
+
+function loadSources() {
+  try { const s = localStorage.getItem('veille_sources'); return s ? JSON.parse(s) : JSON.parse(JSON.stringify(DEFAULT_SOURCES)); }
+  catch(e) { return JSON.parse(JSON.stringify(DEFAULT_SOURCES)); }
+}
+function saveSources() {
+  try { localStorage.setItem('veille_sources', JSON.stringify(sources)); } catch(e) {}
+}
+
+// ── Tabs ──────────────────────────────────────────────────────────────
+function showTab(t) {
+  ['flux','media','doi','sources'].forEach(id => {
+    document.getElementById('pane-'+id).style.display = id===t ? '' : 'none';
+    document.getElementById('tab-'+id).classList.toggle('active', id===t);
+  });
+  if (t==='sources') renderSourcesManager();
+}
+
+// ── Filtres ───────────────────────────────────────────────────────────
+function setFluxFilter(val, btn) {
+  fluxFilter = val;
+  ['ff-all','ff-covered','ff-uncovered'].forEach(id => document.getElementById(id).classList.remove('active'));
+  btn.classList.add('active');
+  renderFlux();
+}
+function setFluxDate(val, btn) {
+  fluxDate = val;
+  ['fd-all','fd-today','fd-7','fd-30'].forEach(id => document.getElementById(id).classList.remove('active'));
+  btn.classList.add('active');
+  renderFlux();
+}
+function setMediaDate(val, btn) {
+  mediaDate = val;
+  ['md-all','md-today','md-7','md-30'].forEach(id => document.getElementById(id).classList.remove('active'));
+  btn.classList.add('active');
+  renderMedia();
+}
+function dateOk(d, filter) {
+  if (filter==='all' || !d) return true;
+  const days = (new Date() - d) / 86400000;
+  if (filter==='today') return days < 1;
+  if (filter==='7')     return days < 7;
+  if (filter==='30')    return days < 30;
+  return true;
+}
+
+function setStatus(pane, msg, loading) {
+  document.getElementById('status-'+pane).innerHTML = loading
+    ? '<span class="spinner"></span>' + msg : msg;
+}
+
+// ── Chargement Revues ─────────────────────────────────────────────────
+async function loadFlux() {
+  setStatus('flux','Recherche d\'un proxy RSS fonctionnel…',true);
+  document.getElementById('list-flux').innerHTML = '';
+  document.getElementById('stats-flux').style.display = 'none';
+  fluxArticles = [];
+
+  for (let i = 0; i < sources.journal.length; i++) {
+    setStatus('flux', 'Chargement ' + (i+1) + '/' + sources.journal.length + ' : ' + sources.journal[i].name + '…', true);
+    const items = await fetchFeed(sources.journal[i]);
+    fluxArticles.push(...items);
+  }
+
+  if (!fluxArticles.length) {
+    setStatus('flux', '⚠ Aucun article récupéré. Tous les proxies ont échoué. Vérifiez votre connexion.', false);
+    return;
+  }
+
+  setStatus('flux', fluxArticles.length + ' articles — vérification Altmetric en cours…', true);
+
+  for (let i = 0; i < fluxArticles.length; i++) {
+    const a = fluxArticles[i];
+    if (a.doi) { a.altmetric = await fetchAltmetric(a.doi); a.hits = parseHits(a.altmetric); }
+    if (i % 5 === 0) setStatus('flux', 'Altmetric : ' + (i+1) + ' / ' + fluxArticles.length + '…', true);
+  }
+
+  const covered = fluxArticles.filter(a => a.hits.length > 0).length;
+  document.getElementById('sf-total').textContent   = fluxArticles.length;
+  document.getElementById('sf-covered').textContent = covered;
+  document.getElementById('sf-new').textContent     = fluxArticles.length - covered;
+  document.getElementById('stats-flux').style.display = '';
+  setStatus('flux', '', false);
+  renderFlux();
+}
+
+// ── Chargement Médias ─────────────────────────────────────────────────
+async function loadMedia() {
+  setStatus('media', 'Chargement des flux médias…', true);
+  document.getElementById('list-media').innerHTML = '';
+  document.getElementById('stats-media').style.display = 'none';
+  mediaArticles = [];
+
+  for (let i = 0; i < sources.media.length; i++) {
+    setStatus('media', 'Chargement ' + (i+1) + '/' + sources.media.length + ' : ' + sources.media[i].name + '…', true);
+    const items = await fetchFeed(sources.media[i]);
+    mediaArticles.push(...items);
+  }
+
+  if (!mediaArticles.length) {
+    setStatus('media', '⚠ Aucun article récupéré. Vérifiez votre connexion.', false);
+    return;
+  }
+
+  mediaArticles.sort((a,b) => (b.pubDate||0) - (a.pubDate||0));
+  const today  = mediaArticles.filter(a => a.pubDate && (new Date()-a.pubDate) < 86400000).length;
+  const srcSet = new Set(mediaArticles.map(a => a.source));
+  document.getElementById('sm-total').textContent   = mediaArticles.length;
+  document.getElementById('sm-sources').textContent = srcSet.size;
+  document.getElementById('sm-today').textContent   = today;
+  document.getElementById('stats-media').style.display = '';
+  setStatus('media', '', false);
+  renderMedia();
+}
+
+// ── Rendu ─────────────────────────────────────────────────────────────
+function articleHtml(a, isMedia) {
+  const date  = a.pubDate ? a.pubDate.toLocaleDateString('fr-FR',{day:'numeric',month:'short',year:'numeric'}) : '';
+  const bCls  = isMedia ? 'source-badge media' : 'source-badge';
+  const score = a.altmetric ? '<span class="score">Altmetric ' + Math.round(a.altmetric.score) + '</span> ' : '';
+  const altLk = a.altmetric && a.altmetric.details_url
+    ? ' · <a href="' + a.altmetric.details_url + '" target="_blank" style="color:#8b4513;font-size:0.7rem;">→ Altmetric</a>' : '';
+  const doiTx = a.doi
+    ? ' · <a href="https://doi.org/' + a.doi + '" target="_blank" style="color:#8a7f74;font-family:monospace;font-size:0.7rem;">DOI</a>' : '';
+  let mediaSec = '';
+  if (!isMedia) {
+    const pills = a.hits.length > 0
+      ? a.hits.map(h => '<span class="pill ' + h.type + '">' + h.name + '</span>').join('')
+      : '<span class="no-coverage">Pas encore repris dans les médias indexés</span>';
+    mediaSec = '<div class="media-row">' + score + pills + '</div>';
+  }
+  return '<div class="article"><a class="article-title" href="' + a.link + '" target="_blank">' + a.title + '</a>'
+    + '<div class="article-meta"><span class="' + bCls + '">' + a.source + '</span>' + date + doiTx + altLk + '</div>'
+    + mediaSec + '</div>';
+}
+
+function renderFlux() {
+  let items = fluxArticles.filter(a => dateOk(a.pubDate, fluxDate));
+  if (fluxFilter==='covered')   items = items.filter(a => a.hits.length > 0);
+  if (fluxFilter==='uncovered') items = items.filter(a => a.hits.length === 0);
+  document.getElementById('list-flux').innerHTML = items.length
+    ? items.map(a => articleHtml(a,false)).join('')
+    : '<div class="empty">Aucun article pour ces critères.</div>';
+}
+
+function renderMedia() {
+  const items = mediaArticles.filter(a => dateOk(a.pubDate, mediaDate));
+  document.getElementById('list-media').innerHTML = items.length
+    ? items.map(a => articleHtml(a,true)).join('')
+    : '<div class="empty">Aucun article pour ces critères.</div>';
+}
+
+// ── DOI lookup ────────────────────────────────────────────────────────
+async function lookupDoi() {
+  const raw = document.getElementById('doi-input').value.trim();
+  const doi = raw.replace(/^https?:\/\/doi\.org\//i,'').trim();
+  if (!doi) return;
+  const res = document.getElementById('doi-result');
+  res.innerHTML = '<div style="padding:1rem 0"><span class="spinner"></span><span style="font-size:0.82rem;color:#8a7f74">Interrogation d\'Altmetric…</span></div>';
+  const data = await fetchAltmetric(doi);
+  if (!data) {
+    res.innerHTML = '<div style="padding:1rem 0;font-size:0.85rem;color:#8a7f74">Aucune donnée Altmetric pour ce DOI. L\'article est peut-être trop récent ou peu cité.</div>';
+    return;
+  }
+  const hits  = parseHits(data);
+  const score = Math.round(data.score||0);
+  const pills = hits.length > 0
+    ? hits.map(h => '<span class="pill ' + h.type + '">' + h.name + '</span>').join('')
+    : '<span class="no-coverage">Pas encore repris dans les médias indexés par Altmetric</span>';
+  res.innerHTML = '<div class="article">'
+    + (data.title ? '<div class="article-title" style="cursor:default">' + data.title + '</div>' : '')
+    + '<div class="article-meta" style="font-family:monospace">DOI : ' + doi
+    + (data.details_url ? ' · <a href="' + data.details_url + '" target="_blank" style="color:#8b4513">→ Page Altmetric complète</a>' : '') + '</div>'
+    + '<div class="media-row"><span class="score">Altmetric ' + score + '</span> ' + pills + '</div></div>';
+}
+
+// ── Gestionnaire de sources ───────────────────────────────────────────
+function renderSourcesManager() {
+  ['journal','media'].forEach(type => {
+    const el = document.getElementById('src-list-' + type);
+    if (!sources[type].length) {
+      el.innerHTML = '<div style="font-size:0.8rem;color:#aaa;padding:6px 0">Aucune source.</div>';
+      return;
+    }
+    el.innerHTML = sources[type].map((s,i) =>
+      '<div class="source-row"><span class="src-name">' + s.name + '</span>'
+      + '<span class="src-url">' + s.url + '</span>'
+      + '<button class="del-btn" onclick="removeSource(\'' + type + '\',' + i + ')">Supprimer</button></div>'
+    ).join('');
+  });
+}
+
+function addSource(type) {
+  const name = document.getElementById('add-name-' + type).value.trim();
+  const url  = document.getElementById('add-url-'  + type).value.trim();
+  if (!name || !url) { alert('Nom et URL requis.'); return; }
+  sources[type].push({name, url});
+  saveSources();
+  document.getElementById('add-name-' + type).value = '';
+  document.getElementById('add-url-'  + type).value = '';
+  renderSourcesManager();
+}
+
+function removeSource(type, idx) {
+  if (!confirm('Supprimer "' + sources[type][idx].name + '" ?')) return;
+  sources[type].splice(idx, 1);
+  saveSources();
+  renderSourcesManager();
+}
+</script>
+</body>
+</html>
