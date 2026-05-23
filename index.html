@@ -32,6 +32,39 @@ header span { font-size: 0.8rem; color: #8a7f74; font-family: 'Courier New', mon
 .article:hover { border-color: #b5a898; }
 .article-title { font-size: 0.9rem; font-weight: bold; color: #1e1a16; text-decoration: none; display: block; margin-bottom: 5px; line-height: 1.45; }
 .article-title:hover { color: #8b4513; }
+ 
+/* Titre avec infobulle */
+.title-wrap { position: relative; display: inline; }
+.title-wrap .abstract-tooltip {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  width: 420px;
+  max-width: 90vw;
+  background: #fffff8;
+  border: 1px solid #c5bfb5;
+  border-left: 3px solid #8b4513;
+  border-radius: 6px;
+  padding: 1rem 1.1rem;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: #2a2520;
+  font-family: Georgia, serif;
+  pointer-events: none;
+}
+.title-wrap .abstract-tooltip .tooltip-label {
+  font-size: 0.68rem;
+  font-family: 'Courier New', monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #8b4513;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+.title-wrap:hover .abstract-tooltip { display: block; }
+.has-abstract { border-bottom: 1px dashed #8b4513; cursor: default; }
+ 
 .article-meta { font-size: 0.72rem; color: #8a7f74; margin-bottom: 8px; font-family: 'Courier New', monospace; }
 .source-badge { display: inline-block; font-size: 0.67rem; padding: 1px 7px; border-radius: 3px; background: #e8f0f8; color: #2a4a7f; border: 1px solid #bdd0e8; font-family: 'Courier New', monospace; margin-right: 6px; }
 .source-badge.media { background: #edf5e8; color: #2a5a1a; border-color: #b5d8a0; }
@@ -71,16 +104,14 @@ footer { text-align: center; font-size: 0.7rem; color: #bbb; padding: 1.5rem; fo
   <span>Archéologie · Paléoanthropologie · Anthropologie</span>
 </header>
 <div class="container">
-
   <div id="proxy-banner" class="proxy-info"></div>
-
   <div class="tabs">
     <button class="tab active" onclick="showTab('flux')"    id="tab-flux">Revues scientifiques</button>
     <button class="tab"        onclick="showTab('media')"   id="tab-media">Médias &amp; blogs</button>
     <button class="tab"        onclick="showTab('doi')"     id="tab-doi">Recherche par DOI</button>
     <button class="tab"        onclick="showTab('sources')" id="tab-sources">⚙ Mes sources</button>
   </div>
-
+ 
   <!-- REVUES -->
   <div id="pane-flux">
     <div class="toolbar">
@@ -103,7 +134,7 @@ footer { text-align: center; font-size: 0.7rem; color: #bbb; padding: 1.5rem; fo
     <div class="status-line" id="status-flux"></div>
     <div id="list-flux"><div class="empty">Cliquez sur <strong>↻ Actualiser</strong> pour charger les derniers articles des revues.</div></div>
   </div>
-
+ 
   <!-- MÉDIAS -->
   <div id="pane-media" style="display:none">
     <div class="toolbar">
@@ -122,7 +153,7 @@ footer { text-align: center; font-size: 0.7rem; color: #bbb; padding: 1.5rem; fo
     <div class="status-line" id="status-media"></div>
     <div id="list-media"><div class="empty">Cliquez sur <strong>↻ Actualiser</strong> pour charger les derniers articles des médias.</div></div>
   </div>
-
+ 
   <!-- DOI -->
   <div id="pane-doi" style="display:none">
     <p class="doi-intro">Entrez le DOI d'un article pour consulter ses reprises médiatiques via Altmetric.<br>
@@ -133,7 +164,7 @@ footer { text-align: center; font-size: 0.7rem; color: #bbb; padding: 1.5rem; fo
     </div>
     <div id="doi-result"></div>
   </div>
-
+ 
   <!-- SOURCES -->
   <div id="pane-sources" style="display:none">
     <div class="sources-section">
@@ -158,13 +189,37 @@ footer { text-align: center; font-size: 0.7rem; color: #bbb; padding: 1.5rem; fo
       Les sources sont sauvegardées dans votre navigateur (localStorage).
     </p>
   </div>
-
+ 
   <div class="note">
-    Couverture médiatique via API Altmetric (gratuite, sans clé) · Les articles sans DOI ne peuvent pas être vérifiés via Altmetric.
+    Couverture médiatique via API Altmetric (gratuite, sans clé) · Les articles sans DOI ne peuvent pas être vérifiés via Altmetric.<br>
+    Survolez un titre souligné en pointillés pour lire l'abstract disponible dans le flux RSS.
   </div>
 </div>
 <footer>Usage personnel · généré par Claude</footer>
-
+ 
+<!-- Tooltip global, déplacé par JS -->
+<div id="global-tooltip" style="
+  display:none;
+  position:fixed;
+  z-index:9999;
+  width:440px;
+  max-width:90vw;
+  background:#fffff8;
+  border:1px solid #c5bfb5;
+  border-left:3px solid #8b4513;
+  border-radius:6px;
+  padding:1rem 1.1rem;
+  box-shadow:0 4px 24px rgba(0,0,0,0.18);
+  font-size:0.83rem;
+  line-height:1.65;
+  color:#2a2520;
+  font-family:Georgia,serif;
+  pointer-events:none;
+">
+  <div id="tooltip-label" style="font-size:0.68rem;font-family:'Courier New',monospace;text-transform:uppercase;letter-spacing:0.08em;color:#8b4513;margin-bottom:0.5rem;font-weight:bold;">Abstract</div>
+  <div id="tooltip-body"></div>
+</div>
+ 
 <script>
 // ── Sources par défaut ────────────────────────────────────────────────
 const DEFAULT_SOURCES = {
@@ -186,87 +241,79 @@ const DEFAULT_SOURCES = {
     { name: "Popular Archaeology",      url: "https://popular-archaeology.com/section/archaeology-news-daily/feed/" }
   ]
 };
-
-// ── Proxies CORS à essayer en cascade ────────────────────────────────
-// Chaque proxy a une fonction qui construit l'URL et une fonction qui extrait le XML
+ 
 const PROXIES = [
   {
     name: "rss2json.com",
-    buildUrl: (feedUrl) => `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}&count=100`,
-    parse: async (resp) => {
-      const d = await resp.json();
+    buildUrl: (u) => `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(u)}&count=100`,
+    parse: async (r) => {
+      const d = await r.json();
       if (d.status !== 'ok' || !d.items) return null;
       return d.items.map(item => ({
         title:   item.title || '(sans titre)',
         link:    item.link  || '#',
         pubDate: item.pubDate ? new Date(item.pubDate) : null,
-        content: (item.content || '') + ' ' + (item.description || '')
+        abstract: cleanAbstract(item.description || item.content || '')
       }));
     }
   },
   {
     name: "allorigins.win",
-    buildUrl: (feedUrl) => `https://api.allorigins.win/get?url=${encodeURIComponent(feedUrl)}`,
-    parse: async (resp) => {
-      const d = await resp.json();
-      if (!d.contents) return null;
-      return parseXmlFeed(d.contents);
-    }
+    buildUrl: (u) => `https://api.allorigins.win/get?url=${encodeURIComponent(u)}`,
+    parse: async (r) => { const d = await r.json(); return d.contents ? parseXml(d.contents) : null; }
   },
   {
     name: "corsproxy.io",
-    buildUrl: (feedUrl) => `https://corsproxy.io/?${encodeURIComponent(feedUrl)}`,
-    parse: async (resp) => {
-      const xml = await resp.text();
-      return parseXmlFeed(xml);
-    }
+    buildUrl: (u) => `https://corsproxy.io/?${encodeURIComponent(u)}`,
+    parse: async (r) => parseXml(await r.text())
   },
   {
     name: "thingproxy.freeboard.io",
-    buildUrl: (feedUrl) => `https://thingproxy.freeboard.io/fetch/${feedUrl}`,
-    parse: async (resp) => {
-      const xml = await resp.text();
-      return parseXmlFeed(xml);
-    }
+    buildUrl: (u) => `https://thingproxy.freeboard.io/fetch/${u}`,
+    parse: async (r) => parseXml(await r.text())
   }
 ];
-
-let workingProxy = null; // mémorise le premier proxy qui marche
-
-// ── Parser XML RSS/Atom maison ────────────────────────────────────────
-function parseXmlFeed(xmlStr) {
+ 
+// ── Nettoyage abstract ────────────────────────────────────────────────
+function cleanAbstract(raw) {
+  if (!raw) return '';
+  // Supprimer les balises HTML
+  const txt = raw.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+  // Ignorer si trop court ou si c'est juste une URL
+  if (txt.length < 40 || txt.startsWith('http')) return '';
+  return txt.length > 800 ? txt.slice(0, 800) + '…' : txt;
+}
+ 
+function parseXml(xmlStr) {
   try {
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(xmlStr, 'text/xml');
-    const isAtom = doc.querySelector('feed') !== null;
-    const items = isAtom
-      ? Array.from(doc.querySelectorAll('entry'))
-      : Array.from(doc.querySelectorAll('item'));
+    const doc = new DOMParser().parseFromString(xmlStr, 'text/xml');
+    const isAtom = !!doc.querySelector('feed');
+    const items  = Array.from(doc.querySelectorAll(isAtom ? 'entry' : 'item'));
     if (!items.length) return null;
     return items.map(item => {
-      const get = (sel) => { const el = item.querySelector(sel); return el ? el.textContent.trim() : ''; };
-      const getAttr = (sel, attr) => { const el = item.querySelector(sel); return el ? el.getAttribute(attr) : ''; };
+      const get  = sel => { const el = item.querySelector(sel); return el ? el.textContent.trim() : ''; };
+      const getA = (sel,a) => { const el = item.querySelector(sel); return el ? el.getAttribute(a) : ''; };
       const link = isAtom
-        ? (getAttr('link[rel="alternate"]','href') || getAttr('link','href') || get('id'))
+        ? (getA('link[rel="alternate"]','href') || getA('link','href') || get('id'))
         : (get('link') || get('guid'));
       const dateStr = isAtom ? get('updated') || get('published') : get('pubDate');
+      const rawDesc = get('description') || get('summary') || get('content');
       return {
-        title:   get('title') || '(sans titre)',
-        link:    link || '#',
-        pubDate: dateStr ? new Date(dateStr) : null,
-        content: get('description') + ' ' + get('content') + ' ' + get('summary')
+        title:    get('title') || '(sans titre)',
+        link:     link || '#',
+        pubDate:  dateStr ? new Date(dateStr) : null,
+        abstract: cleanAbstract(rawDesc)
       };
     });
   } catch(e) { return null; }
 }
-
-// ── Fetch RSS via proxy en cascade ────────────────────────────────────
+ 
+let workingProxy = null;
+ 
 async function fetchViaProxy(feedUrl) {
-  // Si on a déjà un proxy qui marche, l'essayer en premier
   const ordered = workingProxy
     ? [PROXIES.find(p => p.name === workingProxy), ...PROXIES.filter(p => p.name !== workingProxy)]
     : PROXIES;
-
   for (const proxy of ordered) {
     try {
       const resp = await fetch(proxy.buildUrl(feedUrl), { signal: AbortSignal.timeout(8000) });
@@ -275,41 +322,36 @@ async function fetchViaProxy(feedUrl) {
       if (items && items.length > 0) {
         if (workingProxy !== proxy.name) {
           workingProxy = proxy.name;
-          showProxyBanner(`Proxy actif : ${proxy.name}`);
+          const b = document.getElementById('proxy-banner');
+          b.textContent = 'Proxy actif : ' + proxy.name;
+          b.style.display = 'block';
         }
         return items;
       }
-    } catch(e) { /* essayer le suivant */ }
+    } catch(e) {}
   }
   return [];
 }
-
-function showProxyBanner(msg) {
-  const b = document.getElementById('proxy-banner');
-  b.textContent = msg;
-  b.style.display = 'block';
-}
-
-// ── Fetch d'un flux complet ───────────────────────────────────────────
+ 
 function extractDoi(text) {
   const m = text.match(/10\.\d{4,}\/[^\s"'<>&]+/);
   return m ? m[0].replace(/[.,;)>\]]+$/, '') : null;
 }
-
+ 
 async function fetchFeed(feed) {
   const items = await fetchViaProxy(feed.url);
   return items.map(item => ({
-    title:   item.title,
-    link:    item.link,
-    pubDate: item.pubDate,
-    source:  feed.name,
-    doi:     extractDoi(item.link + ' ' + item.content),
+    title:    item.title,
+    link:     item.link,
+    pubDate:  item.pubDate,
+    source:   feed.name,
+    abstract: item.abstract || '',
+    doi:      extractDoi(item.link + ' ' + item.abstract),
     altmetric: null,
     hits: []
   }));
 }
-
-// ── Altmetric ─────────────────────────────────────────────────────────
+ 
 async function fetchAltmetric(doi) {
   try {
     const r = await fetch('https://api.altmetric.com/v1/doi/' + encodeURIComponent(doi),
@@ -318,7 +360,7 @@ async function fetchAltmetric(doi) {
     return await r.json();
   } catch(e) { return null; }
 }
-
+ 
 function parseHits(data) {
   if (!data) return [];
   const hits = [];
@@ -330,7 +372,37 @@ function parseHits(data) {
   if (data.cited_by_tweeters_count > 0) hits.push({type:'twitter', name: data.cited_by_tweeters_count + ' tweet(s)'});
   return hits;
 }
-
+ 
+// ── Tooltip ───────────────────────────────────────────────────────────
+const tooltip   = document.getElementById('global-tooltip');
+const tipBody   = document.getElementById('tooltip-body');
+const MARGIN    = 16;
+ 
+function showTooltip(e, text) {
+  tipBody.textContent = text;
+  tooltip.style.display = 'block';
+  positionTooltip(e);
+}
+ 
+function positionTooltip(e) {
+  const tw = tooltip.offsetWidth;
+  const th = tooltip.offsetHeight;
+  const vw = window.innerWidth;
+  const vh = window.innerHeight;
+  let x = e.clientX + MARGIN;
+  let y = e.clientY + MARGIN;
+  if (x + tw > vw - 8) x = e.clientX - tw - MARGIN;
+  if (y + th > vh - 8) y = e.clientY - th - MARGIN;
+  tooltip.style.left = Math.max(8, x) + 'px';
+  tooltip.style.top  = Math.max(8, y) + 'px';
+}
+ 
+function hideTooltip() { tooltip.style.display = 'none'; }
+ 
+document.addEventListener('mousemove', e => {
+  if (tooltip.style.display === 'block') positionTooltip(e);
+});
+ 
 // ── State ─────────────────────────────────────────────────────────────
 let sources       = loadSources();
 let fluxArticles  = [];
@@ -338,7 +410,7 @@ let mediaArticles = [];
 let fluxFilter    = 'all';
 let fluxDate      = 'all';
 let mediaDate     = 'all';
-
+ 
 function loadSources() {
   try { const s = localStorage.getItem('veille_sources'); return s ? JSON.parse(s) : JSON.parse(JSON.stringify(DEFAULT_SOURCES)); }
   catch(e) { return JSON.parse(JSON.stringify(DEFAULT_SOURCES)); }
@@ -346,8 +418,7 @@ function loadSources() {
 function saveSources() {
   try { localStorage.setItem('veille_sources', JSON.stringify(sources)); } catch(e) {}
 }
-
-// ── Tabs ──────────────────────────────────────────────────────────────
+ 
 function showTab(t) {
   ['flux','media','doi','sources'].forEach(id => {
     document.getElementById('pane-'+id).style.display = id===t ? '' : 'none';
@@ -355,25 +426,21 @@ function showTab(t) {
   });
   if (t==='sources') renderSourcesManager();
 }
-
-// ── Filtres ───────────────────────────────────────────────────────────
+ 
 function setFluxFilter(val, btn) {
   fluxFilter = val;
   ['ff-all','ff-covered','ff-uncovered'].forEach(id => document.getElementById(id).classList.remove('active'));
-  btn.classList.add('active');
-  renderFlux();
+  btn.classList.add('active'); renderFlux();
 }
 function setFluxDate(val, btn) {
   fluxDate = val;
   ['fd-all','fd-today','fd-7','fd-30'].forEach(id => document.getElementById(id).classList.remove('active'));
-  btn.classList.add('active');
-  renderFlux();
+  btn.classList.add('active'); renderFlux();
 }
 function setMediaDate(val, btn) {
   mediaDate = val;
   ['md-all','md-today','md-7','md-30'].forEach(id => document.getElementById(id).classList.remove('active'));
-  btn.classList.add('active');
-  renderMedia();
+  btn.classList.add('active'); renderMedia();
 }
 function dateOk(d, filter) {
   if (filter==='all' || !d) return true;
@@ -383,114 +450,110 @@ function dateOk(d, filter) {
   if (filter==='30')    return days < 30;
   return true;
 }
-
 function setStatus(pane, msg, loading) {
   document.getElementById('status-'+pane).innerHTML = loading
     ? '<span class="spinner"></span>' + msg : msg;
 }
-
-// ── Chargement Revues ─────────────────────────────────────────────────
+ 
 async function loadFlux() {
   setStatus('flux','Recherche d\'un proxy RSS fonctionnel…',true);
   document.getElementById('list-flux').innerHTML = '';
   document.getElementById('stats-flux').style.display = 'none';
   fluxArticles = [];
-
-  for (let i = 0; i < sources.journal.length; i++) {
-    setStatus('flux', 'Chargement ' + (i+1) + '/' + sources.journal.length + ' : ' + sources.journal[i].name + '…', true);
-    const items = await fetchFeed(sources.journal[i]);
-    fluxArticles.push(...items);
+  for (let i=0; i<sources.journal.length; i++) {
+    setStatus('flux','Chargement '+(i+1)+'/'+sources.journal.length+' : '+sources.journal[i].name+'…',true);
+    fluxArticles.push(...await fetchFeed(sources.journal[i]));
   }
-
-  if (!fluxArticles.length) {
-    setStatus('flux', '⚠ Aucun article récupéré. Tous les proxies ont échoué. Vérifiez votre connexion.', false);
-    return;
-  }
-
-  setStatus('flux', fluxArticles.length + ' articles — vérification Altmetric en cours…', true);
-
-  for (let i = 0; i < fluxArticles.length; i++) {
+  if (!fluxArticles.length) { setStatus('flux','⚠ Aucun article récupéré. Tous les proxies ont échoué.',false); return; }
+  setStatus('flux',fluxArticles.length+' articles — vérification Altmetric…',true);
+  for (let i=0; i<fluxArticles.length; i++) {
     const a = fluxArticles[i];
     if (a.doi) { a.altmetric = await fetchAltmetric(a.doi); a.hits = parseHits(a.altmetric); }
-    if (i % 5 === 0) setStatus('flux', 'Altmetric : ' + (i+1) + ' / ' + fluxArticles.length + '…', true);
+    if (i%5===0) setStatus('flux','Altmetric : '+(i+1)+' / '+fluxArticles.length+'…',true);
   }
-
-  const covered = fluxArticles.filter(a => a.hits.length > 0).length;
+  const covered = fluxArticles.filter(a=>a.hits.length>0).length;
   document.getElementById('sf-total').textContent   = fluxArticles.length;
   document.getElementById('sf-covered').textContent = covered;
   document.getElementById('sf-new').textContent     = fluxArticles.length - covered;
   document.getElementById('stats-flux').style.display = '';
-  setStatus('flux', '', false);
-  renderFlux();
+  setStatus('flux','',false); renderFlux();
 }
-
-// ── Chargement Médias ─────────────────────────────────────────────────
+ 
 async function loadMedia() {
-  setStatus('media', 'Chargement des flux médias…', true);
+  setStatus('media','Chargement des flux médias…',true);
   document.getElementById('list-media').innerHTML = '';
   document.getElementById('stats-media').style.display = 'none';
   mediaArticles = [];
-
-  for (let i = 0; i < sources.media.length; i++) {
-    setStatus('media', 'Chargement ' + (i+1) + '/' + sources.media.length + ' : ' + sources.media[i].name + '…', true);
-    const items = await fetchFeed(sources.media[i]);
-    mediaArticles.push(...items);
+  for (let i=0; i<sources.media.length; i++) {
+    setStatus('media','Chargement '+(i+1)+'/'+sources.media.length+' : '+sources.media[i].name+'…',true);
+    mediaArticles.push(...await fetchFeed(sources.media[i]));
   }
-
-  if (!mediaArticles.length) {
-    setStatus('media', '⚠ Aucun article récupéré. Vérifiez votre connexion.', false);
-    return;
-  }
-
-  mediaArticles.sort((a,b) => (b.pubDate||0) - (a.pubDate||0));
-  const today  = mediaArticles.filter(a => a.pubDate && (new Date()-a.pubDate) < 86400000).length;
-  const srcSet = new Set(mediaArticles.map(a => a.source));
+  if (!mediaArticles.length) { setStatus('media','⚠ Aucun article récupéré.',false); return; }
+  mediaArticles.sort((a,b)=>(b.pubDate||0)-(a.pubDate||0));
+  const today  = mediaArticles.filter(a=>a.pubDate&&(new Date()-a.pubDate)<86400000).length;
+  const srcSet = new Set(mediaArticles.map(a=>a.source));
   document.getElementById('sm-total').textContent   = mediaArticles.length;
   document.getElementById('sm-sources').textContent = srcSet.size;
   document.getElementById('sm-today').textContent   = today;
   document.getElementById('stats-media').style.display = '';
-  setStatus('media', '', false);
-  renderMedia();
+  setStatus('media','',false); renderMedia();
 }
-
-// ── Rendu ─────────────────────────────────────────────────────────────
+ 
+// ── Rendu HTML d'un article ───────────────────────────────────────────
+let articleCounter = 0;
+ 
 function articleHtml(a, isMedia) {
   const date  = a.pubDate ? a.pubDate.toLocaleDateString('fr-FR',{day:'numeric',month:'short',year:'numeric'}) : '';
   const bCls  = isMedia ? 'source-badge media' : 'source-badge';
-  const score = a.altmetric ? '<span class="score">Altmetric ' + Math.round(a.altmetric.score) + '</span> ' : '';
+  const score = a.altmetric ? '<span class="score">Altmetric '+Math.round(a.altmetric.score)+'</span> ' : '';
   const altLk = a.altmetric && a.altmetric.details_url
-    ? ' · <a href="' + a.altmetric.details_url + '" target="_blank" style="color:#8b4513;font-size:0.7rem;">→ Altmetric</a>' : '';
+    ? ' · <a href="'+a.altmetric.details_url+'" target="_blank" style="color:#8b4513;font-size:0.7rem;">→ Altmetric</a>' : '';
   const doiTx = a.doi
-    ? ' · <a href="https://doi.org/' + a.doi + '" target="_blank" style="color:#8a7f74;font-family:monospace;font-size:0.7rem;">DOI</a>' : '';
+    ? ' · <a href="https://doi.org/'+a.doi+'" target="_blank" style="color:#8a7f74;font-family:monospace;font-size:0.7rem;">DOI</a>' : '';
+ 
+  // Titre : lien cliquable + soulignement pointillé si abstract disponible
+  let titleHtml;
+  if (a.abstract) {
+    const id = 'art-' + (articleCounter++);
+    titleHtml = `<span class="has-abstract" id="${id}"
+      onmouseenter="showTooltip(event, document.getElementById('${id}').dataset.abstract)"
+      onmouseleave="hideTooltip()"
+      data-abstract="${a.abstract.replace(/"/g,'&quot;')}"
+    ><a class="article-title" href="${a.link}" target="_blank">${a.title}</a></span>`;
+  } else {
+    titleHtml = `<a class="article-title" href="${a.link}" target="_blank">${a.title}</a>`;
+  }
+ 
   let mediaSec = '';
   if (!isMedia) {
     const pills = a.hits.length > 0
-      ? a.hits.map(h => '<span class="pill ' + h.type + '">' + h.name + '</span>').join('')
+      ? a.hits.map(h=>'<span class="pill '+h.type+'">'+h.name+'</span>').join('')
       : '<span class="no-coverage">Pas encore repris dans les médias indexés</span>';
-    mediaSec = '<div class="media-row">' + score + pills + '</div>';
+    mediaSec = '<div class="media-row">'+score+pills+'</div>';
   }
-  return '<div class="article"><a class="article-title" href="' + a.link + '" target="_blank">' + a.title + '</a>'
-    + '<div class="article-meta"><span class="' + bCls + '">' + a.source + '</span>' + date + doiTx + altLk + '</div>'
-    + mediaSec + '</div>';
+ 
+  return '<div class="article">'+titleHtml
+    +'<div class="article-meta"><span class="'+bCls+'">'+a.source+'</span>'+date+doiTx+altLk+'</div>'
+    +mediaSec+'</div>';
 }
-
+ 
 function renderFlux() {
-  let items = fluxArticles.filter(a => dateOk(a.pubDate, fluxDate));
-  if (fluxFilter==='covered')   items = items.filter(a => a.hits.length > 0);
-  if (fluxFilter==='uncovered') items = items.filter(a => a.hits.length === 0);
+  articleCounter = 0;
+  let items = fluxArticles.filter(a=>dateOk(a.pubDate,fluxDate));
+  if (fluxFilter==='covered')   items = items.filter(a=>a.hits.length>0);
+  if (fluxFilter==='uncovered') items = items.filter(a=>a.hits.length===0);
   document.getElementById('list-flux').innerHTML = items.length
-    ? items.map(a => articleHtml(a,false)).join('')
+    ? items.map(a=>articleHtml(a,false)).join('')
     : '<div class="empty">Aucun article pour ces critères.</div>';
 }
-
+ 
 function renderMedia() {
-  const items = mediaArticles.filter(a => dateOk(a.pubDate, mediaDate));
+  const items = mediaArticles.filter(a=>dateOk(a.pubDate,mediaDate));
   document.getElementById('list-media').innerHTML = items.length
-    ? items.map(a => articleHtml(a,true)).join('')
+    ? items.map(a=>articleHtml(a,true)).join('')
     : '<div class="empty">Aucun article pour ces critères.</div>';
 }
-
-// ── DOI lookup ────────────────────────────────────────────────────────
+ 
 async function lookupDoi() {
   const raw = document.getElementById('doi-input').value.trim();
   const doi = raw.replace(/^https?:\/\/doi\.org\//i,'').trim();
@@ -498,54 +561,44 @@ async function lookupDoi() {
   const res = document.getElementById('doi-result');
   res.innerHTML = '<div style="padding:1rem 0"><span class="spinner"></span><span style="font-size:0.82rem;color:#8a7f74">Interrogation d\'Altmetric…</span></div>';
   const data = await fetchAltmetric(doi);
-  if (!data) {
-    res.innerHTML = '<div style="padding:1rem 0;font-size:0.85rem;color:#8a7f74">Aucune donnée Altmetric pour ce DOI. L\'article est peut-être trop récent ou peu cité.</div>';
-    return;
-  }
+  if (!data) { res.innerHTML = '<div style="padding:1rem 0;font-size:0.85rem;color:#8a7f74">Aucune donnée Altmetric pour ce DOI.</div>'; return; }
   const hits  = parseHits(data);
   const score = Math.round(data.score||0);
   const pills = hits.length > 0
-    ? hits.map(h => '<span class="pill ' + h.type + '">' + h.name + '</span>').join('')
+    ? hits.map(h=>'<span class="pill '+h.type+'">'+h.name+'</span>').join('')
     : '<span class="no-coverage">Pas encore repris dans les médias indexés par Altmetric</span>';
   res.innerHTML = '<div class="article">'
-    + (data.title ? '<div class="article-title" style="cursor:default">' + data.title + '</div>' : '')
-    + '<div class="article-meta" style="font-family:monospace">DOI : ' + doi
-    + (data.details_url ? ' · <a href="' + data.details_url + '" target="_blank" style="color:#8b4513">→ Page Altmetric complète</a>' : '') + '</div>'
-    + '<div class="media-row"><span class="score">Altmetric ' + score + '</span> ' + pills + '</div></div>';
+    +(data.title?'<div class="article-title" style="cursor:default">'+data.title+'</div>':'')
+    +'<div class="article-meta" style="font-family:monospace">DOI : '+doi
+    +(data.details_url?' · <a href="'+data.details_url+'" target="_blank" style="color:#8b4513">→ Page Altmetric complète</a>':'')+'</div>'
+    +'<div class="media-row"><span class="score">Altmetric '+score+'</span> '+pills+'</div></div>';
 }
-
-// ── Gestionnaire de sources ───────────────────────────────────────────
+ 
 function renderSourcesManager() {
   ['journal','media'].forEach(type => {
-    const el = document.getElementById('src-list-' + type);
-    if (!sources[type].length) {
-      el.innerHTML = '<div style="font-size:0.8rem;color:#aaa;padding:6px 0">Aucune source.</div>';
-      return;
-    }
+    const el = document.getElementById('src-list-'+type);
+    if (!sources[type].length) { el.innerHTML = '<div style="font-size:0.8rem;color:#aaa;padding:6px 0">Aucune source.</div>'; return; }
     el.innerHTML = sources[type].map((s,i) =>
-      '<div class="source-row"><span class="src-name">' + s.name + '</span>'
-      + '<span class="src-url">' + s.url + '</span>'
-      + '<button class="del-btn" onclick="removeSource(\'' + type + '\',' + i + ')">Supprimer</button></div>'
+      '<div class="source-row"><span class="src-name">'+s.name+'</span>'
+      +'<span class="src-url">'+s.url+'</span>'
+      +'<button class="del-btn" onclick="removeSource(\''+type+'\','+i+')">Supprimer</button></div>'
     ).join('');
   });
 }
-
+ 
 function addSource(type) {
-  const name = document.getElementById('add-name-' + type).value.trim();
-  const url  = document.getElementById('add-url-'  + type).value.trim();
-  if (!name || !url) { alert('Nom et URL requis.'); return; }
-  sources[type].push({name, url});
-  saveSources();
-  document.getElementById('add-name-' + type).value = '';
-  document.getElementById('add-url-'  + type).value = '';
+  const name = document.getElementById('add-name-'+type).value.trim();
+  const url  = document.getElementById('add-url-'+type).value.trim();
+  if (!name||!url) { alert('Nom et URL requis.'); return; }
+  sources[type].push({name,url}); saveSources();
+  document.getElementById('add-name-'+type).value = '';
+  document.getElementById('add-url-'+type).value  = '';
   renderSourcesManager();
 }
-
-function removeSource(type, idx) {
-  if (!confirm('Supprimer "' + sources[type][idx].name + '" ?')) return;
-  sources[type].splice(idx, 1);
-  saveSources();
-  renderSourcesManager();
+ 
+function removeSource(type,idx) {
+  if (!confirm('Supprimer "'+sources[type][idx].name+'" ?')) return;
+  sources[type].splice(idx,1); saveSources(); renderSourcesManager();
 }
 </script>
 </body>
