@@ -32,7 +32,7 @@ header span { font-size: 0.8rem; color: #8a7f74; font-family: 'Courier New', mon
 .article:hover { border-color: #b5a898; }
 .article-title { font-size: 0.9rem; font-weight: bold; color: #1e1a16; text-decoration: none; display: block; margin-bottom: 5px; line-height: 1.45; }
 .article-title:hover { color: #8b4513; }
- 
+
 /* Titre avec infobulle */
 .title-wrap { position: relative; display: inline; }
 .title-wrap .abstract-tooltip {
@@ -64,7 +64,7 @@ header span { font-size: 0.8rem; color: #8a7f74; font-family: 'Courier New', mon
 }
 .title-wrap:hover .abstract-tooltip { display: block; }
 .has-abstract { border-bottom: 1px dashed #8b4513; cursor: default; }
- 
+
 .article-meta { font-size: 0.72rem; color: #8a7f74; margin-bottom: 8px; font-family: 'Courier New', monospace; }
 .source-badge { display: inline-block; font-size: 0.67rem; padding: 1px 7px; border-radius: 3px; background: #e8f0f8; color: #2a4a7f; border: 1px solid #bdd0e8; font-family: 'Courier New', monospace; margin-right: 6px; }
 .source-badge.media { background: #edf5e8; color: #2a5a1a; border-color: #b5d8a0; }
@@ -111,7 +111,7 @@ footer { text-align: center; font-size: 0.7rem; color: #bbb; padding: 1.5rem; fo
     <button class="tab"        onclick="showTab('doi')"     id="tab-doi">Recherche par DOI</button>
     <button class="tab"        onclick="showTab('sources')" id="tab-sources">⚙ Mes sources</button>
   </div>
- 
+
   <!-- REVUES -->
   <div id="pane-flux">
     <div class="toolbar">
@@ -134,7 +134,7 @@ footer { text-align: center; font-size: 0.7rem; color: #bbb; padding: 1.5rem; fo
     <div class="status-line" id="status-flux"></div>
     <div id="list-flux"><div class="empty">Cliquez sur <strong>↻ Actualiser</strong> pour charger les derniers articles des revues.</div></div>
   </div>
- 
+
   <!-- MÉDIAS -->
   <div id="pane-media" style="display:none">
     <div class="toolbar">
@@ -153,7 +153,7 @@ footer { text-align: center; font-size: 0.7rem; color: #bbb; padding: 1.5rem; fo
     <div class="status-line" id="status-media"></div>
     <div id="list-media"><div class="empty">Cliquez sur <strong>↻ Actualiser</strong> pour charger les derniers articles des médias.</div></div>
   </div>
- 
+
   <!-- DOI -->
   <div id="pane-doi" style="display:none">
     <p class="doi-intro">Entrez le DOI d'un article pour consulter ses reprises médiatiques via Altmetric.<br>
@@ -164,7 +164,7 @@ footer { text-align: center; font-size: 0.7rem; color: #bbb; padding: 1.5rem; fo
     </div>
     <div id="doi-result"></div>
   </div>
- 
+
   <!-- SOURCES -->
   <div id="pane-sources" style="display:none">
     <div class="sources-section">
@@ -189,14 +189,14 @@ footer { text-align: center; font-size: 0.7rem; color: #bbb; padding: 1.5rem; fo
       Les sources sont sauvegardées dans votre navigateur (localStorage).
     </p>
   </div>
- 
+
   <div class="note">
     Couverture médiatique via API Altmetric (gratuite, sans clé) · Les articles sans DOI ne peuvent pas être vérifiés via Altmetric.<br>
     Survolez un titre souligné en pointillés pour lire l'abstract disponible dans le flux RSS.
   </div>
 </div>
 <footer>Usage personnel · généré par Claude</footer>
- 
+
 <!-- Tooltip global, déplacé par JS -->
 <div id="global-tooltip" style="
   display:none;
@@ -219,7 +219,7 @@ footer { text-align: center; font-size: 0.7rem; color: #bbb; padding: 1.5rem; fo
   <div id="tooltip-label" style="font-size:0.68rem;font-family:'Courier New',monospace;text-transform:uppercase;letter-spacing:0.08em;color:#8b4513;margin-bottom:0.5rem;font-weight:bold;">Abstract</div>
   <div id="tooltip-body"></div>
 </div>
- 
+
 <script>
 // ── Sources par défaut ────────────────────────────────────────────────
 const DEFAULT_SOURCES = {
@@ -241,7 +241,7 @@ const DEFAULT_SOURCES = {
     { name: "Popular Archaeology",      url: "https://popular-archaeology.com/section/archaeology-news-daily/feed/" }
   ]
 };
- 
+
 const PROXIES = [
   {
     name: "rss2json.com",
@@ -273,7 +273,7 @@ const PROXIES = [
     parse: async (r) => parseXml(await r.text())
   }
 ];
- 
+
 // ── Nettoyage abstract ────────────────────────────────────────────────
 function cleanAbstract(raw) {
   if (!raw) return '';
@@ -283,7 +283,7 @@ function cleanAbstract(raw) {
   if (txt.length < 40 || txt.startsWith('http')) return '';
   return txt.length > 800 ? txt.slice(0, 800) + '…' : txt;
 }
- 
+
 function parseXml(xmlStr) {
   try {
     const doc = new DOMParser().parseFromString(xmlStr, 'text/xml');
@@ -307,9 +307,9 @@ function parseXml(xmlStr) {
     });
   } catch(e) { return null; }
 }
- 
+
 let workingProxy = null;
- 
+
 async function fetchViaProxy(feedUrl) {
   const ordered = workingProxy
     ? [PROXIES.find(p => p.name === workingProxy), ...PROXIES.filter(p => p.name !== workingProxy)]
@@ -332,12 +332,12 @@ async function fetchViaProxy(feedUrl) {
   }
   return [];
 }
- 
+
 function extractDoi(text) {
   const m = text.match(/10\.\d{4,}\/[^\s"'<>&]+/);
   return m ? m[0].replace(/[.,;)>\]]+$/, '') : null;
 }
- 
+
 async function fetchFeed(feed) {
   const items = await fetchViaProxy(feed.url);
   return items.map(item => ({
@@ -351,7 +351,7 @@ async function fetchFeed(feed) {
     hits: []
   }));
 }
- 
+
 async function fetchAltmetric(doi) {
   try {
     const r = await fetch('https://api.altmetric.com/v1/doi/' + encodeURIComponent(doi),
@@ -360,7 +360,7 @@ async function fetchAltmetric(doi) {
     return await r.json();
   } catch(e) { return null; }
 }
- 
+
 function parseHits(data) {
   if (!data) return [];
   const hits = [];
@@ -372,18 +372,18 @@ function parseHits(data) {
   if (data.cited_by_tweeters_count > 0) hits.push({type:'twitter', name: data.cited_by_tweeters_count + ' tweet(s)'});
   return hits;
 }
- 
+
 // ── Tooltip ───────────────────────────────────────────────────────────
 const tooltip   = document.getElementById('global-tooltip');
 const tipBody   = document.getElementById('tooltip-body');
 const MARGIN    = 16;
- 
+
 function showTooltip(e, text) {
   tipBody.textContent = text;
   tooltip.style.display = 'block';
   positionTooltip(e);
 }
- 
+
 function positionTooltip(e) {
   const tw = tooltip.offsetWidth;
   const th = tooltip.offsetHeight;
@@ -396,13 +396,13 @@ function positionTooltip(e) {
   tooltip.style.left = Math.max(8, x) + 'px';
   tooltip.style.top  = Math.max(8, y) + 'px';
 }
- 
+
 function hideTooltip() { tooltip.style.display = 'none'; }
- 
+
 document.addEventListener('mousemove', e => {
   if (tooltip.style.display === 'block') positionTooltip(e);
 });
- 
+
 // ── State ─────────────────────────────────────────────────────────────
 let sources       = loadSources();
 let fluxArticles  = [];
@@ -410,7 +410,7 @@ let mediaArticles = [];
 let fluxFilter    = 'all';
 let fluxDate      = 'all';
 let mediaDate     = 'all';
- 
+
 function loadSources() {
   try { const s = localStorage.getItem('veille_sources'); return s ? JSON.parse(s) : JSON.parse(JSON.stringify(DEFAULT_SOURCES)); }
   catch(e) { return JSON.parse(JSON.stringify(DEFAULT_SOURCES)); }
@@ -418,7 +418,7 @@ function loadSources() {
 function saveSources() {
   try { localStorage.setItem('veille_sources', JSON.stringify(sources)); } catch(e) {}
 }
- 
+
 function showTab(t) {
   ['flux','media','doi','sources'].forEach(id => {
     document.getElementById('pane-'+id).style.display = id===t ? '' : 'none';
@@ -426,7 +426,7 @@ function showTab(t) {
   });
   if (t==='sources') renderSourcesManager();
 }
- 
+
 function setFluxFilter(val, btn) {
   fluxFilter = val;
   ['ff-all','ff-covered','ff-uncovered'].forEach(id => document.getElementById(id).classList.remove('active'));
@@ -454,7 +454,7 @@ function setStatus(pane, msg, loading) {
   document.getElementById('status-'+pane).innerHTML = loading
     ? '<span class="spinner"></span>' + msg : msg;
 }
- 
+
 async function loadFlux() {
   setStatus('flux','Recherche d\'un proxy RSS fonctionnel…',true);
   document.getElementById('list-flux').innerHTML = '';
@@ -478,7 +478,7 @@ async function loadFlux() {
   document.getElementById('stats-flux').style.display = '';
   setStatus('flux','',false); renderFlux();
 }
- 
+
 async function loadMedia() {
   setStatus('media','Chargement des flux médias…',true);
   document.getElementById('list-media').innerHTML = '';
@@ -498,10 +498,10 @@ async function loadMedia() {
   document.getElementById('stats-media').style.display = '';
   setStatus('media','',false); renderMedia();
 }
- 
+
 // ── Rendu HTML d'un article ───────────────────────────────────────────
 let articleCounter = 0;
- 
+
 function articleHtml(a, isMedia) {
   const date  = a.pubDate ? a.pubDate.toLocaleDateString('fr-FR',{day:'numeric',month:'short',year:'numeric'}) : '';
   const bCls  = isMedia ? 'source-badge media' : 'source-badge';
@@ -510,7 +510,7 @@ function articleHtml(a, isMedia) {
     ? ' · <a href="'+a.altmetric.details_url+'" target="_blank" style="color:#8b4513;font-size:0.7rem;">→ Altmetric</a>' : '';
   const doiTx = a.doi
     ? ' · <a href="https://doi.org/'+a.doi+'" target="_blank" style="color:#8a7f74;font-family:monospace;font-size:0.7rem;">DOI</a>' : '';
- 
+
   // Titre : lien cliquable + soulignement pointillé si abstract disponible
   let titleHtml;
   if (a.abstract) {
@@ -523,7 +523,7 @@ function articleHtml(a, isMedia) {
   } else {
     titleHtml = `<a class="article-title" href="${a.link}" target="_blank">${a.title}</a>`;
   }
- 
+
   let mediaSec = '';
   if (!isMedia) {
     const pills = a.hits.length > 0
@@ -531,12 +531,12 @@ function articleHtml(a, isMedia) {
       : '<span class="no-coverage">Pas encore repris dans les médias indexés</span>';
     mediaSec = '<div class="media-row">'+score+pills+'</div>';
   }
- 
+
   return '<div class="article">'+titleHtml
     +'<div class="article-meta"><span class="'+bCls+'">'+a.source+'</span>'+date+doiTx+altLk+'</div>'
     +mediaSec+'</div>';
 }
- 
+
 function renderFlux() {
   articleCounter = 0;
   let items = fluxArticles.filter(a=>dateOk(a.pubDate,fluxDate));
@@ -546,14 +546,14 @@ function renderFlux() {
     ? items.map(a=>articleHtml(a,false)).join('')
     : '<div class="empty">Aucun article pour ces critères.</div>';
 }
- 
+
 function renderMedia() {
   const items = mediaArticles.filter(a=>dateOk(a.pubDate,mediaDate));
   document.getElementById('list-media').innerHTML = items.length
     ? items.map(a=>articleHtml(a,true)).join('')
     : '<div class="empty">Aucun article pour ces critères.</div>';
 }
- 
+
 async function lookupDoi() {
   const raw = document.getElementById('doi-input').value.trim();
   const doi = raw.replace(/^https?:\/\/doi\.org\//i,'').trim();
@@ -573,7 +573,7 @@ async function lookupDoi() {
     +(data.details_url?' · <a href="'+data.details_url+'" target="_blank" style="color:#8b4513">→ Page Altmetric complète</a>':'')+'</div>'
     +'<div class="media-row"><span class="score">Altmetric '+score+'</span> '+pills+'</div></div>';
 }
- 
+
 function renderSourcesManager() {
   ['journal','media'].forEach(type => {
     const el = document.getElementById('src-list-'+type);
@@ -585,7 +585,7 @@ function renderSourcesManager() {
     ).join('');
   });
 }
- 
+
 function addSource(type) {
   const name = document.getElementById('add-name-'+type).value.trim();
   const url  = document.getElementById('add-url-'+type).value.trim();
@@ -595,7 +595,7 @@ function addSource(type) {
   document.getElementById('add-url-'+type).value  = '';
   renderSourcesManager();
 }
- 
+
 function removeSource(type,idx) {
   if (!confirm('Supprimer "'+sources[type][idx].name+'" ?')) return;
   sources[type].splice(idx,1); saveSources(); renderSourcesManager();
