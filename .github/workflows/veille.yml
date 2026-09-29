@@ -1,0 +1,51 @@
+name: Veille
+
+on:
+  schedule:
+    # 3 relevés par jour (heure UTC) : ~7h, ~13h et ~19h en heure française d'été
+    - cron: "20 5 * * *"
+    - cron: "20 11 * * *"
+    - cron: "20 17 * * *"
+  workflow_dispatch:        # permet de lancer un relevé à la main
+  push:
+    paths:
+      - "sources.json"      # relance dès qu'on modifie la liste des sources
+
+permissions:
+  contents: write
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install --quiet feedparser requests
+
+      - name: Relever les flux
+        run: python scripts/build_feed.py
+
+      - name: Publier le résultat
+        run: |
+          git config user.name  "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add data/feed.json
+          if git diff --quiet --cached; then
+            echo "Aucun changement."
+          else
+            git commit -m "Veille : relevé du $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
