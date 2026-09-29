@@ -1,0 +1,35 @@
+{
+  "journal": [
+    { "name": "Journal of Human Evolution",           "url": "https://rss.sciencedirect.com/publication/science/00472484" },
+    { "name": "Journal of Archaeological Science",    "url": "https://rss.sciencedirect.com/publication/science/03054403" },
+    { "name": "Journal of Anthropological Archaeology","url": "https://rss.sciencedirect.com/publication/science/02784165" },
+    { "name": "Antiquity",                            "url": "https://www.cambridge.org/core/rss/product/id/6E6B7BB38EF6DC36439D1E3B2DC4B9AA" },
+    { "name": "European Journal of Archaeology",      "url": "https://www.cambridge.org/core/rss/product/id/8741BEBDCB9451080BB5565CAC157C45" },
+    { "name": "Journal of Roman Archaeology",         "url": "https://www.cambridge.org/core/rss/product/id/6416A125CE6B7CE18129EE0692D0C8B8" },
+    { "name": "Oxford Journal of Archaeology",        "url": "https://onlinelibrary.wiley.com/feed/14680092/most-recent" },
+    { "name": "American Journal of Archaeology",      "url": "https://www.ajaonline.org/rss.xml" },
+    { "name": "Nature Human Behaviour",               "url": "https://www.nature.com/nathumbehav.rss" },
+    { "name": "PNAS",                                 "url": "https://www.pnas.org/rss/current.xml" },
+    { "name": "PCI Archaeology",                      "url": "https://archaeo.peercommunityin.org/PCIArchaeology/rss/rss" }
+  ],
+
+  "media": [
+    { "name": "EurekAlert! Archaeology",              "url": "https://www.eurekalert.org/rss/archaeology.xml" },
+    { "name": "Phys.org — Archéologie & fossiles",    "url": "https://phys.org/rss-feed/science-news/archaeology-fossils/" },
+    { "name": "ScienceDaily — Archaeology",           "url": "https://www.sciencedaily.com/rss/fossils_ruins/archaeology.xml" },
+    { "name": "Sciences et Avenir — Archéo & paléo",  "url": "https://www.sciencesetavenir.fr/archeologie/rss.xml" },
+    { "name": "The Guardian — Archaeology",           "url": "https://www.theguardian.com/science/archaeology/rss" },
+    { "name": "New York Times — Archaeology",         "url": "https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/subject/archaeology-and-anthropology/rss.xml" },
+    { "name": "Archaeology Magazine",                 "url": "https://www.archaeology.org/rss.xml" },
+    { "name": "archaeologymag.com",                   "url": "https://archaeologymag.com/news/feed/" },
+    { "name": "HeritageDaily",                        "url": "https://www.heritagedaily.com/feed" },
+    { "name": "Popular Archaeology",                  "url": "https://popular-archaeology.com/section/archaeology-news-daily/feed/" },
+    { "name": "Current World Archaeology",            "url": "https://www.world-archaeology.com/feed" },
+    { "name": "Anthropology.net",                     "url": "https://anthropology.net/feed/" },
+    { "name": "Smithsonian — History",                "url": "https://feeds.feedburner.com/smithsonianmag/history-archaeology" },
+    { "name": "BBC HistoryExtra",                     "url": "https://www.historyextra.com/feed/" },
+    { "name": "Arkeonews",                            "url": "https://arkeonews.net/feed/" },
+    { "name": "Ancient Origins",                      "url": "https://feeds.feedburner.com/Ancient-Origins" },
+    { "name": "Google News — archéologie (FR)",       "url": "https://news.google.com/rss/search?q=arch%C3%A9ologie+OR+pal%C3%A9oanthropologie&hl=fr&gl=FR&ceid=FR:fr" }
+  ]
+}
