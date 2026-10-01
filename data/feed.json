@@ -1,12 +1,45 @@
 {
- "generated_at": "2026-10-01T17:24:00+00:00",
+ "generated_at": "2026-10-01T21:50:02+00:00",
  "counts": {
-  "total": 522,
+  "total": 525,
   "journal": 110,
-  "media": 412,
-  "new_this_run": 49
+  "media": 415,
+  "new_this_run": 42
  },
  "items": [
+  {
+   "title": "Boglands Are Museums That Help Protect Us From Climate Change",
+   "link": "https://www.nytimes.com/2026/10/01/opinion/bogs-peatland-climate.html",
+   "date": "2026-10-01T19:51:06+00:00",
+   "source": "New York Times — Archaeology",
+   "kind": "media",
+   "abstract": "Bogs store carbon, and preserve histories too.",
+   "doi": null,
+   "first_seen": "2026-10-01T17:24:00+00:00",
+   "alt": null
+  },
+  {
+   "title": "Is East of Eden based on a true story? Inside the new Netflix adaptation of John Steinbeck’s novel",
+   "link": "https://www.historyextra.com/period/general-history/east-of-eden-true-story-new-netflix-adaptation-john-steinbeck/",
+   "date": "2026-10-01T18:30:29+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "East of Eden tells the story of two families, the Trasks and Hamiltons, and traces the impact of “psychic monster” Cathy Ames on their lives. But how true is the new Netflix series to Steinbeck’s epic tale – and California in the 19th and 20th centuries? Jonathan Wright investigates Published in 1952, John Steinbeck regarded East of Eden as his greatest novel. “It has everything in it I have been able to learn about my art or craft or profession in all these years,” he later said. Primarily set in the Salinas Valley in California, it follows the story of two families: the Trasks and the Hamiltons. Steinbeck took the title of the book from the Book of Genesis. He explores the novel’s themes – love, depravity, moral courage, the way our lives are shaped by those who go before and the choices we make – with reference to the story of Cain and Abel, the sons of Adam and Eve. Playing out over seven episodes, the Netflix version of East of Eden has space to explore these weighty themes. Adapted for the screen by Zoe Kazan, the mini-series stars Florence Pugh in the key role of Cathy. Ciarán Hinds stars as expansive Irishman Samuel Hamilton, a figure based on Steinbeck’s own maternal grand…",
+   "doi": null,
+   "first_seen": "2026-10-01T21:50:02+00:00",
+   "alt": null
+  },
+  {
+   "title": "Early South Korean Gunpowder Weapon Identified",
+   "link": "https://archaeology.org/news/2026/10/01/early-gunpowder-weapon-from-south-korea-identified/",
+   "date": "2026-10-01T17:30:00+00:00",
+   "source": "Archaeology Magazine",
+   "kind": "media",
+   "abstract": "NAJU, SOUTH KOREA—A weapon discovered in 2023 on Mount Geumseong in southwestern South Korea has [&#8230;] The post Early South Korean Gunpowder Weapon Identified appeared first on Archaeology Magazine . Gunpowder weapon NAJU, SOUTH KOREA—A weapon discovered in 2023 on Mount Geumseong in southwestern South Korea has been identified by researchers from the Naju National Research Institute of Cultural Heritage as a Hwangja Hwatong, a handheld gunpowder weapon that fired arrows or pellets, ZME Science reports. The 600-year-old bronze weapon measures about nine inches long and weighs about two pounds. Engravings on the handle record the weapon’s name, weight, manufacturing supervisor, craftsman, and an incomplete date. When researchers compared the inscription with historic records of firearm production, they determined that this weapon was made in either 1377 or 1437. “It comes from a crucial transitional period between the late Goryeo and early Joseon dynasties, when physical artifacts of firearms are exceptionally rare,” said Cho Mi-soon of the Naju National Research Institute. Another character on the muzzle is thought to have been an inventory or production number—evidence of stat…",
+   "doi": null,
+   "first_seen": "2026-10-01T21:50:02+00:00",
+   "alt": null
+  },
   {
    "title": "Editorial Board",
    "link": "https://www.sciencedirect.com/science/article/pii/S0047248426001004?dgcid=rss_sd_all",
@@ -41,9 +74,28 @@
    "alt": null
   },
   {
+   "title": "Cave Paintings May Have Been Part of Mesoamerican Writing System",
+   "link": "https://archaeology.org/news/2026/10/01/cave-paintings-may-have-been-part-of-mesoamerican-writing-system/",
+   "date": "2026-10-01T17:00:00+00:00",
+   "source": "Archaeology Magazine",
+   "kind": "media",
+   "abstract": "CHALCATZINGO, MEXICO—Phys.org reports that Christophe Helmke of the University of Copenhagen and his colleagues mapped [&#8230;] The post Cave Paintings May Have Been Part of Mesoamerican Writing System appeared first on Archaeology Magazine . CHALCATZINGO, MEXICO— Phys.org reports that Christophe Helmke of the University of Copenhagen and his colleagues mapped a shallow cave on a cliff at the site of Chalcatzingo in south-central Mexico, where three glyphs were found in the 1980s. The red painted glyphs are thought to have been left by people from Teotihuacan who established settlements and carried out rituals in the region. The researchers also took detailed photographs of the glyphs and used digital photo enhancement software to get a better look at the paintings. Helmke said that one image features a stylized mountain flanked by speech scrolls, and may refer to a place name that means Singing Mountain. The same glyph appears in Teotihuacan, he added. The second glyph features items worn by Teotihuacan warriors, including a beaded necklace, a cloak, and a pointed dart. This glyph is therefore thought to refer to a warrior title. The third glyph, placed over a low bedrock shelf, …",
+   "doi": "10.15184/aqy.2026.10425",
+   "first_seen": "2026-10-01T21:50:02+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-10-01T21:50:02+00:00"
+   }
+  },
+  {
    "title": "Un géoglyphe découvert avec Google Earth fascine les archéologues argentins - Courrier international",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWTRNWkkzU0R2elhBNFVuOWpPVUhmQlNPQXlmNktxaGJ1TC1rdFc2eGJ4MlAxQlBRcVZzRS1aMF9VUkVyQS1lamVXMFpheDBGZFhteEhPUTlMLTR1NGZ5RzlNcXdwMk5lRWZJRXFVVUtzMkd6d0VtVXNMUFY5RC1ZVzQtRENnc3VkUWc1ZjlxblYtNXN2UmphME12eVBGWUcyS011RzR5WnhBTlB1NWhzY0hHQWJXYlNDRUo1bF9sdHdtVTBhUVB1S1lNQXpYRFBOeWxXclExUQ?oc=5",
-   "date": "2026-10-01T16:17:11+00:00",
+   "date": "2026-10-01T16:17:08+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "Un géoglyphe découvert avec Google Earth fascine les archéologues argentins &nbsp;&nbsp; Courrier international",
@@ -58,17 +110,6 @@
    "source": "Smithsonian — History",
    "kind": "media",
    "abstract": "Louis-Marie, Viscount de Noailles, served during the American, French and Haitian Revolutions. \"He fights wherever France fights, because he's a soldier and he believes in France,\" a historian says",
-   "doi": null,
-   "first_seen": "2026-10-01T17:24:00+00:00",
-   "alt": null
-  },
-  {
-   "title": "Boglands Are Museums That Help Protect Us From Climate Change",
-   "link": "https://www.nytimes.com/2026/10/01/opinion/bogs-peatland-climate.html",
-   "date": "2026-10-01T15:12:56+00:00",
-   "source": "New York Times — Archaeology",
-   "kind": "media",
-   "abstract": "Bogs store carbon, and preserve histories too.",
    "doi": null,
    "first_seen": "2026-10-01T17:24:00+00:00",
    "alt": null
@@ -620,12 +661,12 @@
    "alt": null
   },
   {
-   "title": "Plongée et archéologie sous-marine : 60 ans d'histoire du Drassm créé à Marseille et devenu une référence mondiale - laprovence.com",
+   "title": "Plongée et archéologie sous-marine : 60 ans d'histoire du Drassm créé à Marseille et devenu une référence mondiale - La Provence",
    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMG9ZOFowMVhDazZXcERXZkp6LXpMSDN4S0k5ZGNsaVJNQkdEbDZnbUZiWTdkTXRuVXNNOGM2bGEzMHZsaERzejhabElkUHBwZ0M5NFJlb0FndGNfOEVya3lHc2dEN0hRX19YaFJuMEc1czBqSnlEVF85Sjk4WDFqQzBncFpRbk1ZWmNIR3YtdTJCUG5vblJPNXVSeWFRaEpPMzJ0UFRZbFdVRlpaTm9kRTVUZllLcl82d09NTkxHR25qMHYyRDV6SlRuY2FnVmNDSktKNFpwTDhxNXVOTkc3WjVBRmdrSEVVek9CckxRZ0ZObHFqNUQ5OU1aaFlyVXAxZ2t3TW9nQVF3bnM?oc=5",
    "date": "2026-09-29T19:30:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Plongée et archéologie sous-marine : 60 ans d'histoire du Drassm créé à Marseille et devenu une référence mondiale &nbsp;&nbsp; laprovence.com",
+   "abstract": "Plongée et archéologie sous-marine : 60 ans d'histoire du Drassm créé à Marseille et devenu une référence mondiale &nbsp;&nbsp; La Provence",
    "doi": null,
    "first_seen": "2026-09-30T11:12:22+00:00",
    "alt": null
@@ -1658,12 +1699,12 @@
    }
   },
   {
-   "title": "Un rare spécimen de mosasaure retrouvé dans le sud de la France rebat les connaissances sur ce reptile aquatique - liberation.fr",
+   "title": "Un rare spécimen de mosasaure retrouvé dans le sud de la France rebat les connaissances sur ce reptile aquatique - Libération",
    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQcTZKVnNfSVNMT1hMcjY2M3pMWE1sZzBJUEl2SmEwTlpWWE9QVHNVODBxemdWQmpaT1JrNWdXTGY2WmRMdVMwMndtMl9fcDB0ZEhrdlhaTGswTDg4clFlQm9WQmpnVlBRajh5UHRITkMzSEhDakVCMGMzTHBiUmNjWG5mSDdJaVhhWGxJZlVPQVhTYnZPSXBQS2pmNnJzRFlfaHFvbnV2ZVJDZ0dPVGFmQ1lwU0h5cGNsZ1VnNnliZ3VSSjVaUXByQ04zZFBEaVBkWTlNZFV5bk5hMHVSSGgxQmEyb2NYZXUwY1cySkFoVFlfZkp2UkFxa2YxbzNVTTl5OTVHcUZVUlZoRmc5QjllTDZfdnNIZnNMLWVYWlhSaS1jdw?oc=5",
    "date": "2026-09-28T16:07:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Un rare spécimen de mosasaure retrouvé dans le sud de la France rebat les connaissances sur ce reptile aquatique &nbsp;&nbsp; liberation.fr",
+   "abstract": "Un rare spécimen de mosasaure retrouvé dans le sud de la France rebat les connaissances sur ce reptile aquatique &nbsp;&nbsp; Libération",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -2040,12 +2081,12 @@
    "alt": null
   },
   {
-   "title": "Joy Division, archéologie d’un mythe - liberation.fr",
+   "title": "Joy Division, archéologie d’un mythe - Libération",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmI4cGhybXlWc3VPLWdpM0dyVWhMbE5tMUItMS1sbF9IQ2xaM0FRMzJ4UG5YcjB1OVBuOXJoWmlxaXd6MEFtT0t6OHBiRlRLckY2bW1XbV9jMkczTFBSYVFuVzczeE5YZW5PVnFNX0lITXdrMTRCRFRudG51MFlEZEhpX0Uxd291Ym56b0szakxxLUkwS2QzODJFS1ExM1FKMmx2MTkxUWNxMURWUHpQOXpyYw?oc=5",
    "date": "2026-09-26T13:41:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Joy Division, archéologie d’un mythe &nbsp;&nbsp; liberation.fr",
+   "abstract": "Joy Division, archéologie d’un mythe &nbsp;&nbsp; Libération",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -2955,12 +2996,12 @@
    "alt": null
   },
   {
-   "title": "Cette découverte archéologique exceptionnelle pourrait changer l’histoire de Paris - Ville de Paris",
+   "title": "Cette découverte archéologique exceptionnelle pourrait changer l’histoire de Paris - paris.fr",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemJPbFdkcnFxSFZ0V2UycmJZcTFZZEt1ajA0eUs1UUVvRWZPcWFPMWltWVplYzE0RmpPMVhuMTdNWUNqU3F3aFU3NEJ6ZHhJMUdrYW5ZMmpYUEpZcHZpTWt1ZWRGVEdfZG52Y290ckJqQnYxUlJQeVdpVGE2MEpCcUJ3ci1raGFmblIwQ1JQM2RrY2FlTmVDc1FvRlhvWFJwZjEyblFoVXNUb1VBVzRodUw2VmcwZw?oc=5",
    "date": "2026-09-23T10:19:13+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Cette découverte archéologique exceptionnelle pourrait changer l’histoire de Paris &nbsp;&nbsp; Ville de Paris",
+   "abstract": "Cette découverte archéologique exceptionnelle pourrait changer l’histoire de Paris &nbsp;&nbsp; paris.fr",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -3517,12 +3558,12 @@
    "alt": null
   },
   {
-   "title": "Archéologie : le plus grand trésor d’argent de l’époque viking découvert par hasard dans une forêt en Finlande - connaissancedesarts.com",
+   "title": "Archéologie : le plus grand trésor d’argent de l’époque viking découvert par hasard dans une forêt en Finlande - Connaissance des Arts",
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNWHlxSHhjT0tWQV96QTVtRlpXNUR1dy1JS1djR2ZVVWVvNkQ3U0l0VUdPSEhxVURnSzJkT293czhsa2Uwc1NDeGhOcnlMUkJiZk5EaXFIcEVpalRfc1hBbldyVmRaSndfTWhZSlRweFlRMTVfa0VYSHlDTjluek4ySUFhMVRxXzltWWotazNBakxCaHlmcXJMZ2tpLS1XMFRhajRyN1I5TlFWUy13U2E2d1drRDNGdHlEcEFRVlE1QVBLbkdvdmplaV9DclU5RTBvSnVidGgtRmNPVjFMSFowa0hMMG85SlF5a1AzNEVTbXFkR1Y1SWx0clhrUlJ6cG56VU1PQndMY0VidkhFdGFXYVRNOA?oc=5",
    "date": "2026-09-18T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Archéologie : le plus grand trésor d’argent de l’époque viking découvert par hasard dans une forêt en Finlande &nbsp;&nbsp; connaissancedesarts.com",
+   "abstract": "Archéologie : le plus grand trésor d’argent de l’époque viking découvert par hasard dans une forêt en Finlande &nbsp;&nbsp; Connaissance des Arts",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -4156,12 +4197,12 @@
    "alt": null
   },
   {
-   "title": "Archéologie : découverte en Turquie, une mosaïque romaine au bestiaire spectaculaire révèle les noms d'un chat et d'un chien - connaissancedesarts.com",
+   "title": "Archéologie : découverte en Turquie, une mosaïque romaine au bestiaire spectaculaire révèle les noms d'un chat et d'un chien - Connaissance des Arts",
    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNQ0toV2FTVjlNakNrRlpNczNhLWdXUHNkX1RhSU5xUnJzNmtYaWFvd0VBVlR3RGdqVDR3LVNBMW9wcUY2NDBpYmxZeDNrRHdjZ01vNHhqQ01vajc5dG96UWUzZ21UUVhZRHBXYVhoNzhsSklmODVFS2dubFFFYnMwSWstUXNNQ0RWemUxUm8zb3E3V09iZVliWHRoQzZtaUhjY3ZGWUFya1JTR3NDNV9Ea25uSlRBa2Q0NURvVWRla0d0MHdIb3M0Zi16b29xMC1LalBEVDl0LVdHaDRhQ19fSm9qQXdMbms4RGtYWUxVVVdjRE1GSzhXLWNITVNSYjdHN1ZRRWx1cHNoWmVlY185THVSVVlWZ2dTR21hRk52RFNqaFg2?oc=5",
    "date": "2026-09-10T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Archéologie : découverte en Turquie, une mosaïque romaine au bestiaire spectaculaire révèle les noms d'un chat et d'un chien &nbsp;&nbsp; connaissancedesarts.com",
+   "abstract": "Archéologie : découverte en Turquie, une mosaïque romaine au bestiaire spectaculaire révèle les noms d'un chat et d'un chien &nbsp;&nbsp; Connaissance des Arts",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -4576,12 +4617,12 @@
    "alt": null
   },
   {
-   "title": "Les enfants parisiens apprennent l’archéologie grandeur nature - Ville de Paris",
+   "title": "Les enfants parisiens apprennent l’archéologie grandeur nature - paris.fr",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMW5qVENFTEJ1dF9YZzJScTFXZlotVkJrSEkzX1V6cS1Wd2ZtdDBYRDg0NmpkbjlKMDdQdTRXdmYyZm81dGFfWVhVZkF6ZElqdkk1bWdSVGJQOHZXTDc2UXBRV1lBd2JkblBuOFZGYnZtVFNzVzRlT3R0UGZiWGdSS2pHOFVyd2g2QUR0ZGpxakVLeTFOamRIeWo2RQ?oc=5",
    "date": "2026-08-27T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Les enfants parisiens apprennent l’archéologie grandeur nature &nbsp;&nbsp; Ville de Paris",
+   "abstract": "Les enfants parisiens apprennent l’archéologie grandeur nature &nbsp;&nbsp; paris.fr",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -4609,12 +4650,12 @@
    "alt": null
   },
   {
-   "title": "De Montpellier à Paris, une exposition gratuite sur l'archéologie gauloise s'invite dans cinq gares de France et tord le cou aux idées reçues - connaissancedesarts.com",
+   "title": "De Montpellier à Paris, une exposition gratuite sur l'archéologie gauloise s'invite dans cinq gares de France et tord le cou aux idées reçues - Connaissance des Arts",
    "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxORmZOYVYyZkZhdHZwblNhYXZHV1BpOWNZV0dBRjVyblBuRUpIczlEc0FrZU1oVFJJWjY1TDY1bE9xYjJWRUFReFExZ21wdkVqejg4RTc2bzluZ0hCakg2dVBrOEQ5aW4tLTkxakFKUnB6dE9FMjFBVDYtYTA1ajI3YkltRThwUDVNX1NDeG56dG5ETWlfUDdwNTZCNm1XejhZVVlBQXZRSU5zMTdWMlhhVFdyY2FBU0RFd1NwYWhYdWdQT1U4MWl6aG9pekdRdUFHbDhzRW5RUG93clhldG95QS0wS1lDdTJEMk5DZzMtR2xfM25VLXVfWldpTXdYemFScDRyMnRFcmVaNGVWenUybW5UVVFqelh5NnlOZXNRcDhzTFh0eTl4MXl0cnlZckZHZ3EtUVBIVDZhazJUR0E?oc=5",
    "date": "2026-08-25T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "De Montpellier à Paris, une exposition gratuite sur l'archéologie gauloise s'invite dans cinq gares de France et tord le cou aux idées reçues &nbsp;&nbsp; connaissancedesarts.com",
+   "abstract": "De Montpellier à Paris, une exposition gratuite sur l'archéologie gauloise s'invite dans cinq gares de France et tord le cou aux idées reçues &nbsp;&nbsp; Connaissance des Arts",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -4801,12 +4842,12 @@
    }
   },
   {
-   "title": "Disparition de Néandertal : la piste du déclin génétique mise à mal - Pour la Science",
+   "title": "Disparition de Néandertal : la piste du déclin génétique mise à mal - pourlascience.fr",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRGhPUlMtaV9vSnAxT2pHakhRSWh3UnFqYU41c3ZfRkJNVjNMdW9ra0otLUJwblE4X3BfTnBQVWRkN0owR0RwSXQ4Ulo5NlUwU0tWb0o1R3A3c3pwYTJXLVhIUUtGZEhLTThNdmtteE1sN3VEWDlnQ0JxQ21iZTVWX1NpQk45UlFidHJrbmFKMHFnQlpuWllnd3hXWnc2T1ZWXzdvclBueGhqTFFodEJmamozMFBPTW5xNXFfSzZGQko0azV4?oc=5",
    "date": "2026-08-18T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Disparition de Néandertal : la piste du déclin génétique mise à mal &nbsp;&nbsp; Pour la Science",
+   "abstract": "Disparition de Néandertal : la piste du déclin génétique mise à mal &nbsp;&nbsp; pourlascience.fr",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -4900,12 +4941,12 @@
    "alt": null
   },
   {
-   "title": "Archéologie : en Turquie, un exceptionnel colosse de marbre de 2500 ans découvert sur un site classé au patrimoine mondial de l'Unesco - connaissancedesarts.com",
+   "title": "Archéologie : en Turquie, un exceptionnel colosse de marbre de 2500 ans découvert sur un site classé au patrimoine mondial de l'Unesco - Connaissance des Arts",
    "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNU3BlLTlnbmJKOVhkLXp2cGhTVTVXa1RfRU1xVjNncUpRS0UxQW5uMjhOY3E4NXVKdHdOV3lzazY1Q0UwQ2c2NnZUS2F2VGFpaC05Rmlqa25TR0dnMk5YVENQajhZYzdTSExLMEZEZGt4ZGpHRXdkd3NESnhaUFVRakZBTGxNTlVQWlV6d1dLb2dLa1NfcjRhRV8yRVB4c2RwSEZ5TmRaVTlVZl9VM1A1azZkX3VKbEpiTUQ2ZVUzcFR0b19jR1F3N2lKM0JXcnkzcXF5TzVPU0NGQjdFUHFkVHBzSWVrV1NYMHFLQ01VUFJYbmI3bGJURGZfV1pHRzRJWDFEcmtqQ0hnRklSX01WQWtpbFRuSGZpSUhVUnU4TkFXcXJYaVdOZThmd2xfd2djVXhJ?oc=5",
    "date": "2026-08-14T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Archéologie : en Turquie, un exceptionnel colosse de marbre de 2500 ans découvert sur un site classé au patrimoine mondial de l'Unesco &nbsp;&nbsp; connaissancedesarts.com",
+   "abstract": "Archéologie : en Turquie, un exceptionnel colosse de marbre de 2500 ans découvert sur un site classé au patrimoine mondial de l'Unesco &nbsp;&nbsp; Connaissance des Arts",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -5073,12 +5114,12 @@
    "alt": null
   },
   {
-   "title": "Un patrimoine à protéger: à la découverte de l’archéologie subaquatique - lactualite.com",
+   "title": "Un patrimoine à protéger: à la découverte de l’archéologie subaquatique - L’actualité",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTkwd1BjZWhTamxYMzB5M0V4TDNyaEJYUlVsVWUzczNkakNsQXMtakVOdE1tc0hBM2hqWUFGRXpsOGRnME5NVUo2eVNINTMwYmszNGg0S3VVT3FYNmgtVmJJSGJOMEg3Wi03VFlBVENnY2tjNEI1Wkw4X25FUkdfejZiRW5GbHZoZ2MzMkFkbUtFeEJmYy1ZZXJaaE5iWW9mVjQ4dXU2Zw?oc=5",
    "date": "2026-08-09T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Un patrimoine à protéger: à la découverte de l’archéologie subaquatique &nbsp;&nbsp; lactualite.com",
+   "abstract": "Un patrimoine à protéger: à la découverte de l’archéologie subaquatique &nbsp;&nbsp; L’actualité",
    "doi": null,
    "first_seen": "2026-09-30T11:12:22+00:00",
    "alt": null
@@ -5320,12 +5361,12 @@
    "alt": null
   },
   {
-   "title": "L'archéologie « préventive » française en grande difficulté malgré son apport au patrimoine historique - basta.media",
+   "title": "L'archéologie « préventive » française en grande difficulté malgré son apport au patrimoine historique - Basta Media",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGxoMDUxVVFUX2IwVUlzNFNxLXJjSl9nbmw0LXZNb2oyUFM5Y3VNbHdfY2pJR2VxeEN5VEgzbm5kNmFlajlvU3dtVmsySDEyaktsYjdKN3hHaXpuTlFuQTg3X3RwdEdjUFdqbl9ZY1BkSFh3eGRfWVE1c2lBMWNLclpYZkhUVkZCRTNDYWhvNlJZYkwxSzA1Qnd3T1ZzUk1nM0ZEa3ZDcTlRRmxmUTJBQw?oc=5",
    "date": "2026-07-28T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "L'archéologie « préventive » française en grande difficulté malgré son apport au patrimoine historique &nbsp;&nbsp; basta.media",
+   "abstract": "L'archéologie « préventive » française en grande difficulté malgré son apport au patrimoine historique &nbsp;&nbsp; Basta Media",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -5482,12 +5523,12 @@
    "alt": null
   },
   {
-   "title": "Archéologie : la découverte en Italie d'une spectaculaire tombe princière vieille de 2500 ans met en lumière un peuple pré-romain méconnu - connaissancedesarts.com",
+   "title": "Archéologie : la découverte en Italie d'une spectaculaire tombe princière vieille de 2500 ans met en lumière un peuple pré-romain méconnu - Connaissance des Arts",
    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOLXpZSy1tbkJNSE9oQmpVejdwVWJZQ1Y3VlYyaWk4MjF4UUlsc05KSEpQcjNRbjkwNTEzSzBQQmVJdXQ1eWxkd2VHbUoyZDR2RG1tR0NwMFpUdjdOVnhVLVllRFFQUUxyODZhTV9rYnd0WnlkWVV1VXVib2U5Vk5GMTF2c3pldjNodUpKcFI3TWhaVlRtOU5KSHZ5VVNEd2dnLTJYUUstbVl2akxYTE1HSDhVWUF3OE5TS3J6OHJKQkpNZG54RjNUUXYyaHNQZ1hfMk9qTU5yeVJqTy01NkU4bUtUQnhpSkVPYmN1S0hPMFhJcWZHdS1TTkg0RGtXanhhUUlMVkpDM1BNVG1qMmgybHFOd0xZYVlHMWc4Wk12LVBMaUFHMWhzbQ?oc=5",
    "date": "2026-07-15T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Archéologie : la découverte en Italie d'une spectaculaire tombe princière vieille de 2500 ans met en lumière un peuple pré-romain méconnu &nbsp;&nbsp; connaissancedesarts.com",
+   "abstract": "Archéologie : la découverte en Italie d'une spectaculaire tombe princière vieille de 2500 ans met en lumière un peuple pré-romain méconnu &nbsp;&nbsp; Connaissance des Arts",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -5622,12 +5663,12 @@
    "alt": null
   },
   {
-   "title": "Homo erectus s’est-il métissé avec les Dénisoviens en Asie ? - Pour la Science",
+   "title": "Homo erectus s’est-il métissé avec les Dénisoviens en Asie ? - pourlascience.fr",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOam52bDZHaE5OdlVSZkVjR3B3OURtcDFTaXFQaHR1REx6Uk5iNzFUU3ZaaTVuTkpmX1RfWGlleGZYamVtUk1nQUROT1lNZGNCS3FKbnBmd3pTdzhaQ1VNYlVCQWtEN1g4NHdlcjRaWmhOTnhGRUp1Zy1YZE9BY1gyZng2aUFtbGdoUW5UVXBrbFFpZnNDODVyU29ZQlBMYlJuNDZrNnZiV2hwR3prcUFDVmoxdThvcmFoS3RB?oc=5",
    "date": "2026-07-07T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Homo erectus s’est-il métissé avec les Dénisoviens en Asie ? &nbsp;&nbsp; Pour la Science",
+   "abstract": "Homo erectus s’est-il métissé avec les Dénisoviens en Asie ? &nbsp;&nbsp; pourlascience.fr",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -6070,12 +6111,12 @@
    "alt": null
   },
   {
-   "title": "Journées européennes de l’archéologie : Visites guidées à Aubigné-Racan - Conseil départemental de la Sarthe",
+   "title": "Journées européennes de l’archéologie : Visites guidées à Aubigné-Racan - sarthe.fr",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNczFZRy1qU0lNMkNvbkM2Q29EUFJteHFWbjNWdENvaGpxNTBfMFhyS2tTMkU5WEJjaml1Q0tPQUx3WmwzUUt1ZHRyRGpST1YzRjJlUmNMZ25EVjkwT2RoeEU3T2ZFX0I3S3pXMEdnOVVObEt6MTF6aEljNGREQ3BZQktfWlpwVzJQdk8w?oc=5",
    "date": "2026-06-10T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Journées européennes de l’archéologie : Visites guidées à Aubigné-Racan &nbsp;&nbsp; Conseil départemental de la Sarthe",
+   "abstract": "Journées européennes de l’archéologie : Visites guidées à Aubigné-Racan &nbsp;&nbsp; sarthe.fr",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
