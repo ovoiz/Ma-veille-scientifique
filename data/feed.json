@@ -1,12 +1,190 @@
 {
- "generated_at": "2026-09-30T21:25:41+00:00",
+ "generated_at": "2026-10-01T11:39:37+00:00",
  "counts": {
-  "total": 496,
-  "journal": 106,
-  "media": 390,
-  "new_this_run": 45
+  "total": 512,
+  "journal": 108,
+  "media": 404,
+  "new_this_run": 55
  },
  "items": [
+  {
+   "title": "Radio Pinpon: quand les patients de l'hôpital psy s'emparent du micro",
+   "link": "https://www.sciencesetavenir.fr/sante/radio-pinpon-a-l-hopital-psy-une-therapie-pas-comme-les-autres_195162?xtor=RSS-16",
+   "date": "2026-10-01T11:07:50+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "A l'hôpital de Niort, depuis 2018, des patients animent une station de radio. Un cocon et une thérapie douce pour beaucoup d'entre eux. Reportage au sein de cette unité psychiatrique pas comme les autres.",
+   "doi": null,
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": null
+  },
+  {
+   "title": "Aux Pays-Bas, le pari désormais possible du riz",
+   "link": "https://www.sciencesetavenir.fr/nature-environnement/aux-pays-bas-le-changement-climatique-permet-de-cultiver-du-riz_195153?xtor=RSS-15",
+   "date": "2026-10-01T08:56:44+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Face au changement climatique, les pratiques agricoles doivent évoluer et s'adapter. Dans les Pays-Bas, un projet considéré comme fou voilà une vingtaine d'années, a vu le jour: une rizière! Une façon écologique et durable d'utiliser les zones humides du pays autrement.",
+   "doi": null,
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": null
+  },
+  {
+   "title": "Malgré les risques, un herbicide autorisé pour les céréaliers",
+   "link": "https://www.sciencesetavenir.fr/nature-environnement/le-gouvernement-autorise-temporairement-un-herbicide-malgre-les-alertes-de-l-anses_195144?xtor=RSS-15",
+   "date": "2026-10-01T07:34:11+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Le ministère de l’Agriculture autorise pour 120 jours l’herbicide Avadex Factor, à base de tri-allate, un composé organochloré, pour les cultures d’orge, malgré les risques pour les eaux souterraines relevés par l’Anses.",
+   "doi": null,
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": null
+  },
+  {
+   "title": "La mer Méditerranée est de plus en plus salée",
+   "link": "https://www.sciencesetavenir.fr/nature-environnement/mers-et-oceans/75-ans-de-donnees-confirment-une-salinisation-croissante-de-la-mediterranee_195128?xtor=RSS-15",
+   "date": "2026-10-01T07:25:34+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Le réchauffement et la salinisation affectent désormais les eaux méditerranéennes jusqu'à 3 000 mètres de profondeur, selon une compilation de mesures effectuées depuis 1950.",
+   "doi": null,
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": null
+  },
+  {
+   "title": "La femme sans nez d'un cimetière médiéval chinois a été victime d’un châtiment corporel",
+   "link": "https://www.sciencesetavenir.fr/archeo-paleo/dans-un-cimetiere-medieval-chinois-une-femme-sans-nez-pourrait-avoir-ete-victime-d-un-chatiment-corporel_195142?xtor=RSS-4",
+   "date": "2026-10-01T07:18:56+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Dans la Chine ancienne, qui volait un bœuf, perdait son nez. Une femme ayant vécu au Moyen Âge dans le Henan pourrait bien avoir été victime de ce châtiment corporel invalidant et infamant.",
+   "doi": null,
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": null
+  },
+  {
+   "title": "Fouilles archéologiques : pourquoi des chercheurs prélèvent-ils des sédiments à six mètres sous la plage de Frontignan - Midi Libre",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVTdjZU4zUXpMbDJ4bkdpdDlDcWNjR2xUVzctSC1mSlZHZ1pLQTBVdGtWSVRoSmZJRTUyVU9VekQ4TklxVWRYREVVMTlUdHRNNmM0RzJJcmhjb2JxMzU4Yl8tZU1famtSZS0wTmxnR1Vyem5LZFRmVHFGZ2xOa09NWDRHdHZNTzFxdlFxLUdaZTJQdWItenQ1R3BvcFhXQlNTY2o4eEdkeERiNUVVdTRtdy1Qa3BzcG5ZOXdSVXEta1VjaXkyelZIaTdKc1ZGSTY1ZEtDUEVnZ2tBQjJ6YVZxZEFRanNKV2lrVEJRcW5FVTdycUNSSWZQUw?oc=5",
+   "date": "2026-10-01T07:01:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Fouilles archéologiques : pourquoi des chercheurs prélèvent-ils des sédiments à six mètres sous la plage de Frontignan &nbsp;&nbsp; Midi Libre",
+   "doi": null,
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily quiz: 1 October",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-10-01T06:00:09+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "Homo erectus in South Africa: Outnumbered 10 to 1",
+   "link": "https://www.anthropology.net/p/homo-erectus-in-south-africa-outnumbered",
+   "date": "2026-10-01T03:56:14+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "A skull fragment from Drimolen pushes the adult Homo erectus record back to 2 million years ago, among far more Paranthropus. The fossil catalogued as DNH 127 came out of a loose, partly decalcified block of breccia on the southeast side of the DNH 7 Pinnacle, in the old lime-mining pit at Drimolen Main Quarry, about forty kilometres northeast of Johannesburg. The excavation records give the year as 2008. It is a right temporal bone with a piece of parietal and a scrap of occipital attached, the part of the skull behind and above the ear; the parietal wall above the suture stands 44.7 millimetres tall and is at most 7.2 millimetres thick. Nobody described it for years. Now Jesse Martin, of the Palaeoscience Labs in the Department of Archaeology and History at La Trobe University, and four co-authors have assigned it, tentatively, to Homo erectus . That makes it the first adult of the species from Drimolen, and at roughly 2.04 to 1.95 million years old it predates the adult Homo erectus fossils from Dmanisi in Georgia, which are about 1.8 million years old. a. DNH 8 occlusal view; b. DNH 8 left lateral view; c. DNH 8 inferior view; d. DNH 8 right lateral view. Credit: Annals of Huma…",
+   "doi": "10.1080/03014460.2026.2725046",
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-10-01T11:39:37+00:00"
+   }
+  },
+  {
+   "title": "Selfish and prosocial individuals both distort their actions’ impact, but selfish distortions can be more contagious",
+   "link": "https://www.nature.com/articles/s41562-026-02585-3",
+   "date": "2026-10-01T00:00:00+00:00",
+   "source": "Nature Human Behaviour",
+   "kind": "journal",
+   "abstract": "Nature Human Behaviour, Published online: 01 October 2026; doi:10.1038/s41562-026-02585-3 In this study, Vollberg and Gross show that both selfish and prosocial individuals exaggerate the social benefits of their choices, with selfish-serving distortions proving to be socially contagious. Nature Human Behaviour, Published online: 01 October 2026; doi:10.1038/s41562-026-02585-3 In this study, Vollberg and Gross show that both selfish and prosocial individuals exaggerate the social benefits of their choices, with selfish-serving distortions proving to be socially contagious.",
+   "doi": "10.1038/s41562-026-02585-3",
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-10-01T11:39:37+00:00"
+   }
+  },
+  {
+   "title": "Intrinsic rewards guide visual resource allocation via reinforcement learning",
+   "link": "https://www.nature.com/articles/s41562-026-02573-7",
+   "date": "2026-10-01T00:00:00+00:00",
+   "source": "Nature Human Behaviour",
+   "kind": "journal",
+   "abstract": "Nature Human Behaviour, Published online: 01 October 2026; doi:10.1038/s41562-026-02573-7 Tangible rewards are known to sharpen visual processing of associated objects. Tomić et al. show that an internal sense of confidence—acting as an intrinsic reward—similarly biases attention, revealing how the brain prioritizes limited resources. Nature Human Behaviour, Published online: 01 October 2026; doi:10.1038/s41562-026-02573-7 Tangible rewards are known to sharpen visual processing of associated objects. Tomić et al. show that an internal sense of confidence—acting as an intrinsic reward—similarly biases attention, revealing how the brain prioritizes limited resources.",
+   "doi": "10.1038/s41562-026-02573-7",
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-10-01T11:39:37+00:00"
+   }
+  },
+  {
+   "title": "‘Hugely exciting’ finds on tiny Scottish island shed light on spread of Christianity",
+   "link": "https://www.theguardian.com/science/2026/oct/01/lismore-archaeological-finds-scottish-island-monastery-spread-of-christianity",
+   "date": "2026-09-30T23:00:21+00:00",
+   "source": "The Guardian — Archaeology",
+   "kind": "media",
+   "abstract": "Community-funded archaeological excavations of ‘really important’ sixth-century monastery also rewrite story of Lismore To the residents of the Scottish island of Lismore, population 190, history is never very far away. The tiny island near Oban in Argyll has no row of shops or even a pub – if islanders want to meet for a coffee, the only place to do so is in the lively Gaelic heritage centre that records the many centuries of community life on the island. This quiet place, documentary evidence records, was home to a monastic settlement in the sixth century AD, when missionaries from Ireland were first moving into northern Britain to spread Christianity. But apart from a few fragments of an early carved cross, there was almost nothing to see from this period of history. Continue reading...",
+   "doi": null,
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": null
+  },
+  {
+   "title": "Community-led archaeology project uncovers a major monastery of medieval Scotland",
+   "link": "https://phys.org/news/2026-09-community-archaeology-uncovers-major-monastery.html",
+   "date": "2026-09-30T23:00:06+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "Community-led archaeology has uncovered the remains of an early medieval monastery in Argyll, western Scotland, identifying it as the high-ranking ecclesiastical center of Lios Mòr, previously known only from historical references and local traditions.",
+   "doi": null,
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": null
+  },
+  {
+   "title": "Confronting demons: How acoustic and AI technology brought ancient Etruscan tombs back to life",
+   "link": "https://phys.org/news/2026-09-demons-acoustic-ai-technology-brought.html",
+   "date": "2026-09-30T22:40:04+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "Although it is not always obvious, sound guides how we experience the world around us. And the latest archaeoacoustic techniques show that even the world's earliest architects understood this.",
+   "doi": null,
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": null
+  },
+  {
+   "title": "Peruvian mummies raise questions about Wari conquest of Nasca civilization",
+   "link": "https://phys.org/news/2026-09-peruvian-mummies-wari-conquest-nasca.html",
+   "date": "2026-09-30T22:20:16+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "For centuries, historians have drawn the boundaries of where ancient people lived based on the evidence they left behind. By studying their remains, burial practices and other archaeological clues, they can determine the types of relationships they had with other people in the area. However, this can all change when new archaeological evidence is found.",
+   "doi": null,
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": null
+  },
   {
    "title": "Clay tablets reveal how Babylonian students learned about their gods",
    "link": "https://phys.org/news/2026-09-clay-tablets-reveal-babylonian-students.html",
@@ -46,7 +224,7 @@
    "date": "2026-09-30T17:30:00+00:00",
    "source": "Archaeology Magazine",
    "kind": "media",
-   "abstract": "BARI, ITALY—The remains of a woman holding a child have been unearthed at the site [&#8230;] The post Medieval Grave with Remains of Woman and Child Uncovered in Italy appeared first on Archaeology Magazine . BARI, ITALY—The remains of a woman holding a child have been unearthed at the site of Sipontum, which is located in Italy on the coast of the Adriatic Sea, according to a Gizmodo report. “There must have been a close relationship if the girl or boy was in her arms,” said Giuliano Volpe of the University of Bari Aldo Moro. “DNA analysis will clarify the kinship relationship more precisely,” he added. The grave was found in a medieval cemetery at the port city. The woman is estimated to have been between 30 and 40 years old when she died, while the child is thought to have been between five and seven years of age. Carbon dating of the remains is planned. Researchers have dated the cemetery, which was likely located near a church, monastery, or hospital, to the twelfth or thirteenth century based upon the ceramics and fragments of painted plaster found in the soil layers above the burials. “They were simple burials, without grave goods or elements of clothing or ornamentation (wi…",
+   "abstract": "BARI, ITALY—The remains of a woman holding a child have been unearthed at the site [&#8230;] The post Medieval Grave with Remains of Woman and Child Uncovered in Italy appeared first on Archaeology Magazine . Burial, Sipontum, Italy BARI, ITALY—The remains of a woman holding a child have been unearthed at the site of Sipontum, which is located in Italy on the coast of the Adriatic Sea, according to a Gizmodo report. “There must have been a close relationship if the girl or boy was in her arms,” said Giuliano Volpe of the University of Bari Aldo Moro. “DNA analysis will clarify the kinship relationship more precisely,” he added. The grave was found in a medieval cemetery at the port city. The woman is estimated to have been between 30 and 40 years old when she died, while the child is thought to have been between five and seven years of age. Carbon dating of the remains is planned. Researchers have dated the cemetery, which was likely located near a church, monastery, or hospital, to the twelfth or thirteenth century based upon the ceramics and fragments of painted plaster found in the soil layers above the burials. “They were simple burials, without grave goods or elements of cloth…",
    "doi": null,
    "first_seen": "2026-09-30T21:25:41+00:00",
    "alt": null
@@ -148,12 +326,12 @@
    "alt": null
   },
   {
-   "title": "Au Domaine de Certes, l’archéologie redessine l’histoire des Landes de Gascogne - ladepechedubassin.fr",
+   "title": "Au Domaine de Certes, l’archéologie redessine l’histoire des Landes de Gascogne - La Dépêche du Bassin",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNWlhbkNqMEcxTE9KWTloT21uaF9xUXd1Q1lXajZHYlIyZWxsaTNMYVJuTlktVHM5anVSZnRNOXljNFRBTHEyQW82ZDhXeTMxZGxEeXFPa2pQbnNVTENMOVVWRHVQU1VfbFIxd0xITlY1OVRZbThMcmNjZGg3XzRRaUliVEhva2JkT3FEZGQ2OUtDUHlVcHVNYXp2cVVPb2xkQjU2Z1V2RHdCTXJSeUJNcE1YM0lVemp5MDR4OUY0VWN5bjRVbE93T1VYVE5oVXcwNjNTTTYycw?oc=5",
    "date": "2026-09-30T13:01:28+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Au Domaine de Certes, l’archéologie redessine l’histoire des Landes de Gascogne &nbsp;&nbsp; ladepechedubassin.fr",
+   "abstract": "Au Domaine de Certes, l’archéologie redessine l’histoire des Landes de Gascogne &nbsp;&nbsp; La Dépêche du Bassin",
    "doi": null,
    "first_seen": "2026-09-30T16:50:26+00:00",
    "alt": null
@@ -269,17 +447,6 @@
    "alt": null
   },
   {
-   "title": "Daily quiz: 30 September",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-09-30T06:00:14+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
    "title": "Bats may have first evolved in Europe 65 million years ago",
    "link": "https://www.sciencedaily.com/releases/2026/09/260929053531.htm",
    "date": "2026-09-30T05:12:36+00:00",
@@ -288,17 +455,6 @@
    "abstract": "A huge genomic and fossil study suggests bats first evolved in Europe around 65 to 60 million years ago before spreading across the globe. The findings also indicate that flight and echolocation emerged near the beginning of bat evolution, potentially helping explain how bats became one of the most successful mammal groups on Earth.",
    "doi": null,
    "first_seen": "2026-09-30T16:50:26+00:00",
-   "alt": null
-  },
-  {
-   "title": "Archéa (95) : un atelier sur les ossements animaux pour la Fête de la Science 2026 - Sortir à Paris",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnZ6VmdlTzRaS0ZOM2U1Rk9SU2loaVVHam1peFBjV1c5WlROUk1hX05xUW5tNjl6S3Q2TFUzV2pwZlc2eDVDSDh6Z3ozU3J0RmZhcXMwTWRuUU1kV0hESVJkNEhVRWxEVzZlRmtDZ05MYlNxdVVtbWItQlNEdmZRZFlhY1FmY3Q4dkZGQ09iZFVQM2xtVTdMb1JjUW1jVjJCUjVKOE9GN2gyX3N5Smp3Q2ZOZHVTeGJKQVVLZnpwY1RBS3g0eXk2WjdjWjhLUERGWW5ueg?oc=5",
-   "date": "2026-09-30T04:14:22+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Archéa (95) : un atelier sur les ossements animaux pour la Fête de la Science 2026 &nbsp;&nbsp; Sortir à Paris",
-   "doi": null,
-   "first_seen": "2026-09-30T11:12:22+00:00",
    "alt": null
   },
   {
@@ -1206,6 +1362,28 @@
    "alt": null
   },
   {
+   "title": "Archéa (95) : un atelier sur les ossements animaux pour la Fête de la Science 2026 - Sortir à Paris",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRnZ6VmdlTzRaS0ZOM2U1Rk9SU2loaVVHam1peFBjV1c5WlROUk1hX05xUW5tNjl6S3Q2TFUzV2pwZlc2eDVDSDh6Z3ozU3J0RmZhcXMwTWRuUU1kV0hESVJkNEhVRWxEVzZlRmtDZ05MYlNxdVVtbWItQlNEdmZRZFlhY1FmY3Q4dkZGQ09iZFVQM2xtVTdMb1JjUW1jVjJCUjVKOE9GN2gyX3N5Smp3Q2ZOZHVTeGJKQVVLZnpwY1RBS3g0eXk2WjdjWjhLUERGWW5ueg?oc=5",
+   "date": "2026-09-29T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéa (95) : un atelier sur les ossements animaux pour la Fête de la Science 2026 &nbsp;&nbsp; Sortir à Paris",
+   "doi": null,
+   "first_seen": "2026-09-30T11:12:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "Journées archéologiques transfrontalières 2026 de la vallée du Rhin supérieur - Ministère de la Culture",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR0FudnpkZUUtdnNtVVdyY25nXy05TEdWUXhjTi1EX1VBRy04RXdNa1JsbUc3ZTZvcnBQd1hIVTlDMWZKTGo1d2hJSnl0M1Z1QnZxeHM4alhBRnVzNUdHbVM1VHI3OTN1endFd296YzNCUlk5dUJhdE9hYUpxSGVkQ0p4VWp1aFFNWmMwc01kbHJZVzlzX1dfNXdnSmd5SnU0SUFvSVJhSHFTYVRXVUdRT0JOSlYtQXRyLWFJUDgzQkx0RjdyR3k1YjJ1VExiaVZzdGczbmZBZ3k?oc=5",
+   "date": "2026-09-29T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Journées archéologiques transfrontalières 2026 de la vallée du Rhin supérieur &nbsp;&nbsp; Ministère de la Culture",
+   "doi": null,
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": null
+  },
+  {
    "title": "Anthropic dévoile des investissements massifs avant son introduction en bourse",
    "link": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/anthropic-parie-sur-une-revolution-de-l-ia-plus-profonde-que-celle-d-internet_195119?xtor=RSS-12",
    "date": "2026-09-29T06:49:20+00:00",
@@ -1214,6 +1392,17 @@
    "abstract": "Anthropic estime que l’intelligence artificielle pourrait transformer l’économie mondiale plus profondément que l’industrialisation, l’électricité et Internet. Son prospectus d’introduction en bourse dévoile aussi l’envers de cette ambition : des dépenses colossales dans le cloud et les infrastructures.",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "César avait-il raison? Une découverte sur l'île de la Cité à Paris confirme ses récits sur la Lutèce gauloise - magazine GEO",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMlkwMl9kQ2FzMFJobmJvODZiMG8xZHVuYUdwSzAta1RZNTZQMndDMnYtOHc3c3BkUTVkUHNlZVU5WWk1NTZfMTVOWXJ4S19YVjVpM2FXbGVfc2dtbVlrSUlSMTV4NUNYSV80VWxXSE85M2ZJcDdHRW5DYjRjNDVCUl9jcWxBcFlDM2NaRzFydUVvdGV5YWxVYm9qNWtNS3pFVkNhbEo2WS14ZkQwUEVaLUxHYk9YdTBwUHFQcTFMWTAxLVZJOXpsM2t1S2V0eEU?oc=5",
+   "date": "2026-09-29T03:38:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "César avait-il raison? Une découverte sur l'île de la Cité à Paris confirme ses récits sur la Lutèce gauloise &nbsp;&nbsp; magazine GEO",
+   "doi": null,
+   "first_seen": "2026-10-01T11:39:37+00:00",
    "alt": null
   },
   {
@@ -1359,12 +1548,12 @@
    }
   },
   {
-   "title": "Un rare spécimen de mosasaure retrouvé dans le sud de la France rebat les connaissances sur ce reptile aquatique - liberation.fr",
+   "title": "Un rare spécimen de mosasaure retrouvé dans le sud de la France rebat les connaissances sur ce reptile aquatique - Libération",
    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQcTZKVnNfSVNMT1hMcjY2M3pMWE1sZzBJUEl2SmEwTlpWWE9QVHNVODBxemdWQmpaT1JrNWdXTGY2WmRMdVMwMndtMl9fcDB0ZEhrdlhaTGswTDg4clFlQm9WQmpnVlBRajh5UHRITkMzSEhDakVCMGMzTHBiUmNjWG5mSDdJaVhhWGxJZlVPQVhTYnZPSXBQS2pmNnJzRFlfaHFvbnV2ZVJDZ0dPVGFmQ1lwU0h5cGNsZ1VnNnliZ3VSSjVaUXByQ04zZFBEaVBkWTlNZFV5bk5hMHVSSGgxQmEyb2NYZXUwY1cySkFoVFlfZkp2UkFxa2YxbzNVTTl5OTVHcUZVUlZoRmc5QjllTDZfdnNIZnNMLWVYWlhSaS1jdw?oc=5",
    "date": "2026-09-28T16:07:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Un rare spécimen de mosasaure retrouvé dans le sud de la France rebat les connaissances sur ce reptile aquatique &nbsp;&nbsp; liberation.fr",
+   "abstract": "Un rare spécimen de mosasaure retrouvé dans le sud de la France rebat les connaissances sur ce reptile aquatique &nbsp;&nbsp; Libération",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -1513,12 +1702,12 @@
    "alt": null
   },
   {
-   "title": "La découverte d’un rempart gaulois apporte un nouvel éclairage sur l’histoire de Paris - The Art Newspaper France",
+   "title": "La découverte d’un rempart gaulois apporte un nouvel éclairage sur l’histoire de Paris - artnewspaper.fr",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZklPRkNlR1A2MFZVMjRBVlh3VXg2SW56SUlxN0NORHBRT2FiRF9TZWQ1ZkFDa2QwYUxuMXpRdEFvbWRZeHdOT05qc0VBS1F0bVVuTXhxbUpQWEVlb2diN3E0ektTdG0zSGVVTFRIVmZOZWRROWVXNnRRZFRDaDRzaGJSa1Vya0EwUC10Vm9seVZ1UFhDUnBLSnA4UEZkUkFVZTlzdXZLcC1HQlNadTctVzh1aWU4U2h1WGRFR3owc3g?oc=5",
    "date": "2026-09-28T11:00:54+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "La découverte d’un rempart gaulois apporte un nouvel éclairage sur l’histoire de Paris &nbsp;&nbsp; The Art Newspaper France",
+   "abstract": "La découverte d’un rempart gaulois apporte un nouvel éclairage sur l’histoire de Paris &nbsp;&nbsp; artnewspaper.fr",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -1741,12 +1930,12 @@
    "alt": null
   },
   {
-   "title": "Joy Division, archéologie d’un mythe - liberation.fr",
+   "title": "Joy Division, archéologie d’un mythe - Libération",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmI4cGhybXlWc3VPLWdpM0dyVWhMbE5tMUItMS1sbF9IQ2xaM0FRMzJ4UG5YcjB1OVBuOXJoWmlxaXd6MEFtT0t6OHBiRlRLckY2bW1XbV9jMkczTFBSYVFuVzczeE5YZW5PVnFNX0lITXdrMTRCRFRudG51MFlEZEhpX0Uxd291Ym56b0szakxxLUkwS2QzODJFS1ExM1FKMmx2MTkxUWNxMURWUHpQOXpyYw?oc=5",
    "date": "2026-09-26T13:41:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Joy Division, archéologie d’un mythe &nbsp;&nbsp; liberation.fr",
+   "abstract": "Joy Division, archéologie d’un mythe &nbsp;&nbsp; Libération",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -3248,12 +3437,12 @@
    }
   },
   {
-   "title": "La Quinzaine de l’archéologie invite à remonter le temps à Cambous - midilibre.fr",
+   "title": "La Quinzaine de l’archéologie invite à remonter le temps à Cambous - Midi Libre",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ0xGaE1oQThSVGowSDJKNjQ5aDl0VVFYbGxJUmhLXzdDWDh4LVBVdWtkMVVwdFFEa2FIX2I5SW14eWUxY2VZSnVjNm9tVlRya3loSGZkWElBbl92VEhQRUI0M1NZZlM4Q2tWQkVPek5aWE9QcHNjcnZBWkNZMTE0MDNpTXBLem5jWjZiR3V0WExOenNXZjNqSW84QjJUckxtS05PNEstVlo2WXUyYjBuZU1NM08?oc=5",
    "date": "2026-09-18T03:05:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "La Quinzaine de l’archéologie invite à remonter le temps à Cambous &nbsp;&nbsp; midilibre.fr",
+   "abstract": "La Quinzaine de l’archéologie invite à remonter le temps à Cambous &nbsp;&nbsp; Midi Libre",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -4068,6 +4257,17 @@
    "alt": null
   },
   {
+   "title": "Haute vallée de l’Aude : Jean Guilaine... de l’archéologie à la chanson occitane avec Yvette Yché - L'Indépendant",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcVRhNHBPZUpVRW92SDJ4bXhscDI0bENaSVVkSkhWaWszejlfcmh3S2FpV0FSdWpyazFjOXdtX284M255SGJPUnBhZVMycmdXSldpb0pya19kN3lTYmdJajFXUXlzVlRxaXZUWUdKb0pIb2hqSkI2OUQ2aUFPT1praGdTNEFDQnlvWGd0VE9welY3NVlQODZUMUtJU21BamxkVzQxQTBkSGROQWhEY2hWc2ZRNDVLOW41RnFVQmNzbUZuaG9Nc1lTSUJhd0gyOW5KeWk5MEZxQlg2Zw?oc=5",
+   "date": "2026-09-06T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Haute vallée de l’Aude : Jean Guilaine... de l’archéologie à la chanson occitane avec Yvette Yché &nbsp;&nbsp; L'Indépendant",
+   "doi": null,
+   "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": null
+  },
+  {
    "title": "80,000-year-old “arrowheads” rewrite human history",
    "link": "https://www.sciencedaily.com/releases/2026/09/260903064233.htm",
    "date": "2026-09-06T00:46:25+00:00",
@@ -4090,12 +4290,12 @@
    "alt": null
   },
   {
-   "title": "\"La Provence, un laboratoire pour l'archéologie méditerranéenne\" : l'interview de Dominique Garcia, archéologue et prof à AMU - laprovence.com",
+   "title": "\"La Provence, un laboratoire pour l'archéologie méditerranéenne\" : l'interview de Dominique Garcia, archéologue et prof à AMU - La Provence",
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdXl4V25Xb3ZIamRvbndtWk9iV3FhMHZQby12ejBHZjRBTDVEUE80cEcxLUo0Y0ZCX1B2eExOZGpwMlFiZGhJQUJvbGtZM3FlRWNIUFZ1U0tIUnVTTkVWMGRZSEs2U3dRZXBoZ1FpRGxmWVlBXzQ1QnIwd2pDOThUMUhXcElxV0xUV3owWlJrWmI4bDFlM0pRSDlJYjJDLTl2VjNuTUlXeVpSdHJmN3NZTk5Lamtoblp0N0ZjQUJVZzhiZVVua0l2cjAyX01STFpERXh0NWRrNjBKNkJGLThfMmlEU1kwdnJQamphd0hVdEJ2cllGdjZ6Wk8zZmxnZFg3aXNfNUNzUDZzVWtaNDRLZ0NjTQ?oc=5",
    "date": "2026-09-05T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "\"La Provence, un laboratoire pour l'archéologie méditerranéenne\" : l'interview de Dominique Garcia, archéologue et prof à AMU &nbsp;&nbsp; laprovence.com",
+   "abstract": "\"La Provence, un laboratoire pour l'archéologie méditerranéenne\" : l'interview de Dominique Garcia, archéologue et prof à AMU &nbsp;&nbsp; La Provence",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -4112,12 +4312,12 @@
    "alt": null
   },
   {
-   "title": "Art-chéo ! : fêtez les 20 ans d'Archéologie Alsace - alsace.eu",
+   "title": "Art-chéo ! : fêtez les 20 ans d'Archéologie Alsace - Collectivité européenne d'Alsace",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wSlJnNjNIRmE0Y042UXdRMmIxSFhDQ0NWQzk1X1Jta05nb3dOXzhYV1dla3UtSDRTTXpaYkplREpfVFVZVGRVTjhOcDR4UkMtcHdEbWNGdW1tWGpyd1ZJUEREWHFSMGcwUjZrYmoyeXNNWUNvMTdJWmxOZDQ?oc=5",
    "date": "2026-09-03T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Art-chéo ! : fêtez les 20 ans d'Archéologie Alsace &nbsp;&nbsp; alsace.eu",
+   "abstract": "Art-chéo ! : fêtez les 20 ans d'Archéologie Alsace &nbsp;&nbsp; Collectivité européenne d'Alsace",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -5664,12 +5864,12 @@
    "alt": null
   },
   {
-   "title": "Ça en jette ! Quand l'archéologie s'intéresse à nos déchets - seine-et-marne.fr",
+   "title": "Ça en jette ! Quand l'archéologie s'intéresse à nos déchets - Département de Seine-et-Marne",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1BEY2drelNWYVB4THRrMUR5TE00VjNUdFpNdnNuNG5QcW9jNHlIU244Z281VE9zNGZfRmQ0T01KRFZWN1NqX1ItV0g5Y1ZpMUdkMEJuc1IzQVFMSm5yZE1YYjVNWGJQRGZBT193N0xjSkVuYUYzMG1jWWxMMkZVZnAwZi1qWTJLRjFmWXYtN0tLZmtmUlQwXzRDQ21aNm5SWGc?oc=5",
    "date": "2026-06-13T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Ça en jette ! Quand l'archéologie s'intéresse à nos déchets &nbsp;&nbsp; seine-et-marne.fr",
+   "abstract": "Ça en jette ! Quand l'archéologie s'intéresse à nos déchets &nbsp;&nbsp; Département de Seine-et-Marne",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -5760,12 +5960,12 @@
    "alt": null
   },
   {
-   "title": "Journées européennes de l’archéologie : Visites guidées à Aubigné-Racan - Conseil départemental de la Sarthe",
+   "title": "Journées européennes de l’archéologie : Visites guidées à Aubigné-Racan - sarthe.fr",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNczFZRy1qU0lNMkNvbkM2Q29EUFJteHFWbjNWdENvaGpxNTBfMFhyS2tTMkU5WEJjaml1Q0tPQUx3WmwzUUt1ZHRyRGpST1YzRjJlUmNMZ25EVjkwT2RoeEU3T2ZFX0I3S3pXMEdnOVVObEt6MTF6aEljNGREQ3BZQktfWlpwVzJQdk8w?oc=5",
    "date": "2026-06-10T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Journées européennes de l’archéologie : Visites guidées à Aubigné-Racan &nbsp;&nbsp; Conseil départemental de la Sarthe",
+   "abstract": "Journées européennes de l’archéologie : Visites guidées à Aubigné-Racan &nbsp;&nbsp; sarthe.fr",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -5782,12 +5982,12 @@
    "alt": null
   },
   {
-   "title": "Journées Européennes de l’Archéologie : Les Gaulois de Concarneau à l’honneur - Site de la ville de Concarneau",
+   "title": "Journées Européennes de l’Archéologie : Les Gaulois de Concarneau à l’honneur - concarneau.fr",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdklCSTlBODJiVTRHRDFGTWJBWjM1V0Z1N2JsV1libDZ3NV9udzdCUU1oTWpqVXFVQnV6QmM5SWJ3NHpJSktQR0NJaGd0Nk9LTnM1cFh1VEpOMkZVMGZQbWU4ZVgwcGtPYWROMHZVMHRRRWwzTlVBUW1kYkhRUTBjN2R6VExUcGVTbE54aUhYVFI1dHZ4YmMzNW82ZVQ5RHFFN29LeUNWUVJLc0tkTG1JWg?oc=5",
    "date": "2026-06-09T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Journées Européennes de l’Archéologie : Les Gaulois de Concarneau à l’honneur &nbsp;&nbsp; Site de la ville de Concarneau",
+   "abstract": "Journées Européennes de l’Archéologie : Les Gaulois de Concarneau à l’honneur &nbsp;&nbsp; concarneau.fr",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
