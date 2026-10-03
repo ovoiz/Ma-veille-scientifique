@@ -1,12 +1,67 @@
 {
- "generated_at": "2026-10-02T21:19:53+00:00",
+ "generated_at": "2026-10-03T10:27:36+00:00",
  "counts": {
-  "total": 645,
+  "total": 651,
   "journal": 201,
-  "media": 444,
-  "new_this_run": 46
+  "media": 450,
+  "new_this_run": 48
  },
  "items": [
+  {
+   "title": "How the Smithsonian is using AI to connect artifacts from the American Revolution",
+   "link": "https://phys.org/news/2026-10-smithsonian-ai-artifacts-american-revolution.html",
+   "date": "2026-10-03T09:15:48+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "The distance in the march from the American Revolution to the age of artificial intelligence is almost beyond comprehension. But leaders of the Smithsonian Institution are using AI to bridge the divide.",
+   "doi": null,
+   "first_seen": "2026-10-03T10:27:36+00:00",
+   "alt": null
+  },
+  {
+   "title": "LIVRE. \"La bosse des maths est une illusion catastrophique\"",
+   "link": "https://www.sciencesetavenir.fr/fondamental/mathematiques/livre-la-bosse-des-maths-est-une-illusion-catastrophique_194988?xtor=RSS-10",
+   "date": "2026-10-03T08:00:00+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Les deux chercheurs mêlent leurs expertises pour dresser un portrait très humain des mathématiques. Loin de la rigidité apparente de la discipline, la clé serait de trouver de bonnes représentations intuitives des problèmes.",
+   "doi": null,
+   "first_seen": "2026-10-03T10:27:36+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily Quiz: 3 October",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-10-03T06:00:07+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "Carmaux. Loto des mots, archéologie et exposition à la médiathèque - ladepeche.fr",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa25YR3lWNjBmVi05clExbXZBUlQ2QmlueTM3QkN4OTdNdHEybS12azdxcllJVU5LLUVBaWJmcldkd2ozZUF4THB0cXpYdGJOSHFqVFBPTU81QURqOEJSM19ob2lYckJzUjhBNFEwN0lzS0t5cUF6UHNib0FjcGJPQ3VybEJaX2dhUDItbVRoX0t3Rjk5cFJCbVFyM0NjcHJTSEtxd2VFd0w?oc=5",
+   "date": "2026-10-03T03:17:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Carmaux. Loto des mots, archéologie et exposition à la médiathèque &nbsp;&nbsp; ladepeche.fr",
+   "doi": null,
+   "first_seen": "2026-10-03T10:27:36+00:00",
+   "alt": null
+  },
+  {
+   "title": "Rome : voici comment prend forme le grand ensemble archéologique qui s'étend des Forums impériaux au Cirque Maxime - Finestre sull'Arte",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdXVQb0lEWDd1OWFXcC1tbkxwNmhZNDQtSVdMVXNXeEtydUlFaTFKZF96aEZTZnpneENPaDB3RXZ2VmVMOFZ5X2s1Q3pjWjBzOFVLanp1aU9FaXdPT09JZlg1WXF2NW1GbXhGWWIwTmhHUHJoWmsyYWVZWWN2RkcwNkV0Sk5PVDZoWGxGZkFLWjhSNW4tV3dhXzIwRGhfbUV2aUR4ZjlzQzFXdEV3ZlBqTEJaNG1ObUozLTQyZUVpMTNvMWRSUjFHVG5rV3gwdjVnSk1sUXVGQzAzTkJRcTNmenluSlJESHRDYlEyMDh3REtvSUk?oc=5",
+   "date": "2026-10-02T21:40:30+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Rome : voici comment prend forme le grand ensemble archéologique qui s'étend des Forums impériaux au Cirque Maxime &nbsp;&nbsp; Finestre sull'Arte",
+   "doi": null,
+   "first_seen": "2026-10-03T10:27:36+00:00",
+   "alt": null
+  },
   {
    "title": "Flat Head Syndrome in 42% of Iron Age Italians",
    "link": "https://www.anthropology.net/p/flat-head-syndrome-in-42-of-iron",
@@ -16,6 +71,17 @@
    "abstract": "Skulls from Matelica, Italy, show deformational plagiocephaly nearly 3,000 years before the Back to Sleep campaign Eleven skulls from two cemeteries at Matelica, a town in the Marche region of central Italy, are flatter at the back than they should be, and on one side more than the other. Most are flattened on the right. The people who owned them were buried in the mid-ninth to eighth century BCE, in deep rectangular pits at the necropolises of Crocifisso and Brecce, and the shape of their heads is the same one pediatricians now measure with calipers and 3D imaging in infants who sleep in the wrong position. The condition is deformational plagiocephaly, or flat head syndrome, and the team led by Michael Allen Beck De Lotto of the University of Padua found 1 it in 11 of the 26 crania preserved well enough to assess, or 42.3%. Early Iron Age skulls from Matelica, Italy (mid-9th&#8211;8th c. BCE) showing flattened crania. Credit: Beck De Lotto et al. 2026 That figure sits almost exactly on top of what clinicians report today. Studies of infants seven to twelve weeks old put modern prevalence between 37.8%and 46.6%. The comparison is imperfect, since the Matelica sample is adults and t…",
    "doi": null,
    "first_seen": "2026-10-02T21:19:53+00:00",
+   "alt": null
+  },
+  {
+   "title": "Conférence « Introduction à l’archéologie » à Paradou, Conférences : date, horaires, tarifs - jds.fr",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ2JvVE15Q0h3eXZ3dGJOS1YyUzVwVW1LTlphdXIxQWdTQWdjWUh2ZjRBUU9XVndyVU1BOVNNLTlqTmt5NmI2c0daRVR3YVBCQURNdkNnLTdPWlZEdmE1d2tWMWFySmRNbTlQQ1VWMjRVa3gtOUFfbjZHRUxpRVBnMzJDanNPMUswa0ZXbnE2MV9OM1B6Z1NnV2lSN1BRNGtWRjdfYlcwb005NjVxVXRsUA?oc=5",
+   "date": "2026-10-02T20:41:53+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Conférence « Introduction à l’archéologie » à Paradou, Conférences : date, horaires, tarifs &nbsp;&nbsp; jds.fr",
+   "doi": null,
+   "first_seen": "2026-10-03T10:27:36+00:00",
    "alt": null
   },
   {
@@ -93,12 +159,23 @@
    "alt": null
   },
   {
-   "title": "À Briord, ce musée raconte plus de 2 000 ans d’histoire locale - La Voix de l'Ain",
+   "title": "Archéo-sexisme: mettre au jour les discriminations vécues par les femmes dans le milieu de l'archéologie autour de plusieurs événements phares - L'Avenir",
+   "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQRjVaZ0ZSM1lNN2FCd2ZodHJPNU1vbC14NFc2ZXotSlpJclB4MkpXbVNTdGtKZXYtTG5MRU5QRXFlWlY4ejBhWktZdjY4bWpvWElFY0pDcVB5U1ZtNEwyR0hLMEhubzR6N0dDS21fUGhNMVFXWkdoMllLa0tqRUg3dFBiRU0yVmJ4U1ZxbGJtMUNTN0lMRDdXaENIZEtJUlNCWFBUU20wWmFlcXJiQVNSRVd6UnVlVmZZWmRZbkF1R2x5SVZPZ2pHcTF1cHdqcERmMjBWajlEazVHNjhSYUQwVGVoRDNtNWhVRDFQN1p0VWQ5T2VUN0lERUt5bDdaSGtBN1BScnhqeTVmTm1iYTRURjZlUDc3QWVFZXVQeEhxRmZWaTdqdEh6V2tBb1JKVHVwdWNmVENBZjRIZGdIZWQ4OElkTWxLdw?oc=5",
+   "date": "2026-10-02T12:05:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéo-sexisme: mettre au jour les discriminations vécues par les femmes dans le milieu de l'archéologie autour de plusieurs événements phares &nbsp;&nbsp; L'Avenir",
+   "doi": null,
+   "first_seen": "2026-10-03T10:27:36+00:00",
+   "alt": null
+  },
+  {
+   "title": "À Briord, ce musée raconte plus de 2 000 ans d’histoire locale - lavoixdelain.fr",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aNXRmTGpabDBCdTQyTXhxZnhzOVlXWEVJWGZZRlZtbzVJb3ljTHdRRnlBTDM4ZURNd1I1NXpmSEgzWWJTR2lvYW51ZFBCclBtR1dWLUJCSmdqdmp2Rm5Ddm44Umo0MXVocjJzMEhxcWtPTTA?oc=5",
    "date": "2026-10-02T12:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "À Briord, ce musée raconte plus de 2 000 ans d’histoire locale &nbsp;&nbsp; La Voix de l'Ain",
+   "abstract": "À Briord, ce musée raconte plus de 2 000 ans d’histoire locale &nbsp;&nbsp; lavoixdelain.fr",
    "doi": null,
    "first_seen": "2026-10-02T16:40:07+00:00",
    "alt": null
@@ -277,17 +354,6 @@
    "abstract": "Les femmes et l'archéologie : l'AWAP met au jour les discriminations vécues dans le milieu autour de plusieurs événements phares &nbsp;&nbsp; DHnet",
    "doi": null,
    "first_seen": "2026-10-02T11:09:24+00:00",
-   "alt": null
-  },
-  {
-   "title": "Daily Quiz: 2 October",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-10-02T06:00:13+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
   },
   {
@@ -513,6 +579,17 @@
    "abstract": "Le ministère de l’Agriculture autorise pour 120 jours l’herbicide Avadex Factor, à base de tri-allate, un composé organochloré, pour les cultures d’orge, malgré les risques pour les eaux souterraines relevés par l’Anses.",
    "doi": null,
    "first_seen": "2026-10-01T11:39:37+00:00",
+   "alt": null
+  },
+  {
+   "title": "Bunker Archéologie - ActuaLitté.com",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGNaNXRrX1FtT0FPYjVzM2xsWVp6LWY2NzZqM1JCcFJuRDFtOS1FcEcxcHRzaUJHcUJXTzc3b0JCTFdiU3BBdzVndkoxYzJ1ZWtJTUFIVWV6dDNEamROa1VVYU5nNXRQTl9NQ1RFYkc3YXFGRUdyVWhna25BU3JydTFRMXBYcHJHbXE1Z2JPZGJ6bmI2RHc?oc=5",
+   "date": "2026-10-01T07:29:50+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Bunker Archéologie &nbsp;&nbsp; ActuaLitté.com",
+   "doi": null,
+   "first_seen": "2026-10-03T10:27:36+00:00",
    "alt": null
   },
   {
@@ -853,6 +930,17 @@
    "abstract": "Archéologie : un important atelier de saunier de l’âge du Fer, 4 urnes funéraires gallo-romaines et des céramiques médiévales découverts à Pornic, près de Nantes &nbsp;&nbsp; historia.fr",
    "doi": null,
    "first_seen": "2026-09-30T11:12:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "Tour-de-Trême: à la recherche de l'ancienne église - frapp.ch",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaTZQX0x2UU5pUFF4SlFIdHVhYWxualJvZ3IyZ2dfM3F5VXhrb0U3SDgwSmpNbUFKU3RvUmFzQzJ5eVR2Ym1Zbk9uazk3TE9kVldHTjhoREpTYktjNHFCa2NZSnU2WHI0dHpSMEJQSlZJcEowZjFLNklid0V2WGhaTVp1ZWhBbUwtNmFSaEh3?oc=5",
+   "date": "2026-09-30T09:59:36+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Tour-de-Trême: à la recherche de l'ancienne église &nbsp;&nbsp; frapp.ch",
+   "doi": null,
+   "first_seen": "2026-10-03T10:27:36+00:00",
    "alt": null
   },
   {
@@ -1971,12 +2059,12 @@
    "alt": null
   },
   {
-   "title": "Exposition « Aux racines de la forêt : archéologie des Landes de Gascogne » au Domaine de Certes et Graveyron - Les services de l'État en Gironde",
+   "title": "Exposition « Aux racines de la forêt : archéologie des Landes de Gascogne » au Domaine de Certes et Graveyron - gironde.gouv.fr",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObWNaZ2o0b3RrOW5fSFM1UXcxUUlublkwQlczTEt0M1A3TFBrNEplRnR4T0RSbEtGQjRoODY5SG5CRDItZHhJcWF4R2N1V0pELWVlZE0tbU00enNRbWhrSkNFdkt4aTBwWTRkajFXQWYyTVk4TG5yejNPUEl0bTlyQlMwTlg3Ukk1R25STzhwWXZfUUF3TlBTdTNtUVNlOGtRbUtucncyUnhvT0lN?oc=5",
    "date": "2026-09-28T20:53:17+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Exposition « Aux racines de la forêt : archéologie des Landes de Gascogne » au Domaine de Certes et Graveyron &nbsp;&nbsp; Les services de l'État en Gironde",
+   "abstract": "Exposition « Aux racines de la forêt : archéologie des Landes de Gascogne » au Domaine de Certes et Graveyron &nbsp;&nbsp; gironde.gouv.fr",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -2152,12 +2240,12 @@
    "alt": null
   },
   {
-   "title": "Archéologie : le sépulcre de la reine Néfertiti est-il caché dans le tombeau de Toutânkhamon - L'Humanité",
+   "title": "Archéologie : le sépulcre de la reine Néfertiti est-il caché dans le tombeau de Toutânkhamon - humanite.fr",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUW5QUk1BZWhFUmYzcTlJNFltX1VWME1uYkRCYkp1aGt0cnZzMEZneWZaeV9qbmNDR1h1bUltd0xYak0yODhOYjBNR0tQN2xhTlZsODk1X1JhOU5oOWxOZ0dBWTAtMVBvclRHTVI4OGZ2dW5ZWlM5ejVRb09HLUdJbmc4dlYybXNWZE5GMjZFd3VpdERmZ1dHMkFQeDNLc2ZnX1R1QmtNdDNwb3BVNkdmY3ZwRTI1STZGRUJnemdqWGtmSmpwd1R5OTJWaG9OdTVN?oc=5",
    "date": "2026-09-28T12:28:35+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Archéologie : le sépulcre de la reine Néfertiti est-il caché dans le tombeau de Toutânkhamon &nbsp;&nbsp; L'Humanité",
+   "abstract": "Archéologie : le sépulcre de la reine Néfertiti est-il caché dans le tombeau de Toutânkhamon &nbsp;&nbsp; humanite.fr",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -7170,12 +7258,12 @@
    "alt": null
   },
   {
-   "title": "Un patrimoine à protéger: à la découverte de l’archéologie subaquatique - lactualite.com",
+   "title": "Un patrimoine à protéger: à la découverte de l’archéologie subaquatique - L’actualité",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTkwd1BjZWhTamxYMzB5M0V4TDNyaEJYUlVsVWUzczNkakNsQXMtakVOdE1tc0hBM2hqWUFGRXpsOGRnME5NVUo2eVNINTMwYmszNGg0S3VVT3FYNmgtVmJJSGJOMEg3Wi03VFlBVENnY2tjNEI1Wkw4X25FUkdfejZiRW5GbHZoZ2MzMkFkbUtFeEJmYy1ZZXJaaE5iWW9mVjQ4dXU2Zw?oc=5",
    "date": "2026-08-09T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Un patrimoine à protéger: à la découverte de l’archéologie subaquatique &nbsp;&nbsp; lactualite.com",
+   "abstract": "Un patrimoine à protéger: à la découverte de l’archéologie subaquatique &nbsp;&nbsp; L’actualité",
    "doi": null,
    "first_seen": "2026-09-30T11:12:22+00:00",
    "alt": null
@@ -7697,12 +7785,12 @@
    "alt": null
   },
   {
-   "title": "Exposition à Nemours : quand l’archéologie s’intéresse à nos déchets - Le Moniteur de Seine-et-Marne - mesinfos",
+   "title": "Exposition à Nemours : quand l’archéologie s’intéresse à nos déchets - Le Moniteur de Seine-et-Marne - mesinfos.fr",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYWkzZm1tTHhGU0d5elEzd0dEbVBHUjdqZFhtUzBHVl9fN2taeHozTzJqbGtzTjVHYkowcG94cnNEelJtbVozNUk1NjNvelBrVUdmRnY5UzNIblRBY18zcTVTa05faTVGTkctLUZrcENGR1NMR1ZxTGZhSWtZekwyd29OUkgzb0lOcjJUYW05bEQweVZGd3o4N0FaMkNyVGtI?oc=5",
    "date": "2026-07-08T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Exposition à Nemours : quand l’archéologie s’intéresse à nos déchets - Le Moniteur de Seine-et-Marne &nbsp;&nbsp; mesinfos",
+   "abstract": "Exposition à Nemours : quand l’archéologie s’intéresse à nos déchets - Le Moniteur de Seine-et-Marne &nbsp;&nbsp; mesinfos.fr",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -8178,12 +8266,12 @@
    "alt": null
   },
   {
-   "title": "Journées européennes de l’archéologie : Visites guidées à Aubigné-Racan - sarthe.fr",
+   "title": "Journées européennes de l’archéologie : Visites guidées à Aubigné-Racan - Conseil départemental de la Sarthe",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNczFZRy1qU0lNMkNvbkM2Q29EUFJteHFWbjNWdENvaGpxNTBfMFhyS2tTMkU5WEJjaml1Q0tPQUx3WmwzUUt1ZHRyRGpST1YzRjJlUmNMZ25EVjkwT2RoeEU3T2ZFX0I3S3pXMEdnOVVObEt6MTF6aEljNGREQ3BZQktfWlpwVzJQdk8w?oc=5",
    "date": "2026-06-10T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Journées européennes de l’archéologie : Visites guidées à Aubigné-Racan &nbsp;&nbsp; sarthe.fr",
+   "abstract": "Journées européennes de l’archéologie : Visites guidées à Aubigné-Racan &nbsp;&nbsp; Conseil départemental de la Sarthe",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -8228,28 +8316,6 @@
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "Journées européennes de l’archéologie : trois jours pour redécouvrir l’alimentation à travers le temps &nbsp;&nbsp; Le Département de la Dordogne",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "Journées régionales de l'archéologie les 12 et 13 juin 2026 - Ministère de la Culture",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbHZQRmNXdm1vYWZralo0amViRHQyWVNFWEVWQmFCU1ZlZ0JsbjhobEVVNDJ6OWlfc2t6OG41TEFrU2oxbWotNDcxR1VoU19ZUEpqdGt4RjhXMDdoTngwa3dHR1NjbnFzOERNRnBsU281M0dDVEN4NF92emk1WE9SZV9hUEx6RWhKNW1rZ2dGSFE5TkllYU5vUE4wSFpnc2JVNVdHSTNSZ1ZaNXlNUm1j?oc=5",
-   "date": "2026-06-05T07:00:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Journées régionales de l'archéologie les 12 et 13 juin 2026 &nbsp;&nbsp; Ministère de la Culture",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "Les Journées européennes de l'archéologie en Centre-Val de Loire - Ministère de la Culture",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWGlKb0FTWG5qdjhMWk1uZ3NkY1pKSGppYjZXTDFLbll3YTFBWDhyZzhIZ1A0aFZjYWNtYVVfNVhoZFF2XzBOeDJNemlwbHJKTE00akxxbmhQQ2VjaE45eWlvS1I2b1Z0R3pKQm9CcFhoZE1ubVN6d1BudDAtQzYyTldQSmJ4RXVpLUVUSEE5R3hkWHhsbWQxbEVBbVJMRUdTcUFJNmdqLVV4VVg2Ym1rcEg5Vzl6Yng1c201bmV6T2JYVHNuVktRMXl0dVE4SlBucmZDMGFCZTJYVl83emJmNTh1Ylp0dGdpMTdPOE5iX3RUNmZsdWw1YVBobw?oc=5",
-   "date": "2026-06-05T07:00:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Les Journées européennes de l'archéologie en Centre-Val de Loire &nbsp;&nbsp; Ministère de la Culture",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
