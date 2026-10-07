@@ -1,19 +1,129 @@
 {
- "generated_at": "2026-10-06T21:38:17+00:00",
+ "generated_at": "2026-10-07T11:49:51+00:00",
  "counts": {
-  "total": 749,
-  "journal": 217,
-  "media": 532,
-  "new_this_run": 39
+  "total": 759,
+  "journal": 218,
+  "media": 541,
+  "new_this_run": 44
  },
  "items": [
   {
-   "title": "Sélestat. Pour les 20 ans d’Archéologie Alsace, le centre de conservation et d’étude a ouvert ses portes - dna.fr",
+   "title": "Beyond replication: Technological transmission and adaptive organization of modern human populations during the terminal Pleistocene at Fenghuangling, North China",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0047248426000941?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Human Evolution",
+   "kind": "journal",
+   "abstract": "Publication date: November 2026 Source: Journal of Human Evolution, Volume 220 Author(s): Yu Cao, Mingjie Yi, Qirui Sun, Zengrui Xing, Jincheng Ren, Gang Li, Junyi Ge, Fuyou Chen, Xiaoling Zhang",
+   "doi": null,
+   "first_seen": "2026-10-07T11:49:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "La forêt française progresse, mais les arbres meurent de plus en plus",
+   "link": "https://www.sciencesetavenir.fr/nature-environnement/la-foret-francaise-s-etend-mais-sa-mortalite-s-accelere_195249?xtor=RSS-15",
+   "date": "2026-10-07T09:37:26+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "La forêt française gagne du terrain, mais perd en vitalité. Selon l’IGN, la mortalité des arbres a été multipliée par 2,5 en deux décennies, sous l’effet combiné du changement climatique, des sécheresses, des canicules et des bioagresseurs.&nbsp;",
+   "doi": null,
+   "first_seen": "2026-10-07T11:49:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "\"Des petites habitations en bois…\" : des fouilles archéologiques révèlent le passé du site du Pilat, avant la dune - franceinfo",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTlBSdnZKbGR3a19pV2pUcFhlQmE1ZHlYUGkxLUwyUHNuVFdEeS1MdEtjc00tYnQ3UmtHTXF4WGVSdmZ2T2xxbHNiVDQtaHJ4WGFhSFBlR2pUTHQ5cUZTR3VITkswMjBmQkgyd2V4YXpUV205TF8zYVNLeTJ6RFZnMlVqaFFkVmFkNUFnekRUMklZOXI1RlJSOHlKUU1hZWx2Nkp0MkNBcVFRS3dPa2UzQjRBWkNOLVVIdmhTbUNzZVF4MnE4V29qMGRtdDA4a1ZZOW9YZE5vT1ZoaDZxVzg4NmU1anU3WnR1Qk1WWUZqdUNUN3JaMWZ4Yzh3MnBGOWhWQWE0cGV2ZFFndw?oc=5",
+   "date": "2026-10-07T08:58:42+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "\"Des petites habitations en bois…\" : des fouilles archéologiques révèlent le passé du site du Pilat, avant la dune &nbsp;&nbsp; franceinfo",
+   "doi": null,
+   "first_seen": "2026-10-06T17:14:00+00:00",
+   "alt": null
+  },
+  {
+   "title": "DIRECT. Le prix Nobel de chimie est remis le 7 octobre à 11h45",
+   "link": "https://www.sciencesetavenir.fr/decouvrir/agenda/direct-le-prix-nobel-de-chimie-est-remis-le-7-octobre-a-11h45_195250?xtor=RSS-27",
+   "date": "2026-10-07T08:34:33+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "La chimie est le troisième prix scientifique des Nobel, après la médecine et la physique, attribués lundi et mardi. En 2025, le Nobel de chimie avait distingué de nouvelles structures moléculaires capables d'emprisonner des gaz.",
+   "doi": null,
+   "first_seen": "2026-10-07T11:49:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "Au Mexique, la mer a livré plus de 90 vestiges archéologiques datant de 1200 av. J.-C. à 1521 apr. J.-C. - Finestre sull'Arte",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRnI2dnI3T0tJUkhDLUc1aUlsQ1owREFWQ0lDVHNObVdRanBrejRUeGdFOHl3cFVuc2xVR1U3Ym1vQmEtRDNOdW1POWhqQTloZDI4c3NPUEZ4OHhQRmVQYVhNOG90VDJRTFZvd19LTGRteWRhdHFQc1NQbGg0SjA1b3h6Umo1b1FBcnBRdVF2eUhTbnd2WFBzVU9Ib1pPdklYbXpXUHJqN0F3WFpvRnBrVG9qSV9LN1NVRjZ0RkFQUEdFWjZPTW5pME1ZYXhtOUdpbENKS2o4dElBd3RCUUc4?oc=5",
+   "date": "2026-10-07T08:27:59+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Au Mexique, la mer a livré plus de 90 vestiges archéologiques datant de 1200 av. J.-C. à 1521 apr. J.-C. &nbsp;&nbsp; Finestre sull'Arte",
+   "doi": null,
+   "first_seen": "2026-10-07T11:49:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "How the Vikings pushed Anglo-Saxon England to the brink",
+   "link": "https://www.historyextra.com/membership/alfred-vs-vikings-podcast-episode-one/",
+   "date": "2026-10-07T08:00:16+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Dr Eleanor Barraclough tells the story of the Great Heathen Army, and explains what it was like it live within it During the latter decades of the ninth century, the Anglo-Saxon kingdoms faced an existential threat as Viking forces launched an assault on a scale never seen before. In this opening episode of a four-part series on how the Viking Great Heathen Army pushed Anglo-Saxon England to the brink, James Osborne is joined by Dr Eleanor Barraclough to discuss the coming of the Great Heathen Army and take a closer look at the everyday lives and motivations of the people who would soon lay waste to much of Anglo-Saxon England. Watch now or listen ad-free below: View Green Video on the source website Want to know more about the struggle between Alfred and the Vikings? James Osborne rounds up essential reading from the HistoryExtra archive that explores this pivotal moment in Viking and Anglo-Saxon history – including insights into Viking culture, the everyday experience of Anglo-Saxon communities, Alfred’s use of religion and learning as tools of political renewal, and the long legacy of the Danelaw on English identity and culture. Go beyond the podcast",
+   "doi": null,
+   "first_seen": "2026-10-07T11:49:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "Le système nerveux central d’une mouche entièrement cartographié",
+   "link": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/premier-connectome-complet-du-cerveau-et-de-la-chaine-nerveuse-de-la-drosophile_195234?xtor=RSS-16",
+   "date": "2026-10-07T07:16:23+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Du cerveau à la chaîne ventrale, le consortium FlyWire vient de cartographier l'ensemble du système nerveux central de la drosophile, permettant de comparer en détail le câblage cérébral entre mâle et femelle.",
+   "doi": null,
+   "first_seen": "2026-10-07T11:49:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily Quiz: 7 October",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-10-07T06:00:13+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "Loubressac. Film sur la tragédie de Gabaudet - ladepeche.fr",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkMycTFnOTRNa0l0c1ZLMDZqUUdYVThoR2t4OEo5Qmg5U0xPS05RRjNZZjFUVkVKVXMyNEtSV044bHViR2JfSmlJTjV4N3VMUS10MEJWWGlrdG92MDJxQ1FHX2MzTE5MU0g3YzduU0ZoVHNRZUxLdVpwOFVrVlFISVppdlprazZk?oc=5",
+   "date": "2026-10-07T03:15:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Loubressac. Film sur la tragédie de Gabaudet &nbsp;&nbsp; ladepeche.fr",
+   "doi": null,
+   "first_seen": "2026-10-07T11:49:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "Animals may have evolved 200 million years earlier than we thought",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261003234023.htm",
+   "date": "2026-10-07T02:29:56+00:00",
+   "source": "ScienceDaily — Archaeology",
+   "kind": "media",
+   "abstract": "New research suggests animals could have evolved as early as 800 to 700 million years ago, roughly 200 million years earlier than some previous estimates. If so, the first animals may have lived before or during Snowball Earth, leaving behind little trace because their soft bodies were rarely preserved.",
+   "doi": null,
+   "first_seen": "2026-10-07T11:49:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "Sélestat. Pour les 20 ans d’Archéologie Alsace, le centre de conservation et d’étude a ouvert ses portes - DNA.FR",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeUdBemNvbzczWmJJYWd5M1g0S1oxRi1ZQWtUN3YzdkN6TW80cllIZEpRRUd0WktiLWdUUmw1am1sV19fc09kSDFvaDZJN1dTcERyVldaTVVEOXZhanJhU2dsQXFrSVBZbkw4cGpKcXgxdEhKNjgySWJnRFpZNVVQUEtadHdKWEI1Y2UzazdrRWNwMkp0dVNCR2dQbzJ2dkNEM1pjenllMXNaOVMyWGM4MXBRUktwNEtqcndEQXQyaTVZX3Bna1ZBMjNHWWdJcnM4YmlZU253?oc=5",
    "date": "2026-10-06T21:02:50+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Sélestat. Pour les 20 ans d’Archéologie Alsace, le centre de conservation et d’étude a ouvert ses portes &nbsp;&nbsp; dna.fr",
+   "abstract": "Sélestat. Pour les 20 ans d’Archéologie Alsace, le centre de conservation et d’étude a ouvert ses portes &nbsp;&nbsp; DNA.FR",
    "doi": null,
    "first_seen": "2026-10-06T12:04:19+00:00",
    "alt": null
@@ -47,6 +157,17 @@
     "url": "",
     "checked_at": "2026-10-06T21:38:17+00:00"
    }
+  },
+  {
+   "title": "RAN 2026 – Rencontres d’archéologie de la Narbonnaise - Hominides",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkN0YTQtcTJPRWRIUUc5dC15VkJBa1dZSzFHblJGSDBaSmc3QTdMVHFuVDk4dWp1RWJBZkNSSWxlODVyemw0ZUZMV29ZaXFmNV84dG4xTDRHZ0VlQzF4cWk1SlAxM2tiUjlRbkNybHI3MHU3ZUI1YW1UR283SlBBdnZ3?oc=5",
+   "date": "2026-10-06T17:06:01+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "RAN 2026 – Rencontres d’archéologie de la Narbonnaise &nbsp;&nbsp; Hominides",
+   "doi": null,
+   "first_seen": "2026-10-07T11:49:51+00:00",
+   "alt": null
   },
   {
    "title": "This was one of the most brutal battles of WW2 – so why have you never heard of it?",
@@ -121,17 +242,6 @@
    "source": "Popular Archaeology",
    "kind": "media",
    "abstract": "The earliest dice ever discovered were found in Mesopotamia and date to around 3000 BCE. Even then, the principle was simple and familiar: correctly guess a number or combination and you win. Egypt, Greece, Rome, and China developed this tradition into dozens of distinct games, many of which made their way recognizably into modern backgammon, ... Read more &#187;",
-   "doi": null,
-   "first_seen": "2026-10-06T17:14:00+00:00",
-   "alt": null
-  },
-  {
-   "title": "\"Des petites habitations en bois…\" : des fouilles archéologiques révèlent le passé du site du Pilat, avant la dune - franceinfo",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTlBSdnZKbGR3a19pV2pUcFhlQmE1ZHlYUGkxLUwyUHNuVFdEeS1MdEtjc00tYnQ3UmtHTXF4WGVSdmZ2T2xxbHNiVDQtaHJ4WGFhSFBlR2pUTHQ5cUZTR3VITkswMjBmQkgyd2V4YXpUV205TF8zYVNLeTJ6RFZnMlVqaFFkVmFkNUFnekRUMklZOXI1RlJSOHlKUU1hZWx2Nkp0MkNBcVFRS3dPa2UzQjRBWkNOLVVIdmhTbUNzZVF4MnE4V29qMGRtdDA4a1ZZOW9YZE5vT1ZoaDZxVzg4NmU1anU3WnR1Qk1WWUZqdUNUN3JaMWZ4Yzh3MnBGOWhWQWE0cGV2ZFFndw?oc=5",
-   "date": "2026-10-06T13:57:50+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "\"Des petites habitations en bois…\" : des fouilles archéologiques révèlent le passé du site du Pilat, avant la dune &nbsp;&nbsp; franceinfo",
    "doi": null,
    "first_seen": "2026-10-06T17:14:00+00:00",
    "alt": null
@@ -269,14 +379,14 @@
    "alt": null
   },
   {
-   "title": "Daily Quiz: 6 October",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-10-06T06:00:09+00:00",
+   "title": "Daily Quiz: 5 October",
+   "link": "https://www.historyextra.com/membership/daily-quiz-5-october/",
+   "date": "2026-10-06T06:00:31+00:00",
    "source": "BBC HistoryExtra",
    "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "abstract": "Which London lane saw the start of the Great Fire of 1666? View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
    "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
+   "first_seen": "2026-10-07T11:49:51+00:00",
    "alt": null
   },
   {
@@ -444,17 +554,6 @@
     "url": "",
     "checked_at": "2026-10-06T17:14:00+00:00"
    }
-  },
-  {
-   "title": "Fête de la Science 2026 : voyagez dans le passé avec le musée archéologique du Val d'Oise - Sortir à Paris",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdEJQX2dyZkhkYlpxX3dYejM2SzdGc3ZoVXowdGZnUUFyOXlMbnd6R0xsd2p0X2Zqc2M1cHRKYlNmczJUYkp4ZGNsMXVNeTg3cDBtMFlPaVctcUxxUmQyMy1feEtoZHFQdTVwbW9mazlJWC1Mb0Nxbmo3S3g2T1FTbDQyX2tlTlBlWV9QcWxBeXBvMmJ0ZkRXM3lJU0d1SGZ6T1NnMjBHbjhmdDhyNG93b3R2em5SV2tBTm8wWmNJbnY2WEg0SXBsbU9tVEwtZW1NMWZMLVRaQi1ickxtc2Rxag?oc=5",
-   "date": "2026-10-05T21:59:22+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Fête de la Science 2026 : voyagez dans le passé avec le musée archéologique du Val d'Oise &nbsp;&nbsp; Sortir à Paris",
-   "doi": null,
-   "first_seen": "2026-10-06T12:04:19+00:00",
-   "alt": null
   },
   {
    "title": "Ancient DNA evidence narrows down when people first reached the Americas",
@@ -655,6 +754,17 @@
    "alt": null
   },
   {
+   "title": "La découverte d'une statue humaine cachée dans un mur depuis 12000 ans pourrait bouleverser notre vision des origines de la civilisation - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPWkx5TlBwMG00a3RUTUFDb3FtR3M4YkUyVEI4YnJfQl9vUlZKSTZQYzczMkdJdnNubVE3dncyZDJZSXRQRUg3TWFhNjY3UXljd1NMTS1GY2UxcFgzUFEzNFFLbl91TEdoenVKVGZxYlZzeENubHFJVTA4VUdtcUpIRTZfVmVQX3pLUTBvcWpUTHVRNkJhTk5Pc2pfY1U0THJQSVk4aEJrSWowZi1wNk1xbDEtdl82MWFIUzYtd3h4Y1d4bVpKZnRFMFVvbTAxS0RiQjl2Uzk2SVI3enN0ZE5CZ1U0LVROVlZ1NWw1NzFMZDdaaXdna2NOcmN2ZUktSnEwajhhSlFJOGZ6WTdiNGJkdjlSZWliNUZaMUo4SHJ0TFAwM3FoSkU0XzFpRkh0SW13dlI4?oc=5",
+   "date": "2026-10-05T09:30:26+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "La découverte d'une statue humaine cachée dans un mur depuis 12000 ans pourrait bouleverser notre vision des origines de la civilisation &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-10-07T11:49:51+00:00",
+   "alt": null
+  },
+  {
    "title": "Abbaye Saint-Maur de Bleurville, découvertes archéologiques - Université de Lorraine",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSW5HcHZhaWJnbWwzVzFQUnM1cmZSUG9nS2VLYUpsV3F1Y3FCMFRUdS1fck0zV1JETVJZQ1JtNHN4Ml96Tm9JQ0M3cUIwMmdJSTRJYndDSk0tQnVFU0w1akhKTnlVRWFfTldHbkZsT3pfN0xSZm9XRF9KSTlRQVVPOWFqUWoyVG5tLW5vcHhoNXhaQmhMN3RLd3NYNUVSRHc4RXc?oc=5",
    "date": "2026-10-05T09:21:49+00:00",
@@ -699,12 +809,34 @@
    "alt": null
   },
   {
+   "title": "Fête de la Science 2026 : voyagez dans le passé avec le musée archéologique du Val d'Oise - Sortir à Paris",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdEJQX2dyZkhkYlpxX3dYejM2SzdGc3ZoVXowdGZnUUFyOXlMbnd6R0xsd2p0X2Zqc2M1cHRKYlNmczJUYkp4ZGNsMXVNeTg3cDBtMFlPaVctcUxxUmQyMy1feEtoZHFQdTVwbW9mazlJWC1Mb0Nxbmo3S3g2T1FTbDQyX2tlTlBlWV9QcWxBeXBvMmJ0ZkRXM3lJU0d1SGZ6T1NnMjBHbjhmdDhyNG93b3R2em5SV2tBTm8wWmNJbnY2WEg0SXBsbU9tVEwtZW1NMWZMLVRaQi1ickxtc2Rxag?oc=5",
+   "date": "2026-10-05T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Fête de la Science 2026 : voyagez dans le passé avec le musée archéologique du Val d'Oise &nbsp;&nbsp; Sortir à Paris",
+   "doi": null,
+   "first_seen": "2026-10-06T12:04:19+00:00",
+   "alt": null
+  },
+  {
+   "title": "Étudier l'histoire de l'art et l'archéologie à l'ICP : programme, débouchés, conseils pour réussir sa licence - Institut Catholique de Paris - ICP",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa0MtYVdDaUJSMTRlM1ZNd2tOLVJpbHN2TnBrQ3EyVzRLRU5EeTdxUHpiM2g0U3c3QlZFV2lxRzhSaGt0QjQ3TkMzYkpzRXlHSVBEWFQ3a1ZlR3JVMjJ4LWpRd1pycnlwSGNyWml2Q0JLYWZZS005Rmw5WEhaZzVIcnZmY1YwamNKd24zR2QxMHRHVk14QXdITjFmV2IzOURIZDgxUGMyM184OEFLNWFLUFhKRGJPTnpBekdveXF3RHBQZFJrLTljY0tQRkI2clpCR1VEbUJR?oc=5",
+   "date": "2026-10-05T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Étudier l'histoire de l'art et l'archéologie à l'ICP : programme, débouchés, conseils pour réussir sa licence &nbsp;&nbsp; Institut Catholique de Paris - ICP",
+   "doi": null,
+   "first_seen": "2026-10-07T11:49:51+00:00",
+   "alt": null
+  },
+  {
    "title": "Sunken Silk Road city reveals Central Asia's lost history",
    "link": "https://phys.org/news/2026-10-sunken-silk-road-city-reveals.html",
    "date": "2026-10-05T06:38:24+00:00",
    "source": "Phys.org — Archéologie & fossiles",
    "kind": "media",
-   "abstract": "The sun had barely risen, but diving volunteer Elizaveta Bodrova was already raring to plunge into the cold waters of Lake Issyk-Kul, where the ruins of a once-thriving city have lain submerged for centuries.",
+   "abstract": "The sun had barely risen, but diver Elizaveta Bodrova was already raring to plunge into the cold waters of Lake Issyk-Kul, where the ruins of a once-thriving city have lain submerged for centuries.",
    "doi": null,
    "first_seen": "2026-10-05T12:20:31+00:00",
    "alt": null
@@ -3398,12 +3530,12 @@
    "alt": null
   },
   {
-   "title": "Sélestat. Archéologie Alsace : 20 ans de fouilles au chevet de l’histoire - dna.fr",
+   "title": "Sélestat. Archéologie Alsace : 20 ans de fouilles au chevet de l’histoire - DNA.FR",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeUY2ZXFoX1ZqczF4anBQczRHMUdlZkJKdFJ5SElIQU1uNklRZFpmblRuS2hjOGhKaE9tLXRfQ3pEeU9RSGhMb1NHVGQ1VEc2UG92enVfUlFYallXSkliWmFNYkJ4OV9Pems5dlBNc2d6eFpjS3V1eEdUWGVkWmZYZ01jVlQxT2xSWWFYaDNNTURVUld6aWl1ek9BZnUzblBGbGxkTVdVU0xHZW8?oc=5",
    "date": "2026-09-28T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Sélestat. Archéologie Alsace : 20 ans de fouilles au chevet de l’histoire &nbsp;&nbsp; dna.fr",
+   "abstract": "Sélestat. Archéologie Alsace : 20 ans de fouilles au chevet de l’histoire &nbsp;&nbsp; DNA.FR",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -9500,28 +9632,6 @@
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "Journées européennes de l’archéologie : Visites guidées à Aubigné-Racan &nbsp;&nbsp; Conseil départemental de la Sarthe",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "Journées européennes de l’archéologie 2026 en Occitanie : fouillez le programme - Les services de l'État en région",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSGRrUDJfOUc1cUVxaWRmTHp4MFNYa1JOSGtOd0ZjMDBLVDNHUmdZYWpEX2FmejFxM2wzeDJRdUVuUE83XzV1UER6RG1vUEZqUnJva1Job1JOZ2Y3LUJHdi16eWNoWlZDVHBlaENQT0tjbENwNnhVR0FrZ1JZWFRxSG5ySW5ES2ZyaGc5TUpUNWN0X3JTM0EzbExEbXI0eURCV2s5c3lsT0JQdFZ2eFV0QU5hdUlubjdQc2did2FQdzBFNEJVeVExMUowTVFYOVBNdzF5cQ?oc=5",
-   "date": "2026-06-09T07:00:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Journées européennes de l’archéologie 2026 en Occitanie : fouillez le programme &nbsp;&nbsp; Les services de l'État en région",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "Journées Européennes de l’Archéologie : Les Gaulois de Concarneau à l’honneur - Site de la ville de Concarneau",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdklCSTlBODJiVTRHRDFGTWJBWjM1V0Z1N2JsV1libDZ3NV9udzdCUU1oTWpqVXFVQnV6QmM5SWJ3NHpJSktQR0NJaGd0Nk9LTnM1cFh1VEpOMkZVMGZQbWU4ZVgwcGtPYWROMHZVMHRRRWwzTlVBUW1kYkhRUTBjN2R6VExUcGVTbE54aUhYVFI1dHZ4YmMzNW82ZVQ5RHFFN29LeUNWUVJLc0tkTG1JWg?oc=5",
-   "date": "2026-06-09T07:00:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Journées Européennes de l’Archéologie : Les Gaulois de Concarneau à l’honneur &nbsp;&nbsp; Site de la ville de Concarneau",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
