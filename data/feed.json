@@ -1,12 +1,100 @@
 {
- "generated_at": "2026-10-10T20:34:06+00:00",
+ "generated_at": "2026-10-11T11:26:51+00:00",
  "counts": {
-  "total": 958,
+  "total": 968,
   "journal": 328,
-  "media": 630,
-  "new_this_run": 37
+  "media": 640,
+  "new_this_run": 47
  },
  "items": [
+  {
+   "title": "Alexandrie d’Égypte : une bague ornée du phare antique refait surface avec de nouvelles découvertes - Finestre sull'Arte",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaDhZZDFnRE1aV3prdXVTdmUzUmJXVzI4TEluekNsZWVKaU9uV041a3ZucTlrSkNwQ196bk5PemdyQ3JuaHVhT2szM1hicFhUeDZmOVRFbzVOd1NLUE91SGFLV3hEZVMyRkZrb2dCMXRoNnhuM2hxV1hSRURuc3ZPRUh6OFU3WUp3QjlrWlhNTUlsdm9ib0FWMTVQc0wycDF1SUVtMS1xMy1adFFDYjFXd0g4ZlNPMmV5aVZVYUU5dzlQYmhCS1NMV2RzUmdIcWFRMnNLZWwzOWsxQVZKRjRZ?oc=5",
+   "date": "2026-10-11T09:29:06+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Alexandrie d’Égypte : une bague ornée du phare antique refait surface avec de nouvelles découvertes &nbsp;&nbsp; Finestre sull'Arte",
+   "doi": null,
+   "first_seen": "2026-10-11T11:26:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "Who Were the Vikings? 21 Graves Weave a Tale of Hunters, Nomads and Sorceresses.",
+   "link": "https://www.nytimes.com/2026/10/11/science/vikings-archaeology-history-sea-king-sorceress.html",
+   "date": "2026-10-11T09:00:34+00:00",
+   "source": "New York Times — Archaeology",
+   "kind": "media",
+   "abstract": "“The Sea-King and the Sorceress” examines the lives and deaths of the diverse people who called themselves Vikings.",
+   "doi": null,
+   "first_seen": "2026-10-11T11:26:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "Batterie : pourquoi la recharge accélère",
+   "link": "https://www.sciencesetavenir.fr/fondamental/voitures-electriques-comment-les-batteries-se-rechargent-elles-de-plus-en-plus-vite_194989?xtor=RSS-10",
+   "date": "2026-10-11T08:00:00+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Alors que le Mondial de l’Auto, du 12 au 18 octobre à Paris, accueillera un nombre record de modèles électriques, une nouvelle bataille agite les constructeurs : après l’autonomie, c’est sur le temps de recharge que se joue une partie de la compétition électrique.&nbsp;Derrière les records annoncés se cache une somme d’optimisations des batteries lithium-ion. Jusqu’où peut-on, et faut-il, poursuivre cette course ?",
+   "doi": null,
+   "first_seen": "2026-10-11T11:26:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily Quiz: 11 October",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-10-11T06:00:10+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "Le mystère Saint-Roman : un siècle après, la science sur les traces des aviateurs français qui ont peut-être traversé l'Atlantique avant Lindbergh - ladepeche.fr",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQ3pXTTh3SDZnQmhxa1V0QzVmaTNrS2F5UTlzOTQ3S21mczQySnMtYlVLeXJMSnczTElqbFZhVVQxVWtTM0N4LWVOUzhiQ205TEdEODI2d3EzTjlaQWI3b3Y4Tzd5OUJWSEZDOFp0cG04UGdhLVJScjRQWENUVDNiZWw4QzJGR2ZxT0tFMUtYdUluRzVSZHFBOEthQkE5cU1IckNsaGtnRXpEZ21pUkgtb2JGSHdxUEdfX3J3Vm1FUjRGTTFxRjRKZ1B1dU5ZZ0FLczYxWTd0ZDg0bkE3bzB2WFRxSTVHdFY2TnJtMjdHUVlIMFdYN3R4SUVDV3V4QXhtdVR1OXhoWDI1R2xjSEdYSnFVWWh5WUdEd0Q4?oc=5",
+   "date": "2026-10-11T04:31:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Le mystère Saint-Roman : un siècle après, la science sur les traces des aviateurs français qui ont peut-être traversé l'Atlantique avant Lindbergh &nbsp;&nbsp; ladepeche.fr",
+   "doi": null,
+   "first_seen": "2026-10-11T11:26:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "Les Cavagnacois à la découverte de l’histoire du village - ladepeche.fr",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeU9oWEV5Q2UxdmFGS0FscXpzazVwS1BLZm9JbEJqVEg1eHZ6RHBGaEVJamJzbGZ2QUkyNDlORjFGNkdsSFAyMXgzZ2k0UmpSMTBLQ1BKRkhkWWpnLXI4VEktMEs5WEFpUEdLTS0tMkVRc1FzM3VOWU16azFTTGZxdjZyZzY2WUYzS0ZSWHp5WGFfYktwQnd0eVd2TkRqSW1Jb3lSMk5aTQ?oc=5",
+   "date": "2026-10-11T03:11:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Les Cavagnacois à la découverte de l’histoire du village &nbsp;&nbsp; ladepeche.fr",
+   "doi": null,
+   "first_seen": "2026-10-11T11:26:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "Neanderthals may have used prehistoric glue as an ancient antibiotic",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261008005256.htm",
+   "date": "2026-10-11T00:45:37+00:00",
+   "source": "ScienceDaily — Archaeology",
+   "kind": "media",
+   "abstract": "Neanderthals may have used a sticky substance made from birch bark to treat wounds thousands of years before antibiotics existed. Researchers recreated ancient birch tar production techniques and discovered that every sample could inhibit the growth of bacteria responsible for dangerous wound infections. Previously known mainly as a prehistoric glue, birch tar may have doubled as a surprisingly effective natural medicine.",
+   "doi": null,
+   "first_seen": "2026-10-11T11:26:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "Que s’est-il passé sur la RTBF pendant le Tour de Lombardie ? « Je présente toutes nos excuses », s’exclame Rodrigo Beenkens - Le Soir",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRlNqaHVYb053TDJlQnRjTXp0LUJjdE12TkY2Ymcxa2Q1OVZ2NFE4dW50MDNrX3RuT3ZlTThTZXBXVXUwZjJGMlpmWllFbnFCVS1xTzdWTWNzc2hvRm9vWUpRdlZhTXc5ekwwQ0xPTWIwQkEyaVRadjhHMmFDVWFlNlllSlBxNWRER3pQNDAzSDY2TjY4b2w1VkloTmItOHJITTRjOTNJeHB3NE5peGFYYW1ZUGM2RTFUMDBFTjVHMTZEZ3c?oc=5",
+   "date": "2026-10-10T15:32:08+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Que s’est-il passé sur la RTBF pendant le Tour de Lombardie ? « Je présente toutes nos excuses », s’exclame Rodrigo Beenkens &nbsp;&nbsp; Le Soir",
+   "doi": null,
+   "first_seen": "2026-10-11T11:26:51+00:00",
+   "alt": null
+  },
   {
    "title": "How Ancient Tomb Construction Shaped Modern Masonry Work Centuries Later",
    "link": "https://popular-archaeology.com/article/how-ancient-tomb-construction-shaped-modern-masonry-work-centuries-later/",
@@ -49,6 +137,17 @@
    "abstract": "L’archéologie a-t-elle identifié le cimetière juif médiéval de Rachi à Troyes ? &nbsp;&nbsp; L'Est éclair",
    "doi": null,
    "first_seen": "2026-10-10T16:14:58+00:00",
+   "alt": null
+  },
+  {
+   "title": "Autun dévoile 17 ans de découvertes archéologiques le 16 octobre - La Gazette France",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3NBS292ZmNVTkxiR1lzSlBjNk55VUxHNE9Nc181M0p0UnJuZWlJUVZLaktVV1A5eEE5cjlPNVczWHlvUEhodUNhYWZidHZveXoyVzFremNsUWxZeDdTWTFuMjl1dndaazhVbjhWYnJoTl9tMXNHbGlTenpKa25LbEhqSzNaazl0THAwRlpjZHhyRm5CVFAwVUVxdl9LVjJIcTNVc1Vn?oc=5",
+   "date": "2026-10-10T12:03:26+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Autun dévoile 17 ans de découvertes archéologiques le 16 octobre &nbsp;&nbsp; La Gazette France",
+   "doi": null,
+   "first_seen": "2026-10-11T11:26:51+00:00",
    "alt": null
   },
   {
@@ -107,17 +206,6 @@
    "alt": null
   },
   {
-   "title": "Daily Quiz: 10 October",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-10-10T06:00:11+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
    "title": "Pluie d'étoiles filantes : ne manquez pas l'essaim des Taurides du Sud le 13 octobre",
    "link": "https://www.sciencesetavenir.fr/espace/systeme-solaire/pluie-d-etoiles-filantes-ne-manquez-pas-l-essaim-des-taurides-sud-le-13-octobre-2026_195309?xtor=RSS-9",
    "date": "2026-10-10T06:00:00+00:00",
@@ -126,6 +214,17 @@
    "abstract": "Actif du 20 septembre au 20 novembre, l'essaim de météores des Taurides du Sud devrait atteindre&nbsp;son pic d'activité en 2026 durant les nuits du 13 au 14 octobre et du 4 au 5 novembre.&nbsp;D'une vitesse de 27 kilomètres par seconde, ces étoiles filantes se déplacent de manière relativement lente.",
    "doi": null,
    "first_seen": "2026-10-10T11:13:20+00:00",
+   "alt": null
+  },
+  {
+   "title": "Alors qu'ils rénovaient un mur dans un parc de Rome, des maçons découvrent ce qui pourrait être la caserne des premiers pompiers de l'Histoire - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQM3RVUWJEM0dYUDgzS05iclFyMmFkODN5aWYwSGgwb3FRcDNSci1ZVnlXenlnS3ZkazBlNk5CSUE4NHVlU19LbVhjZlZwSzVkNzlrd0Y0NllKWmVMcFgwQmxqNUpIYTBUZTl0TUhfSlpnSVVNd1RNQkp5OE9FLWFnaGw4X0hxZlBDT3ptVUdNbThZVk5BQVpmVE9kWldReTZtY2NCc1F2Y3VKRGhManN2SXQxWXNCXzBycTRwSkFheXA5UEU3RlBKVFhZLUszWllXcXN6WS1TNklTX3RkS2wySnR2LWU2VEtPOUVHcUE1LVhUZno2ZjVSMEg2QnRQU1M1MUluTmJod0EyTjVZLW11MjZ5bzV1MnJrNGNFSQ?oc=5",
+   "date": "2026-10-10T05:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Alors qu'ils rénovaient un mur dans un parc de Rome, des maçons découvrent ce qui pourrait être la caserne des premiers pompiers de l'Histoire &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-10-11T11:26:51+00:00",
    "alt": null
   },
   {
@@ -524,7 +623,7 @@
   {
    "title": "Meriem Bouderbala présente - « Une archéologie du sensible » à Marrakech : Karakouz et Boussâadia invoqués - La Presse de Tunisie",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWk1JWFl1dTd2TkdZN25TZDhDLTdyVGs5TW42RFVQV3dSVHBUNGYwVEdTT1VvcV83TVlITlJxOW1zODZ1eGZVX1E3NWRmR1BwVVRKTEk4TW1ETTRfUlUwaks5cGZfOEdKR0xKZWw3ZWdhcFIzSjBlem03U1dkLW16Q0JUUzVicXBZTHZ5elAyT1ExY1IxZ05FZXRtUjhqRFp6bUhJMTY0NE1VdUFBWVBsTHluSC1NOHd3OTUybkw2dHl2dkdrUi04RDhoUnhCX3c?oc=5",
-   "date": "2026-10-08T17:36:34+00:00",
+   "date": "2026-10-08T17:37:09+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "Meriem Bouderbala présente - « Une archéologie du sensible » à Marrakech : Karakouz et Boussâadia invoqués &nbsp;&nbsp; La Presse de Tunisie",
@@ -1192,12 +1291,12 @@
    "alt": null
   },
   {
-   "title": "Des signes de \"morts violentes\" récemment identifiés sur des crânes inhumés dans une nécropole royale égyptienne - magazine GEO",
+   "title": "Des signes de \"morts violentes\" récemment identifiés sur des crânes inhumés dans une nécropole royale égyptienne - Geo.fr",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1p4UVZ4T3d5U3hINkEycXh2U2VVZkJUUExwcC1KdTYxaG05TnFmaUx0b1JHc1E0OUhfUzVqLXlOVTRIX0tvcUJNbUoxeWx5Z0kzNmdSLW9yc2FsRUhtNDU0d2Rha2hZY25RTjVPYW45NzVfRzZ0d1pGUTR0cTd5Tl9DeER3UzlIMjFQQlpDVFNoaEc0cEJHQ2o2TXpRNUxZTlBJeUo3VkVaZUZtTnV3eTZLQllCbGstVVhhcVhJV2V6dGlqVkxDeHA2YlQ1bWRZZnRCVngzdDNjS3FCQWc?oc=5",
    "date": "2026-10-07T03:36:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Des signes de \"morts violentes\" récemment identifiés sur des crânes inhumés dans une nécropole royale égyptienne &nbsp;&nbsp; magazine GEO",
+   "abstract": "Des signes de \"morts violentes\" récemment identifiés sur des crânes inhumés dans une nécropole royale égyptienne &nbsp;&nbsp; Geo.fr",
    "doi": null,
    "first_seen": "2026-10-09T11:56:44+00:00",
    "alt": null
@@ -1844,6 +1943,17 @@
    "abstract": "Le prix a été décerné le 5 octobre 2026 à Peter Hegemann, Georg Nagel et Karl Deisseroth pour leur participation dans la création de ce nouvel outil devenu incontournable en neurosciences.",
    "doi": null,
    "first_seen": "2026-10-05T23:10:16+00:00",
+   "alt": null
+  },
+  {
+   "title": "Des archéologues français ont découvert un bocal rempli de plus de 40 000 pièces de monnaie romaines datant d'il y a 1 800 ans - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOaG9PTXJZMTE3MkVxcDZXZnhTYVhvR05VbEJFRXN4Mk9ZblBZMDBlUkQwNWMzM3FiRVBRc0M1TlNYeHg0cEs0MnFyUnFaTFdUdDl6Y3ZDMkFFMHBWZzE3S3pIMGtpUWswY1hWM25SSzlFNllaSjNfU1dzeVlJWXg3aTV4SU11b3U2MDB1akZ0S0RTMEJuSnNweEo0dzh1ZThnMDdGcnVIcmpRMWk4elJjd0YyUmVSUVJpcGs0dl92bjhteURnaHcwR3ROcDBpMUplOF8xMHMxbWlBSWQyNWtMd3A3bVFmMF9wR2pSR1pmY3VLR2Nqb1BpMHI4b0N6NFVrTmRKdVNmcUpQTnA4UFVZNUFQUjhocmxORENRNTkzTDk?oc=5",
+   "date": "2026-10-05T13:40:53+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Des archéologues français ont découvert un bocal rempli de plus de 40 000 pièces de monnaie romaines datant d'il y a 1 800 ans &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-10-11T11:26:51+00:00",
    "alt": null
   },
   {
@@ -9418,6 +9528,17 @@
    }
   },
   {
+   "title": "14e édition des Rencontres d’Archéologie de la Narbonnaise - Le Grand Narbonne",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcTRNTkp5NHdzTXc3dlFOZ0VPYTdwajlkWXhhM3ZHaE1Na280ZlhoUGVxZTdyUUhidmJaOFpDNWFoVlhRMVdZamdYSXF4UXdTWlJRbFRHSTNwQnhLQm5uMENfZW50NTlHdU5MdmE4d1dpclpBNHJkMlEwLXBSckxXcTRUcHBsWEdOYWRBZmZJalRBY0l6OEdjOXZONHhmUy1Edl96NnVtQk5WWnhK?oc=5",
+   "date": "2026-09-21T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "14e édition des Rencontres d’Archéologie de la Narbonnaise &nbsp;&nbsp; Le Grand Narbonne",
+   "doi": null,
+   "first_seen": "2026-10-11T11:26:51+00:00",
+   "alt": null
+  },
+  {
    "title": "Embryo screening and the new reproductive divide",
    "link": "https://www.nature.com/articles/s41562-026-02561-x",
    "date": "2026-09-21T00:00:00+00:00",
@@ -12682,17 +12803,6 @@
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "Archéologie : comment a été découverte la splendide Junon de Vaison, trésor antique actuellement exposé à Avignon &nbsp;&nbsp; historia.fr",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "Ça en jette ! Quand l'archéologie s'intéresse à nos déchets - Département de Seine-et-Marne",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1BEY2drelNWYVB4THRrMUR5TE00VjNUdFpNdnNuNG5QcW9jNHlIU244Z281VE9zNGZfRmQ0T01KRFZWN1NqX1ItV0g5Y1ZpMUdkMEJuc1IzQVFMSm5yZE1YYjVNWGJQRGZBT193N0xjSkVuYUYzMG1jWWxMMkZVZnAwZi1qWTJLRjFmWXYtN0tLZmtmUlQwXzRDQ21aNm5SWGc?oc=5",
-   "date": "2026-06-13T07:00:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Ça en jette ! Quand l'archéologie s'intéresse à nos déchets &nbsp;&nbsp; Département de Seine-et-Marne",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
