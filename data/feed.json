@@ -1,14 +1,140 @@
 {
- "generated_at": "2026-10-16T15:23:23+00:00",
+ "generated_at": "2026-10-16T19:57:47+00:00",
  "counts": {
-  "total": 1230,
-  "journal": 429,
-  "media": 801,
-  "new_this_run": 49
+  "total": 1241,
+  "journal": 430,
+  "media": 811,
+  "new_this_run": 46
  },
  "items": [
   {
-   "title": "La musique adoucit les moeurs...et les douleurs",
+   "title": "Diachronic changes in Early Pleistocene lithic technology at the Donggutuo site, Nihewan Basin, northern China",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0047248426000953?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Human Evolution",
+   "kind": "journal",
+   "abstract": "Publication date: December 2026 Source: Journal of Human Evolution, Volume 221 Author(s): Yueshu Zhang, Feng Li, Fuyou Chen, John W. Olsen, Xing Gao",
+   "doi": null,
+   "first_seen": "2026-10-16T19:57:47+00:00",
+   "alt": null
+  },
+  {
+   "title": "Genetic evidence raises questions about settler-Indigenous relations in New France",
+   "link": "https://phys.org/news/2026-10-genetic-evidence-settler-indigenous-france.html",
+   "date": "2026-10-16T19:50:02+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "A Université de Montréal–led research team has analyzed the genetic origins of human remains found in Old Montreal—and uncovered unexpected results.",
+   "doi": null,
+   "first_seen": "2026-10-16T19:57:47+00:00",
+   "alt": null
+  },
+  {
+   "title": "Study Suggests Etruscan Statue’s Black Coating May Be Original",
+   "link": "https://archaeology.org/news/2026/10/16/study-suggests-etruscan-statues-black-coating-may-be-original/",
+   "date": "2026-10-16T18:00:00+00:00",
+   "source": "Archaeology Magazine",
+   "kind": "media",
+   "abstract": "FLORENCE, ITALY—A bronze statue of an Etruscan man wearing a toga found in 1567 may [&#8230;] The post Study Suggests Etruscan Statue’s Black Coating May Be Original appeared first on Archaeology Magazine . FLORENCE, ITALY—A bronze statue of an Etruscan man wearing a toga found in 1567 may have been deliberately turned black some 2,200 years ago, according to the Greek Reporter . Historical accounts of the discovery indicate that the sculpture was green when it was unearthed. It had been previously thought that the statue, known as the Arringatore (“Orator”) of Pila, turned black over time through a natural corrosion process. Conservators, including Salvatore Siano of the Institute of Applied Physics “Nello Carrara” and Sonia Mugnaini of the University of Siena, removed brown coatings on the statue, and found smooth, nearly black areas on the sculpture’s face, hair, clothing, and arm. The researchers analyzed 15 samples of these black patches with microscopy, X-rays, and Raman spectroscopy. They identified tenorite, a dark copper oxide, over a red layer of cuprite, another copper oxide, in several of the samples. These layers of patina are thought to have been produced by heating, …",
+   "doi": "10.3390/heritage9100402",
+   "first_seen": "2026-10-16T19:57:47+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-10-16T19:57:47+00:00"
+   }
+  },
+  {
+   "title": "Nouvelles découvertes archéologiques : - Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kNXV5N0hiWEZadzd3bEROcEo2Z1MzWXNncXhOSTZiZW5OLTRLajBnVzlVb1puMEpHMlBQYTFUSTdIMzZBNUtiNWxSVDJ1M29vWV9vQnVINy1hdVVVbXUxYnZrdXF3VlhFdlJIeQ?oc=5",
+   "date": "2026-10-16T17:06:54+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Nouvelles découvertes archéologiques : &nbsp;&nbsp; Vietnam.vn",
+   "doi": null,
+   "first_seen": "2026-10-16T19:57:47+00:00",
+   "alt": null
+  },
+  {
+   "title": "Submerged Sites Identified Off Australia’s Northwestern Coastline",
+   "link": "https://archaeology.org/news/2026/10/16/submerged-sites-identified-off-australias-northwestern-coastline/",
+   "date": "2026-10-16T17:00:00+00:00",
+   "source": "Archaeology Magazine",
+   "kind": "media",
+   "abstract": "ADELAIDE, AUSTRALIA—According to a statement released by Flinders University, underwater archaeologists working with the Murujuga [&#8230;] The post Submerged Sites Identified Off Australia’s Northwestern Coastline appeared first on Archaeology Magazine . ADELAIDE, AUSTRALIA—According to a statement released by Flinders University , underwater archaeologists working with the Murujuga Aboriginal Corporation rangers and divers have identified sites off the northwestern coast of Australia where First Peoples lived more than 9,000 years ago, when sea levels rose and reshaped the coastline. The submerged area covers some 772,000 square miles. One of the identified sites includes a freshwater spring and stone tools, which were made using material obtained from an island about 14 miles away. Another site featured a rocky hill overlooking a river channel. “The Ngarda-Ngarli people have cared for Murujuga for at least 50,000 years,” said Vincent Adams, director of Murujuga Aboriginal Corporation. “The more we learn about how our ancestors used and cared for Country, the better equipped we are to protect it for future generations,” he added. Read the original scholarly article about this res…",
+   "doi": "10.1016/j.quascirev.2026.110307",
+   "first_seen": "2026-10-16T19:57:47+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-10-16T19:57:47+00:00"
+   }
+  },
+  {
+   "title": "Fragments of Colossal Statues Uncovered in Northern Egypt",
+   "link": "https://archaeology.org/news/2026/10/16/fragments-of-colossal-statues-uncovered-in-northern-egypt/",
+   "date": "2026-10-16T17:00:00+00:00",
+   "source": "Archaeology Magazine",
+   "kind": "media",
+   "abstract": "GHARBIA GOVERNARATE, EGYPT—According to an Ahram Online report, fragments of two colossal statues have been [&#8230;] The post Fragments of Colossal Statues Uncovered in Northern Egypt appeared first on Archaeology Magazine . GHARBIA GOVERNARATE, EGYPT—According to an Ahram Online report, fragments of two colossal statues have been discovered in Egypt’s Nile Delta. One statue has been identified as Ramesses II, and the second is also thought to represent the pharaoh, who ruled from about 1279 to 1213 B.C. Archaeologists from Egypt’s Supreme Council of Antiquities (SCA) uncovered the statues after they were called to the site by a local villager who found an inscribed granite block on his property. Hisham El-Leithy of the SCA said that the first statue fragment is a five-foot-long head depicting Ramesses II wearing a double crown, symbolizing the unification of Upper and Lower Egypt. A piece of the statue’s back pillar is inscribed with the name “Hor Ka Nakht Mery Maat,” identifying the ruler. The second statue fragment is almost eight feet long, though it is missing its legs and base, and the headdress has been damaged. El-Leithy said that archaeologists will continue to investigat…",
+   "doi": null,
+   "first_seen": "2026-10-16T19:57:47+00:00",
+   "alt": null
+  },
+  {
+   "title": "Wildlife Photographer of the Year 2026 : découvrez les clichés primés",
+   "link": "https://www.sciencesetavenir.fr/animaux/biodiversite/wildlife-photographer-of-the-year-2026-decouvrez-les-cliches-primes-du-celebre-concours-photo_195436?xtor=RSS-26",
+   "date": "2026-10-16T16:03:18+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Les gagnants du Wildlife Photographer of the Year, la prestigieuse compétition de photographie, ont été révélés le 14 octobre 2026. Sciences et Avenir vous présente une sélection des photos récompensées.",
+   "doi": null,
+   "first_seen": "2026-10-16T19:57:47+00:00",
+   "alt": null
+  },
+  {
+   "title": "From plague 'searchers' to strawberry birthmarks: a history of women's bodies",
+   "link": "https://www.historyextra.com/membership/from-plague-searchers-to-strawberry-birthmarks-a-history-of-womens-bodies/",
+   "date": "2026-10-16T16:00:07+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Erin Maglaque explores the history of the female body – and society's longstanding beliefs about it. What was 'nidgeting'? How did women know they were pregnant before modern tests ? And what did people in the past believe a mother’s imagination could do to her unborn child? In this episode, Lauren Good speaks to historian Erin Maglaque about her book Presence, which explores the history of the female body – and society's longstanding beliefs about it.",
+   "doi": null,
+   "first_seen": "2026-10-16T19:57:47+00:00",
+   "alt": null
+  },
+  {
+   "title": "Colmar. Société d’histoire et d’archéologie : un annuaire 2025-2026 en hommage à Francis Gueth - dna.fr",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOXR6THB2dFhhWHgxMXc5dUo3YjZNbFZFb09pc2stQ3Jybkc3R3JvQmQyUFI2QXBFRTNJV2JacEFNa2ZnSnJKMTctTW5CNmNhQVJzNm16TlZjYmY3cE9Wd2JlRzI1M0ljS2FOaHFwRDVuTkk5OFZVYngzbXJGaXNuUlptMDhRTGJ4NXRFak9tN3Y2UmczYXpKUHVFazRQaXMyNzVLSHRfS0VkSFpTcEZhcUZ2MVU5RDZmNjFoNkVlelFESnhuN29VOEpB?oc=5",
+   "date": "2026-10-16T15:47:37+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Colmar. Société d’histoire et d’archéologie : un annuaire 2025-2026 en hommage à Francis Gueth &nbsp;&nbsp; dna.fr",
+   "doi": null,
+   "first_seen": "2026-10-16T19:57:47+00:00",
+   "alt": null
+  },
+  {
+   "title": "Was the story of Jesus inspired by Emperor Augustus? The clever trick early Christians used to convert ancient Rome",
+   "link": "https://www.historyextra.com/period/roman/was-the-story-of-jesus-based-on-emperor-augustus/",
+   "date": "2026-10-16T15:00:46+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Stories of a remarkable birth, promises of salvation and the announcement of “good news” surrounded Rome’s first emperor. Classicist Tim Whitmarsh argues that early Christians adapted elements of this imperial language to explain the significance of Jesus It’s an ancient story. A child is set to become a king. But when those in power learn of his coming, they attempt to orchestrate his death. The child escapes, his future greatness apparently beyond the reach of those who would rather see him dead. This is a narrative arc that, of course, harkens to Herod’s attempt to kill the infant Jesus. But it’s also the origin story of Rome’s first – and arguably greatest – emperor: Augustus . For classicist Tim Whitmarsh, speaking on the HistoryExtra podcast , this resemblance is resonant enough that it could be deemed intentional. If the early Christians could present Jesus as a figure comparable to Augustus, would that help them to explain why the religious figurehead was worth replacing the old Roman gods with? It’s an argument that relates specifically to how Jesus was described and understood, rather than comparing the two men’s life biographies. “Augustus and Jesus are clearly very diff…",
+   "doi": null,
+   "first_seen": "2026-10-16T19:57:47+00:00",
+   "alt": null
+  },
+  {
+   "title": "La musique adoucit les moeurs... et les douleurs",
    "link": "https://www.sciencesetavenir.fr/sante/quelle-musique-ecouter-pour-eviter-d-avoir-mal-pendant-une-petite-intervention_195418?xtor=RSS-16",
    "date": "2026-10-16T14:55:01+00:00",
    "source": "Sciences et Avenir — Archéo & paléo",
@@ -41,7 +167,7 @@
    "alt": null
   },
   {
-   "title": "Crevettes d'élevage énuclées : Les pratiques cruelles de la grande distribution",
+   "title": "Crevettes d'élevage énuclées : les pratiques cruelles de la grande distribution",
    "link": "https://www.sciencesetavenir.fr/nature-environnement/la-grande-distribution-appelee-a-s-engager-contre-la-maltraitance-des-crevettes-d-elevage_195423?xtor=RSS-15",
    "date": "2026-10-16T13:03:42+00:00",
    "source": "Sciences et Avenir — Archéo & paléo",
@@ -2851,17 +2977,6 @@
    "alt": null
   },
   {
-   "title": "Rempart de Lutèce : « La découverte archéologique peut être instantanée, la connaissance ne l’est jamais » - Le Monde.fr",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTnpVWjAyZ1czdk94YzJJSGJ2MjlPVUtDQVlHRkI4ZzN6QVZQMGRfV29WT1pKLWlfTUZaYk9YcUdLdW5MQzNNSFpkM3hwRjNpRkRaV1pXTW9oZ0N6OFVWNWMyV0E5Z3lnOFNjUk14RHZaWXJkZ21odnB3TDF1cXAyWHF3bFlpM3hqU0JIWnhKa2xVR1lNaW5PRldaTEREVkFqRnMwTHFfRmluQTJla1NTS3ctVzdrVWIxMmltdGxXamFPM2NZelVUNHJ0WV92SU1HNTZzS0VKMGF0VjBwUno1N043TFRSTFFreUlaNlpnbzY0S0x6am9FTQ?oc=5",
-   "date": "2026-10-08T14:00:06+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Rempart de Lutèce : « La découverte archéologique peut être instantanée, la connaissance ne l’est jamais » &nbsp;&nbsp; Le Monde.fr",
-   "doi": null,
-   "first_seen": "2026-10-08T17:53:38+00:00",
-   "alt": null
-  },
-  {
    "title": "Margaret Hamilton, mère du système informatique du programme Apollo, est morte",
    "link": "https://www.sciencesetavenir.fr/espace/exploration/margaret-hamilton-mere-du-systeme-informatique-du-programme-apollo-est-morte_195288?xtor=RSS-9",
    "date": "2026-10-08T13:32:19+00:00",
@@ -2991,6 +3106,17 @@
    "abstract": "Une mystérieuse bague-sceau à l’effigie du phare d’Alexandrie découverte dans les profondeurs marines &nbsp;&nbsp; Geo.fr",
    "doi": null,
    "first_seen": "2026-10-11T20:58:00+00:00",
+   "alt": null
+  },
+  {
+   "title": "Rempart de Lutèce : « La découverte archéologique peut être instantanée, la connaissance ne l’est jamais » - Le Monde.fr",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTnpVWjAyZ1czdk94YzJJSGJ2MjlPVUtDQVlHRkI4ZzN6QVZQMGRfV29WT1pKLWlfTUZaYk9YcUdLdW5MQzNNSFpkM3hwRjNpRkRaV1pXTW9oZ0N6OFVWNWMyV0E5Z3lnOFNjUk14RHZaWXJkZ21odnB3TDF1cXAyWHF3bFlpM3hqU0JIWnhKa2xVR1lNaW5PRldaTEREVkFqRnMwTHFfRmluQTJla1NTS3ctVzdrVWIxMmltdGxXamFPM2NZelVUNHJ0WV92SU1HNTZzS0VKMGF0VjBwUno1N043TFRSTFFreUlaNlpnbzY0S0x6am9FTQ?oc=5",
+   "date": "2026-10-08T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Rempart de Lutèce : « La découverte archéologique peut être instantanée, la connaissance ne l’est jamais » &nbsp;&nbsp; Le Monde.fr",
+   "doi": null,
+   "first_seen": "2026-10-08T17:53:38+00:00",
    "alt": null
   },
   {
@@ -4814,6 +4940,17 @@
     "url": "",
     "checked_at": "2026-10-16T09:54:10+00:00"
    }
+  },
+  {
+   "title": "Étudier l'histoire de l'art et l'archéologie à l'ICP : programme, débouchés, conseils pour réussir sa licence - Institut Catholique de Paris - ICP",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdHNWUW1hdHdUaGNpd1VGTmlMS2RzTTdhM1VVYlVFQWpoWGdzX2RpOWQxOXBYa1RwUktVcjg0Z09aNjRpV0E3Nk1YZ0hySGZHRUp5NVFIYUtoWVdwTWcwVXBoUVdzOFlPWlVJOGU3YUJoTVNHTEJ2QmxjT2RJa05IWmxVQzZvYzU0cnl5WXVzR0VKTXRzdWlreS1YRlJXLV8wQ2FCT2VjMzNaME1mNFo3MjE0MEoyOTFEYWR5Nm9pY0lrREpkX00ybXlfYmFUV250bndz?oc=5",
+   "date": "2026-10-06T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Étudier l'histoire de l'art et l'archéologie à l'ICP : programme, débouchés, conseils pour réussir sa licence &nbsp;&nbsp; Institut Catholique de Paris - ICP",
+   "doi": null,
+   "first_seen": "2026-10-16T19:57:47+00:00",
+   "alt": null
   },
   {
    "title": "Daily Quiz: 5 October",
