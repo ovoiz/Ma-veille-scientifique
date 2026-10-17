@@ -1,12 +1,34 @@
 {
- "generated_at": "2026-10-17T09:27:28+00:00",
+ "generated_at": "2026-10-17T14:13:43+00:00",
  "counts": {
-  "total": 1247,
-  "journal": 427,
-  "media": 820,
-  "new_this_run": 47
+  "total": 1250,
+  "journal": 428,
+  "media": 822,
+  "new_this_run": 43
  },
  "items": [
+  {
+   "title": "Birds as Co-agents: Social and Material Entanglements of the Ancestral Unangax^ in the Rat Islands",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0278416526000735?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Anthropological Archaeology",
+   "kind": "journal",
+   "abstract": "Publication date: December 2026 Source: Journal of Anthropological Archaeology, Volume 84 Author(s): Ariel Taivalkoski",
+   "doi": null,
+   "first_seen": "2026-10-17T14:13:43+00:00",
+   "alt": null
+  },
+  {
+   "title": "Les technologies du futur porte-avions \"France libre\"",
+   "link": "https://www.sciencesetavenir.fr/high-tech/france-libre-le-futur-porte-avions-nucleaire-francais_194984?xtor=RSS-12",
+   "date": "2026-10-17T12:00:00+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Le porte-avions destiné à remplacer l’actuel Charles de Gaulle&nbsp;a désormais un nom : France Libre. En attendant une mise en service prévue pour 2038, les grandes lignes du futur navire de 310 mètres se dessinent. Sciences et Avenir a eu accès en exclusivité aux premiers détails de l’avancée du projet. &nbsp;",
+   "doi": null,
+   "first_seen": "2026-10-17T14:13:43+00:00",
+   "alt": null
+  },
   {
    "title": "De la lumière au cœur des abysses",
    "link": "https://www.sciencesetavenir.fr/nature-environnement/mers-et-oceans/bioluminescence-pourquoi-ces-animaux-des-abysses-produisent-ils-de-la-lumiere_194996?xtor=RSS-15",
@@ -5438,17 +5460,6 @@
    "alt": null
   },
   {
-   "title": "Abbaye Saint-Maur de Bleurville, découvertes archéologiques - Université de Lorraine",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSW5HcHZhaWJnbWwzVzFQUnM1cmZSUG9nS2VLYUpsV3F1Y3FCMFRUdS1fck0zV1JETVJZQ1JtNHN4Ml96Tm9JQ0M3cUIwMmdJSTRJYndDSk0tQnVFU0w1akhKTnlVRWFfTldHbkZsT3pfN0xSZm9XRF9KSTlRQVVPOWFqUWoyVG5tLW5vcHhoNXhaQmhMN3RLd3NYNUVSRHc4RXc?oc=5",
-   "date": "2026-10-05T09:21:49+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Abbaye Saint-Maur de Bleurville, découvertes archéologiques &nbsp;&nbsp; Université de Lorraine",
-   "doi": null,
-   "first_seen": "2026-10-05T12:20:31+00:00",
-   "alt": null
-  },
-  {
    "title": "L'optogénétique primée au Nobel de physiologie ou médecine",
    "link": "https://www.sciencesetavenir.fr/decouvrir/agenda/direct-suivez-a-11h30-l-annonce-du-prix-nobel-de-physiologie-ou-medecine-2026_195200?xtor=RSS-27",
    "date": "2026-10-05T08:49:25+00:00",
@@ -5477,6 +5488,17 @@
    "source": "Sciences et Avenir — Archéo & paléo",
    "kind": "media",
    "abstract": "Les voyages spatiaux ont été associés à plusieurs problèmes de santé. Pour déterminer s’ils pourraient être causés par des perturbations de notre information génétique causées par la zéro gravité, des chercheurs ont imité ces conditions en laboratoire.",
+   "doi": null,
+   "first_seen": "2026-10-05T12:20:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie : L’abbaye Saint-Maur de Bleurville n’a pas fini de livrer ses secrets - Université de Lorraine",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSW5HcHZhaWJnbWwzVzFQUnM1cmZSUG9nS2VLYUpsV3F1Y3FCMFRUdS1fck0zV1JETVJZQ1JtNHN4Ml96Tm9JQ0M3cUIwMmdJSTRJYndDSk0tQnVFU0w1akhKTnlVRWFfTldHbkZsT3pfN0xSZm9XRF9KSTlRQVVPOWFqUWoyVG5tLW5vcHhoNXhaQmhMN3RLd3NYNUVSRHc4RXc?oc=5",
+   "date": "2026-10-05T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : L’abbaye Saint-Maur de Bleurville n’a pas fini de livrer ses secrets &nbsp;&nbsp; Université de Lorraine",
    "doi": null,
    "first_seen": "2026-10-05T12:20:31+00:00",
    "alt": null
@@ -12584,12 +12606,12 @@
    "alt": null
   },
   {
-   "title": "Archéologie à Troie : Découverte d'une agora de 2 800 ans, la ville n'a pas été abandonnée après la guerre - Euronews",
+   "title": "Archéologie à Troie : Découverte d'une agora de 2 800 ans, la ville n'a pas été abandonnée après la guerre - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDlvVDVzXzBrOGNZd3Q5R0FWUVpvMGw1Tk5kbWlLUmlKX2tIbi1QYzZKTjFNU05MZ1FYaW40V2FXd1c2MUx2UWZSai1DczBiZVpYaU1zM19zLWNnc04ya2NxbnA1SnVJZGVKZGwyTndaRmhLUjZMckJKRXQtOTZzYWxaTFB3MEZDbjNaNFdWSEFDdUk1b0g2cWFudmQ5Ui01NkJMNlE0bm5SWHBmdVlEek9xcnZseC1NYWlFWWJtVnBMY3c?oc=5",
    "date": "2026-09-22T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Archéologie à Troie : Découverte d'une agora de 2 800 ans, la ville n'a pas été abandonnée après la guerre &nbsp;&nbsp; Euronews",
+   "abstract": "Archéologie à Troie : Découverte d'une agora de 2 800 ans, la ville n'a pas été abandonnée après la guerre &nbsp;&nbsp; Euronews.com",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -14288,6 +14310,17 @@
    "abstract": "Archéologie : une villa gallo-romaine et ses thermes exceptionnellement bien conservés ouvrent au public à Warcq, dans les Ardennes &nbsp;&nbsp; historia.fr",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "Découvrez toute l'actualité de l'archéologie dans les Hauts-de-France, les 9 et 10 novembre 2026 - Ministère de la Culture",
+   "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOeHlQZ2tLajVXN1pSaHJhQ3VZdWxZaDlmQ2kxYjRLTmNJZ3VlZEJpOGpuWmFHazRpRHQzUzNTNjV6R1l6c1o5STM5RkdmeHRndXZDMEJ1U3JDMVE3bmtUNEREcVVrWmYwa1ZSNlgyTFZ1Uk1pYkdtSUJpN01IbFl0TmVZSTZqMXhMU1A3X1dIRzUwdmRRc0kxR2hDMG4tN1oxZlhTdHphX3lxQ0k0a1NBZ1NSeHBaSmpudFk0dVZlaFFZMEREVVpJMFh3QXgzVEJxMVNnWURsVmhka1BaNjZrRjRrYXdKVC1nSHY4eTUyYXZ0YnVFWEVjNzBCSWlfN1RtNlc4LWVHQ3ZXRHlmZ29XRUdmSXhfYTdLcVR0UndoMzhJeXdNQlN0WlFJblA1eUVnSFZtZ191Q3RQVTVsaHdobWxRNFY0eXdwUENlVmVNSDVaVGNmaXVST3R1VUtKV0RqWDlBTEo4Sk5YeElkTzFNd1J2Z2NUdjdyU0x2M0dqaWlGOV9oSUxPQzlrODMydw?oc=5",
+   "date": "2026-09-15T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Découvrez toute l'actualité de l'archéologie dans les Hauts-de-France, les 9 et 10 novembre 2026 &nbsp;&nbsp; Ministère de la Culture",
+   "doi": null,
+   "first_seen": "2026-10-17T14:13:43+00:00",
    "alt": null
   },
   {
