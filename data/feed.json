@@ -1,12 +1,23 @@
 {
- "generated_at": "2026-10-17T14:13:43+00:00",
+ "generated_at": "2026-10-17T19:25:16+00:00",
  "counts": {
-  "total": 1250,
+  "total": 1252,
   "journal": 428,
-  "media": 822,
-  "new_this_run": 43
+  "media": 824,
+  "new_this_run": 41
  },
  "items": [
+  {
+   "title": "The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’",
+   "link": "https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html",
+   "date": "2026-10-17T17:41:07+00:00",
+   "source": "New York Times — Archaeology",
+   "kind": "media",
+   "abstract": "Archaeologists said that they had found jars from a shipwreck as much as 4,700 years old, with black residue inside. Outside experts were skeptical but intrigued.",
+   "doi": null,
+   "first_seen": "2026-10-17T09:27:28+00:00",
+   "alt": null
+  },
   {
    "title": "Birds as Co-agents: Social and Material Entanglements of the Ancestral Unangax^ in the Rat Islands",
    "link": "https://www.sciencedirect.com/science/article/pii/S0278416526000735?dgcid=rss_sd_all",
@@ -60,17 +71,6 @@
    "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’",
-   "link": "https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html",
-   "date": "2026-10-17T00:40:18+00:00",
-   "source": "New York Times — Archaeology",
-   "kind": "media",
-   "abstract": "Archaeologists said that they had found jars from a shipwreck as much as 4,700 years old, with black residue inside. Outside experts were skeptical but intrigued.",
-   "doi": null,
-   "first_seen": "2026-10-17T09:27:28+00:00",
    "alt": null
   },
   {
@@ -6067,6 +6067,17 @@
     "url": "",
     "checked_at": "2026-10-16T09:54:10+00:00"
    }
+  },
+  {
+   "title": "Archéologie : L’abbaye Saint-Maur de Bleurville n’a pas fini de livrer ses secrets - Université de Lorraine",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUWdyZzJtSUtCOVFTZi1CLU9xcFR5WGZydURvMXotSUpWb3BhVUEzUmtjRk1DVUdDMWsxcmhONDl5NXdzX3Z3bjNsQjNieHVQZmpFUGhhY29LMEM0UllONDJYczRFRDJ0WFNabUZmNl9YTnhxMEtFbVBxZk1yVzNPWjRUSWtDOUVFamU3Uy1PRzVhUXUxX3FnZHNYaUdBR0Fua2RNUWUxbDJhX3lYQU4yY20welR4TW9DNzNKWg?oc=5",
+   "date": "2026-10-05T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : L’abbaye Saint-Maur de Bleurville n’a pas fini de livrer ses secrets &nbsp;&nbsp; Université de Lorraine",
+   "doi": null,
+   "first_seen": "2026-10-17T19:25:16+00:00",
+   "alt": null
   },
   {
    "title": "Sunken Silk Road city reveals Central Asia's lost history",
@@ -13794,6 +13805,17 @@
    "abstract": "Exposition : \"Archéologie d’un territoire loirétain : Saran, 300 000 ans d’histoire\" &nbsp;&nbsp; Conseil départemental du Loiret",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie : Diane Dusseaux pose son regard sur le musée Henri Prades - En Commun",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkRyZklqNnhobjlRenE5Tkd5UG13TFlRektJYnpHUWlGeXVwUnd5TGMtVjhISzFSaHVHZmhuT2dXcnp2aUhTcHF3MTAwNVJyNlVFRmZfRkdhbFJUOXN3MkI2eWszWFQxbTdJajVubmgtQXVlRkVTRmo3aGdKTksxY1NOUGxwXzI3d1p3dXJOZkJVbWNNcng1LThGREFMYm5OdkI4bzJmTXZMd2JodDBKT2JjYzFfck9fb3lpOA?oc=5",
+   "date": "2026-09-19T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : Diane Dusseaux pose son regard sur le musée Henri Prades &nbsp;&nbsp; En Commun",
+   "doi": null,
+   "first_seen": "2026-10-17T19:25:16+00:00",
    "alt": null
   },
   {
