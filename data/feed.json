@@ -1,12 +1,67 @@
 {
- "generated_at": "2026-10-24T14:35:43+00:00",
+ "generated_at": "2026-10-24T19:29:36+00:00",
  "counts": {
-  "total": 1549,
-  "journal": 549,
-  "media": 1000,
-  "new_this_run": 43
+  "total": 1554,
+  "journal": 550,
+  "media": 1004,
+  "new_this_run": 45
  },
  "items": [
+  {
+   "title": "Daxinzhuang-18K: A large-scale 2D benchmark and automated approach for pottery sherd reassembly",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0305440326002426?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Archaeological Science",
+   "kind": "journal",
+   "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science, Volume 196 Author(s): Deqing Ji, Tianyang Xue, Qingzhu Wang, Wenkang Ma, Jianfeng Lang, Hui Fang, Changhe Tu, Lin Lu",
+   "doi": null,
+   "first_seen": "2026-10-24T19:29:36+00:00",
+   "alt": null
+  },
+  {
+   "title": "\"Une découverte inédite\" : des archéologues découvrent une sculpture rare au sein d'un temple païen en Bulgarie - Actu.fr",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVC1JZWdZcnMtR0FFYlZYOVBsclRzUUltelZzUVY0emVNZzhPZXJsSWx0TjlBcjd2WkJsNDZTbDdUdGZsTk5SMEhyZVNxZWZfVnVwYTFXcVVyV2VaTUV3WC0wSUxDQnJqV0xsb29IX3ZiZE9XR0o3ZExjanVEZDRjQU53NXAtTm1rZVJ5TnZnbmltTFZ3Mk9YWVFneXp1TlRqU25jTm9vckJLOUVVVGFJMmVEenBrSVYxWGltVGF5azZ2a1JXMkZOTG82Qm9qQUhjeXZna3RKVzZzZ1VJS19IN19PZFNuRUpJZElhRUFzb0VRN09nSzNWRjJvOURUdw?oc=5",
+   "date": "2026-10-24T16:58:02+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "\"Une découverte inédite\" : des archéologues découvrent une sculpture rare au sein d'un temple païen en Bulgarie &nbsp;&nbsp; Actu.fr",
+   "doi": null,
+   "first_seen": "2026-10-24T19:29:36+00:00",
+   "alt": null
+  },
+  {
+   "title": "How Mobile Technology Is Changing Archaeological Documentation",
+   "link": "https://popular-archaeology.com/article/how-mobile-technology-is-changing-archaeological-documentation/",
+   "date": "2026-10-24T15:51:09+00:00",
+   "source": "Popular Archaeology",
+   "kind": "media",
+   "abstract": "Thorough observation and precise recording have always been the backbone of archaeology. Researchers have developed many ways to document historical material, including detailed site photos and handwritten excavation notes. Today&#8217;s mobile technologies make photographing archaeological features, consulting reference materials, and organizing field observations easier. The Evolution of Archaeological Field Documentation Notepads, drawings, measurement tools, and ... Read more &#187;",
+   "doi": null,
+   "first_seen": "2026-10-24T19:29:36+00:00",
+   "alt": null
+  },
+  {
+   "title": "The History of Coins: From the First Coins to the Last Penny",
+   "link": "https://popular-archaeology.com/article/the-history-of-coins-from-the-first-coins-to-the-last-penny/",
+   "date": "2026-10-24T15:24:32+00:00",
+   "source": "Popular Archaeology",
+   "kind": "media",
+   "abstract": "The history of coins began in Lydia in the late 7th century BC. Follow coinage from electrum lions to Roman silver, steam presses and the last US penny.",
+   "doi": null,
+   "first_seen": "2026-10-24T19:29:36+00:00",
+   "alt": null
+  },
+  {
+   "title": "Why did Stalin commit a robbery? The bloody heist that made the dictator’s name",
+   "link": "https://www.historyextra.com/period/20th-century/why-did-stalin-commit-a-robbery-the-bloody-heist-that-made-the-dictators-name/",
+   "date": "2026-10-24T14:30:44+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "To take on the imperial regime in Russia, revolutionaries needed cash – and they were happy to steal it. In one bloody raid, the Bolsheviks pinched a fortune and found a new figurehead In 1907, a young man from Georgia, then part of the Russian empire, masterminded an audacious and bloody armed robbery. It was not of a bank, but a stagecoach carrying a huge amount of money belonging to the chief financial institution of the imperial regime itself, and the stolen roubles would fund the revolutionary movement growing in the country. The man’s name was Ioseb Jughashvili, but he is better known by another name today: Joseph Stalin . Before consolidating power after the Russian Revolution of 1917 and his decades-long dictatorial rule of the Soviet Union , Stalin had become a Marxist around the turn of the 20th century. He joined the Russian Social Democratic Labour Party (RSDLP) and aligned with its radical faction, the Bolsheviks. Essentially a gangster – more than willing to get his hands dirty for the cause by carrying out robberies, kidnappings and killings – Stalin proved a useful ally to their militant leader, Vladimir Lenin , especially when it came to securing funds. Why did the…",
+   "doi": null,
+   "first_seen": "2026-10-24T19:29:36+00:00",
+   "alt": null
+  },
   {
    "title": "Démystifier les faux discours scientifiques avec la sélection de livres de la rédaction",
    "link": "https://www.sciencesetavenir.fr/decouvrir/exercer-son-esprit-critique-avec-la-selection-de-livres-de-sciences-et-avenir_195020?xtor=RSS-27",
@@ -21,7 +76,7 @@
   {
    "title": "Huningue. Archéologie : un partenariat avec la Drac pour protéger les vestiges et le patrimoine bâti - L'Alsace",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUXpMWHM2OTJYREdneHB4M0JlZmZhZTl2M2tTY24yQm9qc2tDMGtYaWdtYVN5Q2NRNHJNNzc5S3FqeDdPZEhOcXB3UjRnaFhNR2FnTWlGUU1qOEJPdDNMa2J0MnJ0RVptQ3lMaVVoQVVid25NYVV0QUpabmZMWXVNMTFGaEc4bmNTQjljTkhVb1JFRkwxZG9ILU0xdlJJYWRmUFNEY2NPSmlldTUyUzlrNUZYZ18wQlpfN2JDZWNwMGFudkpxNjdpUkszNA?oc=5",
-   "date": "2026-10-24T09:25:11+00:00",
+   "date": "2026-10-24T09:26:30+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "Huningue. Archéologie : un partenariat avec la Drac pour protéger les vestiges et le patrimoine bâti &nbsp;&nbsp; L'Alsace",
@@ -313,12 +368,12 @@
    "alt": null
   },
   {
-   "title": "Idole de Shigir : les secrets de la plus ancienne sculpture en bois de l’Humanité - Ça m'intéresse",
+   "title": "Idole de Shigir : les secrets de la plus ancienne sculpture en bois de l’Humanité - Caminteresse",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWERKazlNRTdQek5DLUJERXdwTGk2OGNnMnBWc1EzTGVwLWtpbVdpd25rS0otbk5xMjN3OTM3eXdVTzlBLW5JMjk4R3BOOG5iYkFfYjRxOVNQMGZLTVlsSU9Nb1ZuWlBVTGhmZTNkNHdpaElSOEdTUFE3ckttRlNOd0Z0R1dQMFJlVlpuZ2t0SHNnM0g5bUtnMTZzS3VJd2E5SmtJNkJldDJJUjVsQ0ZUSGs1VnpqUXlVWHNpck92RTJEaUE?oc=5",
    "date": "2026-10-23T11:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Idole de Shigir : les secrets de la plus ancienne sculpture en bois de l’Humanité &nbsp;&nbsp; Ça m'intéresse",
+   "abstract": "Idole de Shigir : les secrets de la plus ancienne sculpture en bois de l’Humanité &nbsp;&nbsp; Caminteresse",
    "doi": null,
    "first_seen": "2026-10-23T15:45:51+00:00",
    "alt": null
