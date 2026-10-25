@@ -1,12 +1,67 @@
 {
- "generated_at": "2026-10-24T19:29:36+00:00",
+ "generated_at": "2026-10-25T09:52:34+00:00",
  "counts": {
-  "total": 1554,
-  "journal": 550,
-  "media": 1004,
-  "new_this_run": 45
+  "total": 1562,
+  "journal": 553,
+  "media": 1009,
+  "new_this_run": 47
  },
  "items": [
+  {
+   "title": "Qui étaient les bâtisseurs des dolmens du Quercy ?",
+   "link": "https://www.sciencesetavenir.fr/archeo-paleo/sur-les-traces-d-un-village-neolithique-oublie_195016?xtor=RSS-4",
+   "date": "2026-10-25T09:00:00+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Avec 800 dolmens, le Quercy concentre une densité exceptionnelle de monuments mégalithiques. En étudiant les grottes qui les entourent, les archéologues cherchent à comprendre comment vivaient les communautés qui les ont édifiés.",
+   "doi": null,
+   "first_seen": "2026-10-25T09:52:34+00:00",
+   "alt": null
+  },
+  {
+   "title": "Près du mur d’Hadrien, des latrines vieilles de 1 800 ans révèlent que les soldats romains étaient massivement contaminés par des parasites intestinaux - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPTFgtVkdzdkctNThxeWVtQ3NJWXdQOHdSZGdKSmZjSHRKMWVJWXFkRUNmRHc3VTJFbXRvYldBaHBXMmlncWJnR0RBVVBUUVcxVzMwdkZQbHJha05BVXhoZi16dkRPLXBDYXJ0eTNDVTVWbDZtS3U4bkctY1E4aHNiTVU3Ynd4OUhFVlVDSi0xSVZBSE9jWDFpQll0TkpaVVNydFdHZUFYc2stUVJoUHJXZEN4cG5GVmFYWno0bHFmMGluazVjb3FPOFZ6NU5wQTlySEUtVDV2ekd2Z0dVaWpHZ3FCUEFhSkVqRFZQSW5DbERnSlJxbTVxcVN4SVJDZEl2bFhxSVZHekwyTVVuaFVqU2NicUR5SHA3UWs4U2Q4QkpwOW0zTFNQcG93?oc=5",
+   "date": "2026-10-25T07:00:35+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Près du mur d’Hadrien, des latrines vieilles de 1 800 ans révèlent que les soldats romains étaient massivement contaminés par des parasites intestinaux &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-10-25T09:52:34+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily Quiz: 25 October",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-10-25T07:00:08+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "‘It’s magic’: scientists rediscover how to make ancient Roman colour-changing glass",
+   "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+   "date": "2026-10-25T06:00:55+00:00",
+   "source": "The Guardian — Archaeology",
+   "kind": "media",
+   "abstract": "Exclusive: Optical engineering that went into 1,600-year-old Lycurgus Cup has baffled experts for centuries The Romans’ proficiency in the art of glass-making has produced some of the wonders of antiquity, but few of their creations better a 1,600-year-old masterpiece which sits in the British Museum. Depending on where a light source is positioned, the Lycurgus Cup changes colour, from jade green under normal lighting to ruby red when lit from behind – an astonishing feat of optical engineering that has confounded historians and glass-makers for centuries. Continue reading...",
+   "doi": null,
+   "first_seen": "2026-10-25T09:52:34+00:00",
+   "alt": null
+  },
+  {
+   "title": "Carmaux. Conférence : les Celtes passent à table… l’archéologie aussi - ladepeche.fr",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbVR5dFJiV2plMXlaOXFHYmcyV2Q3YUs3S1duMnBFV2dNWDI1YlQxc1JrRUMyQjRlWGctazItWVo0ZnczYm1HbC14UU5GME1iSC0xbjJlb09qNFFCWnE1ZGlIb0xETXBLNkZLUHJmNmdGOUhTWFdxSzNIZVhtWnBSUm1aVktFeGpoeHYxSE9YRU5taUpiY3RlazNpb2tCamxxOUxmLUFUSWg?oc=5",
+   "date": "2026-10-25T04:13:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Carmaux. Conférence : les Celtes passent à table… l’archéologie aussi &nbsp;&nbsp; ladepeche.fr",
+   "doi": null,
+   "first_seen": "2026-10-25T09:52:34+00:00",
+   "alt": null
+  },
   {
    "title": "Daxinzhuang-18K: A large-scale 2D benchmark and automated approach for pottery sherd reassembly",
    "link": "https://www.sciencedirect.com/science/article/pii/S0305440326002426?dgcid=rss_sd_all",
@@ -115,17 +170,6 @@
    "abstract": "À Toulouse, une expérience inédite simule les contraintes alimentaires auxquelles seraient confrontés les astronautes lors de missions lointaines. Des volontaires sont soumis à une restriction calorique sévère en impesanteur simulée pour étudier les adaptations de leur organisme.",
    "doi": null,
    "first_seen": "2026-10-24T09:35:54+00:00",
-   "alt": null
-  },
-  {
-   "title": "Daily Quiz: 24 October",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-10-24T06:00:12+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
   },
   {
@@ -387,6 +431,17 @@
    "abstract": "Famed for having six wives, Henry VIII's love life is today the subject of much scholarship and speculation. But what do we know about the king's extra-marital liaisons – the mistresses who shared his bed? Here, Amy Licence investigates Popular history is so well versed in the six wives of Henry VIII that they require little introduction. From the colourful bodice-ripper series The Tudors (2007–10) to the feminist retelling in Six (2017–present), we are reminded of the old mantra we learned at school: divorced, beheaded, died, divorced, beheaded, survived. We might also be forgiven for thinking that the king was so busy keeping up with the women to whom he was legally united that he had little time for any others. However, Henry VIII , with his “angelic” face, athletic build and red-gold hair, had an eye for the ladies, and in his early years, particularly, few were able to resist him. Paradoxically, we can learn most about Henry’s mistresses through his wives. Anne Boleyn ’s refusal to sleep with the king in the late 1520s was all the more successful because until this point he was accustomed to other women saying yes. Two of them are known to us: Elizabeth Blount and Anne’s own s…",
    "doi": null,
    "first_seen": "2026-10-23T15:45:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "En Bulgarie, des archéologues découvrent une sculpture rare dans l’un des derniers sanctuaires païens de l’Empire romain - magazine GEO",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVGh6dEFfaFhyZlg2ZUxZRldpNmx2WU5TRUxkVk95SkJFejBpQm9LYzAyOVdQQVpndURuMWt2TUNTYUJlc1pvY3V6ZnBMaksyX0NSaDB6RG5xWUhwSHJzWDZPQUZOMm1oRk5UeTN3TFFyOFhpY0FnbG9xYmh4TFRxcXNJVnNmNlUzSFhJNl95dlVBLVpmeDRySjZwX3hLajhWWnRmRkN1My1JWmY2MTFQRWwzeFg5Mnlwb3ZMTU5kUmQ0SkVIaVBKQTJFbHkzdjNycFRGQ3U5UW5xMXZqTzh4MnBXR0FzVFE?oc=5",
+   "date": "2026-10-23T10:10:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "En Bulgarie, des archéologues découvrent une sculpture rare dans l’un des derniers sanctuaires païens de l’Empire romain &nbsp;&nbsp; magazine GEO",
+   "doi": null,
+   "first_seen": "2026-10-25T09:52:34+00:00",
    "alt": null
   },
   {
@@ -1883,6 +1938,25 @@
    }
   },
   {
+   "title": "Data and food for thought. The value of statistical visualisation",
+   "link": "https://archaeo.peercommunityin.org/articles/rec?id=697",
+   "date": "2026-10-19T07:12:30+00:00",
+   "source": "PCI Archaeology",
+   "kind": "journal",
+   "abstract": "Problems and issues in the application of intrasite quantitative and spatial approaches to a historical context: a preliminary study on faunal remains at Igiliz (Morocco, 11th - 13th c.). Mega Salomé https://doi.org/10.5281/zenodo.21337132 Recommended by view Communicating scientific information to colleagues or the general public is one of the activities I consider most important, and as such it has been closely linked to my training as an archaeologist. Shortly after completing my PhD, whilst monitoring a 100 km gas pipeline in Murcia, I undertook a further Master’s degree at the University of Salamanca on the statistical analysis of multivariate data. My MA dissertation effectively consisted of a multivariate analysis of archaeological data that we had collected at the Roman site of Granjería in Sandoval de la Reina, Villadiego (Burgos) (García Sánchez 2017). This dataset comprised a wide variety of ceramic artefacts, collected from 10-by-10-metre squares, with no information on the occupational context. In other words, we lacked any geophysical or aerial photographic data to indicate from which part of the site – perhaps a villa – the materials originated. We were therefore fac…",
+   "doi": "10.5281/zenodo.21337132",
+   "first_seen": "2026-10-25T09:52:34+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-10-25T09:52:34+00:00"
+   }
+  },
+  {
    "title": "EXPOSITION. De Eureka ! à Abracadabra !: les liens entre sciences et magie",
    "link": "https://www.sciencesetavenir.fr/decouvrir/exposition-entre-magie-et-sciences-plus-qu-une-illusion_195434?xtor=RSS-27",
    "date": "2026-10-19T07:07:51+00:00",
@@ -1910,6 +1984,25 @@
     "tweets": 0,
     "url": "",
     "checked_at": "2026-10-19T10:51:15+00:00"
+   }
+  },
+  {
+   "title": "A Practical Workflow for Large-Scale Ceramic Documentation",
+   "link": "https://archaeo.peercommunityin.org/articles/rec?id=691",
+   "date": "2026-10-19T06:48:14+00:00",
+   "source": "PCI Archaeology",
+   "kind": "journal",
+   "abstract": "Reducing Time and Effort: A Method for Documenting Large Ceramic Assemblages through Photogrammetry Anamarija Belošić, Peter Thomas https://doi.org/10.5281/zenodo.17400661 Recommended by view The systematic 3D documentation of archaeological artefacts is becoming increasingly important for research, preservation and dissemination. However, applying photogrammetric techniques to large assemblages remains challenging, particularly when thousands of individual objects need to be recorded. Improving the efficiency of these workflows without compromising the consistency and quality of the resulting documentation is therefore an important practical objective in digital archaeology. Belošić and Thomas (2025) address this challenge by proposing a photogrammetric workflow specifically designed for large ceramic assemblages. Their approach combines a rotating trolley equipped with two cameras and a mounting frame that allows multiple ceramic fragments to be documented systematically. Rather than introducing new photogrammetric algorithms, the contribution lies in the practical adaptation and integration of existing technologies into a more efficient acquisition process. The methodology is de…",
+   "doi": "10.5281/zenodo.17400661",
+   "first_seen": "2026-10-25T09:52:34+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-10-25T09:52:34+00:00"
    }
   },
   {
@@ -2544,17 +2637,6 @@
    "alt": null
   },
   {
-   "title": "Archéologie : en Égypte, des archéologues découvrent une tête colossale de Ramsès II grâce à un villageois - Connaissance des Arts",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQck5LLWlCOWxRUk1YZWlpbmU4a1hHYzBqYXItVEFOd19wWGx1bXBmNWYwUDIyX2hhRFBITDIybzFOVWRXalI5bXRkVXV2Y3JWV0FyMjRoYWVyM1hhZENIOHdPdlJ5Z0h1aUxkQktEXzdqYm5oUG1MTXk3SDhvZUpNZG80U1N2NW9wemJKSDNrZ1VHY3ZXZmMwTGtqRVVtclJpN1EtQVpBUWZtZ090SjhtQ0VlT2xCdWRGcktNQS1xdVBWU0s4Y1hiM3dvZ291eG56WVBrVi1IdllxekVlekNZT3pDNlpISG5GS1BPaWdGaHNCOF9hZkUwYnduZkRoaE91UlJENUZVNzU4TmpJdTNv?oc=5",
-   "date": "2026-10-16T13:30:31+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Archéologie : en Égypte, des archéologues découvrent une tête colossale de Ramsès II grâce à un villageois &nbsp;&nbsp; Connaissance des Arts",
-   "doi": null,
-   "first_seen": "2026-10-16T15:23:23+00:00",
-   "alt": null
-  },
-  {
    "title": "Crevettes d'élevage énuclées : les pratiques cruelles de la grande distribution",
    "link": "https://www.sciencesetavenir.fr/nature-environnement/la-grande-distribution-appelee-a-s-engager-contre-la-maltraitance-des-crevettes-d-elevage_195423?xtor=RSS-15",
    "date": "2026-10-16T13:03:42+00:00",
@@ -2593,6 +2675,25 @@
     "tweets": 0,
     "url": "",
     "checked_at": "2026-10-16T15:23:23+00:00"
+   }
+  },
+  {
+   "title": "OpenArchaeo: A French DARIAH-EU Initiative for Connected Archaeological Data",
+   "link": "https://archaeo.peercommunityin.org/articles/rec?id=694",
+   "date": "2026-10-16T12:41:15+00:00",
+   "source": "PCI Archaeology",
+   "kind": "journal",
+   "abstract": "OpenArchaeo: a Semantic Web Portal to Ease Cross-Querying of Archaeological Datasets Florian Hivert, Olivier Marlet, Béatrice Markhoff https://doi.org/10.5281/zenodo.23068535 Recommended by view Semantisation and reusability of online archaeological datasets are key challenges in digital humanities. As the web expands and an increasing number of archaeological datasets are produced, it becomes increasingly important to identify, connect, and cross-reference them to foster new inferences and serendipitous discoveries. The paper \" OpenArchaeo: a Semantic Web Portal to Ease Cross-Querying of Archaeological Datasets \", authored by Florian Hivert, Béatrice Markhoff, and Olivier Marlet, addresses this challenge. It presents OpenArchaeo ( https://openarchaeo.huma-num.fr/portal/ ), an open, semantically enriched archaeological data platform. OpenArchaeo is a key output of the MASAplus consortium, which is part of the French node of the European DARIAH infrastructure for the Arts and Humanities (i.e. Huma-Num). As such, it represents a pioneering initiative in France for the semantisation of archaeological data and the promotion of open science. The paper is well written and easy to read—wh…",
+   "doi": "10.5281/zenodo.23068535",
+   "first_seen": "2026-10-25T09:52:34+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-10-25T09:52:34+00:00"
    }
   },
   {
@@ -2714,6 +2815,17 @@
    "abstract": "",
    "doi": null,
    "first_seen": "2026-10-16T09:54:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie : en Égypte, des archéologues découvrent une tête colossale de Ramsès II grâce à un villageois - Connaissance des Arts",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQck5LLWlCOWxRUk1YZWlpbmU4a1hHYzBqYXItVEFOd19wWGx1bXBmNWYwUDIyX2hhRFBITDIybzFOVWRXalI5bXRkVXV2Y3JWV0FyMjRoYWVyM1hhZENIOHdPdlJ5Z0h1aUxkQktEXzdqYm5oUG1MTXk3SDhvZUpNZG80U1N2NW9wemJKSDNrZ1VHY3ZXZmMwTGtqRVVtclJpN1EtQVpBUWZtZ090SjhtQ0VlT2xCdWRGcktNQS1xdVBWU0s4Y1hiM3dvZ291eG56WVBrVi1IdllxekVlekNZT3pDNlpISG5GS1BPaWdGaHNCOF9hZkUwYnduZkRoaE91UlJENUZVNzU4TmpJdTNv?oc=5",
+   "date": "2026-10-16T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : en Égypte, des archéologues découvrent une tête colossale de Ramsès II grâce à un villageois &nbsp;&nbsp; Connaissance des Arts",
+   "doi": null,
+   "first_seen": "2026-10-16T15:23:23+00:00",
    "alt": null
   },
   {
