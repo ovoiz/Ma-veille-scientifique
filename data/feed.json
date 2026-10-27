@@ -1,16 +1,126 @@
 {
- "generated_at": "2026-10-26T21:38:30+00:00",
+ "generated_at": "2026-10-27T10:39:17+00:00",
  "counts": {
-  "total": 1628,
+  "total": 1648,
   "journal": 564,
-  "media": 1064,
-  "new_this_run": 38
+  "media": 1084,
+  "new_this_run": 86
  },
  "items": [
   {
+   "title": "How to build the ultimate medieval castle",
+   "link": "https://www.historyextra.com/membership/how-to-build-ultimate-medieval-castle-podcast/",
+   "date": "2026-10-27T09:57:28+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Dan Jones surveys the world's historic fortifications to cherry-pick the fashionable and functional features which he thinks would make the ultimate castle If you had to survive a siege, which medieval fortress would you choose to be holed up inside? In today's episode, Dan Jones surveys the world's historic fortifications to cherry-pick the fashionable and functional features which he thinks would make the ultimate castle. Speaking to Charlotte Vosper, Dan guides us through the creation of his dream fortification, and reveals the most important principle for making a castle truly impregnable.",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
+  },
+  {
+   "title": "Is Elizabeth Báthory the most prolific serial killer in history?",
+   "link": "https://www.historyextra.com/membership/is-elizabeth-bathory-the-most-prolific-serial-killer-in-history/",
+   "date": "2026-10-27T09:38:35+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Did a 16th-century countess really murder hundreds of girls? HistoryExtra's Isabel King explains what's really known about Elizabeth Báthory's monstrous reputation On a remote hilltop in what is now Slovakia stands Čachtice Castle – a crumbling reminder of a dark and chilling past. This is no ordinary fortress. It is said that hundreds of girls once ventured into its depths – only to disappear and never be seen again. This is the castle once home to Elizabeth Báthory , a countess born in the 16th century. In this video, HistoryExtra' s Isabel King explains what's really known about Báthory's monstrous reputation. With expertise from a podcast interview with Shelley Puhak , author of The Blood Countess: Murder, Betrayal and the Making of a Monster , Isabel considers the factors that point to the countess being more innocent that she first appears. View Green Video on the source website",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
+  },
+  {
+   "title": "L’Agenda : Ateliers archéologie gratuits et animations Halloween à la Grotte du Lazaret à Nice - Radio Monaco",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObUdKV3dvRGx2YVlzclhCV284SkhvZzBXQVAtUTlrdDZjbzAwVk5vMk1pTmNiS3AtSGJiZHlJb1BYaEVBRU5jLUY2YnVZdmZxZ2FPMTRMdGFpMVd5bmNQRlkzNVhQQmVHa0lZMi14Q0k1SWs4djlRbEozQXNEcW80RWs2QWlVbjk4ckhGMmtLVE5GamJwcHJWVklqZnFCX2pOY3VPMC1ZbDk3MUZrNEZlSDBQWU5TTGdzRXM4TG9XZ3JIZ0k?oc=5",
+   "date": "2026-10-27T07:07:38+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "L’Agenda : Ateliers archéologie gratuits et animations Halloween à la Grotte du Lazaret à Nice &nbsp;&nbsp; Radio Monaco",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily Quiz: 27 October",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-10-27T07:00:14+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "Rapport annuel sur l'archéologie vietnamienne 2026 - Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQjV5b3RKSmVQNVFzTjVZMWNwM2Y3aDhNVlQxNHJXR21ZMUNvWEJIVEZEajJJTDhoTjNuZEN4OUpLUFJaMGlfdWY2dnNmUHl3cVlGYUl5TV94aWlPVGJ2elVTN0pmZXhfdzlYNjBXSU1vUkQ0eUk4eU9UTE16a2xEbw?oc=5",
+   "date": "2026-10-27T05:31:23+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Rapport annuel sur l'archéologie vietnamienne 2026 &nbsp;&nbsp; Vietnam.vn",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
+  },
+  {
+   "title": "\"On est bien ennuyés\" : de nouveaux vestiges archéologiques découverts dans l'Oise - Actu.fr",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY1RHWTZDUUxHeE83cExqeS1SaHppV3ZYNXhpTTRkZGQ0cFpFb1VQQWdTYTdLMTNWOTJ5SlBTbElxM0FkOC1ZeFlSYU1XZzI5R2R2bmVTMW0zdkM5NC1DVTJYRVVteUxLUXlmc3BVaG4yY2o3RmRvVERPS2hjRkhZV29kZjBHUk9BSDlmS3JTODdWcnQxQ083YjdpeGF3V3NjRlRFdXZFcjJrZm00U25mNGFDMGFmamd4TjFEUWRocmJvb3R6ckpQdmxaSjVvcURzLU1WaWJ3?oc=5",
+   "date": "2026-10-27T05:04:02+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "\"On est bien ennuyés\" : de nouveaux vestiges archéologiques découverts dans l'Oise &nbsp;&nbsp; Actu.fr",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
+  },
+  {
+   "title": "Neanderthal Beaver Butchery: 4 Cut Bones Out of 231",
+   "link": "https://www.anthropology.net/p/neanderthal-beaver-butchery-4-cut",
+   "date": "2026-10-27T04:00:39+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "A Spanish cave preprint finds Neanderthal cut marks on beaver and marmot bones, but carnivore tooth marks appear on more than five times as many. The one marmot bone at Valdegoba Cave that carries a cut mark is a right half-jaw from an old adult, and it comes from disturbed sediment. The cave sits in the &#218;rbel River gorge near Hu&#233;rmeces, about 28 km northwest of Burgos in northern Spain, and its Neanderthal-bearing Levels 4 and 5 date to about 140&#8211;120 ka (thousands of years ago). A new preprint 1 uses that jaw and three beaver bones to argue for Neanderthal beaver butchery and marmot processing at the site. Most readers carry a picture in which Neanderthal meat means large hoofed animals, and the authors open by saying the field has long reconstructed it that way. They also note that rabbits and tortoises at Bolomor Cave in Spain already showed small prey predating the Upper Paleolithic (Blasco and Fern&#225;ndez Peris 2012), and that cut-marked beavers and marmots are known from other European sites. Valdegoba adds one more case to an existing list, and I think the paper is better read that way than as a challenge to the old picture. Sorry, marmot, but at around 6.…",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
+  },
+  {
+   "title": "First Recorded Stenciled Rock Art in Southern Africa",
+   "link": "https://www.anthropology.net/p/first-recorded-stenciled-rock-art",
+   "date": "2026-10-27T03:44:17+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "Two 9 cm stenciled figures at La Rochelle, Mpumalanga, appear to be red paint blown over a template; the maker and the date are unknown. Two human figures about 9 cm tall are visible, faintly, on the wall of the La Rochelle rock shelter near Carolina, in the Mpumalanga Highlands of South Africa. Each is a patch of bare rock surrounded by red paint, with a halo of fine specks around the denser areas. The authors read the pair as stenciled rock art: paint blown or splashed over a template that was then removed. The shelter has a concrete floor, wooden pews and an improvised pulpit, and it seems to host the occasional church service still. The figures have no date and no parallel anywhere in the region. Stenciled figures at La Rochelle, Mpumalanga, South Africa. a) Photograph, b) D-stretched image in the LDS color space. Credit: David Pearce in Pearce and Johnson 2026 People who know southern African rock art carry a fairly firm belief about its techniques. The art is abundant and varied, but most hunter-gatherer painting is fine brushwork and most farmer and pastoralist painting is done with fingers, with handprints, finger dots and printed motifs as occasional extras. Stenciling, wh…",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
+  },
+  {
+   "title": "96 Mounds Suggest People Lived Among Ake’s Maya Ruins",
+   "link": "https://www.anthropology.net/p/96-mounds-suggest-people-lived-among",
+   "date": "2026-10-27T03:38:40+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "A new study argues Postclassic Maya lived inside Ake&#8217;s ruined center from AD 1100 to 1550, though the chronology is coarse. At the base of a collapsed building in the walled center of Ake, in northern Yucat&#225;n, someone built one of five small square shrine-like structures (they average 10 square meters) and made a fragment of an Early Classic stela, carved around AD 600, its central piece. Excavators recovered more Chen Mul effigy censer sherds from this feature than from anywhere else at Ake so far. Censers are clay incense burners, and Chen Mul is a modeled style the paper dates to AD 1200 to 1550. The shrine belongs to a Postclassic settlement (AD 1100 to 1550), which means its builders were handling a carved monument at least five centuries old. A late mound in Ake&#8217;s epicenter, with blocks from monumental buildings reused in its foundation. Credit: Rosado-Ramirez, R., Latin American Antiquity (2026) I would start from that shrine because it cuts against a picture many readers carry: that after the Classic period (AD 300 to 900) the great cities of northern Yucat&#225;n were left as empty stone. Roberto Rosado-Ramirez of the University of Virginia&#8217;s Departm…",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
+  },
+  {
+   "title": "When a Stone Leaves More Questions Than Answers: Field Notes on Identifying Lithic Materials",
+   "link": "https://popular-archaeology.com/article/when-a-stone-leaves-more-questions-than-answers-field-notes-on-identifying-lithic-materials/",
+   "date": "2026-10-26T22:41:01+00:00",
+   "source": "Popular Archaeology",
+   "kind": "media",
+   "abstract": "Anyone who has walked a survey transect, sifted a screen, or paused beside a coastal midden knows the feeling: a cobble or flake catches the light and seems to announce itself—chert, basalt, quartzite—before certainty dissolves. Was this piece brought from inland, collected from the beach below the site, or left by a later visitor? In ... Read more &#187;",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
+  },
+  {
    "title": "Toussaint 2026 : visites et ateliers au Musée d’Archéologie nationale - Sortir à Paris",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONEE5VWNadXFKR3JSdm5WUWFTYVhaQmVSb1l2emo4ajhYU09ZcWo3MmdKM2U2dlNTVXMweFQzVlZZUkhwRjZMdzluSS1tYjM2dGtUUEN1XzZGY1VJSXhqQVlENmpoekNhZWNtQnpaOGQyNDM2RWo4R1JOMUVrY3hPRlViN3I1bzVnb2pJeWVJakY4MXN3cnlpT3I5NGNJVnBldnNZd0dzVURadWlmU3lQNVVqS0lNOGZQT09NZ1ZmQlNqdEZxUEE?oc=5",
-   "date": "2026-10-26T20:10:37+00:00",
+   "date": "2026-10-26T20:10:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "Toussaint 2026 : visites et ateliers au Musée d’Archéologie nationale &nbsp;&nbsp; Sortir à Paris",
@@ -90,6 +200,17 @@
    "abstract": "The S.S. \"Joseph V. Connolly\" arrived in New York City on October 26, 1947. The caskets stored in its holds contained the remains of privates and three-star generals alike",
    "doi": null,
    "first_seen": "2026-10-26T21:38:30+00:00",
+   "alt": null
+  },
+  {
+   "title": "Grotte de la Garma : ce sanctuaire préhistorique intact gelé depuis 17 000 ans - Caminteresse",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMUF5bUNGZXF2SGl6dlRuVTJnRGVXRkQwbjhNU3BlblRVTXJzRFpvdDlNNVJjZEpKZjZ6ZkUxcXAxUmxFdkpNVkpMSTN2NDJ3a3JXS3FYRUh4SFhzMzlLSzhKQS1ScnZOWXFRUkZHdWoxV0JHTU5wQjVWd3FHNHpnZkt1THB1ZXRieHV1b2gxQmxYUDJIVmlZZ204Z2QtSWVrbGktX3BYOUVHNmRkTmhpLWdQRHlsbm9fTUJrNUotLUE?oc=5",
+   "date": "2026-10-26T16:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Grotte de la Garma : ce sanctuaire préhistorique intact gelé depuis 17 000 ans &nbsp;&nbsp; Caminteresse",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
    "alt": null
   },
   {
@@ -379,6 +500,17 @@
    "alt": null
   },
   {
+   "title": "De la fouille aux analyses en laboratoire, une exposition enrichissante à Saint-Raphaël - Nice-Matin",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlY5NXo5WWV5MEVOS1BkOXo1VEJqZTRXQngwNnJ4SDcwODZoY0k5SWhCS1ZVa2d0WS0xNFU0Z05iZjBsSkhVY2pDSUZKTFk5Z2hoWHFJanY1Nmt2dlNZV3pZWkxqcllMZmxYM28zdFVaWmZEQU1QWGJTdWdMUFZ2RGk1M1BLc0pEN2RiaDlpWGhsRGI3VEpLb0lLUnhkX2dnZTRYRnlKSUxzUE9sbTJxNFRTTXU1aEdGTHNwOU40dy16OWZ0WHZTdw?oc=5",
+   "date": "2026-10-26T09:30:02+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "De la fouille aux analyses en laboratoire, une exposition enrichissante à Saint-Raphaël &nbsp;&nbsp; Nice-Matin",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
+  },
+  {
    "title": "Beyond the podcast: Richard III",
    "link": "https://www.historyextra.com/period/medieval/beyond-the-podcast-richard-iii/",
    "date": "2026-10-26T09:25:23+00:00",
@@ -431,17 +563,6 @@
    "abstract": "Michael Sarnoski, director of 2026 film The Death of Robin Hood, explores the darker, more ambiguous figure found in the earlier medieval ballads Robin Hood was not always the noble outlaw who robbed from the rich and gave to the poor – as seen in new film The Death of Robin Hood . Speaking to Emily Briffett, director Michael Sarnoski explores the darker, more ambiguous figure found in the earlier medieval ballads – and questions what happens when a living man is transformed into a legend. View Green Video on the source website",
    "doi": null,
    "first_seen": "2026-10-26T11:12:01+00:00",
-   "alt": null
-  },
-  {
-   "title": "Daily Quiz: 26 October",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-10-26T07:00:09+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
   },
   {
@@ -1100,6 +1221,17 @@
    "abstract": "Archéologie et développement des recherches sur les perles de verre-Emissions-Radio Taiwan International - Français &nbsp;&nbsp; Rti 中央廣播電臺",
    "doi": null,
    "first_seen": "2026-10-23T15:45:51+00:00",
+   "alt": null
+  },
+  {
+   "title": "Un voyage dans le temps et l’espace : Bible et archéologie - Agoravox TV",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUnJaWjRHRFkxclZacVF3Q0IxbkFQOHp0YmJPdWMxczBveU9fZi0ybU9nWlpOSHlwMTlwZVJxN2VSN0FPZ2pmS1dCbl91VjJ2dFV2ZUdYcTJRSDJiWmx2RzZlS1gzU2JkQ0hURWVCN1BUNWpRSmkyd3FnLVJkQjYtcS03QVk1b3FWMlFQcV9BTVdNQQ?oc=5",
+   "date": "2026-10-23T13:32:09+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Un voyage dans le temps et l’espace : Bible et archéologie &nbsp;&nbsp; Agoravox TV",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
    "alt": null
   },
   {
@@ -2009,6 +2141,17 @@
    "alt": null
   },
   {
+   "title": "La RCU lance sa campagne archéologique 2026-2027 à AlUla et Khaybar - Lelezard",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPekFubkhfTDFjcjgyaFN5N2l3VTZ4dFRNaG4tQ1o0bTFsTVA5RUhtREpvUzkxMzhhYXd2bXlZWjgtTTNBalpVYm4yd1VOSXBsV245dTNXYTJyZlF3SmdoRTFhQ2p5Y3VmQmtJaDhrREJHNHVBVVQ3UEctSHJlUDNMTnEzWDJoMjI0Ull2bjVqYWxNVkl6Tm1pQ1NNMjFsdHBOS0hmMmJKOWRqbmJhNUdpajdFS05Ua3Vu?oc=5",
+   "date": "2026-10-21T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "La RCU lance sa campagne archéologique 2026-2027 à AlUla et Khaybar &nbsp;&nbsp; Lelezard",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
+  },
+  {
    "title": "Voici le visage du plus vieil Homo sapiens connu : il a plus de 300 000 ans et son cerveau intrigue les anthropologues - Science et vie",
    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNUWl3MWVUdUVCN3g1cjNDNlNYRFNfdU1DbGhfVWVmQUtQSHhMR0QwNlF4bGs4NlIyZ3RldkljQW5iZ2F2S0lCc2xLaXpsVHM5dzg5bjdqVk1vaUtNb2JyOF9DWTdUaWF4bjhaRlJLTWJGdmI3eER3dVRiSUNoQnpOU3V2cHdLU2FValhfMjNYRUt3NmRCUFlRTWlZSGNfamNtSlc5RXZIUV84OHJzbWVrYy1RaFlsSUNaZDFkR0FXRTBXU3llUzh2RXNybEtxdWotY2ZrbEFhZ0JuWXR1Q1NsOE1wRllLc0ZrYlY0d3N4SEJhM25leXF6ODJwWWxWYVRITHh2a0dONnU2Zw?oc=5",
    "date": "2026-10-21T06:00:49+00:00",
@@ -2070,6 +2213,17 @@
     "url": "",
     "checked_at": "2026-10-21T15:58:25+00:00"
    }
+  },
+  {
+   "title": "Colloque « Cinéma et Archéologie » - Le Louvre",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbUtrWUo3b3JQb2M5Tkh3WVN4WlJqdDJObGdWVF9yMWV4cUJ4ZXhIU0J0alE1UzFXYnl0Y0lmZzB4bW5ScU9iM1hPckJMQ1dZSlhfVlZrMWR2aDlTT1pvUkZUTW5zNFBFQ2o0?oc=5",
+   "date": "2026-10-20T23:49:19+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Colloque « Cinéma et Archéologie » &nbsp;&nbsp; Le Louvre",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
   },
   {
    "title": "Mystery skeleton found in Roman sarcophagus at Westminster Abbey may finally have an identity",
@@ -4140,6 +4294,17 @@
    "abstract": "Étudier l'histoire de l'art et l'archéologie à l'ICP : programme, débouchés, conseils pour réussir sa licence &nbsp;&nbsp; Institut Catholique de Paris - ICP",
    "doi": null,
    "first_seen": "2026-10-16T19:57:47+00:00",
+   "alt": null
+  },
+  {
+   "title": "La diffusion des résultats de la recherche archéologique - Ministère de la Culture",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORlZqVmZRRFphaFlmd19hb0UzR2NIbUNaY1hQVWdYbUJTOS0wV09EellOdUs4Y0cxRkxkTXJlbXoxNXNGZG95M1diaWxVaTVXcmwyN3JMWGJVMnlMWjEzeWlsZjB5NzFtbEIwWVJ0emdteTROc3M2b3RhQksyT01lbUNObGtJcUdIelBWVnpnX0ZQN0plM195Q0I3NjZKVERJYXJ6MTlQemZXaVRSZ1FyVzRUem82bFhzNFdtajJBSFVrT3VIZjBaazZjOXY?oc=5",
+   "date": "2026-10-16T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "La diffusion des résultats de la recherche archéologique &nbsp;&nbsp; Ministère de la Culture",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
    "alt": null
   },
   {
@@ -9538,6 +9703,17 @@
     "url": "",
     "checked_at": "2026-10-16T09:54:10+00:00"
    }
+  },
+  {
+   "title": "La liste \"Fouiller en bénévole ou visiter un chantier archéologique\" - Ministère de la Culture",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSmQwZXg0RFFfS0hsYlB0TzltbkVfQUlGanFkY3JMVUJhaUNOajVlOXdhaUgxdmEyOThNalRkUUpzU2w1U0V1ZkQ0Nk81LVE2NmdrazV0TTdwWUd3NTJOTGYxVVp5alk4WUFYcUplUTBlSmU4TDBuNEVhd0FQamUxUVhiYnc2QVVYQ0FLU3p6ellvNUNRWTMyWGlsOWZQVURlOUVpR1JUX1hta0hCSGp6cEhvMHI1LTZFTE5XU0FBYXBuZnhmQW9uZGFMY2Q0cTdMYnBXTHJ4WVIxZ1ZqRkEzTmdqdnhlak9DMDRTeUpsZkl3MGVsRXF6WUtzZmc0SU1EUEE?oc=5",
+   "date": "2026-10-07T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "La liste \"Fouiller en bénévole ou visiter un chantier archéologique\" &nbsp;&nbsp; Ministère de la Culture",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
   },
   {
    "title": "Des signes de \"morts violentes\" récemment identifiés sur des crânes inhumés dans une nécropole royale égyptienne - Geo.fr",
@@ -19999,6 +20175,17 @@
    "alt": null
   },
   {
+   "title": "L'archéologie préventive - Ministère de la Culture",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeDZFRkRyVDktVS1lSUhObnk5bEdCNUItWEM3OW1hRmkwTWptT2U3eHlfcWotc0lqSFozVGJvRGUtX0gzSURIcFRueTVZa2dqTmVVTmp3dmxpYkVFRnhXc3hvTEF2UXFzTHN2MkljRUZMeklzQUdCdjZDSUl3OFkwU2RnOVZXcmNnMEhkYnI0bWh4X2ZrVlBrWnJteGFIaUtDZUF5d3Fmc3doZHpBRGVRRElqSWdvdV9WeWt0UEhZLVYwMUZwSl94Rndn?oc=5",
+   "date": "2026-09-10T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "L'archéologie préventive &nbsp;&nbsp; Ministère de la Culture",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
+  },
+  {
    "title": "400,000-year-old teeth reveal a hidden link in human evolution",
    "link": "https://www.sciencedaily.com/releases/2026/09/260909005203.htm",
    "date": "2026-09-10T02:18:08+00:00",
@@ -20292,6 +20479,17 @@
    "abstract": "Art-chéo ! : fêtez les 20 ans d'Archéologie Alsace &nbsp;&nbsp; Collectivité européenne d'Alsace",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "Les commissions territoriales de la recherche archéologique - Ministère de la Culture",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOemdsd0NTMnRWVVF3YjkwUEljWXlSM1VGNFpLUEpFZk54NFNCZEkyUUh5SWhpbVpJZWNxY09KX1dpWXg1ci1KLUdNMnd3ZlNFNE0wVU5walJoZVhaWjV6VWZvUnRReDJBdGo1c1R0NFZuSEtBTi1vMEg5cXJsNURaLW51RmFWQmYyRTc3RHFpZUVvSVEwVTZ2N2c1MkxOQXJYcDZNY2pEVWo3RUg4bG1INkx6UWZOWk5fSFpQYjhibjhVNXl0Y1JwZGFiWWFfS1AtbUxlOXdtbmVLdVhuUS14ZlNKSy1wNmlpSl84OWlmcnFGMDBpdjU3VVJ6T3dkQlgwM2hGVEt3?oc=5",
+   "date": "2026-09-03T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Les commissions territoriales de la recherche archéologique &nbsp;&nbsp; Ministère de la Culture",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
    "alt": null
   },
   {
@@ -21732,6 +21930,17 @@
    "alt": null
   },
   {
+   "title": "Le Conseil national de la recherche archéologique - Ministère de la Culture",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTHZZWWp0Q21XMWp2aS1kN2pxVUlDOHZKTTVVcFg1MlV0OEtSNWRqTEdsSVJMai1LOWtNR0E1VXBFREo4LS1ydTRpaDcyVkNKaDNCZVF4Rm5XNHNoT3kybnk1SWNjU2tWT2dnX1pTUjN5cl9maGxEUEVia0s2RC1sYmUxR3hreHFfMUxua1RVU0tTZzJ5cEZOWXNGWHIzSnk3SG8xOVdsZkNyY2t3LUxseGM5OFpqckhQTTlPZGZYNWwtdlM2T1NPWUl2ZHU1VEhfSzdYcDc3YlhkckxhanVvOFp5U25RN0JTdllYYVlpYXlHYlFhLWhVeA?oc=5",
+   "date": "2026-07-07T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Le Conseil national de la recherche archéologique &nbsp;&nbsp; Ministère de la Culture",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
+  },
+  {
    "title": "The Neanderthal “love story” isn’t what the DNA actually shows",
    "link": "https://www.sciencedaily.com/releases/2026/06/260626030443.htm",
    "date": "2026-07-07T06:47:40+00:00",
@@ -21977,6 +22186,17 @@
    "abstract": "L’Archéosite de la Haute-Île &nbsp;&nbsp; Seine-Saint-Denis, le Département",
    "doi": null,
    "first_seen": "2026-10-02T11:09:24+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie - Ministère de la Culture",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUGhDTE5BamV6RWZ5OFZDbC1GalNwTXlNV2lzeTVvYmw0RS10VjNiMnNsUGZqelQweUdUdGhNTGhyRHh4VDd4Q08weTJaX0d3LW1ZY2s3VHgtNUE1N2poRklYeFpnZWluMHl0OUpsY3IxRnNwZ2pxTUxjQVBLTGNKVU9MNXJSOXNMdmtTY1QxMzNBeEs5dnJza2g5RERGZWlEeHVidUlxeGVlQQ?oc=5",
+   "date": "2026-07-02T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie &nbsp;&nbsp; Ministère de la Culture",
+   "doi": null,
+   "first_seen": "2026-10-27T10:39:17+00:00",
    "alt": null
   }
  ]
