@@ -1,12 +1,177 @@
 {
- "generated_at": "2026-10-27T10:39:17+00:00",
+ "generated_at": "2026-10-27T16:42:22+00:00",
  "counts": {
-  "total": 1648,
-  "journal": 564,
-  "media": 1084,
-  "new_this_run": 86
+  "total": 1667,
+  "journal": 566,
+  "media": 1101,
+  "new_this_run": 49
  },
  "items": [
+  {
+   "title": "Editorial Board",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0047248426001107?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Human Evolution",
+   "kind": "journal",
+   "abstract": "Publication date: November 2026 Source: Journal of Human Evolution, Volume 220 Author(s):",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "A Bayesian analysis of childhood tobacco consumption in early-modern Netherlands",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0305440326002463?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Archaeological Science",
+   "kind": "journal",
+   "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science, Volume 196 Author(s): Maia Casna, Derek A. Boyd, Alex A. Tutwiler, Sarah A. Schrader",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "À Bayeux, des fouilles archéologiques pour découvrir un potentiel cimetière médiéval - Ouest-France",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNOGdraU5VUjI2cWZJd21aVHVrNnNMOEtqa3JJNmhtRFNFVGpfYmZlYlpLUWFOX2xreENidmlnR25HWUFxTGFYcDN3ZVpaNzhfWENQLWU2czVUaXJJM0ROOHhDc3ZiakppaWRha09zeEVETXZOMGNVNDVjbGN6Q2xwVzJPdmFWTDRvV2xYY1pPVFlFdGJ4QUpwYlA2WWlZdTgyNW5ZVlB3VlNkeS1IeXBfU2hWTlAyMW9qdmV3YlFRTnNZTThGaWdqSS1DbGNDZjhrTnhITFNyc2RjNFNDRjRkVUdZVXVIS3VYenRwcDkwYmhoQjRBdlJtUXJPcTBWMlVz?oc=5",
+   "date": "2026-10-27T16:05:18+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "À Bayeux, des fouilles archéologiques pour découvrir un potentiel cimetière médiéval &nbsp;&nbsp; Ouest-France",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "Dmanisis Gora : la découverte d’une méga-forteresse oubliée au cœur du Caucase - Caminteresse",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVkNGU0ZHa0RLWjRGQ1Q2b0tZbEtZQXRROHdLRGlDbWQzQWV6dGFZSW9jdjN4WmMyb1pYZWJjUS1FQXNaLVhyc3Fyd1M1blZSdVBTUXc1SGtHdmFVdlJkNEI4Y1hEZWpITnpHeFU5dTFhckw2WHY1NWJndTFuS2tFX21Hbzcxclh1Ulg4YzZiUnNMcW1vUVdEbl9NdXozZlNjVUhSTExsbEV6SnhVZVh6bVNUMTBRVVhSOVpSc0t6OEM?oc=5",
+   "date": "2026-10-27T16:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Dmanisis Gora : la découverte d’une méga-forteresse oubliée au cœur du Caucase &nbsp;&nbsp; Caminteresse",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "Ebola: Plus de 10.000 cas recensés en Afrique, la RDC toujours à l'épicentre",
+   "link": "https://www.sciencesetavenir.fr/sante/ebola-plus-de-10-000-cas-recenses-en-afrique-la-rdc-toujours-a-l-epicentre_195504?xtor=RSS-16",
+   "date": "2026-10-27T15:33:18+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Déclarée voilà 6 mois, la flambée épidémique actuelle d'Ebola a déjà touché 10.000 personnes. L'épidémie actuelle est causée par la souche Bundibugyo du virus, contre laquelle il n'existe aucun vaccin ni traitement homologués à ce jour.",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "Cancers pédiatriques: la piste surprenante de l'auto-immunité",
+   "link": "https://www.sciencesetavenir.fr/sante/et-si-les-cancers-pediatriques-etaient-declenches-par-une-auto-immunite_195503?xtor=RSS-16",
+   "date": "2026-10-27T13:51:52+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Des chercheurs norvégiens ont mis en évidence que les enfants avec un cancer ont un nombre élevé d’anticorps qui ciblent leurs propres protéines, ce qui pourrait entrainer l’accumulation de mutations génétiques à l’origine du cancer.",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "Son cercueil est 700 ans plus vieux que lui : l’énigme du cercueil romain à Westminster serait bientôt résolue - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN1J4Q0Y1bGY2TUY1amVqbzZiaHd4cjVyVk14ZmJqdXlPbFIyMHcxUmZXcXYydDBJdjBIeFN0VVJ3alhodk5pZHFRMHplMjVtSGhsWktsMmdJRkJ0Q19laWZNNk1NVUxWSk1OT2NqNmRTb19ncHFjMEdKcW9XZXRoOVVyb1ktM0Vacl8zVmYzZ3doOFloUllXUUNkTUFSSDNpNzF6QmNHVG85OVJtRERvbDlvVlRTVVpzWDBPakJ1dGZvRWRSVkFiX2w0cnBna3RENjR3VXNJVlJrQkJleHFPUTdXQkllUElON2VPN29uS0pXaDhNTENUT1R6UjJDZw?oc=5",
+   "date": "2026-10-27T13:20:18+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Son cercueil est 700 ans plus vieux que lui : l’énigme du cercueil romain à Westminster serait bientôt résolue &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "Le plus ancien Homo erectus vivait en Afrique du Sud il y a deux millions d’années",
+   "link": "https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/le-plus-ancien-homo-erectus-vivait-en-afrique-du-sud-il-y-a-deux-millions-d-annees_195501?xtor=RSS-4",
+   "date": "2026-10-27T13:03:36+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Des chercheurs annoncent avoir identifié le plus ancien spécimen d’Homo erectus adulte, daté de près de 2&nbsp;millions d’années, sur le site Drimolen, en Afrique du Sud.&nbsp;",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "L'UE veut se préparer à un réchauffement de 3 °C en 2100",
+   "link": "https://www.sciencesetavenir.fr/nature-environnement/climat/l-ue-veut-se-preparer-a-un-rechauffement-de-3-c-en-2100_195502?xtor=RSS-15",
+   "date": "2026-10-27T12:56:35+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Parce qu'il s'agit d'agir avant que le changement climatique ne provoque des impacts insupportables, la Commission européenne a présenté un projet de loi visant à instituer des plans de \"résilience climatique\"",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "Ancient DNA in the Neanderthal Mirror",
+   "link": "https://popular-archaeology.com/article/ancient-dna-in-the-neanderthal-mirror/",
+   "date": "2026-10-27T12:55:52+00:00",
+   "source": "Popular Archaeology",
+   "kind": "media",
+   "abstract": "Why are we so obsessed with a group of prehistoric humans who disappeared some 40,000 years ago? Ever since the discovery of the first named Neanderthal fossils in 1856, scientists have struggled to make sense of them in tens of thousands of books and articles. But the never-ending Neanderthal problem is not just a chapter ... Read more &#187;",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "Vieille de 13 800 ans, cette habitation découverte en Alaska pourrait être la plus ancienne connue d’Amérique du Nord - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQkh2dnlkajJmZDE1TXJWMTNVMVpfdXNZVDBpNEZDdVBBTVdvT21CNTlUYWg1NXdVQURaMGFUT3N1ejZlS1psVDBFUUdqZ3hXaTJKc1dVOXE4Z0tLSHU5enpYRVM3TElLWHZpeUJHbTJ1R0wwTnQwX29rWGpYak1taVZPS1MtaFJqSFZRNzAxQ1AwZlVfNjdrRGJ2elU5MWRma3dWTEVBcDUzNVBDdngwdzJJd1l1U0ZFejQ4RnlHLVRibnBDZV90STc5ZDdLV0ltLWY0TjV0emxqTjVreTBZUUVxX2NCQk1mZWVjSGh3c1gwamM0dnYtbE91S0Z4dlMyQ0tET2czYkQ?oc=5",
+   "date": "2026-10-27T12:30:16+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Vieille de 13 800 ans, cette habitation découverte en Alaska pourrait être la plus ancienne connue d’Amérique du Nord &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "En 2000, un Italien cherchait une canalisation cassée sous son bâtiment : il a découvert des vestiges antiques et ouvert un musée - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxONjQ1RWVSRTJ4dW43Q2RUVEtFYUttckgxYllUMFpoMGt1cmZWTEx2S0ZVUG1DMW5XMW9NeUk0UmQ3NV9QQ0xkTXN2cXNyczd5RktlVkpXcHBBVHNGZ3VtY0d1Sk4xMFZTY2tRY2c1bUdoN2xPdjZZc0pHamQ0cGhvYnJ2YVVWdUxXNHZpTV8tUXhVc1RDWmZvMWZ3TmRSSWlBV0g4SXgzS1M1Z1JTaWNsbWN4SzE0dExZS09vV2tzam4xb0lpUlRrV19jQ2RLUHlmMmxvQ2w5a3FRYXhyY0JXTGtVdkZsZldmSnhlcWZpd1Q0U3pRRGRTWFI0ZEItcFlVenZpaDItbVltSHRGZ0RUSmt0LUR5S0F3U3c?oc=5",
+   "date": "2026-10-27T11:40:14+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "En 2000, un Italien cherchait une canalisation cassée sous son bâtiment : il a découvert des vestiges antiques et ouvert un musée &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "Journée d'étude : Journée départementale de l’archéologie de Tarn-et-Garonne - Inrap",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTFZYVhGUGtHelo5eElEWTV4TFBTUGYtcmhmT1hROHpoeTZXRG03NXFMYVZNYlhzak5rM3RmOVBiWVJNekRHZDlEaTZ0eHh1NWpCdVJud3R5SmI4UExkTkd5WlRBRDk2WTR0ZVlzSUluMTJoS3ZDcmgzUE5LcUVUZDFETGhMYnpxaFlsMFN3?oc=5",
+   "date": "2026-10-27T11:04:10+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Journée d'étude : Journée départementale de l’archéologie de Tarn-et-Garonne &nbsp;&nbsp; Inrap",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "Pendant le confinement de 2020, un Britannique a découvert une villa romaine sous le champ de son père, avec une mosaïque représentant la guerre de Troie - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQSWUzLXdoUDNCNm1DOVYxRFpucGxFNmxzZXVsdUFoeDIzVHBvdjNGU1R3dlJQX1h1STFOSElZX1IyNVp1ZTJxVi1zZnZnTEwyVXZzUWtWdVNldDJpa2ptUDhRWTR6NFl1empvdzFydllrdnNZQm5tSk1Ddnh5enRpajM2Vkp4U1JQVm16RjVkYzVtNmt4RXNuamJJVWUzNS1DbTdXdWhJV0pOeE5mZUNBUnJicUhyd3NOZlJZaWRYOWFOeDBzMVQ2QmFSSFVkdGs1Mm9EcDh2Z2FZNUxBWUVodFB4T1JvdDRmeW5aaVdPS09MVjltTzVYT0RUdmlzZFdrdWk2NFdzck1nUkRuWE16dkI4SzZHcDFmSEdYbFJLUnhuT0RxbXpGUFBWaEF3WTJ1aEdiVGxkSEM?oc=5",
+   "date": "2026-10-27T11:00:53+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Pendant le confinement de 2020, un Britannique a découvert une villa romaine sous le champ de son père, avec une mosaïque représentant la guerre de Troie &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "Conférence : Le prieuré de Brûlon au travers d’une campagne de sondages archéologiques - Inrap",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmpNRmJiOHdKWnBTOHJqbGdNT1dlYmtjRFdSbXN3bHFlLW84MG5hRE1fTGc2czN6N0xVTUJWdVdBQkZSOWpqZGVYZVlGMldiLWtlY3NkZS1WUU04SkNaVGxucnNsSFVLVjhTN0dEMV9yWGtkNEJPbkFtV2RBSjdOSGVSRi1TR24zcTZ3ZDN3cVloNG90ZHdUMHduS2oxbUxwOVE?oc=5",
+   "date": "2026-10-27T10:31:49+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Conférence : Le prieuré de Brûlon au travers d’une campagne de sondages archéologiques &nbsp;&nbsp; Inrap",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
   {
    "title": "How to build the ultimate medieval castle",
    "link": "https://www.historyextra.com/membership/how-to-build-ultimate-medieval-castle-podcast/",
@@ -32,7 +197,7 @@
   {
    "title": "L’Agenda : Ateliers archéologie gratuits et animations Halloween à la Grotte du Lazaret à Nice - Radio Monaco",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObUdKV3dvRGx2YVlzclhCV284SkhvZzBXQVAtUTlrdDZjbzAwVk5vMk1pTmNiS3AtSGJiZHlJb1BYaEVBRU5jLUY2YnVZdmZxZ2FPMTRMdGFpMVd5bmNQRlkzNVhQQmVHa0lZMi14Q0k1SWs4djlRbEozQXNEcW80RWs2QWlVbjk4ckhGMmtLVE5GamJwcHJWVklqZnFCX2pOY3VPMC1ZbDk3MUZrNEZlSDBQWU5TTGdzRXM4TG9XZ3JIZ0k?oc=5",
-   "date": "2026-10-27T07:07:38+00:00",
+   "date": "2026-10-27T07:09:05+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "L’Agenda : Ateliers archéologie gratuits et animations Halloween à la Grotte du Lazaret à Nice &nbsp;&nbsp; Radio Monaco",
@@ -104,6 +269,17 @@
    "abstract": "A new study argues Postclassic Maya lived inside Ake&#8217;s ruined center from AD 1100 to 1550, though the chronology is coarse. At the base of a collapsed building in the walled center of Ake, in northern Yucat&#225;n, someone built one of five small square shrine-like structures (they average 10 square meters) and made a fragment of an Early Classic stela, carved around AD 600, its central piece. Excavators recovered more Chen Mul effigy censer sherds from this feature than from anywhere else at Ake so far. Censers are clay incense burners, and Chen Mul is a modeled style the paper dates to AD 1200 to 1550. The shrine belongs to a Postclassic settlement (AD 1100 to 1550), which means its builders were handling a carved monument at least five centuries old. A late mound in Ake&#8217;s epicenter, with blocks from monumental buildings reused in its foundation. Credit: Rosado-Ramirez, R., Latin American Antiquity (2026) I would start from that shrine because it cuts against a picture many readers carry: that after the Classic period (AD 300 to 900) the great cities of northern Yucat&#225;n were left as empty stone. Roberto Rosado-Ramirez of the University of Virginia&#8217;s Departm…",
    "doi": null,
    "first_seen": "2026-10-27T10:39:17+00:00",
+   "alt": null
+  },
+  {
+   "title": "1.9-million-year-old discovery rewrites the story of human evolution",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm",
+   "date": "2026-10-27T01:35:08+00:00",
+   "source": "ScienceDaily — Archaeology",
+   "kind": "media",
+   "abstract": "New evidence suggests that early humans reached the Jordan Valley at least 1.9 million years ago, hundreds of thousands of years earlier than scientists previously thought. Advanced dating methods revealed that the ‘Ubeidiya site is roughly as old as the famous Dmanisi site in Georgia, placing both among the earliest known human settlements outside Africa.",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
    "alt": null
   },
   {
@@ -214,6 +390,28 @@
    "alt": null
   },
   {
+   "title": "Les journées de l'archéologie Événement - Chemins du patrimoine en Finistère",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TZ3NTeUxzSlNFc2cxQXJzcHBVUjY2UElsWWtzVnF2NVdfWU9pVXlZbXhSaDk2ZnN2MnhDQVFYY2RPZGRidHFGb2Y4TE9fc2R0WlpneUF3?oc=5",
+   "date": "2026-10-26T15:57:53+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Les journées de l'archéologie Événement &nbsp;&nbsp; Chemins du patrimoine en Finistère",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "Le chantier du Grand Musée d’archéologie de Rabat reprend avec un risque de surcoût de 600 MDH - Medias24",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSkF3czVvY1FCck9NOXFyd01vUU50aEJKM0ZHaWdXaXRDWFhBdDltRWZ5cnJfendSZkhPcG93YWVQbUp4VHRpTTRRNVhNVjJ6MzQzQVJlczI1TVdjMDJsZmZxcEg1YjlPN25KTzFsRWcyZXN4ZnNNYlI1enY4X2xXcVhxdmNpVHc2bTlzVnZOQ01hUkRkM2t2dk9MWU1SSkhHVHpYazdwSlIyRlk1NUVLV2N5NVBkSktyU1dKQ0h5UHNmNDBCNXNfQkE5c21ldHc?oc=5",
+   "date": "2026-10-26T15:31:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Le chantier du Grand Musée d’archéologie de Rabat reprend avec un risque de surcoût de 600 MDH &nbsp;&nbsp; Medias24",
+   "doi": null,
+   "first_seen": "2026-10-26T17:25:00+00:00",
+   "alt": null
+  },
+  {
    "title": "How should we mark Black History Month in 2026?",
    "link": "https://www.historyextra.com/membership/black-history-month/",
    "date": "2026-10-26T15:30:32+00:00",
@@ -264,17 +462,6 @@
    "source": "Sciences et Avenir — Archéo & paléo",
    "kind": "media",
    "abstract": "La Norvège est l'un des rares pays au monde à autoriser le déversement de déchets miniers au fond de la mer. Une pratique controversée, au cœur d'une bataille judiciaire et environnementale. Dans l'ouest du pays, une mine qui rejette ses déchets dans un fjord vient de suspendre ses activités, faute de financements.",
-   "doi": null,
-   "first_seen": "2026-10-26T17:25:00+00:00",
-   "alt": null
-  },
-  {
-   "title": "Le chantier du Grand Musée d’archéologie de Rabat reprend avec un risque de surcoût de 600 MDH - Medias24",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSkF3czVvY1FCck9NOXFyd01vUU50aEJKM0ZHaWdXaXRDWFhBdDltRWZ5cnJfendSZkhPcG93YWVQbUp4VHRpTTRRNVhNVjJ6MzQzQVJlczI1TVdjMDJsZmZxcEg1YjlPN25KTzFsRWcyZXN4ZnNNYlI1enY4X2xXcVhxdmNpVHc2bTlzVnZOQ01hUkRkM2t2dk9MWU1SSkhHVHpYazdwSlIyRlk1NUVLV2N5NVBkSktyU1dKQ0h5UHNmNDBCNXNfQkE5c21ldHc?oc=5",
-   "date": "2026-10-26T14:25:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Le chantier du Grand Musée d’archéologie de Rabat reprend avec un risque de surcoût de 600 MDH &nbsp;&nbsp; Medias24",
    "doi": null,
    "first_seen": "2026-10-26T17:25:00+00:00",
    "alt": null
@@ -9716,6 +9903,17 @@
    "alt": null
   },
   {
+   "title": "Appel à participation – Faire dialoguer les historien·ne·s de l’archéologie : terrains, sources et méthodes - INHA - Institut national d'histoire de l'art",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYnlHZGNqVEJ6cGJ2bGJlbUktOHlBd2tDUFFENkFhcXVObnhrLUUwLTNydEEzUy1vOVhUWkNfQzZENEVjVEtYUkxTdGZRWnNnR3BkMElhemI0RWlhV3VQUHlWOHc2VXdYYldnYWIwekJwXzRBUWxBNXFTWWVwMV9ocnBKajExMmxNdVNLeGdxVzVFV25WQ0c2aTVlUHNwcmhQQzVYdTJ2bWx0RlU0TzVoNG5USkdRT2EzMW5mTS1UbVdYcno2TG5TNXhNQzhEcGI4NTdzVzByYmFvMWNUcFpIYi1qdGw1R3RVaFY0bGdWR0xQTElOQUF4V01rbmU?oc=5",
+   "date": "2026-10-07T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Appel à participation – Faire dialoguer les historien·ne·s de l’archéologie : terrains, sources et méthodes &nbsp;&nbsp; INHA - Institut national d'histoire de l'art",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
    "title": "Des signes de \"morts violentes\" récemment identifiés sur des crânes inhumés dans une nécropole royale égyptienne - Geo.fr",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1p4UVZ4T3d5U3hINkEycXh2U2VVZkJUUExwcC1KdTYxaG05TnFmaUx0b1JHc1E0OUhfUzVqLXlOVTRIX0tvcUJNbUoxeWx5Z0kzNmdSLW9yc2FsRUhtNDU0d2Rha2hZY25RTjVPYW45NzVfRzZ0d1pGUTR0cTd5Tl9DeER3UzlIMjFQQlpDVFNoaEc0cEJHQ2o2TXpRNUxZTlBJeUo3VkVaZUZtTnV3eTZLQllCbGstVVhhcVhJV2V6dGlqVkxDeHA2YlQ1bWRZZnRCVngzdDNjS3FCQWc?oc=5",
    "date": "2026-10-07T03:36:00+00:00",
@@ -11541,6 +11739,17 @@
     "url": "",
     "checked_at": "2026-10-21T20:38:23+00:00"
    }
+  },
+  {
+   "title": "Nouvel Hôtel-Dieu : une découverte archéologique au cœur du chantier - AP-HP Assistance publique - Hôpitaux de Paris",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGNfay1fVnRTUWFOWDNkajdpQzlqRVZIeE0wYmY2V1NoUjlmdW1fYzg2amZxOWprYWpxaktRekFqVFdDYXotU2ZIYWJfN09RWENzY01wSFd6ekFSSWw3cUp6ZWR3dzdRcTJVdk9UQkN2aF9tR0xacVA5Q0NKZWx2WXM2VU5XTTNRUmtJMUlLX2owVHY5WlRFRC1GX3lFVnc?oc=5",
+   "date": "2026-10-05T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Nouvel Hôtel-Dieu : une découverte archéologique au cœur du chantier &nbsp;&nbsp; AP-HP Assistance publique - Hôpitaux de Paris",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
   },
   {
    "title": "Sunken Silk Road city reveals Central Asia's lost history",
@@ -15401,12 +15610,12 @@
    "alt": null
   },
   {
-   "title": "Sélestat. Archéologie Alsace : 20 ans de fouilles au chevet de l’histoire - dna.fr",
+   "title": "Sélestat. Archéologie Alsace : 20 ans de fouilles au chevet de l’histoire - DNA.fr",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeUY2ZXFoX1ZqczF4anBQczRHMUdlZkJKdFJ5SElIQU1uNklRZFpmblRuS2hjOGhKaE9tLXRfQ3pEeU9RSGhMb1NHVGQ1VEc2UG92enVfUlFYallXSkliWmFNYkJ4OV9Pems5dlBNc2d6eFpjS3V1eEdUWGVkWmZYZ01jVlQxT2xSWWFYaDNNTURVUld6aWl1ek9BZnUzblBGbGxkTVdVU0xHZW8?oc=5",
    "date": "2026-09-28T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Sélestat. Archéologie Alsace : 20 ans de fouilles au chevet de l’histoire &nbsp;&nbsp; dna.fr",
+   "abstract": "Sélestat. Archéologie Alsace : 20 ans de fouilles au chevet de l’histoire &nbsp;&nbsp; DNA.fr",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
