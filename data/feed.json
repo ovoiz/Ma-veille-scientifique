@@ -1,12 +1,166 @@
 {
- "generated_at": "2026-10-29T21:48:42+00:00",
+ "generated_at": "2026-10-30T11:26:45+00:00",
  "counts": {
-  "total": 1845,
-  "journal": 674,
-  "media": 1171,
-  "new_this_run": 39
+  "total": 1854,
+  "journal": 675,
+  "media": 1179,
+  "new_this_run": 80
  },
  "items": [
+  {
+   "title": "Starch recovery from powdered ceramic matrix",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0305440326002645?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Archaeological Science",
+   "kind": "journal",
+   "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science, Volume 196 Author(s): Juan José García-Granero, Nàdia Tarifa-Mateo, Dushka Urem-Kotsou",
+   "doi": null,
+   "first_seen": "2026-10-30T11:26:45+00:00",
+   "alt": null
+  },
+  {
+   "title": "Aux Philippines, le bambou et les huîtres contre les inondations",
+   "link": "https://www.sciencesetavenir.fr/nature-environnement/developpement-durable/une-ile-des-philippines-lutte-contre-la-montee-des-eaux-grace-a-la-nature-pas-au-beton_195756?xtor=RSS-15",
+   "date": "2026-10-30T09:52:26+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Sur une île des Philippines menacée par les typhons et la montée des eaux, les habitants expérimentent une alternative aux digues en béton : des barrières constituées de bambou et de coquilles d'huîtres. Conçues pour ralentir les vagues et piéger les sédiments, ces installations doivent aussi favoriser le développement de mangroves protectrices.",
+   "doi": null,
+   "first_seen": "2026-10-30T11:26:45+00:00",
+   "alt": null
+  },
+  {
+   "title": "Biodiversité : pas d'accord à l'horizon, au dernier jour de la COP17",
+   "link": "https://www.sciencesetavenir.fr/politique/biodiversite-pas-d-accord-a-l-horizon-au-dernier-jour-de-la-cop17_195767",
+   "date": "2026-10-30T09:34:59+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "La COP17 qui se tient en Arménie ne laisse pas encore entrevoir de position commune, notamment sur 3 points clés du combat pour la préservation de la nature.",
+   "doi": null,
+   "first_seen": "2026-10-30T11:26:45+00:00",
+   "alt": null
+  },
+  {
+   "title": "Poulets turbo : le Danemark veut s’attaquer à l’élevage intensif",
+   "link": "https://www.sciencesetavenir.fr/nutrition/apres-la-norvege-le-danemark-veut-tourner-la-page-des-poulets-turbo_195758?xtor=RSS-28",
+   "date": "2026-10-30T09:24:37+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Le Danemark envisage d’interdire à l’échelle nationale, puis européenne, les \"poulets turbo\", des volailles sélectionnées pour leur croissance ultrarapide, au nom du bien-être animal. Cette annonce intervient après la diffusion d’images dénonçant des conditions d’élevage non conformes à la réglementation, relançant le débat sur les limites de l’élevage intensif.",
+   "doi": null,
+   "first_seen": "2026-10-30T11:26:45+00:00",
+   "alt": null
+  },
+  {
+   "title": "Dozens of Headless Skeletons Pose a Macabre Mystery",
+   "link": "https://www.nytimes.com/2026/10/30/science/headless-skeletons-stone-age.html",
+   "date": "2026-10-30T09:01:56+00:00",
+   "source": "New York Times — Archaeology",
+   "kind": "media",
+   "abstract": "Mass graves found at a Stone Age farming settlement in Slovakia have researchers baffled about the details — including the location of the missing skulls.",
+   "doi": null,
+   "first_seen": "2026-10-30T11:26:45+00:00",
+   "alt": null
+  },
+  {
+   "title": "En 1974, des paysans chinois creusaient un puits : ils ont découvert l’armée de terre cuite du premier empereur - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPT0xIVjNlenFQcHVoaEpzTUNERVdwRlVJaDRIZl9LZFB5TlRMRFB5ZFA5amxleURSaE9oX1pHVXFrSzVKUEducFFpZnQzOENDV2Q4SUVYWi0wWWR2dUI3NUxJa25yMVI5XzJTd1d1V2FWd0FqZERnbzJMbjN3V2h1bFo3czFsdW9GTDJvUkZwSmp6VmhXeFdrNjNJXzZOaHNwTzhBLW9tNmVlYTJBbU1lN1JMcUIwc003d0RyTDBIRjBCRUpxWk1BcnpfRTFEWjd4a2J0eTBiTFVIZUpNd2REdlhoWUxJN1ZGa0t0VDRUbEdEWnFYaGluTzZuSUtqQQ?oc=5",
+   "date": "2026-10-30T09:00:22+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "En 1974, des paysans chinois creusaient un puits : ils ont découvert l’armée de terre cuite du premier empereur &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-10-30T11:26:45+00:00",
+   "alt": null
+  },
+  {
+   "title": "The History Round: our weekly trivia challenge",
+   "link": "https://www.historyextra.com/period/general-history/weekly-history-quiz/",
+   "date": "2026-10-30T08:31:17+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Have you been paying attention? Test your knowledge of the stories we’ve published over the past seven days with our weekly quiz, updated every Friday. Test your knowledge with our general knowledge weekly history quiz... View Riddle on the source website Did you know we have other regular quizzes here at HistoryExtra? To test your historical knowledge even further, try our daily quizzes , or our weekly crossword .",
+   "doi": null,
+   "first_seen": "2026-10-02T11:09:24+00:00",
+   "alt": null
+  },
+  {
+   "title": "History crossword: 23 October",
+   "link": "https://www.historyextra.com/membership/history-crossword-23-october/",
+   "date": "2026-10-30T08:30:49+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "",
+   "doi": null,
+   "first_seen": "2026-10-30T11:26:45+00:00",
+   "alt": null
+  },
+  {
+   "title": "Can you solve our history crossword of the week?",
+   "link": "https://www.historyextra.com/period/general-history/crossword/",
+   "date": "2026-10-30T08:29:14+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "",
+   "doi": null,
+   "first_seen": "2026-10-02T11:09:24+00:00",
+   "alt": null
+  },
+  {
+   "title": "Il y a 1 600 ans, les Romains fabriquaient du verre capable de changer de couleur : des chercheurs ont réussi à reproduire leur technique - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOWGpIa1I3X1NPeXRkOHYzN2pQVndkbEM5YzhzRTlNaXFnM1dQZ3dmRDFscFNYZTA4TVE0NFphdUNvMkxhZnRDMG5BV0s3eFh2U1RSQ251SUtwcDVQVmRNQnFVOEZVQlhWNkZnLWZ2T3FGWFBGd25mWFpmbGpfSDJXVHFDbnd6TTVHV204U0h1VFJTN29DMU9zclRUMTROdmJGSWNkSThvU21yX0lMMkowZUI5TmU1dXNZWmJmS21CcW03NFl3elVVdm9obVkyWmZheXRpZkJUNXJMRlZYYjVUcGVnZVZXbExzNVp3TGdnRHdNUzRuMjM0aUtoQjlfdDhXa0ZVd0FtS09LenNtTXFMTmw3cGVjbVRFU3hJTnBCUXFhUQ?oc=5",
+   "date": "2026-10-30T08:04:57+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Il y a 1 600 ans, les Romains fabriquaient du verre capable de changer de couleur : des chercheurs ont réussi à reproduire leur technique &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-10-30T11:26:45+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily Quiz: 30 October",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-10-30T07:00:14+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "Haute-Saône. Archéologie : les vestiges du vieux cimetière de Gouhenans sortent de l’oubli - L'Est Républicain",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORVpOLVlERG9ZT1JPdW9JWGdBdlZKQlN2TG14Tk9YUlNCRm93TGMzOE5YMWcxZmxxVS1rN2VJWDJ5RC1oRm5ZNncxd25nX3NLVzZiRjg3bHBybEpQSk9GMVVyVUoxRFZqY3NfUWlQanlTLWlMWEExMEpfSnVLSDJTS2FGYnNuM3hsUlliWlRac244MEpjcjVpSVluQ2FyeFM2Z3VkQ3d4Nm1JTXJyNndYNkVRNnFEODI2QlBxQ0hMWFFrYlhuT1R5STMxV3c?oc=5",
+   "date": "2026-10-30T05:31:49+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Haute-Saône. Archéologie : les vestiges du vieux cimetière de Gouhenans sortent de l’oubli &nbsp;&nbsp; L'Est Républicain",
+   "doi": null,
+   "first_seen": "2026-10-30T11:26:45+00:00",
+   "alt": null
+  },
+  {
+   "title": "Mafate : les vestiges d’un village oublié depuis plus d’un siècle refont surface - Linfo.re",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTG52ZTQ4TjF3dUVDWmthU0xkb2RRUG5RclItWmwyX282anJLODgwU2tyM0E2Z19yZURrZlF4TnJVT0ZlMjJhZUpWWExWVmMwdVFzNWQxcFg1TWgxUV9PRXRFX1dKQ19CZG5UaEJtOGt2c3lxbTd1VnBxWWtiUHZLZXotSmxfUTlaTzR3OGNySjFfUTlTb09CdDRwc3MwdVdyUWNFUkJtYjlWX3dycUpQVldYZC1Yd2xXMlNqZkhOc1F2c0JzRHBxbjI5UE15T1BtblE?oc=5",
+   "date": "2026-10-30T04:29:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Mafate : les vestiges d’un village oublié depuis plus d’un siècle refont surface &nbsp;&nbsp; Linfo.re",
+   "doi": null,
+   "first_seen": "2026-10-30T11:26:45+00:00",
+   "alt": null
+  },
+  {
+   "title": "How ancient insect-eating diets could inspire more sustainable food systems",
+   "link": "https://phys.org/news/2026-10-ancient-insect-diets-sustainable-food.html",
+   "date": "2026-10-29T23:30:08+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "New research from Durham University highlights how insects have been part of human diets for thousands of years despite seeming unusual to many people.",
+   "doi": null,
+   "first_seen": "2026-10-30T11:26:45+00:00",
+   "alt": null
+  },
   {
    "title": "What animal bones in Malawi teach us about the social lives of people long ago",
    "link": "https://phys.org/news/2026-10-animal-bones-malawi-social-people.html",
@@ -324,17 +478,6 @@
    "abstract": "Musée national d’archéologie : après un an de blocage, le chantier relancé avec un marché de 67 MDH &nbsp;&nbsp; Le Desk",
    "doi": null,
    "first_seen": "2026-10-29T11:34:24+00:00",
-   "alt": null
-  },
-  {
-   "title": "Daily Quiz: 29 October",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-10-29T07:00:13+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
   },
   {
@@ -835,6 +978,17 @@
    "abstract": "Dmanisis Gora : la découverte d’une méga-forteresse oubliée au cœur du Caucase &nbsp;&nbsp; Caminteresse",
    "doi": null,
    "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
+   "title": "Séminaire Ausonius — La Main d'Irulegi dans son contexte archéologique - Université Bordeaux Montaigne",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeEMxNU1kSXk3b3JDNDF1alRnY09MMVpvZjVSZG9zbTBMaE9jaThrM1RFUlFpUVYwd1pJTFZLWU5DYlZjcmJIWmdWVmFGelRDZVFLdGhGd0hCZWplSEtHQjBQLTVZWV9NZ3FSTDBtSV9ieXBsVWpfR2ozaEhkQ2ZfeFgwc3dUd0hoSVE4Yk51elNfWmpCT19GWHhUYTk1QVhQcnRWZGhIdHo4dTUwam45RkhDQXhBb19RRUhYclNxNE9OVVBLSU5BVUljZFFBUQ?oc=5",
+   "date": "2026-10-27T15:40:01+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Séminaire Ausonius — La Main d'Irulegi dans son contexte archéologique &nbsp;&nbsp; Université Bordeaux Montaigne",
+   "doi": null,
+   "first_seen": "2026-10-30T11:26:45+00:00",
    "alt": null
   },
   {
@@ -2419,28 +2573,6 @@
    "abstract": "",
    "doi": null,
    "first_seen": "2026-10-23T10:10:01+00:00",
-   "alt": null
-  },
-  {
-   "title": "The History Round: our weekly trivia challenge",
-   "link": "https://www.historyextra.com/period/general-history/weekly-history-quiz/",
-   "date": "2026-10-23T07:31:14+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Have you been paying attention? Test your knowledge of the stories we’ve published over the past seven days with our weekly quiz, updated every Friday. Test your knowledge with our general knowledge weekly history quiz... View Riddle on the source website Did you know we have other regular quizzes here at HistoryExtra? To test your historical knowledge even further, try our daily quizzes , or our weekly crossword .",
-   "doi": null,
-   "first_seen": "2026-10-02T11:09:24+00:00",
-   "alt": null
-  },
-  {
-   "title": "Can you solve our history crossword of the week?",
-   "link": "https://www.historyextra.com/period/general-history/crossword/",
-   "date": "2026-10-23T07:30:10+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "",
-   "doi": null,
-   "first_seen": "2026-10-02T11:09:24+00:00",
    "alt": null
   },
   {
@@ -25188,39 +25320,6 @@
     "url": "",
     "checked_at": "2026-09-29T14:02:13+00:00"
    }
-  },
-  {
-   "title": "L’archéologie au cœur du Département - Seine-Saint-Denis, le Département",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRFVUcGNReWxRbnY0enlNV2pycmkwZTUwUjJCOWp6OUJFeTdOYm1wLXdqTkJUV1p6MVZyWFA0Qlh2a2JlZVQ0RkMzd3JxTDM1MWhxSlZIY3dmVGNQYmt1SnA1OGxCaGRSemRldHF6ejFFUU5GNHdIeENIcGs1T2luSU44R0pzaWQ0Z3lLZWZha2ZjVlJBblFIQUZicV83eVN0eTU2aF9jTk1rLThpVGNXT1BLUXA1UFpfRUVreGdxYkQtOGh6V29SNjBqMUdvV2J5OWNnOGhTYXN2MVN5RTFIRzVxRXJwUQ?oc=5",
-   "date": "2026-07-02T07:00:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "L’archéologie au cœur du Département &nbsp;&nbsp; Seine-Saint-Denis, le Département",
-   "doi": null,
-   "first_seen": "2026-09-30T11:12:22+00:00",
-   "alt": null
-  },
-  {
-   "title": "L’Archéosite de la Haute-Île - Seine-Saint-Denis, le Département",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTWY1R2hKOXFROHZsdkFJcFNCLVlZWUVQYjhOc1RhT1FzRm8yaGUwa1otNzZuMW84LWt3aTRYYjc2UU1zWmxVZnFjQ2diQ3piMnk2dlZ4Q040bzZvUjlQaWZXZFM3V1EzenVBbG4ta05JbUJhZmh3VmIzQkFCcW84X1FoQi1sU0NwYkVxWENHSEhhMGFYVzNpWXNqNHkzQ0pYallYX0Y3Qlhsc2dpb3JDSmppODZGaWtiaDJQY2RrdnNhM1puRWF5ZE1STl9UcjY3dlBUMFZibWxOZw?oc=5",
-   "date": "2026-07-02T07:00:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "L’Archéosite de la Haute-Île &nbsp;&nbsp; Seine-Saint-Denis, le Département",
-   "doi": null,
-   "first_seen": "2026-10-02T11:09:24+00:00",
-   "alt": null
-  },
-  {
-   "title": "Archéologie - Ministère de la Culture",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUGhDTE5BamV6RWZ5OFZDbC1GalNwTXlNV2lzeTVvYmw0RS10VjNiMnNsUGZqelQweUdUdGhNTGhyRHh4VDd4Q08weTJaX0d3LW1ZY2s3VHgtNUE1N2poRklYeFpnZWluMHl0OUpsY3IxRnNwZ2pxTUxjQVBLTGNKVU9MNXJSOXNMdmtTY1QxMzNBeEs5dnJza2g5RERGZWlEeHVidUlxeGVlQQ?oc=5",
-   "date": "2026-07-02T07:00:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Archéologie &nbsp;&nbsp; Ministère de la Culture",
-   "doi": null,
-   "first_seen": "2026-10-27T10:39:17+00:00",
-   "alt": null
   }
  ]
 }
