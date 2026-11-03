@@ -1,12 +1,263 @@
 {
- "generated_at": "2026-11-02T23:52:52+00:00",
+ "generated_at": "2026-11-03T12:50:43+00:00",
  "counts": {
-  "total": 1934,
-  "journal": 668,
-  "media": 1266,
-  "new_this_run": 76
+  "total": 1945,
+  "journal": 670,
+  "media": 1275,
+  "new_this_run": 74
  },
  "items": [
+  {
+   "title": "Colomiers. Quand l’archéologie locale touche le jeune public - ladepeche.fr",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNkRMRzdmZF9IcnlPSXVNbFR5OUZFY2JpX0tFbG1JdkhlR3FMazMzbTd2NFlsU19XcHlaSHhvT0xUOGRIdS1fM2tEdW9aUlVXX25wSW0wR19ZZ0tLZDFOUGNtbk1xMy1QdlgyRERjUWJWRzhQUUZidGowVTNiaGxWaFM1dk9rdHpLSWJrOWdOc2pGRkhjd0x0eUpzcTVqZw?oc=5",
+   "date": "2026-11-03T11:22:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Colomiers. Quand l’archéologie locale touche le jeune public &nbsp;&nbsp; ladepeche.fr",
+   "doi": null,
+   "first_seen": "2026-11-03T12:50:43+00:00",
+   "alt": null
+  },
+  {
+   "title": "Une cyberattaque d'ampleur européenne détruit des tonnes de nourriture",
+   "link": "https://www.sciencesetavenir.fr/nutrition/des-cyberattaques-perturbent-la-chaine-du-froid-dans-neuf-pays-europeens_195917?xtor=RSS-28",
+   "date": "2026-11-03T10:48:34+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Après la France, une nouvelle cyberattaque a touché les systèmes de réfrigération de supermarchés dans plusieurs pays européens. Des tonnes de denrées alimentaires ont dû être jetées, ravivant les inquiétudes sur la sécurité alimentaire et la vulnérabilité des chaînes d'approvisionnement.",
+   "doi": null,
+   "first_seen": "2026-11-03T12:50:43+00:00",
+   "alt": null
+  },
+  {
+   "title": "What a model is of",
+   "link": "https://archaeo.peercommunityin.org/PCIArchaeology/articles/rec?id=698",
+   "date": "2026-11-03T10:06:58+00:00",
+   "source": "PCI Archaeology",
+   "kind": "journal",
+   "abstract": "From Photogrammetry to Construction Knowledge: 3D Documentation and Parametric Reconstruction of Historic Clinker Boats Fred Fröhlich, Sigurd S. Nielsen https://doi.org/10.5281/zenodo.23422398 Recommended by view Fröhlich and Nielsen’s (2026) work on clinker-built boats provides an elegant example of how 3D data can support traditional craft skills and established ways of working. The authors outline an approach in which 3D documentation forms the basis for detailed parametric modelling. Drawing on principles of reverse engineering, they develop a rules-based representation of the original artefact that incorporates both craft knowledge and material constraints, and which can support physical as well as virtual reconstruction. As the reviewers note, reverse engineering is already well established in archaeology, particularly in architectural applications. What distinguishes this study is not reverse engineering per se , but the use of parametric modelling both as a tool for interpreting an imperfect digital record and as a conceptually integral part of the documentation process. Taylor and Dell’Unto (2021) argue that the adoption of new technologies often follows a skeuomorphic pat…",
+   "doi": "10.5281/zenodo.23422398",
+   "first_seen": "2026-11-03T12:50:43+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-03T12:50:43+00:00"
+   }
+  },
+  {
+   "title": "Neanderthals Used Wood for Tools, Housing — and Murder?",
+   "link": "https://www.nytimes.com/2026/11/03/science/neanderthals-wood-tools.html",
+   "date": "2026-11-03T10:02:47+00:00",
+   "source": "New York Times — Archaeology",
+   "kind": "media",
+   "abstract": "In one case, 75,000-year-old bones reveal what may be the earliest identifiable victim of death by wooden spear.",
+   "doi": null,
+   "first_seen": "2026-11-03T12:50:43+00:00",
+   "alt": null
+  },
+  {
+   "title": "El Niño : toujours plus de pays touchés",
+   "link": "https://www.sciencesetavenir.fr/nature-environnement/el-nino-l-essentiel-de-la-semaine_195915?xtor=RSS-15",
+   "date": "2026-11-03T09:49:23+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Pluies torrentielles en Inde et au Népal, sécheresse déjà dévastatrice en Amérique du Sud : les effets d'El Niño continuent à se faire sentir à travers le monde, menaçant les récoltes de riz ou de café au point que la Banque Mondiale s'attend à voir les prix alimentaires grimper de 18% d'ici l'an prochain.",
+   "doi": null,
+   "first_seen": "2026-11-03T12:50:43+00:00",
+   "alt": null
+  },
+  {
+   "title": "Route du Rhum, au-dessus des flots, au-delà des limites",
+   "link": "https://www.sciencesetavenir.fr/high-tech/sur-la-route-du-rhum-voler-toujours-plus-vite_195906?xtor=RSS-12",
+   "date": "2026-11-03T09:13:32+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "À plus de 40 nœuds, les trimarans de la classe Ultime ne cherchent plus seulement la vitesse : ils veulent aller plus haut, plus longtemps et gagner en stabilité. Foils en Y ou en T, « aile de raie », safrans repensés, lidar… Tour d’horizon des innovations qui les font planer.",
+   "doi": null,
+   "first_seen": "2026-11-03T12:50:43+00:00",
+   "alt": null
+  },
+  {
+   "title": "History's Greatest Dishes: Season 2",
+   "link": "https://www.historyextra.com/membership/historys-greatest-dishes-season-2/",
+   "date": "2026-11-03T09:11:39+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "What counts as a dumpling? And is toast the best thing since sliced bread? | New episodes weekly History's Greatest Dishes serves up a feast of facts about some of the past's most remarkable delicacies. Expect culinary legends, half-baked myths and deliciously odd tales – all in the company of Emily Briffett and food historian Annie Gray. It's sure to leave you with food for thought.",
+   "doi": null,
+   "first_seen": "2026-11-03T12:50:43+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily Quiz: 3 November",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-11-03T07:00:13+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "REDISCOVERING THE DEAD: REANALYSIS OF A LOST IRON AGE CEMETERY AT HIGHSTED, KENT",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.70030?af=R",
+   "date": "2026-11-03T04:35:52+00:00",
+   "source": "Oxford Journal of Archaeology",
+   "kind": "journal",
+   "abstract": "Oxford Journal of Archaeology, Volume 45, Issue 4, Page 509-537, November 2026. Summary Highsted, near Sittingbourne in Kent, was the location of a large cemetery, thought to date to the Late Iron Age. The site was excavated under rescue conditions in 1955, but due to the apparent theft of the archive and finds, was never published. As part of a wider project, the human remains have been subject to new osteological examination, ancient DNA (aDNA) and isotope analysis, and AMS dating. Alongside this, the surviving finds have been reassessed, and the excavation pieced together from contemporary photographs and newspaper records. Analysis revealed a burial population which spanned the Late Iron Age and early Romano‐British periods, with continuity into the second century AD and possibly beyond. Burial rites echo those from the nearby site of Mill Hill, Deal, confirming Highsted as a major Deal‐rite cemetery. Despite Continental parallels for these types of burials, the Highsted population grew up in the local area, with homogeneous diets including some marine resource exploitation, reflecting the dietary impacts of the Roman conquest on indigenous rural communities. The approach used …",
+   "doi": "10.1111/ojoa.70030?af=R",
+   "first_seen": "2026-09-30T11:12:22+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-09-30T11:12:22+00:00"
+   }
+  },
+  {
+   "title": "WHAT ONCE WAS SHALL BE AGAIN: PALAEOLITHIC BIFACES AT THE NEOLITHIC SITE OF GIV'AT RABI EAST",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.70028?af=R",
+   "date": "2026-11-03T04:35:52+00:00",
+   "source": "Oxford Journal of Archaeology",
+   "kind": "journal",
+   "abstract": "Oxford Journal of Archaeology, Volume 45, Issue 4, Page 398-423, November 2026. Summary Giv'at Rabi East is a Pre‐Pottery Neolithic B site located in northern Israel, interpreted as a flint workshop. One area has been spatially identified as a ‘biface locality’; it is characterized by the presence of finished axes and preforms alongside débitage. Interestingly, Acheulean bifaces have also been recovered from this area. Aside from these, no other diagnostic Lower Palaeolithic artefacts have been identified, and the integrity of the Neolithic contexts is well established. It is therefore suggested that Neolithic knappers collected Acheulian bifaces from nearby sites and brought them to the workshop. Technological similarity along with an apparent appreciation for artefacts knapped hundreds of thousands of years earlier – and for the ancient people who knapped them – may partially explain this intriguing phenomenon. These findings shed new light on the enduring significance of bifacial tools in the lives of Neolithic communities in the southern Levant.",
+   "doi": "10.1111/ojoa.70028?af=R",
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-09-29T14:02:13+00:00"
+   }
+  },
+  {
+   "title": "FROM SCANDINAVIA TO THE LEVANT: THE LATE BRONZE AGE METAL TRADE AND NURAGIC SARDINIA",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.70029?af=R",
+   "date": "2026-11-03T04:35:52+00:00",
+   "source": "Oxford Journal of Archaeology",
+   "kind": "journal",
+   "abstract": "Oxford Journal of Archaeology, Volume 45, Issue 4, Page 448-465, November 2026. Summary A growing body of evidence suggests that Nuragic Sardinia played a role, as yet poorly understood, in the metal trade between Scandinavia, Atlantic Europe, and the Mediterranean during the Bronze Age. Provenance studies based on lead isotope and chemical analyses of copper‐based – and to a minor extent lead – artefacts from both continental Europe and the Mediterranean indicate that metals of Sardinian origin were exported and used in different and far apart regions over the second half of the second millennium BC. This noticeable flow of metals from Sardinia appears associated to distinct counter‐flows of Nuragic pottery both to the east and to the west of the island. Breaking down the chronology of such movements unveils specific distribution patterns over different phases of the Bronze Age. By critically assessing such patterns, this paper discusses how the study of Nuragic Sardinia may contribute to a refined understanding of the complex interplay between the socio‐political transformations that characterize Bronze Age Europe and what must have been a permanent demand for metal.",
+   "doi": "10.1111/ojoa.70029?af=R",
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-09-29T14:02:13+00:00"
+   }
+  },
+  {
+   "title": "MINDING THE GAP: A METHODOLOGICAL AND CHRONOLOGICAL REASSESSMENT OF EASTERN MEDITERRANEAN PURPLE‐DYE PRODUCTION IN THE BRONZE AND IRON AGES",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.70027?af=R",
+   "date": "2026-11-03T04:35:52+00:00",
+   "source": "Oxford Journal of Archaeology",
+   "kind": "journal",
+   "abstract": "Oxford Journal of Archaeology, Volume 45, Issue 4, Page 466-488, November 2026. Summary Purple dye was an iconic status symbol in the ancient Mediterranean, yet tracing the expansion and shift of production from the Aegean to the Levant encounters substantial methodological difficulties. Using Tel Shiqmona – a unique industrial centre with a continuous Iron Age sequence – as an archaeological benchmark, this study defines detailed and granular criteria for identifying production. Applying these criteria reveals a 300‐year ‘gap’ (c.950–650 BC), when Shiqmona remains the sole site with significant production evidence. This paper argues the gap represents a consolidation: a shift from dispersed crafts into centralized, state‐controlled production, first attested at Shiqmona in the ninth century BC. By providing a chronologically sensitive database for the Levant, this study lays foundations for examining broader Mediterranean‐wide trajectories. The centralized and specialized production attested at Shiqmona offers a plausible template for understanding the industry’s seventh century BC resurgence in the Levant, as the wider adoption of the ‘Shiqmona model’ under Neo‐Assyrian hegemony.",
+   "doi": "10.1111/ojoa.70027?af=R",
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-09-29T14:02:13+00:00"
+   }
+  },
+  {
+   "title": "SETTLEMENT SYSTEMS AND SPATIAL ORGANIZATION IN THE PRE‐POTTERY NEOLITHIC UPPER TIGRIS REGION",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.70025?af=R",
+   "date": "2026-11-03T04:35:52+00:00",
+   "source": "Oxford Journal of Archaeology",
+   "kind": "journal",
+   "abstract": "Oxford Journal of Archaeology, Volume 45, Issue 4, Page 424-447, November 2026. Summary This article examines the settlement systems and spatial organization in the Upper Tigris region during the Pre‐pottery Neolithic (PPN), based on data from recent rescue excavations and ongoing systematic fieldwork. The approach focuses on location preferences, covering valleys, river terraces, and water sources. Settlement layouts and scale, and the spatial distribution of communal areas are considered in relation to household practices. Evidence from neighbouring regions, particularly the Middle Euphrates basin, is briefly contemplated to provide a comparative background. The available data demonstrates that the Early Neolithic settlements in the Upper Tigris region generally developed within valley settings. They were characterized by a dispersed, multi‐centred pattern, suggesting locally variable ways of handling settled life.",
+   "doi": "10.1111/ojoa.70025?af=R",
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-09-29T14:02:13+00:00"
+   }
+  },
+  {
+   "title": "MIDDLE IRON AGE V‐SHAPED PRECIOUS METAL FINGER‐RINGS IN BRITAIN",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.70026?af=R",
+   "date": "2026-11-03T04:35:52+00:00",
+   "source": "Oxford Journal of Archaeology",
+   "kind": "journal",
+   "abstract": "Oxford Journal of Archaeology, Volume 45, Issue 4, Page 489-508, November 2026. Summary The first V‐shaped finger‐ring reported from Britain was a silver specimen found in 1921–26. No more came to light until discoveries of gold examples by metal detectorists from 1997 onwards. There are now ten such gold rings from Britain, a third of the European total. There is no trail of these gold rings known between their Central European homeland and the English Channel, making those in Britain a distinctly anomalous phenomenon. They first appear c.400 BC in Austria‐Slovakia. Their popularity peaked at the end of the fourth and in the early third centuries BC. Afterwards, there was a steep decline, and they were not made at all later than c.200 BC. Although none from Britain has a context or definite associations, they can be proposed as ritual offerings of jewellery worn by elite women. Their currency in Britain spanned the period between the first arrivals of continental gold torcs and the development of insular schools of gold jewellery.",
+   "doi": "10.1111/ojoa.70026?af=R",
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-09-29T14:02:13+00:00"
+   }
+  },
+  {
+   "title": "Issue Information",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.70031?af=R",
+   "date": "2026-11-03T04:35:52+00:00",
+   "source": "Oxford Journal of Archaeology",
+   "kind": "journal",
+   "abstract": "Oxford Journal of Archaeology, Volume 45, Issue 4, Page 397-397, November 2026. No abstract is available for this article.",
+   "doi": "10.1111/ojoa.70031?af=R",
+   "first_seen": "2026-11-03T12:50:43+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-03T12:50:43+00:00"
+   }
+  },
+  {
+   "title": "Tales of the toilet: a historical A–Z",
+   "link": "https://www.historyextra.com/membership/toilet-history-facts-thomas-crapper-spend-penny-romans/",
+   "date": "2026-11-03T01:45:17+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "When was the first toilet invented? What did people use before the modern flush? And what are the origins of the term ‘crapper’? Julian Humphrys explores the history of Britain’s loos A... is for Ajax Although Elizabethan writer and courtier John Harington wasn’t the first person to design a flushing toilet – Londoner Thomas Brightfield had done so in 1449 – he was the first to provide a written specification for one. In 1596, he penned his Metamorphosis of Ajax (a pun on ‘jakes’, a slang word for a privy) in which he described a remarkably modern-sounding device that he’d installed in his house. This incorporated a pan with a seat and a cistern filled with water. When a handle was turned, the water washed the contents of the pan into a cesspool. Although Harington installed one for Queen Elizabeth I in Richmond Palace, cost, problems of water supply, and lack of sewers meant that the idea wouldn’t catch on for centuries. B... is for Bazalgette By the 1850s, London’s growing population was producing unmanageable amounts of sewage. Cesspools leaked and overflowed, contaminating water supplies, and matters weren’t helped by the outpourings of the increasingly popular water closet. Lo…",
+   "doi": null,
+   "first_seen": "2026-11-03T12:50:43+00:00",
+   "alt": null
+  },
+  {
+   "title": "Analysis of Inca mummies identifies the drugs used in their most important sacrificial ritual",
+   "link": "https://phys.org/news/2026-10-analysis-inca-mummies-drugs-important.html",
+   "date": "2026-11-03T00:00:01+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "Archaeologists have performed toxicological analysis on the mummified remains of people sacrificed at mountain shrines across the Inca Empire, revealing the psychoactive substances they consumed before their deaths.",
+   "doi": null,
+   "first_seen": "2026-11-03T12:50:43+00:00",
+   "alt": null
+  },
   {
    "title": "IA et semi-conducteurs : la Corée du Sud investit massivement",
    "link": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/ia-et-puces-la-coree-du-sud-prevoit-14-3-milliards-d-euros-d-investissements-en-2027_195907?xtor=RSS-12",
@@ -236,6 +487,17 @@
    "alt": null
   },
   {
+   "title": "How did England divorce from Rome?",
+   "link": "https://www.historyextra.com/membership/reformation-full-story-episode-2/",
+   "date": "2026-11-02T09:13:58+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Henry's separation from the Catholic Church was far from a clean break. But how did he do it? And did he do it for religion, money, or power? How did Henry VIII actually break with Rome? And did he do it for religion, money, or power? As Sir Diarmaid MacCulloch explains in this episode, Henry's separation from the Catholic Church was far from a clean break. Speaking to Charlotte Vosper, Diarmaid reveals how the break with Rome happened, why the legislation was pushed through parliament, and whether we can call Henry's Church of England a Protestant one.",
+   "doi": null,
+   "first_seen": "2026-11-03T12:50:43+00:00",
+   "alt": null
+  },
+  {
    "title": "Climat : la santé mentale des jeunes dans un procès inédit au Canada",
    "link": "https://www.sciencesetavenir.fr/sante/climat-la-sante-mentale-des-jeunes-en-toile-de-fond-d-un-proces-inedit_195781?xtor=RSS-16",
    "date": "2026-11-02T08:49:58+00:00",
@@ -255,17 +517,6 @@
    "abstract": "Scientists have uncovered surprising DNA evidence that Europeans living more than 30,000 years ago were connected across vast distances, challenging the idea that ancient populations remained largely isolated. Genetic clues from human remains and cave sediments reveal prehistoric migration, long-lasting communities, and survival through the harshest conditions of the Ice Age.",
    "doi": null,
    "first_seen": "2026-11-02T20:47:39+00:00",
-   "alt": null
-  },
-  {
-   "title": "Daily Quiz: 2 November",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-11-02T07:00:11+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
   },
   {
@@ -18740,25 +18991,6 @@
    "alt": null
   },
   {
-   "title": "REDISCOVERING THE DEAD: REANALYSIS OF A LOST IRON AGE CEMETERY AT HIGHSTED, KENT",
-   "link": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.70030?af=R",
-   "date": "2026-09-29T09:22:35+00:00",
-   "source": "Oxford Journal of Archaeology",
-   "kind": "journal",
-   "abstract": "Oxford Journal of Archaeology, EarlyView. Summary Highsted, near Sittingbourne in Kent, was the location of a large cemetery, thought to date to the Late Iron Age. The site was excavated under rescue conditions in 1955, but due to the apparent theft of the archive and finds, was never published. As part of a wider project, the human remains have been subject to new osteological examination, ancient DNA (aDNA) and isotope analysis, and AMS dating. Alongside this, the surviving finds have been reassessed, and the excavation pieced together from contemporary photographs and newspaper records. Analysis revealed a burial population which spanned the Late Iron Age and early Romano‐British periods, with continuity into the second century AD and possibly beyond. Burial rites echo those from the nearby site of Mill Hill, Deal, confirming Highsted as a major Deal‐rite cemetery. Despite Continental parallels for these types of burials, the Highsted population grew up in the local area, with homogeneous diets including some marine resource exploitation, reflecting the dietary impacts of the Roman conquest on indigenous rural communities. The approach used here also serves as an example of how …",
-   "doi": "10.1111/ojoa.70030?af=R",
-   "first_seen": "2026-09-30T11:12:22+00:00",
-   "alt": {
-    "score": 0,
-    "outlets": [],
-    "msm": 0,
-    "blogs": 0,
-    "tweets": 0,
-    "url": "",
-    "checked_at": "2026-09-30T11:12:22+00:00"
-   }
-  },
-  {
    "title": "Les IA ont compris qu'on les observait et elles s'adaptent, avertit Anthropic",
    "link": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/anthropic-avertit-du-risque-existentiel-pour-l-humanite-que-pourrait-representer-l-ia_195120?xtor=RSS-12",
    "date": "2026-09-29T09:03:10+00:00",
@@ -23648,25 +23880,6 @@
    "alt": null
   },
   {
-   "title": "WHAT ONCE WAS SHALL BE AGAIN: PALAEOLITHIC BIFACES AT THE NEOLITHIC SITE OF GIV'AT RABI EAST",
-   "link": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.70028?af=R",
-   "date": "2026-09-18T06:22:11+00:00",
-   "source": "Oxford Journal of Archaeology",
-   "kind": "journal",
-   "abstract": "Oxford Journal of Archaeology, EarlyView. Summary Giv'at Rabi East is a Pre‐Pottery Neolithic B site located in northern Israel, interpreted as a flint workshop. One area has been spatially identified as a ‘biface locality’; it is characterized by the presence of finished axes and preforms alongside débitage. Interestingly, Acheulean bifaces have also been recovered from this area. Aside from these, no other diagnostic Lower Palaeolithic artefacts have been identified, and the integrity of the Neolithic contexts is well established. It is therefore suggested that Neolithic knappers collected Acheulian bifaces from nearby sites and brought them to the workshop. Technological similarity along with an apparent appreciation for artefacts knapped hundreds of thousands of years earlier – and for the ancient people who knapped them – may partially explain this intriguing phenomenon. These findings shed new light on the enduring significance of bifacial tools in the lives of Neolithic communities in the southern Levant.",
-   "doi": "10.1111/ojoa.70028?af=R",
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": {
-    "score": 0,
-    "outlets": [],
-    "msm": 0,
-    "blogs": 0,
-    "tweets": 0,
-    "url": "",
-    "checked_at": "2026-09-29T14:02:13+00:00"
-   }
-  },
-  {
    "title": "L’archéologie des saveurs - Ville de Dijon",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KQ19fNHl1aHBGS2hXZnNtTWhrdEJwcURIQjR0RFRSTHltNE4xbnNGVGlQUTB6bHo4dm1yWVhTaUJnZHZ5dFI5Zlk4RUpjVEJvV0VGWk9WeGlZR2VqbVc0RDA0dzd3Zw?oc=5",
    "date": "2026-09-17T17:12:58+00:00",
@@ -24245,44 +24458,6 @@
    }
   },
   {
-   "title": "FROM SCANDINAVIA TO THE LEVANT: THE LATE BRONZE AGE METAL TRADE AND NURAGIC SARDINIA",
-   "link": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.70029?af=R",
-   "date": "2026-09-11T07:00:00+00:00",
-   "source": "Oxford Journal of Archaeology",
-   "kind": "journal",
-   "abstract": "Oxford Journal of Archaeology, EarlyView. Summary A growing body of evidence suggests that Nuragic Sardinia played a role, as yet poorly understood, in the metal trade between Scandinavia, Atlantic Europe, and the Mediterranean during the Bronze Age. Provenance studies based on lead isotope and chemical analyses of copper‐based – and to a minor extent lead – artefacts from both continental Europe and the Mediterranean indicate that metals of Sardinian origin were exported and used in different and far apart regions over the second half of the second millennium BC. This noticeable flow of metals from Sardinia appears associated to distinct counter‐flows of Nuragic pottery both to the east and to the west of the island. Breaking down the chronology of such movements unveils specific distribution patterns over different phases of the Bronze Age. By critically assessing such patterns, this paper discusses how the study of Nuragic Sardinia may contribute to a refined understanding of the complex interplay between the socio‐political transformations that characterize Bronze Age Europe and what must have been a permanent demand for metal.",
-   "doi": "10.1111/ojoa.70029?af=R",
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": {
-    "score": 0,
-    "outlets": [],
-    "msm": 0,
-    "blogs": 0,
-    "tweets": 0,
-    "url": "",
-    "checked_at": "2026-09-29T14:02:13+00:00"
-   }
-  },
-  {
-   "title": "MINDING THE GAP: A METHODOLOGICAL AND CHRONOLOGICAL REASSESSMENT OF EASTERN MEDITERRANEAN PURPLE‐DYE PRODUCTION IN THE BRONZE AND IRON AGES",
-   "link": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.70027?af=R",
-   "date": "2026-09-11T07:00:00+00:00",
-   "source": "Oxford Journal of Archaeology",
-   "kind": "journal",
-   "abstract": "Oxford Journal of Archaeology, EarlyView. Summary Purple dye was an iconic status symbol in the ancient Mediterranean, yet tracing the expansion and shift of production from the Aegean to the Levant encounters substantial methodological difficulties. Using Tel Shiqmona – a unique industrial centre with a continuous Iron Age sequence – as an archaeological benchmark, this study defines detailed and granular criteria for identifying production. Applying these criteria reveals a 300‐year ‘gap’ (c.950–650 BC), when Shiqmona remains the sole site with significant production evidence. This paper argues the gap represents a consolidation: a shift from dispersed crafts into centralized, state‐controlled production, first attested at Shiqmona in the ninth century BC. By providing a chronologically sensitive database for the Levant, this study lays foundations for examining broader Mediterranean‐wide trajectories. The centralized and specialized production attested at Shiqmona offers a plausible template for understanding the industry’s seventh century BC resurgence in the Levant, as the wider adoption of the ‘Shiqmona model’ under Neo‐Assyrian hegemony.",
-   "doi": "10.1111/ojoa.70027?af=R",
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": {
-    "score": 0,
-    "outlets": [],
-    "msm": 0,
-    "blogs": 0,
-    "tweets": 0,
-    "url": "",
-    "checked_at": "2026-09-29T14:02:13+00:00"
-   }
-  },
-  {
    "title": "Hobbyist Archaeologist Uncovers Finland’s Largest Viking-Age Coin Hoard",
    "link": "https://www.nytimes.com/2026/09/10/world/europe/viking-coin-find-finland.html",
    "date": "2026-09-10T21:55:24+00:00",
@@ -24505,25 +24680,6 @@
    "alt": null
   },
   {
-   "title": "SETTLEMENT SYSTEMS AND SPATIAL ORGANIZATION IN THE PRE‐POTTERY NEOLITHIC UPPER TIGRIS REGION",
-   "link": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.70025?af=R",
-   "date": "2026-09-09T02:12:40+00:00",
-   "source": "Oxford Journal of Archaeology",
-   "kind": "journal",
-   "abstract": "Oxford Journal of Archaeology, EarlyView. Summary This article examines the settlement systems and spatial organization in the Upper Tigris region during the Pre‐pottery Neolithic (PPN), based on data from recent rescue excavations and ongoing systematic fieldwork. The approach focuses on location preferences, covering valleys, river terraces, and water sources. Settlement layouts and scale, and the spatial distribution of communal areas are considered in relation to household practices. Evidence from neighbouring regions, particularly the Middle Euphrates basin, is briefly contemplated to provide a comparative background. The available data demonstrates that the Early Neolithic settlements in the Upper Tigris region generally developed within valley settings. They were characterized by a dispersed, multi‐centred pattern, suggesting locally variable ways of handling settled life.",
-   "doi": "10.1111/ojoa.70025?af=R",
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": {
-    "score": 0,
-    "outlets": [],
-    "msm": 0,
-    "blogs": 0,
-    "tweets": 0,
-    "url": "",
-    "checked_at": "2026-09-29T14:02:13+00:00"
-   }
-  },
-  {
    "title": "Giant new dinosaur discovered beneath construction site in Brazil",
    "link": "https://www.sciencedaily.com/releases/2026/09/260907201603.htm",
    "date": "2026-09-08T12:42:29+00:00",
@@ -24599,25 +24755,6 @@
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
-  },
-  {
-   "title": "MIDDLE IRON AGE V‐SHAPED PRECIOUS METAL FINGER‐RINGS IN BRITAIN",
-   "link": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.70026?af=R",
-   "date": "2026-09-07T08:02:29+00:00",
-   "source": "Oxford Journal of Archaeology",
-   "kind": "journal",
-   "abstract": "Oxford Journal of Archaeology, EarlyView. Summary The first V‐shaped finger‐ring reported from Britain was a silver specimen found in 1921–26. No more came to light until discoveries of gold examples by metal detectorists from 1997 onwards. There are now ten such gold rings from Britain, a third of the European total. There is no trail of these gold rings known between their Central European homeland and the English Channel, making those in Britain a distinctly anomalous phenomenon. They first appear c.400 BC in Austria‐Slovakia. Their popularity peaked at the end of the fourth and in the early third centuries BC. Afterwards, there was a steep decline, and they were not made at all later than c.200 BC. Although none from Britain has a context or definite associations, they can be proposed as ritual offerings of jewellery worn by elite women. Their currency in Britain spanned the period between the first arrivals of continental gold torcs and the development of insular schools of gold jewellery.",
-   "doi": "10.1111/ojoa.70026?af=R",
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": {
-    "score": 0,
-    "outlets": [],
-    "msm": 0,
-    "blogs": 0,
-    "tweets": 0,
-    "url": "",
-    "checked_at": "2026-09-29T14:02:13+00:00"
-   }
   },
   {
    "title": "Country diary: A dreadful den of murder and thievery – or is it? | Merryn Glover",
