@@ -1,12 +1,89 @@
 {
- "generated_at": "2026-11-08T11:58:29+00:00",
+ "generated_at": "2026-11-08T17:05:23+00:00",
  "counts": {
-  "total": 2236,
-  "journal": 793,
-  "media": 1443,
-  "new_this_run": 87
+  "total": 2242,
+  "journal": 795,
+  "media": 1447,
+  "new_this_run": 73
  },
  "items": [
+  {
+   "title": "Energetics of hominin group locomotion: Modeling coordinated mobility using the Engare Sero footprint assemblage",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0047248426001065?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Human Evolution",
+   "kind": "journal",
+   "abstract": "Publication date: December 2026 Source: Journal of Human Evolution, Volume 221 Author(s): Guillermo Zorrilla-Revilla",
+   "doi": null,
+   "first_seen": "2026-11-08T17:05:23+00:00",
+   "alt": null
+  },
+  {
+   "title": "Technological path dependence in the water management systems in the late prehistoric Yangtze Delta",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0278416526000814?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Anthropological Archaeology",
+   "kind": "journal",
+   "abstract": "Publication date: December 2026 Source: Journal of Anthropological Archaeology, Volume 84 Author(s): Yuzhen Li, Yijie Zhuang",
+   "doi": null,
+   "first_seen": "2026-11-08T17:05:23+00:00",
+   "alt": null
+  },
+  {
+   "title": "Une \"machine à écrire l’ADN\" retrace l’histoire de 1,28 million de cellules",
+   "link": "https://www.sciencesetavenir.fr/fondamental/une-machine-a-ecrire-l-adn-retrace-l-histoire-de-1-28-million-de-cellules_195764?xtor=RSS-10",
+   "date": "2026-11-08T17:00:00+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Grâce à une technologie permettant d’enregistrer les divisions cellulaires dans l’ADN, des chercheurs ont reconstitué l’arbre généalogique de plus de 1,28 million de cellules d’un embryon de souris.",
+   "doi": null,
+   "first_seen": "2026-11-08T17:05:23+00:00",
+   "alt": null
+  },
+  {
+   "title": "\"Sa lettre avait été la première protestation contre les rafles de Juifs\" : À Toulouse l'émouvant hommage rendu à Jules Saliège, Juste parmi les nations - ladepeche.fr",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZFRBZ19kcWY5aVIxX3NtdVh2NFFHdWJnZkNaN3FwSWJoemtTV2pHaVBUTEM3blRyVGE0dUpCQ3IxNkVLRjc0TnZOMEhaS1BnQ09vNm43cjV1Nmg4UXRNZVlKb01VYTJBRFNVbUpFZVZCbGRTeWYyTnpaTXQzRFBPOVlpVVdoVXhPdE1oOFBTTWRWUEFGUDNGTTIzcFBUeE1jYktRRl9SU1R1dU0zbUt1cWsxeXpmYXhBS1NVQUV0enItMEdNb0VPbzVOLUxHZ21pQkhyQW1pcG1TcGJNeUxyYzNydDFobnFubGxUZ1BXbHRVZjNRSjkyZHAyMW1wdmxFQXJMMXA0RzdrRFY3SGhXV3pxS2pTNG55VGlQeHBJLWM?oc=5",
+   "date": "2026-11-08T14:44:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "\"Sa lettre avait été la première protestation contre les rafles de Juifs\" : À Toulouse l'émouvant hommage rendu à Jules Saliège, Juste parmi les nations &nbsp;&nbsp; ladepeche.fr",
+   "doi": null,
+   "first_seen": "2026-11-08T17:05:23+00:00",
+   "alt": null
+  },
+  {
+   "title": "Des murs enfouis à 4 mètres et des amulettes de dieux égyptiens : les fouilles de Bouto révèlent un possible édifice religieux de 2 600 ans - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQS1k2QXhHQTYyTG43QUE0OVdTQVctclNwUzN6dW5BaWdabFNENE1RRFBhNjBVa1o2XzBDTHg5NnhDcXE2S3ZYdllsLXU3OEZkLXRJRGhpbVo2WG5YM2FXZWRPbnRnQUMydHJ5R2xxdXZXTDJIVzFaUWVHWjhmcVRmTmJ5V1lYc1pncU9pdlV4LWg4WDg0Wm5aY2NodGhwMXN6eE43cVRWaWNtdmFjVFFEbEVGME5CakdEeEo0VmlOWUx2bDJEc0Y1bHVxWXBQSTVBYlhTNXJWUEpIWVRIM0ZieDVSbHZBa1N5QUhyeENyVjNPTGhBZkV1R0s3b3RqWVpxYUdHX1ZfZDNUOXRpdnBPdlFuSWRhN2V6UzhKbEN6ZnNmaENsalE?oc=5",
+   "date": "2026-11-08T14:00:07+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Des murs enfouis à 4 mètres et des amulettes de dieux égyptiens : les fouilles de Bouto révèlent un possible édifice religieux de 2 600 ans &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-08T17:05:23+00:00",
+   "alt": null
+  },
+  {
+   "title": "Ce que 117 000 chants d'oiseaux révèlent sur leurs mélodies",
+   "link": "https://www.sciencesetavenir.fr/animaux/117-000-chants-etudies-pour-comprendre-pourquoi-les-oiseaux-chantent-differemment_195855?xtor=RSS-26",
+   "date": "2026-11-08T13:00:00+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Derrière la diversité des mélodies des passereaux se cachent huit grands motifs acoustiques. L’analyse de près de 117 000 chants révèle comment l’environnement, le mode de vie et la reproduction façonnent leurs mélodies.",
+   "doi": null,
+   "first_seen": "2026-11-08T17:05:23+00:00",
+   "alt": null
+  },
+  {
+   "title": "Alors qu’ils se baladaient en forêt, des promeneurs ramassent une boucle de 2 cm venue de l’Empire romain et vieille de 1800 ans - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPTVRyZUVOb3lHMnlmOW1TRWFOVVZmdTdrb0RaZXlrNXczdGZULUxkVGJUSGt3ZHdheFRueW9Ydmg4d3VMYm1wVGRfQ2xYbjE1LVlHNE14QWthOVNRZkg3dmthbUs4R0lIRGxDMTExWnlqa0RXdlVhSVhpVEVwa2NMMk8tQmZycktmcHdfYThPblptd3lpNnQyUmZsWWc0c043d2ZJcHh1VTFPcnlMTXVTdC1pVHpmVGFLZ1pLMGlSUnN6Tnk1dTR1Z09KcU1rZ19SM2hDQ2t0MzMyc2FpeTNKeGRxTG5ubGptUmlRczRjODlhbC04OHd6NTZfX3hsd1lFQ2dZTm93clF3ZGZRQ2dpR3JsRFFjZw?oc=5",
+   "date": "2026-11-08T12:28:06+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Alors qu’ils se baladaient en forêt, des promeneurs ramassent une boucle de 2 cm venue de l’Empire romain et vieille de 1800 ans &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-08T17:05:23+00:00",
+   "alt": null
+  },
   {
    "title": "Spatiotemporal patterns of crop composition and their potential drivers in Pre-Qin Henan",
    "link": "https://www.sciencedirect.com/science/article/pii/S0305440326002670?dgcid=rss_sd_all",
@@ -173,12 +250,12 @@
    "alt": null
   },
   {
-   "title": "REPORTAGE : Photo étrange, phénomènes inexpliqués... que se passe-t-il dans ce château près de Toulouse ? Notre nuit dans la maison du \"fantôme de Dorothée\" ... - ladepeche.fr",
+   "title": "REPORTAGE. Photo étrange, phénomènes inexpliqués : que se passe-t-il dans ce château près de Toulouse ? Notre nuit dans la maison du \"fantôme de Dorothée\"… - ladepeche.fr",
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdXROTUt0YjdEbzJ2V0xkWlhFUVdpV21neVc4dFZNMUs5OHp5QWprN2RkRjN6VHhtX1hhWUZOdEJISHZMRzlaU2RwZlU4YWxZaW5neGc1MUdUejd3ek9hSDhBV2p3S2pySTRoSVVZUEJBTTlFbEF4bHFuTnFHRnJTQmZaT2JncEVQQU5DUkVmT0VJN1ZScWRFS0p0RWROa29zQ0ZRQ1d2cmlRa0VZWUx6ZmFtWkFjdHF6R3VtZXBJclMzT1RlZnNyMXlRRDlkSEN5NWxFNjRROG15X01VczZkSXFZTGdHWXBPTzRiM3N2c041RW5kQXVQRXlUcC1EeFpGRXlodXl2cXltNWkxSG1rS2RQSV9VbFhUWC1pNXp1dU0?oc=5",
    "date": "2026-11-08T06:01:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "REPORTAGE : Photo étrange, phénomènes inexpliqués... que se passe-t-il dans ce château près de Toulouse ? Notre nuit dans la maison du \"fantôme de Dorothée\" ... &nbsp;&nbsp; ladepeche.fr",
+   "abstract": "REPORTAGE. Photo étrange, phénomènes inexpliqués : que se passe-t-il dans ce château près de Toulouse ? Notre nuit dans la maison du \"fantôme de Dorothée\"… &nbsp;&nbsp; ladepeche.fr",
    "doi": null,
    "first_seen": "2026-11-08T11:58:29+00:00",
    "alt": null
@@ -615,17 +692,6 @@
    "alt": null
   },
   {
-   "title": "Exposition d'Anne et Patrick Poirier au Musée d'archéologie de Nice - jds.fr",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE9tTVFRQTNRUlptOXlMUXJhNDBnV1FNRy1KVl93cjhxamN2R2o3VnpDY3YzdWYwaVpFQ1pCYkpwUUxkZFE1WVZGN2tfUXJoWlcyMmU1bkZMMmNGV3BZNUhYOXVEcTUxMmhhNlFxV200YndmRHpqNzBkQ2ZQY0hJYnJKbXJNd200WTJzYks5T29mcEUzeUpzRjJTbXNyaURuQzlnWDdSc210dXM?oc=5",
-   "date": "2026-11-06T14:41:02+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Exposition d'Anne et Patrick Poirier au Musée d'archéologie de Nice &nbsp;&nbsp; jds.fr",
-   "doi": null,
-   "first_seen": "2026-11-03T22:18:20+00:00",
-   "alt": null
-  },
-  {
    "title": "The 'real' Bertha and George Russell: inside the high-society divorce that shocked the Gilded Age",
    "link": "https://www.historyextra.com/period/victorian/real-bertha-george-russell-gilded-age-vanderbilt-divorce-consuelo/",
    "date": "2026-11-06T14:35:26+00:00",
@@ -810,6 +876,17 @@
    "abstract": "",
    "doi": null,
    "first_seen": "2026-10-02T11:09:24+00:00",
+   "alt": null
+  },
+  {
+   "title": "Exposition d'Anne et Patrick Poirier au Musée d'archéologie de Nice - jds.fr",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNE9tTVFRQTNRUlptOXlMUXJhNDBnV1FNRy1KVl93cjhxamN2R2o3VnpDY3YzdWYwaVpFQ1pCYkpwUUxkZFE1WVZGN2tfUXJoWlcyMmU1bkZMMmNGV3BZNUhYOXVEcTUxMmhhNlFxV200YndmRHpqNzBkQ2ZQY0hJYnJKbXJNd200WTJzYks5T29mcEUzeUpzRjJTbXNyaURuQzlnWDdSc210dXM?oc=5",
+   "date": "2026-11-06T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Exposition d'Anne et Patrick Poirier au Musée d'archéologie de Nice &nbsp;&nbsp; jds.fr",
+   "doi": null,
+   "first_seen": "2026-11-03T22:18:20+00:00",
    "alt": null
   },
   {
@@ -30524,17 +30601,6 @@
    "source": "ScienceDaily — Archaeology",
    "kind": "media",
    "abstract": "Why do beaches today have seashells from clams and snails instead of brachiopods? A new study suggests the answer lies in Earth's greatest mass extinction, when warming oceans and falling oxygen levels wiped out animals that couldn't adapt. Species with body plans and metabolisms better suited to the changing conditions survived and went on to dominate the seas, offering a glimpse of how modern marine life could respond to climate change.",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "Week-end des Journées Européennes de l'Archéologie - Nantes, ville et métropole",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYzNBeUlJQUtuYzZCNUd0Zi15Ql9yMV8wUFdOUmVMbnY0eFEwaTJfLTgtb3dkeUV5S0tpRnBab08tX1d4amJvYzE3QkhaNE43bUxEQUNDUU8tZ0NZYm5CVHVteUdjelFOQTFIejBCb3pTWUdDVE45dnRlY0pGbWt4LW5NNUhLZEpQcXNOeklxUG1ONk11WEpEZFA1UFRhclVpREVWTjVRbWNHWERTbFJHRzR3?oc=5",
-   "date": "2026-07-11T13:32:42+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Week-end des Journées Européennes de l'Archéologie &nbsp;&nbsp; Nantes, ville et métropole",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
