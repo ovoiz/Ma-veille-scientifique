@@ -1,12 +1,108 @@
 {
- "generated_at": "2026-11-10T13:32:31+00:00",
+ "generated_at": "2026-11-10T18:41:19+00:00",
  "counts": {
-  "total": 2294,
+  "total": 2302,
   "journal": 798,
-  "media": 1496,
-  "new_this_run": 85
+  "media": 1504,
+  "new_this_run": 75
  },
  "items": [
+  {
+   "title": "The Taung Child Is at Least 2.96 Million Years Old",
+   "link": "https://www.anthropology.net/p/the-taung-child-is-at-least-296-million",
+   "date": "2026-11-10T17:29:06+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "Brain growth suggests some adult fossils filed as Australopithecus africanus belong to other species, but the study&#8217;s climate story is untested. In a new plot of brain shape, the Taung child, a roughly 3-million-year-old skull found in 1924 at the Buxton Limeworks quarry in South Africa&#8217;s Northwest Province, sits almost on top of MLD 37/38, an adult from Makapansgat, 670 km to the northeast. The plot compares endocasts, casts of the inside of the braincase that record the brain&#8217;s outer shape, and Taung&#8217;s comes from a child whose first permanent molar had erupted while the second was still forming. In growth series of 101 chimpanzees ( Pan troglodytes ) and 84 gorillas ( Gorilla gorilla ), apes at that dental stage do not overlap their own adults in brain shape, yet Taung plots in the middle of the adult fossils from Sterkfontein. The authors call this peculiar, and I think it is the most important result in the paper, because it is where their case about species is both strongest and most exposed. That matters because Taung is the holotype of Australopithecus africanus , the specimen that anchors the species name. Most readers picture a well-stocked species …",
+   "doi": "10.1038/s44513-026-00008-2",
+   "first_seen": "2026-11-10T18:41:19+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-10T18:41:19+00:00"
+   }
+  },
+  {
+   "title": "Dogs and Human Evolution: What They Can and Can’t Tell Us",
+   "link": "https://www.anthropology.net/p/dogs-and-human-evolution-what-they",
+   "date": "2026-11-10T17:26:49+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "A new review argues anthropologists should study dogs alongside primates, and I find its archaeology stronger than its case from convergent evolution. Ancient DNA from the coprolites (preserved feces) of Bronze Age dogs in Italy shows that the animals had not yet evolved the extra copies of the amylase gene that set dogs apart from wolves. Their gut microbes, though, were producing alpha-amylase, the enzyme that breaks down starch, at levels well beyond those seen in modern dogs. In a new review of dogs and human evolution, Kyle C. M. Smith, a postdoctoral research scholar in NC State&#8217;s College of Veterinary Medicine, reads this 2021 result 1 from Rampelli and colleagues as a sequence: the microbes let the dogs take starch into their diet, and that opened the way for natural selection on the dogs&#8217; own genes. Smith proposes that people may have done something similar with milk, since humans who consume dairy but are not lactase persistent (they stop producing lactase, the enzyme that digests milk sugar, after childhood) have higher levels of Bifidobacterium , a gut bacterium that can break down lactose. Most anthropologists, asked for an animal that can tell us about hum…",
+   "doi": null,
+   "first_seen": "2026-11-10T18:41:19+00:00",
+   "alt": null
+  },
+  {
+   "title": "Il y a 2 800 ans, les Scythes planaient déjà au cannabis : peut-être la trace d’un rite sanglant - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSTd3VEV6bGhNYlc4VlVzbEZGeUthcEFKdG5nR2ZCU3JVZk5SQ05yRjcwVC1LQWZQSXhoY1dlWldQM1J3LUQ4T2V1YVJySUtzMUh4TWZxRnVxVnYtOFdyQklwZER2MU9leVZWRzc1N3gxaEZTR3ZucHNzUFVpZjdmc3kwUEUxdXRDMldsalR6Y0Y2ekZtMDlSSVpzYVhIQnhXaVYyUVlYekpnME56RUVUcW9ZMGF2enIzS0hyQktHRnM4OFVJY1ZSTHhSbUV1X3lyN2sxemFzODNNa2Q5U1RwNlVvQjREQXVoQXc?oc=5",
+   "date": "2026-11-10T17:01:08+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Il y a 2 800 ans, les Scythes planaient déjà au cannabis : peut-être la trace d’un rite sanglant &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-10T18:41:19+00:00",
+   "alt": null
+  },
+  {
+   "title": "Les foules denses oscillent spontanément",
+   "link": "https://www.sciencesetavenir.fr/fondamental/mecanique-des-foules-l-oscillation-spontanee-a-partir-d-une-certaine-densite_196012?xtor=RSS-10",
+   "date": "2026-11-10T17:00:00+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "À partir d’une certaine densité, les foules se mettent à avoir un mouvement spontanée. C’est ce qu’a démontré Denis Bartolo, physicien à l’ENS de Lyon, en étudiant les foules pendant la fête de Pampelune.&nbsp;",
+   "doi": null,
+   "first_seen": "2026-11-10T18:41:19+00:00",
+   "alt": null
+  },
+  {
+   "title": "Elle faisait partie des \"survivantes de l'horreur\" : hommage à Odette Béret, institutrice et résistante au sud de Toulouse - ladepeche.fr",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcGZvTzhIX1RTdm5JeWg1MWt1Y2pJUTdnS19OcE5SREYtckd2N2xVREJKLU5aLTB0ZGhtZGg3MTNXQzJfNWR3eGFHbkRoS1hEVTRwc205MFRqRnM5WG1wYl9IdlVtdkxneGVvSDBSaW5PQkx5aUFxTURyTTJfanNpeThzS3QyQTllWTlKNXZzMUlBTlg1YVREWXY2eldIbVI2UGh6cWVwUjJSSGV1eWE5MHRWTGZsamFfMXhxbHZGV2owb2M5ZlVxcllwdDdOdDNzSGZYVGRhNW1ma2hybTJGc3ZEZUJmZGU3MnZ4Z3c1Q0s4ZWFNTjVZdA?oc=5",
+   "date": "2026-11-10T16:36:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Elle faisait partie des \"survivantes de l'horreur\" : hommage à Odette Béret, institutrice et résistante au sud de Toulouse &nbsp;&nbsp; ladepeche.fr",
+   "doi": null,
+   "first_seen": "2026-11-10T18:41:19+00:00",
+   "alt": null
+  },
+  {
+   "title": "Patrimoine. Conférences sur le temps et l'archéologie : ce que propose le Scriptorial d'Avranches en novembre - lamanchelibre.fr",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdHQ0NWNQZnVmTGNjb3lJQWVvQW5QUVhOamR6VjhGQXNJMk1OOG1KeWV6Wk83c3JraFRHOTNXWWRxaXVkRDhkSjRJNFV4SHZqbklxRHJVcmRJdTR4WU1zSUpDa0dHT19xTVMyY2ZDQmNab0J1dWh3T3c2YTBveUwwLVpfV2ZjNDFoZ0MyN0hjaXdnSGlrQkZ2TjRrYnViR2hFYVpGTDZoUFA2X2htQS1INWhXTVlrTFdwS2NkVTRqUU8tVjhwZkVfTEVmZDdMamhTUTZ1YnhLUU52elhSSEthSHp2M1Q5clcx?oc=5",
+   "date": "2026-11-10T16:35:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Patrimoine. Conférences sur le temps et l'archéologie : ce que propose le Scriptorial d'Avranches en novembre &nbsp;&nbsp; lamanchelibre.fr",
+   "doi": null,
+   "first_seen": "2026-11-10T18:41:19+00:00",
+   "alt": null
+  },
+  {
+   "title": "Ice Age camp reveals hunter-gatherers reached Italy thousands of years earlier than previously thought",
+   "link": "https://phys.org/news/2026-11-ice-age-reveals-hunter-italy.html",
+   "date": "2026-11-10T15:40:05+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "A fresh excavation of the eastern deposit at Riparo Mochi, a rock shelter near today's French–Italian border, has pushed back the timeline for when Ice Age hunter-gatherers from Spain first entered Italy.",
+   "doi": null,
+   "first_seen": "2026-11-10T18:41:19+00:00",
+   "alt": null
+  },
+  {
+   "title": "Why did medieval England and Scotland hate each other so much?",
+   "link": "https://www.historyextra.com/membership/ango-scottish-conflict/",
+   "date": "2026-11-10T15:08:48+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "As the 13th century drew to a close, tensions along the English-Scottish frontier erupted into conflict when Edward I’s invasion sparked a cycle of brutal raids. Helen Carr explores attacks that “surpassed in cruelty all the fury of the heathen” As Edward I arrayed his English army around Berwick on Friday 30 March 1296, its residents must have grown very fearful, very quickly. Some 30,000 enemy soldiers mustered outside, with around 5,000 horses – an intimidating force indeed. And they clearly hadn’t come in peace. Berwick was among the most important and prosperous towns in Scotland, a royal burgh with a mint and wealthy religious houses. Its location on the river Tweed not only provided access to sea traffic, it also made the town a strategically vital location on the slightly nebulous border separating England from Scotland. But though it was the country’s main trading port, and perhaps Britain’s second-largest economic centre, it was vulnerable to Edward’s mighty army. When English trumpets sounded the advance, the Scots took one look at the horde amassed outside their town, outnumbering their own troops perhaps three to one – and surrendered almost immediately. ‘Baby killers’…",
+   "doi": null,
+   "first_seen": "2026-11-10T18:41:19+00:00",
+   "alt": null
+  },
   {
    "title": "En 1873, un navigateur argentin faisait naufrage sur une île déserte et survivait plus de deux mois : des archéologues pensent avoir retrouvé son campement - Science et vie",
    "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQZ2tpcGFzelFIb21YeTFpLWVkRFdUSFpWNnpVbzA0ZFJFVXQxenprWUQ1SGhVeE41SUQ4NTloeWdfQjBJZXV2UE9JdXlrTlpTSVNZb055SWw5TW04QS12dDRoeDNwSU9WOEJ4aU5BVjVVZjF0c2M2Z2k1dkFTc0xkUDJJbkNTa1A3aXB3OFpZRDY5YTdtY3N1LWNLYVVrSGFWVUNMSHJsdmhmY2lnWndWQmpCa1R1TTIxbHROeXIxdklXMGpMX25zTzkwZDFSYlp1TzBPVGd1WkZQRmpCRWlQbmhjTURzYmloWjdUTHlBMDhKQ0wwR3NubVk5QWk2SXJhaHpBZDZXNDJsRTBqcXlKTHNUcUtQWjFoTk1IUjV4TTZRRjJ2M3hWZ1owb0M3UjNjMk10NGNxa3drdw?oc=5",
@@ -41,6 +137,17 @@
    "alt": null
   },
   {
+   "title": "Le Groupe Lislois de Recherches Archéologiques et Historiques publie son 36 ème numéro - Le journal du Gers",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORHJTbXE5aGRNckR1cEVXU0ZKVE8xV2tRS0hSeDZSN0FRbV9fU2o3ZGJJc2dTT3VoaXNiMEhJWUpmMmROenVGN2tfbEpoUmJoNzE5MlNXYXhHcVprQTZpVmZHQVY0a2hqeGs3WnI1TDVub2U4bS1ZRFoyeEh0NmpFaFZXc1lMNWQwMGhid2lxUVl3NFZsODJLZl9JSFRXS0VMVkZNTGtxbEk2MGJUZnhhNThXNC1TVERzVk9FQjM4TVIyeE9wMFE?oc=5",
+   "date": "2026-11-10T12:22:07+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Le Groupe Lislois de Recherches Archéologiques et Historiques publie son 36 ème numéro &nbsp;&nbsp; Le journal du Gers",
+   "doi": null,
+   "first_seen": "2026-11-10T18:41:19+00:00",
+   "alt": null
+  },
+  {
    "title": "Après avoir étudié 1 633 squelettes au Pérou, des archéologues ont constaté que seuls 1,6 % présentaient des traces de violence malgré des catastrophes liées à El Niño - Science et vie",
    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQeldueEZjeHJ5dk9mc1ZKLTR5LUp3dGx3VURSc05sVXhqNnE1TWlDYVBWM2UwTS1HTUVHWDk3bkxhTV8yYm5ES3J5MDFCTGgxWDFtMWpOd3pxckNzQzRZcGhtc3RtUHhlM0xSQnE4TFZMeVhvdXgwNHhCRHVTNXRnZkkzLWlLTzUyemlLVjN2eWRxbXRfVWlJNXZfbERpdnVlV1FqdUw2b1JHbTFCN3VuZy1XdjNjTFRhbHZjZHdEWjZhVmx4X1ZBVVgyQTVjVWVlcG43bUdHZG1TakR5Y1Byay1YOW83clBiNkZYbW5tZ2RkTy1scDRpOE5rZXAyQXNzLWt5bXRsRjZ6ZTdENEtlWkw0aS1VT0plT0tTNXN1U05oZUdaajRFREo3UUZwejBIeEh4TlNTeC1XeDJqejBVbjlIMHduei04?oc=5",
    "date": "2026-11-10T10:00:11+00:00",
@@ -60,6 +167,17 @@
    "abstract": "Archaeological excavation uncovers the past but also changes the landscape that has preserved sites for centuries or millennia. These changes influence water flow, soil erosion and the stability of exposed remains. Researchers from Istanbul Technical University and the U.S. have shown how computer models can assist archaeologists in understanding and planning for these effects, especially regarding erosion risks. Using an Early Bronze Age settlement in Türkiye as a case study, they reconstructed the landscape before and after excavation.",
    "doi": null,
    "first_seen": "2026-11-10T13:32:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "\"SENSationnel Néandertal ! Il y a 240 000 ans à Biache-Saint-Vaast\" : une exposition événement à la Maison de l'archéologie - PasdeCalais.fr",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaUJLQ084SU1RRlZnaUFFb05XLUZHSkFkUjNyTDREbWVFRXJRbnZ5bmlobW1DUWQ4Y0tUNWM2YWZxNGRldHJ0X3FDSDBaYjF4NVljTTRwQzN2V0VhZmNDUFdKTFk5YWZiY0s1aWxvR0pUeUxCcGdWVDhKZFh6cWVaaS1PUkZSbHZsVEFiZS1xY1hJNDAyMWRNUFZmQVlDT0h4dkExR3pYaDRrbzQ4UVpndEVZN1hkWm5ra29FblN1ZWRFQQ?oc=5",
+   "date": "2026-11-10T09:39:25+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "\"SENSationnel Néandertal ! Il y a 240 000 ans à Biache-Saint-Vaast\" : une exposition événement à la Maison de l'archéologie &nbsp;&nbsp; PasdeCalais.fr",
+   "doi": null,
+   "first_seen": "2026-11-09T21:27:25+00:00",
    "alt": null
   },
   {
@@ -450,17 +568,6 @@
    "abstract": "Pour la première fois, un astronaute étranger va rejoindre la station spatiale chinoise Tiangong. Originaire du Pakistan, il participera à la mission Shenzhou-24 en tant que spécialiste chargé des expériences scientifiques embarquées, avant de revenir sur Terre à bord de Shenzhou-23.",
    "doi": null,
    "first_seen": "2026-11-09T13:58:27+00:00",
-   "alt": null
-  },
-  {
-   "title": "\"SENSationnel Néandertal ! Il y a 240 000 ans à Biache-Saint-Vaast\" : une exposition événement à la Maison de l'archéologie - PasdeCalais.fr",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaUJLQ084SU1RRlZnaUFFb05XLUZHSkFkUjNyTDREbWVFRXJRbnZ5bmlobW1DUWQ4Y0tUNWM2YWZxNGRldHJ0X3FDSDBaYjF4NVljTTRwQzN2V0VhZmNDUFdKTFk5YWZiY0s1aWxvR0pUeUxCcGdWVDhKZFh6cWVaaS1PUkZSbHZsVEFiZS1xY1hJNDAyMWRNUFZmQVlDT0h4dkExR3pYaDRrbzQ4UVpndEVZN1hkWm5ra29FblN1ZWRFQQ?oc=5",
-   "date": "2026-11-09T10:16:31+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "\"SENSationnel Néandertal ! Il y a 240 000 ans à Biache-Saint-Vaast\" : une exposition événement à la Maison de l'archéologie &nbsp;&nbsp; PasdeCalais.fr",
-   "doi": null,
-   "first_seen": "2026-11-09T21:27:25+00:00",
    "alt": null
   },
   {
@@ -2373,12 +2480,12 @@
    "alt": null
   },
   {
-   "title": "Des fouilles archéologiques permettent la découverte inédite de 260 sépultures de bébés à Auxerre - franceinfo",
+   "title": "Des fouilles archéologiques permettent la découverte inédite de 260 sépultures de bébés à Auxerre - Franceinfo",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbzBXX19iQlZ1aG02YWR3Z3F4Z3hzRU1UYXdUSTdXWlFQQ0ppZ0k0bnN2dmJTcGUtZmUwQVZLdWx3WFd2bjJJYWhvMmxScnB0bk5kdWpFZHJudGZBdng5eHFhUWRweEtoYTZaTEFmNUJWTVozUmNsekN4QlJuc2dwM1Y1MmRnMkZldkpnX2tsTDBPcVh6RkJRYXBYMG5RRU5FSG5TZW9YU2RUbWlPMnhpMmpDb0JtaFlSMUVSUl82OTU2bHp3RzBIS3lDRGxLMUs3MFRrcThpVGNoM0xuR3Ntb3ZWSlZ4MlpxRnB6SmhMRUJNeGg0RURHLW52MA?oc=5",
    "date": "2026-11-04T07:16:22+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Des fouilles archéologiques permettent la découverte inédite de 260 sépultures de bébés à Auxerre &nbsp;&nbsp; franceinfo",
+   "abstract": "Des fouilles archéologiques permettent la découverte inédite de 260 sépultures de bébés à Auxerre &nbsp;&nbsp; Franceinfo",
    "doi": null,
    "first_seen": "2026-11-04T13:03:15+00:00",
    "alt": null
@@ -19234,17 +19341,6 @@
     "url": "",
     "checked_at": "2026-10-16T09:54:10+00:00"
    }
-  },
-  {
-   "title": "La liste \"Fouiller en bénévole ou visiter un chantier archéologique\" - Ministère de la Culture",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSmQwZXg0RFFfS0hsYlB0TzltbkVfQUlGanFkY3JMVUJhaUNOajVlOXdhaUgxdmEyOThNalRkUUpzU2w1U0V1ZkQ0Nk81LVE2NmdrazV0TTdwWUd3NTJOTGYxVVp5alk4WUFYcUplUTBlSmU4TDBuNEVhd0FQamUxUVhiYnc2QVVYQ0FLU3p6ellvNUNRWTMyWGlsOWZQVURlOUVpR1JUX1hta0hCSGp6cEhvMHI1LTZFTE5XU0FBYXBuZnhmQW9uZGFMY2Q0cTdMYnBXTHJ4WVIxZ1ZqRkEzTmdqdnhlak9DMDRTeUpsZkl3MGVsRXF6WUtzZmc0SU1EUEE?oc=5",
-   "date": "2026-10-07T07:00:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "La liste \"Fouiller en bénévole ou visiter un chantier archéologique\" &nbsp;&nbsp; Ministère de la Culture",
-   "doi": null,
-   "first_seen": "2026-10-27T10:39:17+00:00",
-   "alt": null
   },
   {
    "title": "Appel à participation – Faire dialoguer les historien·ne·s de l’archéologie : terrains, sources et méthodes - INHA - Institut national d'histoire de l'art",
