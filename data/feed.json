@@ -1,12 +1,56 @@
 {
- "generated_at": "2026-11-09T21:27:25+00:00",
+ "generated_at": "2026-11-10T00:41:39+00:00",
  "counts": {
-  "total": 2276,
-  "journal": 799,
-  "media": 1477,
-  "new_this_run": 78
+  "total": 2280,
+  "journal": 798,
+  "media": 1482,
+  "new_this_run": 74
  },
  "items": [
+  {
+   "title": "Cracking the case of the Roman frog graveyard",
+   "link": "https://phys.org/news/2026-11-case-roman-frog-graveyard.html",
+   "date": "2026-11-10T00:10:09+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "Ten years after 8,000 ancient frog bones were discovered in a single ditch, scientists at Bournemouth University and the Museum of London Archaeology (MOLA) have finally identified the culprits",
+   "doi": null,
+   "first_seen": "2026-11-10T00:41:39+00:00",
+   "alt": null
+  },
+  {
+   "title": "Anglo-Saxon kingdom chose copper coins despite abundant silver",
+   "link": "https://phys.org/news/2026-11-anglo-saxon-kingdom-chose-copper.html",
+   "date": "2026-11-10T00:00:16+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "Analysis of silver and gold from the Anglo-Saxon kingdom of Northumbria finds that, contrary to popular belief, it did not suffer from a shortage of precious metals, questioning why the kingdom used copper-alloy coins rather than silver like its contemporaries.",
+   "doi": null,
+   "first_seen": "2026-11-10T00:41:39+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archaeological finds at an Irish fort reveal insights into the finer side of medieval life",
+   "link": "https://phys.org/news/2026-11-archaeological-irish-fort-reveal-insights.html",
+   "date": "2026-11-09T23:40:05+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "Popular media, from computer games to movies, often portray medieval life as being dominated by fighters and farmers. In these depictions, there's little evidence of a world beyond political struggle and simple subsistence.",
+   "doi": null,
+   "first_seen": "2026-11-10T00:41:39+00:00",
+   "alt": null
+  },
+  {
+   "title": "Did early humans collect keepsakes 500,000 years ago?",
+   "link": "https://phys.org/news/2026-11-early-humans-keepsakes-years.html",
+   "date": "2026-11-09T23:00:01+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "Most of us are familiar with the urge to pick up a seashell from the beach or keep a stone from a hiking trip. The object itself may be ordinary, but to the person who keeps it, it serves as a reminder of a particular moment, place or person. Where did this behavior come from? Did early humans do the same? A new study by Tel Aviv University researchers suggests that this practice stretches back approximately half a million years, with important consequences for the evolution of memory.",
+   "doi": null,
+   "first_seen": "2026-11-10T00:41:39+00:00",
+   "alt": null
+  },
   {
    "title": "How Did Greek Fire Work? And 6 Other Lost Inventions.",
    "link": "https://www.nytimes.com/2026/11/09/science/lost-inventions-to-time-greek-fire-antikythera.html",
@@ -17,6 +61,25 @@
    "doi": null,
    "first_seen": "2026-11-09T13:58:27+00:00",
    "alt": null
+  },
+  {
+   "title": "Inscribed Blocks Record Egyptian Official’s Biography",
+   "link": "https://archaeology.org/news/2026/11/09/inscribed-blocks-record-egyptian-officials-biography/",
+   "date": "2026-11-09T19:00:00+00:00",
+   "source": "Archaeology Magazine",
+   "kind": "media",
+   "abstract": "SAQQARA, EGYPT—One of the world’s earliest known autobiographies was written on the walls of the [&#8230;] The post Inscribed Blocks Record Egyptian Official’s Biography appeared first on Archaeology Magazine . SAQQARA, EGYPT—One of the world’s earliest known autobiographies was written on the walls of the tomb of an Egyptian dignitary named Khuwy, according to a La Brújula Verde report. Khuwy’s tomb was located by Czech archaeologists inside a cemetery in Saqqara that surrounds the pyramid of the 5th Dynasty pharaoh Djedkare Isesi (reigned ca. 2381–2353 B.C. ). Dating to around 2400 B.C. , it is one of the oldest underground decorated burial apartments. Although most of the upper structure built atop the tomb has not survived, archaeologists found inscribed blocks that once lined its walls. On these, Khuwy described his life and achievements. Among them, he boasts of his moral integrity, stating, “I never took anything from any man.” Khuwy served as an official under six different administrative courts, and he also directly mentions the names of Djedkare and his wife, Queen Setibhor. The passage, though incomplete and not entirely legible, implies that Khuwy may have had a close r…",
+   "doi": "10.1177/03075133261498063",
+   "first_seen": "2026-11-10T00:41:39+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-10T00:41:39+00:00"
+   }
   },
   {
    "title": "Et si le roi Verica, qui a poussé l’Empire romain à envahir la Grande-Bretagne, était une reine - Courrier international",
@@ -214,6 +277,17 @@
    "alt": null
   },
   {
+   "title": "\"SENSationnel Néandertal ! Il y a 240 000 ans à Biache-Saint-Vaast\" : une exposition événement à la Maison de l'archéologie - PasdeCalais.fr",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaUJLQ084SU1RRlZnaUFFb05XLUZHSkFkUjNyTDREbWVFRXJRbnZ5bmlobW1DUWQ4Y0tUNWM2YWZxNGRldHJ0X3FDSDBaYjF4NVljTTRwQzN2V0VhZmNDUFdKTFk5YWZiY0s1aWxvR0pUeUxCcGdWVDhKZFh6cWVaaS1PUkZSbHZsVEFiZS1xY1hJNDAyMWRNUFZmQVlDT0h4dkExR3pYaDRrbzQ4UVpndEVZN1hkWm5ra29FblN1ZWRFQQ?oc=5",
+   "date": "2026-11-09T10:16:31+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "\"SENSationnel Néandertal ! Il y a 240 000 ans à Biache-Saint-Vaast\" : une exposition événement à la Maison de l'archéologie &nbsp;&nbsp; PasdeCalais.fr",
+   "doi": null,
+   "first_seen": "2026-11-09T21:27:25+00:00",
+   "alt": null
+  },
+  {
    "title": "Val-d'Oise : la disparition d'un éminent archéologue - Actu.fr",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHE5Vm81U0xLclozQ2Z5R1FkX21KS3lIS1NHWHVjaHF4aDIwRXkwdFBUa3RGcXhqSWVrX0YxTXFudi1TUTJIMUhFNWtyZDZkSTVZTTNfM3I5Mm9VdTdqN1FCc0pDUVRpY0ZTNUpnd0pwTjhPT2QyeEFTZDRaU0NFSVY2QWFEVkxrSnlMTEpyWGg2NVRMWTRQMGNRZU9MTnRNOThMSElLTXk?oc=5",
    "date": "2026-11-09T10:08:01+00:00",
@@ -222,17 +296,6 @@
    "abstract": "Val-d'Oise : la disparition d'un éminent archéologue &nbsp;&nbsp; Actu.fr",
    "doi": null,
    "first_seen": "2026-11-09T13:58:27+00:00",
-   "alt": null
-  },
-  {
-   "title": "\"SENSationnel Néandertal ! Il y a 240 000 ans à Biache-Saint-Vaast\" : une exposition événement à la Maison de l'archéologie - pasdecalais.fr",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaUJLQ084SU1RRlZnaUFFb05XLUZHSkFkUjNyTDREbWVFRXJRbnZ5bmlobW1DUWQ4Y0tUNWM2YWZxNGRldHJ0X3FDSDBaYjF4NVljTTRwQzN2V0VhZmNDUFdKTFk5YWZiY0s1aWxvR0pUeUxCcGdWVDhKZFh6cWVaaS1PUkZSbHZsVEFiZS1xY1hJNDAyMWRNUFZmQVlDT0h4dkExR3pYaDRrbzQ4UVpndEVZN1hkWm5ra29FblN1ZWRFQQ?oc=5",
-   "date": "2026-11-09T10:01:32+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "\"SENSationnel Néandertal ! Il y a 240 000 ans à Biache-Saint-Vaast\" : une exposition événement à la Maison de l'archéologie &nbsp;&nbsp; pasdecalais.fr",
-   "doi": null,
-   "first_seen": "2026-11-09T21:27:25+00:00",
    "alt": null
   },
   {
@@ -30991,25 +31054,6 @@
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
-  },
-  {
-   "title": "Not just a housekeeper: a new look at the work of the Roman vilica",
-   "link": "https://dx.doi.org/10.1017/S1047759426100804?rft_dat=source%3Ddrss",
-   "date": "2026-07-13T00:00:00+00:00",
-   "source": "Journal of Roman Archaeology",
-   "kind": "journal",
-   "abstract": "The presence of the vilica or female supervisor at a Roman villa is attested across five centuries in varied texts, and her duties are detailed in an entire book of Columella’s On Agriculture . This paper challenges assumptions by modern scholars that her managerial functions were confined to those of a housekeeper, focused on food supplies for the household and the supervision of domestic labor inside the house. Through closer examination of textual, iconographic, and archaeological evidence, we can see that the vilica ’s principal role was to oversee not the domestic sphere, but rather a range of vital productive activities on the farm. In particular, she seems to have been responsible for wine and oil making and for important rituals linked to production. This has implications for our understanding of the roles of women within Roman farming and the Roman economy.",
-   "doi": "10.1017/S1047759426100804?rft_dat=source%3Ddrss",
-   "first_seen": "2026-10-06T17:14:00+00:00",
-   "alt": {
-    "score": 0,
-    "outlets": [],
-    "msm": 0,
-    "blogs": 0,
-    "tweets": 0,
-    "url": "",
-    "checked_at": "2026-10-06T17:14:00+00:00"
-   }
   }
  ]
 }
