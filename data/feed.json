@@ -1,12 +1,75 @@
 {
- "generated_at": "2026-11-11T18:43:09+00:00",
+ "generated_at": "2026-11-11T23:28:00+00:00",
  "counts": {
-  "total": 2436,
+  "total": 2441,
   "journal": 895,
-  "media": 1541,
-  "new_this_run": 85
+  "media": 1546,
+  "new_this_run": 76
  },
  "items": [
+  {
+   "title": "How pipes became status symbols in 18th-century Sweden",
+   "link": "https://phys.org/news/2026-11-pipes-status-18th-century-sweden.html",
+   "date": "2026-11-11T21:20:08+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "In the 18th century, a clay tobacco pipe could reveal more than you might think. Its length, quality and condition, as well as the way it was used, could signal social status. In a new doctoral thesis, Lund University archaeologist Robert Bergman Carter shows how smokeways at the time served as clear markers of status.",
+   "doi": null,
+   "first_seen": "2026-11-11T23:28:00+00:00",
+   "alt": null
+  },
+  {
+   "title": "Ancient DNA Finds Trisomy 13 in Nasca Infant With Cyclopia",
+   "link": "https://www.anthropology.net/p/ancient-dna-finds-trisomy-13-in-nasca",
+   "date": "2026-11-11T19:12:11+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "A Middle Nasca infant with a single eye socket carried an extra chromosome 13, and her urn burial in Peru&#8217;s Palpa Valley followed local practice. Burial 25 in the Middle Nasca cemetery (325-440 CE) at Jauranga, in the Palpa Valley of southern Peru, held two infants in one ceramic vessel, one above the other. One, JA13A, had a single eye socket in the midline of her face, the skeletal signature of cyclopia. Her teeth had reached the stage expected 2 to 4 months after birth, while her limb bones matched 36 to 40 weeks of gestation. The other, JA13B, had no skeletal anomalies and was younger, at about 32 to 36 gestational weeks. Cyclopia is the most severe craniofacial form of holoprosencephaly (HPE), in which the embryonic forebrain does not fully separate. It occurs in about 1 in 100,000 births and is typically lethal before or shortly after birth. I suspect most readers assume that bones can describe such a malformation without reaching its cause, and that a community would have buried so visibly different an infant differently. Photographic views of selected cranial and postcranial elements showing the morphological traits observed in individual JA13A. Credit: Proceedings of…",
+   "doi": "10.1073/pnas.2625042123",
+   "first_seen": "2026-11-11T23:28:00+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-11T23:28:00+00:00"
+   }
+  },
+  {
+   "title": "Çemka Höyük Pottery: 46 Fired Fragments, c. 9350 cal BC",
+   "link": "https://www.anthropology.net/p/cemka-hoyuk-pottery-46-fired-fragments",
+   "date": "2026-11-11T19:07:29+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "Fired clay from a Pre-Pottery Neolithic A level in T&#252;rkiye may be among the earliest pottery in Southwest Asia, but only five of eight objects are vessels. The strangest object in the new paper on &#199;emka H&#246;y&#252;k pottery is a thick piece of fired clay with a hole pierced in it, found on the floor of a fully subterranean, elliptical building in Mardin Province, T&#252;rkiye, in a level dated to c. 9350 cal BC. Catalogued as E18-21-A1, it is a segment of something probably oval, with an estimated maximum diameter of 370 mm and a height of 100 to 120 mm, built from uneven slabs of clay in at least three layers. It has no flat base, only a concave pedestal, and two holes about 15 mm wide were pierced at an angle before the clay was heated. The authors think it was an extension, added to a shallow container of another material, probably stone, to increase its capacity. Fragments of clay coating that probably once covered organic objects. Credit: photographs and drawings by N. Petrova; photograph 1c by E. Koda&#351;. A clay extension for a stone bowl would be a minor curiosity in most periods, but building level 2 at &#199;emka, where all the fragments in the study were f…",
+   "doi": null,
+   "first_seen": "2026-11-11T23:28:00+00:00",
+   "alt": null
+  },
+  {
+   "title": "Symbolic clay figurines change our understanding of the prehistoric Middle East",
+   "link": "https://phys.org/news/2026-11-clay-figurines-prehistoric-middle-east.html",
+   "date": "2026-11-11T19:00:29+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "Newly discovered artifacts are evidence of the earliest known example of a tradition of making clay figurines in the Middle East—and challenge long-held beliefs about when and how clay began to be used for symbolic purposes in the region, according to a study published in PLOS One by Laurent Davin from The Hebrew University of Jerusalem, Israel, and colleagues.",
+   "doi": null,
+   "first_seen": "2026-11-11T23:28:00+00:00",
+   "alt": null
+  },
+  {
+   "title": "Spain's massive stone tombs reveal collective burials continued well into Bronze Age",
+   "link": "https://phys.org/news/2026-11-spain-massive-stone-tombs-reveal.html",
+   "date": "2026-11-11T19:00:12+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "Iberian people continued using, and possibly building, massive necropolises well into the Bronze Age, according to a study published in PLOS One by Eduardo Vijande-Vila of the University of Cádiz, Spain, and colleagues.",
+   "doi": null,
+   "first_seen": "2026-11-11T23:28:00+00:00",
+   "alt": null
+  },
   {
    "title": "Ancient DNA reveals rare genetic condition behind a 1,600-year-old infant's single eye socket",
    "link": "https://phys.org/news/2026-11-ancient-dna-reveals-rare-genetic.html",
@@ -126,6 +189,17 @@
    "abstract": "In the 19th century, scientists looked to find synthetic alternatives to natural resources in the hopes of reducing the damage being done to the environment – ironically enough In terms of natural materials with plastic properties – think rubber, amber, animal horn, gums and shellac – humans have played with the building blocks of plastic for millennia. And playing is the key word there: the Olmec civilisation in Mexico (c1200-400 BC) used rubber to make the balls for the beloved ceremonial ballgame. Their name even means ‘rubber people’. As for the development of synthetic plastic, however, the story really began in the 19th century. With industrial production on the rise, the quantities of commonly used natural materials were shrinking; the demand for ivory to make piano keys and billiard balls, for example, had seen elephant populations diminish. Alternatives were needed. Parkesine makes early strides While chemically modified materials – such as vulcanised rubber – were a good start, an early step towards plastic was made by English chemist Alexander Parkes. In 1862, he patented a cellulose-based option, which he named Parkesine after himself. Able to be moulded into different …",
    "doi": null,
    "first_seen": "2026-11-11T18:43:09+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie de la révélation du révélé - LeQuotidien.sn",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxUU5wSXBoMGl2czBVYmtpTVY2M28teVoyWG1yVzB5SnE0VW1WSkxJTVhXZ1NlWWctR0k1enRUNmNrcWN6RmV5Z2NDeG8wbjg3VlpqQVg1TTQzVmN4VkhhX0gyQnIxUlVseGpHZlpJYw?oc=5",
+   "date": "2026-11-11T12:41:17+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie de la révélation du révélé &nbsp;&nbsp; LeQuotidien.sn",
+   "doi": null,
+   "first_seen": "2026-11-11T23:28:00+00:00",
    "alt": null
   },
   {
@@ -3652,12 +3726,12 @@
    "alt": null
   },
   {
-   "title": "Des fouilles archéologiques permettent la découverte inédite de 260 sépultures de bébés à Auxerre - franceinfo",
+   "title": "Des fouilles archéologiques permettent la découverte inédite de 260 sépultures de bébés à Auxerre - Franceinfo",
    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbzBXX19iQlZ1aG02YWR3Z3F4Z3hzRU1UYXdUSTdXWlFQQ0ppZ0k0bnN2dmJTcGUtZmUwQVZLdWx3WFd2bjJJYWhvMmxScnB0bk5kdWpFZHJudGZBdng5eHFhUWRweEtoYTZaTEFmNUJWTVozUmNsekN4QlJuc2dwM1Y1MmRnMkZldkpnX2tsTDBPcVh6RkJRYXBYMG5RRU5FSG5TZW9YU2RUbWlPMnhpMmpDb0JtaFlSMUVSUl82OTU2bHp3RzBIS3lDRGxLMUs3MFRrcThpVGNoM0xuR3Ntb3ZWSlZ4MlpxRnB6SmhMRUJNeGg0RURHLW52MA?oc=5",
    "date": "2026-11-04T07:16:22+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Des fouilles archéologiques permettent la découverte inédite de 260 sépultures de bébés à Auxerre &nbsp;&nbsp; franceinfo",
+   "abstract": "Des fouilles archéologiques permettent la découverte inédite de 260 sépultures de bébés à Auxerre &nbsp;&nbsp; Franceinfo",
    "doi": null,
    "first_seen": "2026-11-04T13:03:15+00:00",
    "alt": null
@@ -33564,17 +33638,6 @@
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "Archéologie : la découverte en Italie d'une spectaculaire tombe princière vieille de 2500 ans met en lumière un peuple pré-romain méconnu &nbsp;&nbsp; Connaissance des Arts",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "Ancient DNA analysis reveals Wiltshire’s Upton Lovell Shaman was a woman",
-   "link": "https://www.theguardian.com/science/2026/jul/14/ancient-dna-analysis-reveals-upton-lovell-shaman-was-woman-wiltshire",
-   "date": "2026-07-14T19:01:47+00:00",
-   "source": "The Guardian — Archaeology",
-   "kind": "media",
-   "abstract": "Exclusive: Analysis offers ‘smoking gun evidence’ that overturns previous assumption that bronze age individual was male The Upton Lovell Shaman, a bronze age individual who has been depicted in museum exhibits as a bearded spiritual leader and metalworker, was female, an ancient DNA analysis has revealed. The 4,000-year-old skeleton, along with the extensive collection of stone axes, metalworking tools and the remains of an elaborate ceremonial cloak found in the grave, is viewed as among the most significant bronze age burials in Britain. We Go Way Back opens at the Francis Crick Institute on 16 July Continue reading...",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
