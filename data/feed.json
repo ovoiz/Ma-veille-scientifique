@@ -1,12 +1,53 @@
 {
- "generated_at": "2026-11-12T18:57:58+00:00",
+ "generated_at": "2026-11-12T22:44:31+00:00",
  "counts": {
-  "total": 2467,
+  "total": 2473,
   "journal": 896,
-  "media": 1571,
-  "new_this_run": 77
+  "media": 1577,
+  "new_this_run": 76
  },
  "items": [
+  {
+   "title": "When the Saudi desert was green: a 125,000-year-old lakeside reveals how early humans lived",
+   "link": "https://popular-archaeology.com/article/when-the-saudi-desert-was-green-a-125000-year-old-lakeside-reveals-how-early-humans-lived/",
+   "date": "2026-11-12T22:02:59+00:00",
+   "source": "Popular Archaeology",
+   "kind": "media",
+   "abstract": "Evidence of early humans hunting, processing plants and occupying a thriving lakeside during the Green Arabia period",
+   "doi": null,
+   "first_seen": "2026-11-12T22:44:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "Chemical traces hint at poisoned hunting weapons in Arabia 125,000 years ago",
+   "link": "https://phys.org/news/2026-11-chemical-hint-poisoned-weapons-arabia.html",
+   "date": "2026-11-12T19:00:49+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "A new study has found people living in Arabia 125,000 years ago used complex technologies, including composite hunting weapons, plant-fiber processing and possibly poison-assisted hunting, while making use of a freshwater lake rich in resources.",
+   "doi": null,
+   "first_seen": "2026-11-12T22:44:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "Fired Clay Fragments Offer Hints to Development of Near Eastern Pottery",
+   "link": "https://archaeology.org/news/2026/11/12/fired-clay-fragments-offer-hints-to-development-of-near-eastern-pottery/",
+   "date": "2026-11-12T19:00:00+00:00",
+   "source": "Archaeology Magazine",
+   "kind": "media",
+   "abstract": "ISTANBUL, TURKEY—According to a report in La Brújula Verde, 46 fragments of fired clay unearthed [&#8230;] The post Fired Clay Fragments Offer Hints to Development of Near Eastern Pottery appeared first on Archaeology Magazine . Fragments of clay coating that probably once covered organic objects ISTANBUL, TURKEY—According to a report in La Brújula Verde , 46 fragments of fired clay unearthed near the Tigris River at the site of Çemka Höyük in southeastern Turkey have been dated to about 11,400 years ago, making them some of the oldest fired clay in the Near East. Ergül Kodaş of Mardin Artuklu University, Natalia Petrova of the Russian Academy of Sciences, and Maria Daghmehchi and Rana Özbal of Koç University said that the clay fragments were recovered from the floors of several houses in an archaeological layer at the site that has been dated to about 9350 B.C. with charcoal samples. The fragments are thought to have come from nine separate objects. Some of the pieces have been identified as clay coverings applied to oval organic objects about the size of a tennis ball. The outer sides of these coverings had been burned, perhaps during food preparation. One of the fragments, measu…",
+   "doi": "10.15184/aqy.2026.10371",
+   "first_seen": "2026-11-12T22:44:31+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-12T22:44:31+00:00"
+   }
+  },
   {
    "title": "Corrigendum to “Social inequality among Neolithic fisher-foragers: Statistical analysis of grave goods from three Pitted Ware Culture cemeteries on Gotland, Sweden” [J. Anthropol. Archaeol. 84 (2026) 101824]",
    "link": "https://www.sciencedirect.com/science/article/pii/S0278416526000802?dgcid=rss_sd_all",
@@ -30,6 +71,25 @@
    "alt": null
   },
   {
+   "title": "Remains of Two Infant Girls Found in Peruvian Nazca Cemetery",
+   "link": "https://archaeology.org/news/2026/11/12/remains-of-two-infant-girls-found-in-peruvian-nazca-cemetery/",
+   "date": "2026-11-12T18:30:00+00:00",
+   "source": "Archaeology Magazine",
+   "kind": "media",
+   "abstract": "LIMA, PERU—Phys.org reports that the remains of an infant who suffered from cyclopia, a rare [&#8230;] The post Remains of Two Infant Girls Found in Peruvian Nazca Cemetery appeared first on Archaeology Magazine . LIMA, PERU— Phys.org reports that the remains of an infant who suffered from cyclopia, a rare birth condition affecting the developing brain and facial bones, have been discovered in southern Peru at a Nazca cemetery dated to between A.D. 325 and 440. Elsa Tomasto-Cagigao of Pontifical Catholic University and her colleagues explained that most children born with the condition die before or soon after birth. The remains of this child were found in a ceramic vessel with the remains of another infant who did not have any skeletal abnormalities. Genetic analysis of the remains indicate that both children were girls, but they were not maternally related. The baby with cyclopia had a smaller than expected skull with a single eye socket in the center of the forehead, no nasal bones or nostrils, and the openings of her optic nerves had fused. Her shoulders were unusually curved, and two of her spinal bones were malformed. She also had an extra copy of chromosome 13, which could e…",
+   "doi": "10.1073/pnas.2625042123",
+   "first_seen": "2026-11-12T22:44:31+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-12T22:44:31+00:00"
+   }
+  },
+  {
    "title": "How the discovery of a Roman fort rekindled interest in an emperor immortalized in Welsh mythology",
    "link": "https://phys.org/news/2026-11-discovery-roman-fort-rekindled-emperor.html",
    "date": "2026-11-12T18:20:01+00:00",
@@ -38,6 +98,17 @@
    "abstract": "The recent discovery of a Roman timber fort in the Preseli hills of Pembrokeshire, southwest Wales, has brought a medieval Welsh legend into fresh focus.",
    "doi": null,
    "first_seen": "2026-11-12T18:57:58+00:00",
+   "alt": null
+  },
+  {
+   "title": "Monumental Mongolian Tomb Excavated",
+   "link": "https://archaeology.org/news/2026/11/12/monumental-mongolian-tomb-excavated/",
+   "date": "2026-11-12T18:00:00+00:00",
+   "source": "Archaeology Magazine",
+   "kind": "media",
+   "abstract": "SEOUL, SOUTH KOREA—Artifacts discovered in a monumental tomb in the Duurlig Nars cemetery in eastern [&#8230;] The post Monumental Mongolian Tomb Excavated appeared first on Archaeology Magazine . Silver ornament inlaid with rock crystal, Duurlig Nars, Mongolia SEOUL, SOUTH KOREA—Artifacts discovered in a monumental tomb in the Duurlig Nars cemetery in eastern Mongolia suggest that the nomadic people of the Xiongnu Empire had trade contact with people from Rome and the Korean Peninsula, La Brújula Verde reports. Researchers from the National Museum of Korea, the Mongolian Academy of Sciences, and the National Museum of Mongolia found that the 240-foot-long tomb featured a small burial chamber inside two nested wooden structures. A lacquer-coated carriage was placed above the central burial. The tomb was then been covered with nine layers of stacked stones measuring more than 45 feet deep. A transparent glass vessel with a handle recovered from the tomb is thought to have originated in the Roman Empire. Chemical analysis of the glass could help scientists confirm where the vessel was made. Fifteen jade objects placed in the wooden coffin in the tomb resemble ceremonial disks often f…",
+   "doi": null,
+   "first_seen": "2026-11-12T22:44:31+00:00",
    "alt": null
   },
   {
@@ -590,6 +661,17 @@
    "abstract": "11-Novembre : comment avait été choisi le Soldat inconnu enterré en 1920 sous l'Arc de Triomphe à Paris &nbsp;&nbsp; ladepeche.fr",
    "doi": null,
    "first_seen": "2026-11-11T18:43:09+00:00",
+   "alt": null
+  },
+  {
+   "title": "\"Un site exceptionnel\" : 2000 objets et les restes de 141 soldats de la Première Guerre mondiale découverts lors de fouilles archéologiques - France 3 Régions",
+   "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOYnEzWkFITHdvcHdpMzl5NTlqWjN4S2x3empYN3c4REhiQTlzbG1vOVp6UFZoOXBwcnRJNEgzTHpTU05fc01saEx5YTduX2F0RUhRTkttYWxRTi1tSFlQTGdyVmE3U1NKWHlKRVlfN1F4MldXMWUwTlBaRk5hb190QlozZ2o1cS13YkhHczkwZGZHRzliWU81YVZxeU03UWVzTEhUMVRIZ1d1M0JOR2VLd25JTm5GcFFfSUJNZEo4VUZqR1I4YVd5b3FORzBONTRDS21vMWh5NGRuekl5OWNyUm9NNTV3NkNCWUJoS085YmVqUlNrcUVIclBGdzRaa0tvUV9yUENDNnZ3Wk55SzUyM01VTTI5T0VCeGVkTkdzTmdUNlZ1ZkdoMnJsMkI2Y3cwRS1wckxHUWVtMm8?oc=5",
+   "date": "2026-11-11T10:08:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "\"Un site exceptionnel\" : 2000 objets et les restes de 141 soldats de la Première Guerre mondiale découverts lors de fouilles archéologiques &nbsp;&nbsp; France 3 Régions",
+   "doi": null,
+   "first_seen": "2026-11-12T22:44:31+00:00",
    "alt": null
   },
   {
