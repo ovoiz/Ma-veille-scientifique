@@ -1,12 +1,166 @@
 {
- "generated_at": "2026-11-12T22:44:31+00:00",
+ "generated_at": "2026-11-13T13:11:31+00:00",
  "counts": {
-  "total": 2473,
+  "total": 2488,
   "journal": 896,
-  "media": 1577,
-  "new_this_run": 76
+  "media": 1592,
+  "new_this_run": 83
  },
  "items": [
+  {
+   "title": "Surpoids et obésité : l’IMC montre ses limites, une étude le confirme",
+   "link": "https://www.sciencesetavenir.fr/sante/obesite-une-etude-confirme-les-limites-de-l-imc-pour-evaluer-l-exces-de-graisse_196082?xtor=RSS-16",
+   "date": "2026-11-13T12:09:47+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Longtemps considéré comme la référence pour définir le surpoids et l'obésité, l'indice de masse corporelle (IMC) présente des limites importantes. Une vaste étude publiée dans Nature, portant sur plus de 844 000 adultes, confirme l'intérêt de lui associer d'autres mesures, comme le tour de taille, pour mieux identifier l'excès de masse grasse et évaluer les risques pour la santé.&nbsp;",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "Un fossile vieux de 450 millions d'années a conservé des tissus mous : des paléontologues ont pu observer l'anatomie d'un ancien parent des étoiles de mer - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNUDAxc0d4M2xiR2x4bEhOUmxzNHU3SHRNOUcyTVE2ODVrX24yaXhnYmcxck1hUHFSYUszVEpieFFRTFE3ZWJMODY1UUZIVHlRNFQtMGlHd2ZzT21ncm1WWUhjQmlBdXNkQXBNUlN4cDMzN0QwdDdvaEhUNnVjV0ktanBqamlPalBhUENpdnFMN1d3MXYxeDVJSGR3T3dHSS0zaDNQSlJybEJtSDVvUWxkWng3cVY4U1JYRFlDRGxvZXBpUm9HbDJ5LTNQeDZVQlcteGVlUW9kZmprUFp3dTJDR2V4c2oyMW91RHlBY3dpZWR4NDNzbmZsRDA1MWtwcHdKRUhvbFB2YmxEWjVXTklVNU8ycmoxdm9kMlZfcVZzQWZQSEJIZGtGelg1Rkp1dmFPQkVUVDlB?oc=5",
+   "date": "2026-11-13T12:00:25+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Un fossile vieux de 450 millions d'années a conservé des tissus mous : des paléontologues ont pu observer l'anatomie d'un ancien parent des étoiles de mer &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "Les Celtes : une civilisation européenne révélée par l’archéologie plus que par les écrits gréco-latins - Agence Bretagne Presse",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWd1ZUdJempwWXNOZjNLS0c0ZC1pbUpaUFZNdDh2eUtWbVN0NGJ1aTFrajRMcnlNRjFIRkxnM2M2QTN0aG5kOENNWl9wOEFtT3BseVZkcW05b1RmZDZjc3Fqc1VBanhVZkJ5aGxPOWt2Z3UyZHZ3QzlqVXJUMUZnZmlFXzFobkU?oc=5",
+   "date": "2026-11-13T11:43:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Les Celtes : une civilisation européenne révélée par l’archéologie plus que par les écrits gréco-latins &nbsp;&nbsp; Agence Bretagne Presse",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "En Norvège, victoire \"historique\" après l'invalidation de licences pétrolières en mer du Nord",
+   "link": "https://www.sciencesetavenir.fr/nature-environnement/en-norvege-victoire-historique-pour-les-ecologistes-apres-l-invalidation-de-licences-petrolieres-en-mer-du-nord_196120?xtor=RSS-15",
+   "date": "2026-11-13T11:25:31+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "\"Victoire historique pour le climat\" a réagi Greenpeace après l'invalidation par la justice norvégienne de trois licences pétrolières en mer du Nord. Une décision qui pourrait impacter les projets d'expansion du secteur des énergies fossiles.",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "Après des décennies de recherche, un groupe de passionnés découvre enfin l'épave du F.J. King perdue depuis 1886 - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZWM5ejdTZGVTQWlTV3l0TXBDLWRWTkF6TUMwemZBdkM4Tld3ZjYxZUpuYlkzQjhDOTV4VGl1QkdlbVBuTkZ5eEdockt5MWQzdFViRndsY3hfYmk2RmNRamRSejV2ZTRoSFZHV2hCTW0waVcxTl9nUEFIQXIxMHJ6a3ZQRWdxdk9Sd1lrZ0tFTk9pWnhtMjRQLXJJbUV6dFVXbld5WjJpSG1Pb0xIczFKdEZGdG5VallJUG5pcTRfRXBDaC1TWl91TnlwdTJLR2tENDVSczk2SjhNM3h1Y3JhZ0ZfcmlDOUdEdzdJTXhFN2JvUFdCWFl0S1NRN0lZS0xyakR3U1NGbXVwQQ?oc=5",
+   "date": "2026-11-13T11:20:39+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Après des décennies de recherche, un groupe de passionnés découvre enfin l'épave du F.J. King perdue depuis 1886 &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "El Niño est le principal responsable des incendies en Indonésie, conclut un rapport",
+   "link": "https://www.sciencesetavenir.fr/nature-environnement/el-nino-principal-responsable-des-incendies-en-indonesie-selon-un-rapport_196111?xtor=RSS-15",
+   "date": "2026-11-13T10:32:05+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Depuis plusieurs mois, l'Indonésie est la proie d'incendies monstrueux qui ont détruit près de trois millions d'hectares de terrain depuis le début de l'année 2026. Des catastrophes principalement causées par un El Niño intense a conclu un rapport",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "COP31 : le pastoralisme, un allié oublié du climat",
+   "link": "https://www.sciencesetavenir.fr/nature-environnement/climat/cop31-pourquoi-le-pastoralisme-pourrait-etre-une-solution-face-au-changement-climatique_196116?xtor=RSS-15",
+   "date": "2026-11-13T10:05:59+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Le pastoralisme fait vivre des centaines de millions de personnes dans le monde. A la COP31, des scientifiques réclament une meilleure prise en compte de ses bénéfices environnementaux. Par Rafaële Brillaud.",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "A Dublin, les 27 débattent pour la première fois des dangers et bienfaits de l'IA",
+   "link": "https://www.sciencesetavenir.fr/sciences/a-dublin-les-27-debattent-pour-la-premiere-fois-des-dangers-et-bienfaits-de-l-ia_196114?xtor=RSS-18",
+   "date": "2026-11-13T09:45:05+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Face à la concurrence américaine et chinoise, l'Europe tente de rester dans la course à l'intelligence artificielle. Pour la première fois, les dirigeants des 27 vont débattre des promesses et enjeux de la technologie lors d'un sommet à Dublin",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "Appel à projets - ge.ch",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94cFV5eXBLV3RYZENtYU53NXJVODJuR085YTdYNGZQcHVySkVaNGNoNTNrbktsX2VuRHFubHJYRkQ0b1hWVUl0bUZoSEYzWWl6azNxNW4wY09HT0Zjc0E2ZC1B?oc=5",
+   "date": "2026-11-13T09:41:38+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "The Cromwells: the dynasty that made modern Britain",
+   "link": "https://www.historyextra.com/membership/cromwells-dynasty-that-made-modern-britain-podcast/",
+   "date": "2026-11-13T09:05:31+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Miranda Malins discusses the awesome impact of the two titans of the Cromwell family – Thomas and Oliver – on British history We can't stop talking about the Tudors. The Stuarts bestride the 17th century. Yet if you're looking for a family that truly changed the course of British history then, argues Miranda Malins, you need look no further than the Cromwells. In this episode, Miranda tells Spencer Mizen about the awesome impact of the two titans of the Cromwell family – Thomas and Oliver – on British history, the striking similarities between these two men, and how she thinks they'd have got on if they'd have met.",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "History crossword: 6 November",
+   "link": "https://www.historyextra.com/membership/history-crossword-6-november/",
+   "date": "2026-11-13T08:32:39+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "Can you solve our history crossword of the week?",
+   "link": "https://www.historyextra.com/period/general-history/crossword/",
+   "date": "2026-11-13T08:31:07+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "",
+   "doi": null,
+   "first_seen": "2026-10-02T11:09:24+00:00",
+   "alt": null
+  },
+  {
+   "title": "The History Round: our weekly trivia challenge",
+   "link": "https://www.historyextra.com/period/general-history/weekly-history-quiz/",
+   "date": "2026-11-13T08:30:08+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Have you been paying attention? Test your knowledge of the stories we’ve published over the past seven days with our weekly quiz, updated every Friday. Test your knowledge with our general knowledge weekly history quiz... View Riddle on the source website Did you know we have other regular quizzes here at HistoryExtra? To test your historical knowledge even further, try our daily quizzes , or our weekly crossword .",
+   "doi": null,
+   "first_seen": "2026-10-02T11:09:24+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily Quiz: 13 November",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-11-13T07:00:09+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
   {
    "title": "When the Saudi desert was green: a 125,000-year-old lakeside reveals how early humans lived",
    "link": "https://popular-archaeology.com/article/when-the-saudi-desert-was-green-a-125000-year-old-lakeside-reveals-how-early-humans-lived/",
@@ -277,17 +431,6 @@
    "alt": null
   },
   {
-   "title": "Daily Quiz: 12 November",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-11-12T07:00:07+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
    "title": "Redevance d’archéologie préventive 2026 : calcul, exonération et comment contester l’ avis - Kohen Avocats",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjljbExBVWprNU9HR3pDSWVyN2VtNGNWMjRaTGhMR2JPZWpPUlVGMWdEOVZTVkRPNWRGSEp2Ql9EeW1TeDI5M2d5YkN4VERtNzNvV2FmU1dpaUZiUm9HLTFTci1LZ0w2RjJOcS10ZzNuanJlZjEtSFhPLWVsazdJczNJS01JOUh5TjFkS0VTcHpKR0doNElZZmh0RmFZcGdYaXZ4VQ?oc=5",
    "date": "2026-11-12T06:48:00+00:00",
@@ -488,12 +631,12 @@
    "alt": null
   },
   {
-   "title": "TEMOIGNAGE. \"En avril 1915, il était devant cette porte. Il a fait un bisou à ses parents, et il est parti\", Jean-Michel Ardourel sur les traces de son grand-oncle mort à Verdun durant la Première Guerre - ladepeche.fr",
+   "title": "TÉMOIGNAGE. \"En avril 1915, il était devant cette porte. Il a fait un bisou à ses parents, et il est parti\", Jean-Michel Ardourel sur les traces de son grand-oncle mort à Verdun durant la Première Guerre - ladepeche.fr",
    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQLTNoWGk4UW05R1pRTU5iSHMwTGU4TEMzLXdLR3paTl9QU2hPaGRoRzZOZW5VVmZaVW1jM2JBVGt1MVdaRnhNdEpUV25zOTNQQm9BcDlDVDVBOXU4bTlHWTN6cGgzOERqWXRRa0duYzlRRGp3V3NuRUM2aWd6ZnRHay1LazlYRGNiRnhVR1d3UUs3cV85a19rNF9YNzNQN2NrNC1ZNWxZSUk3UUdBNERudkc1a0h0QlVyNjdXOHVzZ05sQmYzQ3ZTSUh0eUJhb2xGU2o0dm14eHZ1Ym5Wb1NzVUJiaHdYS3BFTXZTbEt0Sks5YUVreXpYUjBxcjl5VHVQSG1MYW1nT09YVWwwR2tocjFua3ZOdUtsNHEtRTZ1cTJ3WW55MGc?oc=5",
    "date": "2026-11-11T17:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "TEMOIGNAGE. \"En avril 1915, il était devant cette porte. Il a fait un bisou à ses parents, et il est parti\", Jean-Michel Ardourel sur les traces de son grand-oncle mort à Verdun durant la Première Guerre &nbsp;&nbsp; ladepeche.fr",
+   "abstract": "TÉMOIGNAGE. \"En avril 1915, il était devant cette porte. Il a fait un bisou à ses parents, et il est parti\", Jean-Michel Ardourel sur les traces de son grand-oncle mort à Verdun durant la Première Guerre &nbsp;&nbsp; ladepeche.fr",
    "doi": null,
    "first_seen": "2026-11-11T18:43:09+00:00",
    "alt": null
@@ -1172,6 +1315,50 @@
     "url": "",
     "checked_at": "2026-11-11T12:46:43+00:00"
    }
+  },
+  {
+   "title": "Amazonie, l’archéologie au féminin - OpenEdition Journals",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OaHJtMjRTNmVQTDlmZE5jRktvSDZSMGgtTHBfUjlla19KM0lLWWpSOVE1QkE2aC1hQ1hoUHFqQ083bXFzRWdnSC1aQzVPTFBPTE5teA?oc=5",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Amazonie, l’archéologie au féminin &nbsp;&nbsp; OpenEdition Journals",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "Ce que l’archéologie du Néolithique doit à Pierre et Anne-Marie Pét... - OpenEdition Journals",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81NTQzeklwcXhNU201LVN1WFdkZnFMcFVjbjBIUWJxd3FwcUNJZVRpUE9iZ21Kcjk3V2dpRUNkb2ZYazB4dmM4Vjk0Z0tHdkVKWThUaw?oc=5",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Ce que l’archéologie du Néolithique doit à Pierre et Anne-Marie Pét... &nbsp;&nbsp; OpenEdition Journals",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "L’archéologie en Haïti : se connaître pour être - OpenEdition Journals",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwdFhTenI0cDFjRkk2aUtPcE0wMHF0SDNOaXhBdEpIUEQwOFZEWHB5ZnA4ZmFYQ3VFYlJ3MTItOG9vZ1Y2M0Eza0lidV82aHBtenhZYw?oc=5",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "L’archéologie en Haïti : se connaître pour être &nbsp;&nbsp; OpenEdition Journals",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "Le rôle du numérique et des applications partagées dans la science ... - OpenEdition Journals",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYLVVYQ0RtekxYanYzNVpueFZ0RUExQkMtYUNGTWVCSGtycHpKcVlicS1aYjMwMnllOFZ5c2ZZZlpVTmdEblcwNjJFbVpWR2IxVDRBZA?oc=5",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Le rôle du numérique et des applications partagées dans la science ... &nbsp;&nbsp; OpenEdition Journals",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
   },
   {
    "title": "Mille ans d’histoire : des fouilles archéologiques révèlent les secrets de ce prieuré rénové grâce au Loto du patrimoine - Ouest-France",
@@ -2558,17 +2745,6 @@
    "alt": null
   },
   {
-   "title": "The History Round: our weekly trivia challenge",
-   "link": "https://www.historyextra.com/period/general-history/weekly-history-quiz/",
-   "date": "2026-11-06T08:31:16+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Have you been paying attention? Test your knowledge of the stories we’ve published over the past seven days with our weekly quiz, updated every Friday. Test your knowledge with our general knowledge weekly history quiz... View Riddle on the source website Did you know we have other regular quizzes here at HistoryExtra? To test your historical knowledge even further, try our daily quizzes , or our weekly crossword .",
-   "doi": null,
-   "first_seen": "2026-10-02T11:09:24+00:00",
-   "alt": null
-  },
-  {
    "title": "History crossword: 30 October",
    "link": "https://www.historyextra.com/membership/history-crossword-30-october/",
    "date": "2026-11-06T08:30:32+00:00",
@@ -2577,17 +2753,6 @@
    "abstract": "",
    "doi": null,
    "first_seen": "2026-11-06T12:59:46+00:00",
-   "alt": null
-  },
-  {
-   "title": "Can you solve our history crossword of the week?",
-   "link": "https://www.historyextra.com/period/general-history/crossword/",
-   "date": "2026-11-06T08:29:08+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "",
-   "doi": null,
-   "first_seen": "2026-10-02T11:09:24+00:00",
    "alt": null
   },
   {
