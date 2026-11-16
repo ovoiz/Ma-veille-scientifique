@@ -1,12 +1,256 @@
 {
- "generated_at": "2026-11-16T13:44:10+00:00",
+ "generated_at": "2026-11-16T21:04:10+00:00",
  "counts": {
-  "total": 2618,
+  "total": 2639,
   "journal": 899,
-  "media": 1719,
-  "new_this_run": 90
+  "media": 1740,
+  "new_this_run": 89
  },
  "items": [
+  {
+   "title": "Stature reveals trends from 7,000 years of economic history",
+   "link": "https://popular-archaeology.com/article/stature-reveals-trends-from-7000-years-of-economic-history/",
+   "date": "2026-11-16T20:30:07+00:00",
+   "source": "Popular Archaeology",
+   "kind": "media",
+   "abstract": "The most comprehensive analysis to date of ancient and historical thighbone data from Asia and Europe - Femurs reveal changes in height over generations, reflecting diet and general health.",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Ancient height trends show technological advances did not always improve living standards",
+   "link": "https://phys.org/news/2026-11-ancient-height-trends-technological-advances.html",
+   "date": "2026-11-16T20:00:26+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "New research from the University of Tübingen and the Max Planck Institute of Geoanthropology in Jena gives valuable clues as to economic development in various regions across thousands of years. Researchers evaluated 18,457 skeletal remains and analyzed changes in height, estimated from thighbone length. The bones come from 45 different countries across Europe and Asia. The study has been published in the journal Proceedings of the National Academy of Sciences.",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Souvenir Collection May Have Begun 500,000 Years Ago",
+   "link": "https://archaeology.org/news/2026/11/16/souvenir-collection-may-have-begun-500000-years-ago/",
+   "date": "2026-11-16T19:00:00+00:00",
+   "source": "Archaeology Magazine",
+   "kind": "media",
+   "abstract": "TEL AVIV, ISRAEL—Hominins may have begun collecting relics and keepsakes some 500,000 years ago, according [&#8230;] The post Souvenir Collection May Have Begun 500,000 Years Ago appeared first on Archaeology Magazine . Paleolithic flint tools, including a handax and a tool with an embedded fossil TEL AVIV, ISRAEL—Hominins may have begun collecting relics and keepsakes some 500,000 years ago, according to a statement released by Tel Aviv University . These possible souvenirs include small, colorful pebbles unearthed in Israel’s Qesem Cave, and handaxes made from flint containing fossils or unusual geological formations that were recovered in the Sakhnin Valley. Ran Barkai and Ella Assaf of Tel Aviv University and their colleagues said that tools showing signs of heavy use, whether resharpened or not, have been unearthed at several sites, such as Revadim, Jaljulia, and Qesem Cave. These objects may have been kept for their aged appearance, the researchers explained. Just like modern keepsakes, the objects may have been retained in order to trigger memories of a place or personal experience. Use of such items over many generations may have increased evolutionary pressures on brain me…",
+   "doi": "10.1002/evan.70051",
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-16T21:04:10+00:00"
+   }
+  },
+  {
+   "title": "Natufian Clay Figurines Dated to 15,000 Years Ago",
+   "link": "https://archaeology.org/news/2026/11/16/natufian-clay-figurines-dated-to-15000-years-ago/",
+   "date": "2026-11-16T18:30:00+00:00",
+   "source": "Archaeology Magazine",
+   "kind": "media",
+   "abstract": "JERUSALEM, ISRAEL—According to a statement released by the Public Library of Science, an evaluation of [&#8230;] The post Natufian Clay Figurines Dated to 15,000 Years Ago appeared first on Archaeology Magazine . This fragment of a Natufian clay figurine depicts a gazelle head and was painted red with engobe to represent the animal&rsquo;s eyes and fur pattern. JERUSALEM, ISRAEL—According to a statement released by the Public Library of Science , an evaluation of clay figurines unearthed at three sites in Israel suggests that Natufians made more complex objects than previously thought between 15,000 and 11,500 years ago. Laurent Davin of the Hebrew University of Jerusalem said that it had been previously thought that the first Natufian figurines were made mostly of stone or bone, and that clay only became more common as people began farming some 11,500 years ago. The objects represent birds, mammals, and humans. Orange and red coloring has been detected on some of the figures. The study also analyzed fingerprints on the clay figurines, revealing that children were involved with crafting them. “These discoveries change how we understand the beginnings of artistic expression in the f…",
+   "doi": "10.1371/journal.pone.0360388",
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-16T21:04:10+00:00"
+   }
+  },
+  {
+   "title": "Ancient tree rings and ice cores help pin down when Babylonia fell",
+   "link": "https://phys.org/news/2026-11-ancient-tree-ice-cores-pin.html",
+   "date": "2026-11-16T18:20:12+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "We know quite a lot about ancient Mesopotamia, the historical region spanning modern-day Iraq and parts of Syria and Turkey, such as who ruled and the order in which kings succeeded one another. But pinning down exact calendar dates for historical events has been trickier.",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie : l’IA guide les recherches dans le désert - Libnanews",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95eERLRWhaa1FkQmV2LUJsTHRiSU95ZmtkZXFjMlkySkpfbi03Rm9mb3lhU1Z1N2NfZzJEZDZFUWFjejZqOFZqY0ZObGszNEx0YzZiUzJhVGh3YUp3Q2ZtWlotbGZ5TW5SQWU4dXB0bHdzU19seHhVOF82Qm5hTGM?oc=5",
+   "date": "2026-11-16T18:15:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : l’IA guide les recherches dans le désert &nbsp;&nbsp; Libnanews",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Did Paleolithic Arabians Poison Their Weapons?",
+   "link": "https://archaeology.org/news/2026/11/16/did-paleolithic-arabians-poison-their-weapons/",
+   "date": "2026-11-16T18:00:00+00:00",
+   "source": "Archaeology Magazine",
+   "kind": "media",
+   "abstract": "QUEENSLAND, AUSTRALIA—According to a Gizmodo report, people living at Uruq Aljelibah, a 125,000-year-old site in [&#8230;] The post Did Paleolithic Arabians Poison Their Weapons? appeared first on Archaeology Magazine . Fossil fragment on the surface of the ancient Mundafan lake bed at Uruq Aljelibah, Saudi Arabia QUEENSLAND, AUSTRALIA—According to a Gizmodo report, people living at Uruq Aljelibah, a 125,000-year-old site in Saudi Arabia, may have poisoned their stone points. An excavation conducted by Chris Clarkson of Griffith University, in collaboration with King Abdullah University of Science and Technology and the Saudi Heritage Commission, has uncovered more than 5,000 artifacts and fossils of hippopotamuses, buffalos, camels, gazelles, and oryx on the shores of what had been a large freshwater lake. Organic residues have survived on the sophisticated stone-tipped weapons, and show that these people used adhesives, plant-fiber technologies, and perhaps plant poisons to make hunting more effective, Clarson explained. “It gives us an unusually detailed picture of early human life in what is now one of the driest regions on Earth,” he added. The study also suggests that some of…",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Des oiseaux marins, victimes du \"jet-lag\" après une longue chasse",
+   "link": "https://www.sciencesetavenir.fr/nature-environnement/le-puffin-des-anglais-jet-lagues-en-rentrant-de-son-lieu-de-chasse_196146?xtor=RSS-15",
+   "date": "2026-11-16T16:34:36+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Des oiseaux marins sont jet-lagués quand ils reviennent au nid après avoir chassé en mer…C’est ce qu’ont découvert une équipe de chercheurs de l’université d’Oxford, dans une étude parue dans la revue Science.&nbsp;",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Wine and milk featured in Iron Age Menorcan funerary rituals, study finds",
+   "link": "https://archaeologymag.com/2026/11/wine-and-milk-featured-in-menorcan-rituals/",
+   "date": "2026-11-16T16:30:51+00:00",
+   "source": "archaeologymag.com",
+   "kind": "media",
+   "abstract": "Small, high-bottomed ceramic vessels buried in Menorca more than 2,000 years ago mostly held dairy products, a new study finds. A few other vessels held wine, which gives the island its first evidence of wine in funerary rituals. Researchers from the Universitat Autònoma de Barcelona (UAB), the Barcelona Supercomputing Center (BSC-CNS) and Pompeu Fabra University [&#8230;]",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Seeing What Time Erased: How AI Image Generators Are Changing the Way We Picture Ancient Sites",
+   "link": "https://popular-archaeology.com/article/seeing-what-time-erased-how-ai-image-generators-are-changing-the-way-we-picture-ancient-sites/",
+   "date": "2026-11-16T16:27:05+00:00",
+   "source": "Popular Archaeology",
+   "kind": "media",
+   "abstract": "Stand in the middle of a ruined Roman fort and you mostly see low courses of stone, a few gateway foundations, and a lot of grass. The barracks, the bathhouse steam, the painted plaster, the noise of a working garrison are all gone. Bridging that gap between what survives and what once stood has always ... Read more &#187;",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Léonides : une pluie d'étoiles filantes brillantes et colorées à observer cette nuit",
+   "link": "https://www.sciencesetavenir.fr/espace/systeme-solaire/leonides-ne-manquez-pas-cette-somptueuse-pluie-d-etoiles-filantes-brillantes-et-colorees_196149?xtor=RSS-9",
+   "date": "2026-11-16T16:24:06+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Actif du 6 novembre au 30 novembre, l'essaim météoritique des Léonides devrait atteindre&nbsp;son maximum en 2026 dans la soirée du 16 au 17 novembre. Cette pluie d'étoiles filantes se déplace très rapidement, à environ 71 kilomètres par seconde.",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Rødhals Man: Last Known Danish Sea Forager, c. 3800 cal BC",
+   "link": "https://www.anthropology.net/p/rdhals-man-last-known-danish-sea",
+   "date": "2026-11-16T16:08:50+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "Isotopes from one tooth show a Mesolithic hunter-gatherer on Sejer&#248; eating far more land food from adolescence, around when farming reached Denmark. In 1956, residents digging for artifacts in a Stone Age shell midden called R&#248;dhals, on the Danish island of Sejer&#248;, found a nearly complete human skeleton under an unbroken shell layer about 20 centimeters thick. Ole Klindt-Jensen of the Danish National Museum lifted the skeleton, now known as R&#248;dhals Man, in pouring rain, and his notes describe a bone object about 140 millimeters long between the man&#8217;s right forearm and lower ribs. A museum employee apparently later redescribed it as an &#8220;unformed piece of bone, strongly water-rolled,&#8221; and discarded it. A new study suggests it may have been an archer&#8217;s wrist guard, an object with parallels in graves of the early Funnel Beaker Culture, the Early Neolithic farming culture of Denmark (c. 3800&#8211;3500 cal BC). The object matters because of what most readers believe about the Neolithic transition in Denmark, the shift from Mesolithic hunting and fishing to Neolithic farming. A 2024 study 1 2 of 100 ancient Danish genomes by Morten Allentoft an…",
+   "doi": "10.15184/aqy.2026.10476",
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-16T21:04:10+00:00"
+   }
+  },
+  {
+   "title": "What 52 Ancient Genomes Say About Sheep Domestication",
+   "link": "https://www.anthropology.net/p/what-52-ancient-genomes-say-about",
+   "date": "2026-11-16T16:04:45+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "A new atlas of gene regulation in 51 sheep tissues points to tissue-specific genetic switches, but its ancient DNA evidence is thinner than advertised. A DNA variant linked to higher activity of a gene called THNSL2 in sheep skin became more common among European sheep over several thousand years, though not in a straight line. Aarhus University&#8217;s press release dates the rise to between the Neolithic period and the Middle Ages and notes that the variant&#8217;s frequency fluctuated. No one measured THNSL2 in an ancient animal to learn this. The trajectory comes from setting 52 ancient sheep genomes against a new atlas of gene regulation in living sheep, and it is the lead example for a larger claim about sheep domestication: that breeding left marks on the DNA that controls when and where genes are active, in addition to the genes themselves. Credit: Unsplash/CC0 Public Domain Most people who follow domestication research picture it as a story about genes whose products changed, a coat-color variant here and a wool gene there. The new paper, by Mian Gong, Lingzhao Fang and more than 90 co-authors, published on 9 November 2026 in Nature Genetics , 1 puts the weight on variants…",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Cisjordanie: 11 siècles d'histoire dans les entrailles de l’Hérodion",
+   "link": "https://www.sciencesetavenir.fr/archeo-paleo/l-herodion-ancien-palais-fortifie-du-roi-herode-le-grand-a-ete-remanie-pendant-les-guerres-judeo-romaines_196141?xtor=RSS-4",
+   "date": "2026-11-16T16:01:33+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Gigantesque tumulus, l’Hérodion brouille les pistes des nombreuses modifications qu’il a vécues. Pour comprendre les étapes de sa construction, des chercheurs retracent les dates d’abattage du bois utilisé, avec quelques surprises à la clé.&nbsp;",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Qu'est-ce qui lie les Étrusques à une île de la mer Égée ? À Sienne, un cycle de rencontres sur l'archéologie - Finestre sull'Arte",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTmdkSEE5d0xOcDl6TWx4clpqZDRacmUtWVI2aDFEWWFxS2kwd2ZMcGNXbVYzM0I2S3ZxQmFvbm9CVTRYN1JpR3pISUxIRlI4c2hFdmJoMnFGVmkweUh6VEtFY2JiZmZwdzZndUNIT1FWbU1rZl9qc2xUbHduZ2lmUlk4V0hzTnlXN3VHajlxTGNETk13cGtFSjJaYThkN1VITExtaHZyNk4wRWhPX1hid3RZNmlxMHkxcTAzVXExQ2xDMWFGQjVtUDEtc0hYaEJMcnRtamo3Umo5VERZM0Z2TkxBV3B4LXFOSnc?oc=5",
+   "date": "2026-11-16T15:44:12+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Qu'est-ce qui lie les Étrusques à une île de la mer Égée ? À Sienne, un cycle de rencontres sur l'archéologie &nbsp;&nbsp; Finestre sull'Arte",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "People have lived in my house for 1,300 years. What I discovered about them astounded me",
+   "link": "https://www.historyextra.com/membership/people-have-lived-in-my-house-for-1300-years-what-i-discovered-about-them-astounded-me/",
+   "date": "2026-11-16T15:30:07+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Ian Mortimer explains how viewing the past from the perspective of his medieval Devon house reveals new truths about England’s national story Charlotte Vosper: Your home plays a key role in your new book. Can you briefly outline its history? Ian Mortimer: The plot on which it’s built, in Moretonhampstead in the middle of Devon, was laid out at the start of the Saxon occupation. So this site has been lived on since the late seventh or eighth century. In those days, it would have had walls of turf or wood that were then rebuilt roughly every 30 years. In the 13th century it was reconstructed in stone, though it still consisted of just two rooms on what was then a marketplace, and it housed the priest. Being high on the Dartmoor plateau, the village didn’t have a resident rector. Wheeled transport couldn’t get here and so most people of substance didn’t come. It was then knocked down and rebuilt again in the early 15th century, incorporating just one wall from the earlier stone structure. It continued to be added to and changed numerous times into the 20th century, when it became known as Mearsdon Manor, though it was never a manor. So the house itself is a hotchpotch, but I can be ce…",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Une conférence sur l’archéologie du littoral et le changement climatique ce jeudi 19 novembre à Carhaix - Le Télégramme",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSk5MZjRlZnRkSEtkV2ZTRHZQeTBUbnNFVG5SR19GWFRFZ2I4WFQtVkc2Sm9GSG4tRGw2TEttc3dzZEdqSnVlZTVjeVZBeDhtUjFBdDRycGp0QVFyblVQZjAtS0V4cjh0S0FyeHRMaTZUVDNycmoyRU9LNFl2eEF3NUY4bjUyakptZmNuS0FRRDd0WkJfN3Z0bE5ZQUhWQjkzampkWmlPaG9ldFN5RFF3UVR4T2hrNU1LSC1uaEttSDZiTU9pbW1ScFFiMEM4dUlFejJXYWdwSVdxa3pheUp5emlVRU5ZcmdleVRtT2RJZi1Ld1dNU1I0aXNB?oc=5",
+   "date": "2026-11-16T15:05:02+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Une conférence sur l’archéologie du littoral et le changement climatique ce jeudi 19 novembre à Carhaix &nbsp;&nbsp; Le Télégramme",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "De Budapest à Hawaï : le film d'un professeur albigeois sur Lapérouse conquiert le monde - ladepeche.fr",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUFE1SEJCR0RUakNrQ2Q3N1lFT1o0TUd6QkdKdlBwSElyaEJrZ004eGFVTDNVRndwM1R5RFNiN2pYVG9UY2QybXQxUlNEb00xVlozRkF0STQ2T2hfdWNaUjVpVmc4TXM1MHhucDUtVV84V2RFQ0pXVUhleFA0VW1qLVl1YzhZX19MTlAzVXlYRWVSWldPemZhN2pXaGxKU01LWGNPLWVQTHNxY1hLNENyZ0trN1VmOHRkSzl6YV9xdHlGb0xNcTN1Vjdlb1l3cmM?oc=5",
+   "date": "2026-11-16T15:01:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "De Budapest à Hawaï : le film d'un professeur albigeois sur Lapérouse conquiert le monde &nbsp;&nbsp; ladepeche.fr",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Comment la croix d'un soldat originaire du Cantal mais mort à la guerre en Lorraine s'est-elle retrouvée dans un fossé en Ariège ? Un appel à témoins lancé sur Pierre Portefaix - ladepeche.fr",
+   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPbHZzcTVCbVZkMnBiOWVaVXVPc0Flc1RsMFdVbWNqSGFhaURGTlpTRU0zTXVwNm1DaFJyclBRRGk4ekNZRHN1eENBNHE1VHN4ei1OcEhUNzloR3d5ZE5jdnBPdURTcTFXandyWkoyVTBQSnJ3YkxtRFJxcnpMbm5ITXNGZ3hTQVFWUDBnNHFjMEQySXE4YTZQUm8tLUl2YWwzMGhlb0J6c1V4THp1M0MtUXNySk9qWnFXT1M3UjhyQkllT0JKSkgtTnRLN3VZYldEMG41b0FQU0w3d1JOVDliMGVoRlo1V1Fwc1k0Ry13dnNodXdXRkhxektfSUhmZnE0alJpb0dScmhKYjQ4STZ3SEhWMVQ1SmY3bExienB6NVpHZw?oc=5",
+   "date": "2026-11-16T14:40:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Comment la croix d'un soldat originaire du Cantal mais mort à la guerre en Lorraine s'est-elle retrouvée dans un fossé en Ariège ? Un appel à témoins lancé sur Pierre Portefaix &nbsp;&nbsp; ladepeche.fr",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Aquaterra : l'archéologie subaquatique qui réécrit l'histoire - Foro3D",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEVOTGh2UnpYZk9pMWhvSUhIMWZVZGNOTzFXekM2a3l2emEtVUxGOXcxdDJxMDB6M2s2ZDhudjNSUm5HU2dyallIeTFBUkVxMzZNTUdfcW9nNElsamVhNmtFQzdSUi0tZU1zV2tuSkdOTnNlLVlKSmNnUnRqYmZuLTJkd1loU2FsVGNOTC1wWDVMZGl1UVAzSWptcVk2SnNPRzNuMEdRMA?oc=5",
+   "date": "2026-11-16T14:08:28+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Aquaterra : l'archéologie subaquatique qui réécrit l'histoire &nbsp;&nbsp; Foro3D",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
+   "alt": null
+  },
   {
    "title": "Milk and wine for the departed: Menorcan funerary idioms during the late Iron Age. The case of courtyard 45 in Calescoves",
    "link": "https://www.sciencedirect.com/science/article/pii/S0305440326002499?dgcid=rss_sd_all",
@@ -1485,6 +1729,17 @@
    "abstract": "Archéologie des cultures médiatiques &nbsp;&nbsp; ActuaLitté.com",
    "doi": null,
    "first_seen": "2026-11-15T21:50:30+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie des Hauts-de-France #47 : Une grande enceinte de la préhistoire récente préservée dans la forêt domaniale du « Bois d'Olhain » à Fresni... - Ministère de la Culture",
+   "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQREl5MzlXb2VmNXU4OUQ5cWNvVDV0b1U4R3ctMjZZVVdWS1plVVFwOFBVQi1QajVwMENxLXdtY0dTODRWX3JkUzhWUDkzNnRwWURXbEFjRVdYNE5BTThvOXdETVJYc2xwMWk3bkNhd1dSMGVjOXVUN1ZVYUMyOEZ3d3FYR2dCaERERzhpSk5mUTN5cml4UFNPbHZMcDNCeXFjTlpTZ09weUVCZ2ZQcFdscF9lbG93dFJCVTl5NjhfdDVLMVFuRDJLMkRJcm0xeU1jSk01QjRCRVhsWUVEUy01c3FLZmNEb1FHSWZoWk9lcEgwNWttQmxyTFVkWDBiR0NYaHJLOU1EeUJjbXZuWU1MdGN5eUdvQVNuV2UwUzNHU1g0dU5pRjQyVm9mMG9va01tM1FsY29xdXpYMkxLaTlpMGVjZE4zalJpYW9UNHVfMTRMOW9JVnU0UGtKWmZXZ050Ul9rbjd0SThrVTlKUE5GY1VYazBReGtsT3phdlN0Z0VUNFVZSkk3c0lsODhwdTF5cXNTc1puSzdZRzBMR294Rk9KQUNqTG9GV1g1a2NQbjNCN1BHbERYT2htVWFNOWFaVndsUnRXaGRZMjB2XzNlVTh4M2ptM3EzT1ZVSUdLdV80bEY4?oc=5",
+   "date": "2026-11-12T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie des Hauts-de-France #47 : Une grande enceinte de la préhistoire récente préservée dans la forêt domaniale du « Bois d'Olhain » à Fresni... &nbsp;&nbsp; Ministère de la Culture",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
    "alt": null
   },
   {
