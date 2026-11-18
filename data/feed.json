@@ -1,12 +1,221 @@
 {
- "generated_at": "2026-11-17T23:51:02+00:00",
+ "generated_at": "2026-11-18T14:09:48+00:00",
  "counts": {
-  "total": 2679,
-  "journal": 899,
-  "media": 1780,
-  "new_this_run": 71
+  "total": 2778,
+  "journal": 982,
+  "media": 1796,
+  "new_this_run": 168
  },
  "items": [
+  {
+   "title": "Urban Pb contamination and environmental evidence for metal circulation in the <em>fishbone galleries</em> of ancient <em>Lugdunum</em> (Lyon, France)",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0305440326002529?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Archaeological Science",
+   "kind": "journal",
+   "abstract": "Publication date: January 2027 Source: Journal of Archaeological Science, Volume 197 Author(s): H. Delile, C. Ducourthial, A.-M. Dendievel, L. Chollet, A. Barra, S. Gaillot, J. Blichert-Toft",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "A quantitative analysis of compositional patterns and visual organization in late chalcolithic stamp seals from the near east",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0278416526000826?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Anthropological Archaeology",
+   "kind": "journal",
+   "abstract": "Publication date: December 2026 Source: Journal of Anthropological Archaeology, Volume 84 Author(s): Tolga Kaan Kıyak",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "À Avranches, les découvertes archéologiques de Saint-Gervais présentées lors des Rencontres du Vendredi - Ouest-France",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOazdwRHhBQk1CeGMyQllDLUNNajRiTFdNYy1IR09pN2NZZy04eE1BQ2NUTTJfRUxaT05yeXN5NTV5WWxYMTg3Y1hqSEFrYzg2SVFrWWxLTDloN0M4MVppOHZOVGpabE1ibEQtd2NzQXhjejJkY2R4NUFFUkxQQ3A2MmV0cWhUVy1XYUlrVUJ3MExhRzJVTkhqQ0JHcVVBeEJmaUZBa19kaU9fY2c0MTlqdXltbDhTMFh5aFhKTTdjNWhEdnZnMEo1UTRXZVd4WURGVzVZRlNlMWJFSDRWUTZKbXFvakZBazBScGJPYlBXX2V2QzhOSDNYMVhSbklseWNFeEFBZGFBTGpFU2lCamxDRmNSN21ZZ1BQdlhrRHpn?oc=5",
+   "date": "2026-11-18T13:54:31+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "À Avranches, les découvertes archéologiques de Saint-Gervais présentées lors des Rencontres du Vendredi &nbsp;&nbsp; Ouest-France",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "Santé : une proposition de loi pour interdire les gaz lacrymogènes en manifestation",
+   "link": "https://www.sciencesetavenir.fr/sante/une-loi-pour-interdire-les-gaz-lacrymogenes-dont-les-effets-restent-mal-connus_196190?xtor=RSS-16",
+   "date": "2026-11-18T13:02:55+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Une proposition de loi veut interdire les gaz lacrymogènes en manifestation. En cause : leurs effets potentiels sur la santé, encore largement méconnus faute de données scientifiques suffisantes.",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "A New Breed of Homesteader Is Turning the Abandoned Shacks of a Previous Era Into a Community in the Desolation of California's Wonder Valley",
+   "link": "https://www.smithsonianmag.com/history/new-breed-homsteader-turning-abandoned-shacks-previous-era-conmunity-desolation-california-180989840/",
+   "date": "2026-11-18T13:00:00+00:00",
+   "source": "Smithsonian — History",
+   "kind": "media",
+   "abstract": "The state once sold tracts of this arid landscape dirt cheap, but living there proved too hard without modern conveniences. It isn't as inexpensive anymore, but people are giving the region another go",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "The Country's Oldest Operating Lighthouse Predates the American Revolution and Still Shines on New York Harbor After More Than 260 Years",
+   "link": "https://www.smithsonianmag.com/history/countrys-oldest-operating-lightouse-predates-american-revolution-still-shines-new-york-harbor-after-260-years-180989832/",
+   "date": "2026-11-18T12:30:00+00:00",
+   "source": "Smithsonian — History",
+   "kind": "media",
+   "abstract": "While technology has diminished the need for lighthouses, no one romanticizes radar or GPS like they do with the beacon that sits on New Jersey's Sandy Hook peninsula",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "L’archéologie préventive dans le Valenciennois au cercle historique ce dimanche 22 novembre - La Voix du Nord",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOUxRZTZJOHRzOHk2MlZQUlFLdmdvQW00bHotRHY5WHhGWFpfOVpucEpwY05QdTd6YXFVeVc4Wm1ZS0pwMzk4V3BsNVNjSjBtZlhRZXd0aVVfcWJSRGxMU255S0E3UHctSWFVRzZ3enJ4WkdpNm5DcXRHVXNMblRicnl5bnlqU2JZRzlqVllzN1QwT0tJZlAwNTNqbFNUbHBVdE1RYkxBNE43UU9xaTBTRzduZ2pxM0RUUW1pYThnODZFV2otYU5XdWtlN0xwclU?oc=5",
+   "date": "2026-11-18T11:10:35+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "L’archéologie préventive dans le Valenciennois au cercle historique ce dimanche 22 novembre &nbsp;&nbsp; La Voix du Nord",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie. Un collier rigide vieux de 4000 ans découvert sur un col bernois - La Liberté",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVZfdy1xak5MVDkyaDIxM01EN3YxcDhOaXpsckdxTkxscnVPX3ZDWFd6ajgxbHpNTmxvSkRjSDZueTlfYlRONlZSRU95Ti1CMUJ5QktqLTBzS2NXakR0TjdmOXNtRlFSa0YySVdPQm5fVzZhZzB2d1dTVHh4VjQ1NXUySUt1SUt6WTlhSEtHRFVOUEdWTGRfU0FEWDF0bEZYckx5bEYzaGdHQQ?oc=5",
+   "date": "2026-11-18T10:04:19+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie. Un collier rigide vieux de 4000 ans découvert sur un col bernois &nbsp;&nbsp; La Liberté",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "Depraved art: a disturbing history",
+   "link": "https://www.historyextra.com/membership/depraved-art-a-disturbing-history/",
+   "date": "2026-11-18T09:50:20+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Can art ever be genuinely dangerous? Daisy Dixon reveals how views on obscenity and censorship have shifted through history For millennia, humans have created art with the power to shock, disturb and offend. But what makes an artwork truly dangerous? And should it ever be censored? From Hitler’s paintings to the racist caricatures of Jim Crow America, Daisy Dixon takes Jon Bauckham on a tour of history’s most depraved art, revealing both its capacity for cruelty and its use as a tool of oppression.",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "Voyager 1 s'apprête à franchir une distance record au-delà du Système solaire",
+   "link": "https://www.sciencesetavenir.fr/espace/systeme-solaire/voyager-s-apprete-a-franchir-une-distance-record-au-dela-du-systeme-solaire_196162?xtor=RSS-9",
+   "date": "2026-11-18T09:26:57+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Lancé il y a près de 50 ans, Voyager 1 est sur le point d'atteindre un point particulier de l'espace interstellaire. La sonde américaine va en effet franchir le cap d'un jour-lumière ce 18 novembre à 11h16, heure française. Cet exploit technologique réaffirme son statut d'objet le plus lointain envoyé par l'humanité, aux confins de notre système solaire.",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "Dinosaures : des traces de sang fossilisées agitent la communauté paléontologique",
+   "link": "https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/dinosaures-des-traces-de-sang-fossilisees-affolent-la-communaute-paleontologique_196200?xtor=RSS-4",
+   "date": "2026-11-18T09:19:28+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Une équipe internationale affirme avoir identifié, pour la première fois de manière formelle, des traces de globules rouges minéralisés dans un fossile de dinosaure vieux de 115 millions d’années. Si cette découverte se confirme, la science des animaux disparus depuis des temps immémoriaux pourrait bien connaître une petite révolution.",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "Les États-Unis perdent leur statut de pays ayant éliminé la rougeole",
+   "link": "https://www.sciencesetavenir.fr/sante/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole_196186?xtor=RSS-16",
+   "date": "2026-11-18T09:04:58+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Après avoir été éradiquée sur le sol américain il y a 25 ans, la rougeole est revenue en force depuis 2025 suite aux décisions sanitaires désastreuses de l'administration Trump qui ont conduit à une baisse de la vaccination.",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "Après 13 ans d'attente, GTA VI, le jeu vidéo le plus cher de l'histoire, sort enfin",
+   "link": "https://www.sciencesetavenir.fr/high-tech/jeux-video/gta-vi-s-apprete-enfin-a-sortir-apres-13-ans-d-attente_196182?xtor=RSS-12",
+   "date": "2026-11-18T08:41:17+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "L'attente valait-elle le coup? Nous le saurons dès demain avec la sortie de GTA VI, le dernier opus d'une saga de jeux vidéos au succès mondial. GTA VI pourrait être le produit culturel le plus cher de l'histoire.",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "Body found in Derry bog decapitated more than 2,000 years ago, coroner finds",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/18/ballymacombs-more-woman-derry-bog-decapitated-2000-years-ago",
+   "date": "2026-11-18T08:00:36+00:00",
+   "source": "The Guardian — Archaeology",
+   "kind": "media",
+   "abstract": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificed A coroner’s investigation into Northern Ireland ’s most venerable cold case has concluded that the victim was decapitated more than 2,000 years ago. The inquest-style inquiry determined that Ballymacombs More Woman – the name given to iron age remains found in a County Derry bog three years ago – was between 15 and 22 years old when she was beheaded from behind with a bladed weapon. Continue reading...",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily Quiz: 18 November",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-11-18T07:00:07+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "Tivernon : découverte d'un habitat gaulois lors des fouilles archéologiques du projet RTE - La République du Centre",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc0ZjdUt2clJaWTJGRnBob0dvYlBJWWVLNGJXNEJsaDJUNE1JVTRRc09FN2hkdWo4aXZpbzRxektZcTBaOVpIRDRKbHV6UkMteFhVUjE1MnlGQlluUzlfMmM5R1pEWjA5QndBOHRCNndISVNtWk5JSTlMX3BzS3FqZl92NFhsNlVibFZ6Q3hCS28xbk0wcUQ2bU4tWElGT1MweVlNd1l1ekUyM2V5ZjFtbk4yenB1YkZNaDdORDIwUHBsMjRsMG1pT05qaXdYWm1uLVdNXzVZYlQzZm1S?oc=5",
+   "date": "2026-11-18T05:48:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Tivernon : découverte d'un habitat gaulois lors des fouilles archéologiques du projet RTE &nbsp;&nbsp; La République du Centre",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "50 ans depuis les fouilles de Biache-Saint-Vaast : la Maison de l'archéologie dévoile les secrets de l'homme de Néandertal - France 3 Régions",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOMl9USldKMC1adnRXRERtUW1YbmM0ZzhlbUdUX1FiTGlPYXQzMWktN2FXRUxubWV5czAtdlJSSHg5bUlRcU5lbS16QkVjUFhuc1o0YUVsbGRmYlN4dFVNQUdSZEhTQ1RHZDcySk4zNEVTMFN2WEM5Tlp0X0JCX3FVUXA3NHN5aG80bWtWQUNfQi1VTkRmMUR3VU1nS1AxRGlHTHVUTmxleEVoNHlKWGVGaFRUS3NmdVl0Ymh1ZFpCa3c2UjFqTURaZ2pxSmx4V0tOVEtTWWhRYTd4UW1NSHB3T2lJWUNfd0xKU3EwOWJHVUwyYVM3bEpMRGtqRTZPZjY2TzNWdV9kUjdnU0JLQy0yTTNoQl9feVYwREo4aU52N2pWR3d5eWtIcTNuanE?oc=5",
+   "date": "2026-11-18T05:15:03+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "50 ans depuis les fouilles de Biache-Saint-Vaast : la Maison de l'archéologie dévoile les secrets de l'homme de Néandertal &nbsp;&nbsp; France 3 Régions",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "Tours Maunsell : archéologie industrielle dans l'estuaire de la Tamise - Foro3D",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRmphTHVnUzBleVlwTkFnSU9Jd01nX1l2SW1KSEZzUjNhVEEySTBvVFFNLU5sM2VXSHNSUTF5aGExNzJJandGaW1aM3NtaVppSWt3TUM5eUs3dUVUWmNOVVBrLWhfNGYzdDhDcUJQTGNsQk03Z2dMcFlnZ2pFaGZXTzBGRFFDZDRINThFd2pzZzZ5bzVxeU80cE1SbDBzSGVhc3MzVkt5dE41bXM?oc=5",
+   "date": "2026-11-18T03:11:25+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Tours Maunsell : archéologie industrielle dans l'estuaire de la Tamise &nbsp;&nbsp; Foro3D",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "125,000 years ago, hippos roamed what is now the vast Arabian Desert",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261115085537.htm",
+   "date": "2026-11-18T01:52:47+00:00",
+   "source": "ScienceDaily — Archaeology",
+   "kind": "media",
+   "abstract": "A remarkable 125,000-year-old discovery in Saudi Arabia reveals that early humans once thrived beside enormous lakes filled with wildlife in what is now a vast desert. Thousands of stone tools and ancient plant remains suggest these prehistoric people used sophisticated hunting techniques, potentially including weapons enhanced with poisonous plant compounds.",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
   {
    "title": "Journée de l’archéologie des Landes 20 avenue de la Gare Dax – 4 décembre 2026 - Unidivers",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcC1hd1BoRHQxSkZLb0YtNXl1TGVlOXNFZUhCdDFneWlIOWFuTlNCNzRWdmZmRTdVOHNReFNCSllSUDJyWnpBenNCWWpqU3lTQnhNVHNpSXpvVlZvR3VXM3RRNkR2YXYtU1ZIcnVDMmc0UXplZFBnLTdFbkZDc2dYQXFRblI0TkU5dXRZVw?oc=5",
@@ -362,15 +571,23 @@
    "alt": null
   },
   {
-   "title": "Daily Quiz: 17 November",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-11-17T07:00:06+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
+   "title": "In This Issue",
+   "link": "https://www.pnas.org/doi/abs/10.1073/iti4626123?af=R",
+   "date": "2026-11-17T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026.",
+   "doi": "10.1073/iti4626123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
   },
   {
    "title": "Pamiers au fil de l’eau : une ville qu’elle a dessinée au fil des ans - ladepeche.fr",
@@ -848,6 +1065,17 @@
    "alt": null
   },
   {
+   "title": "Direction de l’archéologie - Ville de Lyon",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uSlZKc3dFZkhJczFyb2ZoeDVtUTluV0ZOUTJoY09pTFQ0TGpIVDZoTVBDWTNDTG9hNmdibWZZNXdoM0JmVDRhY2dCUnNZaWRlM0ZIcXdsU2JkT1VKNHd3Z3Zod2MtcEQyT0VtQktyUjllem91V29JekYyYVFaQQ?oc=5",
+   "date": "2026-11-16T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Direction de l’archéologie &nbsp;&nbsp; Ville de Lyon",
+   "doi": null,
+   "first_seen": "2026-11-15T17:45:38+00:00",
+   "alt": null
+  },
+  {
    "title": "Rencontres archéologiques à Senonches : découvrez l'histoire et l'archéologie en forêt - L’Écho Républicain",
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRlMxdExVakJBT05JamcyaFF3bldkYlFyYzBobWRBZWdJbGpqZGNnNUZLeUtNMU5nMmFub1J0TWlxV0MtSFAzcnJGRHFhM0hWT0VEaXRYdDBfQkNXRFpDV19SQzNtRXJEVlpMSm9rYVhSTXBVYV9ZN2NFUktKbm1qeWtRQzBqUmRNQlRlckNOMzJUZ3gwdEtnNTYyM2tmSzJmSEk2SlRTSmhQdDZNUjJwcTAwc3NmUVRMZ2NHY0ZHRGV5aUxpOXJSRDRLNkJ6ZU5WNDNiaWQtd3lzMmJNeVA3ZXhHdVc?oc=5",
    "date": "2026-11-16T04:16:00+00:00",
@@ -1089,6 +1317,17 @@
    "abstract": "Scandalising high society and thrilling in the romance genre, the rake can be seen as immoral profligates or lovable rogues Fans of the Regency romance series Bridgerton will be familiar with the term ‘rake’, especially in relation to characters like Simon Basset, and Anthony and Benedict Bridgerton . In that era, it described a well-to-do, aristocratic gentleman who led the life of a pleasure-seeking wastrel. A roguish libertine with an eye for the ladies what they wanted to do most with the privilege and position was to drink, gamble and womanise, and they enjoyed the scandal that their behaviour provoked in high society. The rake in history and literature Names like Lord Byron , Giacomo Casanova and the Marquis de Sade spring to mind when hearing the term. It was a shortened form of ‘rakehell’, as if to suggest that such men of immortality could only be found by raking though Hell itself. ‘Hellraiser’ seems the logical alternative today. In truth, though, to be declared a rake tended to be done playfully rather than a sincere condemnation. Indeed, it could be said that a defining characteristic of the rake was that they absorbed the disapproval of others without meaningful censu…",
    "doi": null,
    "first_seen": "2026-11-15T12:47:43+00:00",
+   "alt": null
+  },
+  {
+   "title": "Un fossé monumental vieux de 6 000 ans découvert à Bure - BLE Lorraine",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanRwQ0ZCU1M1aDNpX0lvaW1kd3BUU3prbEJZeE5WaWxNV0w1VzNrZjJ1em1WZl8xajJnbldVQzBOajZpLXNiZUlIUmJBR3NqTG5GbXpDX0liQlVReVdaaVdjeFBYTWtTb09Uak9JaUI5di1vaVYyam9xMzlCalFGbjJPUkdqVktTanNLVUJ1a3F5bERrLVJ0eW9UQXVJZnNi?oc=5",
+   "date": "2026-11-15T10:31:17+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Un fossé monumental vieux de 6 000 ans découvert à Bure &nbsp;&nbsp; BLE Lorraine",
+   "doi": null,
+   "first_seen": "2026-11-18T14:09:48+00:00",
    "alt": null
   },
   {
@@ -1839,17 +2078,6 @@
    "alt": null
   },
   {
-   "title": "Direction de l’archéologie - Ville de Lyon",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uSlZKc3dFZkhJczFyb2ZoeDVtUTluV0ZOUTJoY09pTFQ0TGpIVDZoTVBDWTNDTG9hNmdibWZZNXdoM0JmVDRhY2dCUnNZaWRlM0ZIcXdsU2JkT1VKNHd3Z3Zod2MtcEQyT0VtQktyUjllem91V29JekYyYVFaQQ?oc=5",
-   "date": "2026-11-13T08:00:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Direction de l’archéologie &nbsp;&nbsp; Ville de Lyon",
-   "doi": null,
-   "first_seen": "2026-11-15T17:45:38+00:00",
-   "alt": null
-  },
-  {
    "title": "Archéologie du littoral atlantique - ActuaLitté.com",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNblpEUXZmZlkyV19ESk9NXzd3aDFlZTVmclplMHlrdHdJOThocWh0M0t2TnBQUktkVGRqLWZwbHhaTFJKdG1HaTB2TmV4QUF1OFhZMDFvUkdHVUQ1eW0yMzBrWUFUVVlzSEhQX0QyelJkNFUwX05lWkowOGk2VFRVWDBfUkFZOXhGaUx3aU1WSGNSY1lIaGRWUDV3?oc=5",
    "date": "2026-11-13T08:00:00+00:00",
@@ -1859,6 +2087,139 @@
    "doi": null,
    "first_seen": "2026-11-15T17:45:38+00:00",
    "alt": null
+  },
+  {
+   "title": "Physical distancing to prevent influenza-like illness on a college campus: The eX-FLU trial",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2626810123?af=R",
+   "date": "2026-11-13T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificancePhysical distancing is a widely recommended strategy to mitigate the spread of respiratory illness. The eX-FLU trial, which tracked weekly infections and face-to-face contacts among a randomized group of college students, offers a unique ...",
+   "doi": "10.1073/pnas.2626810123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Selectively disrupting lysine acetyltransferase p300 and ZEB1 interaction prevents tumor progression while enhancing antitumor immunity",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2618571123?af=R",
+   "date": "2026-11-13T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceSelectively disrupting lysine acetyltransferase p300 interaction with specific pro-oncogenic targets serves as a safe and effective strategy for cancer treatment. Here, we find that p300 interacts with pro-oncogenic ZEB1 and catalyzes its ...",
+   "doi": "10.1073/pnas.2618571123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Dynamical geometric modes in non-Euclidean plates",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2616887123?af=R",
+   "date": "2026-11-13T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceThin shells with built-in residual stresses can move in complicated ways with minimal energy costs. While promising for engineering applications, the dynamical behavior of these materials remains poorly understood. Here, we show how the unique ...",
+   "doi": "10.1073/pnas.2616887123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "ChREBP drives diabetic kidney disease, and its inhibition confers renal protection",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2537870123?af=R",
+   "date": "2026-11-13T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceDiabetic kidney disease is a leading cause of kidney failure, yet current therapies incompletely address the metabolic stress imposed by chronic hyperglycemia. This study identifies the glucose-responsive transcription factor carbohydrate-...",
+   "doi": "10.1073/pnas.2537870123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "People know who to ask for favors despite underestimating compliance",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2611952123?af=R",
+   "date": "2026-11-13T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceAccuracy in interpersonal judgment takes multiple forms, yet research routinely reduces accuracy to misperception in the aggregate. Using favor-asking and anticipated compliance as an exemplar, we demonstrate how this practice yields ...",
+   "doi": "10.1073/pnas.2611952123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Emergent long-tailed dynamics in spin ice",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2611202123?af=R",
+   "date": "2026-11-13T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceTopological defects dictate the behavior of diverse systems, from cosmological structures to quantum materials, yet their collision dynamics remain poorly understood. While conventional wisdom dictates that defect pairs either immediately ...",
+   "doi": "10.1073/pnas.2611202123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Elastic interactions of mechanically polarizable cells",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2625135123?af=R",
+   "date": "2026-11-13T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceCells communicate mechanically through elastic deformations they create in their environment, but how these interactions govern local cell organization and the propensity of cells to self-associate remains poorly understood. We develop an ...",
+   "doi": "10.1073/pnas.2625135123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
   },
   {
    "title": "When the Saudi desert was green: a 125,000-year-old lakeside reveals how early humans lived",
@@ -2205,6 +2566,101 @@
    "doi": null,
    "first_seen": "2026-11-16T21:04:10+00:00",
    "alt": null
+  },
+  {
+   "title": "Synergy between Gq and Gi proteins for the antipsychotic-like effects of mGlu2 receptors",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2621534123?af=R",
+   "date": "2026-11-12T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceG protein–coupled receptors (GPCRs), the main targets for therapeutic actions, mainly act by activating specific subtypes of G proteins. However, their signaling capacity can be modified by other GPCRs through signaling crosstalk. The ...",
+   "doi": "10.1073/pnas.2621534123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Diffusional depth profiling using electrochemiluminescence microscopy",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2616212123?af=R",
+   "date": "2026-11-12T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceElectrochemiluminescence (ECL) microscopy can image chemical activity with exceptionally low background noise, but has been largely restricted to surface-confined measurements. We show that simply changing the ratio of reacting molecules ...",
+   "doi": "10.1073/pnas.2616212123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "The quantum agreement theorem",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2613021123?af=R",
+   "date": "2026-11-12T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceIntersubjective consistency demands that observers of a physical system reach a shared account of properties of interest. In quantum mechanics, where inference about a system may depend on how it is measured, the status of this principle has ...",
+   "doi": "10.1073/pnas.2613021123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "The p38α MAPK–MK2 axis drives chemotherapy-mediated nuclear actin remodeling to promote ovarian cancer progression",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2615905123?af=R",
+   "date": "2026-11-12T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceMultiple pathways have been reported to regulate nuclear actin assembly across diverse biological processes, including transcriptional regulation, DNA damage repair, mechanical response, and chromatin dynamics. However, the mechanisms by which ...",
+   "doi": "10.1073/pnas.2615905123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Quantifying the hierarchical topological decay of fluid knots",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2606419123?af=R",
+   "date": "2026-11-12T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceKnotted and linked filamentary structures forming complex tangles are present in a wide variety of physical and biological systems. In the case of superfluid flows these tangles are made by a complex network of vortex filaments that are ...",
+   "doi": "10.1073/pnas.2606419123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
   },
   {
    "title": "Découvert en 1994 par le maire d'un village français, ce dinosaure unique au monde n'ira pas aux enchères : l’État l'a racheté - Science et vie",
@@ -2680,6 +3136,424 @@
    "doi": null,
    "first_seen": "2026-11-11T12:46:43+00:00",
    "alt": null
+  },
+  {
+   "title": "How Antoni Gaudí used math to make his basilica soar",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2638043123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026.",
+   "doi": "10.1073/pnas.2638043123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Structural insights into the evolution of mitochondrial protein import from the trypanosome ATOM complex",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2622689123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceMitochondria import most of their proteins from the cytosol using a channel called the translocase of the outer membrane (TOM) complex. How this fundamental machinery originated and diversified across the tree of life has remained unclear. ...",
+   "doi": "10.1073/pnas.2622689123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Linear scaling reveals low-dimensional structure in observable microbial dynamics",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2536565123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceMicrobial communities contain many interacting members and often exhibit complex dynamics. For biological relevance and practical necessity, modeling and intervention focus on a few observable populations or traits, raising fundamental ...",
+   "doi": "10.1073/pnas.2536565123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "PHYTOCHROME INTERACTING FACTOR 7 moderates the activity of phytochrome A in persistent canopy shade conditions",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2613044123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceIn nature, adapting to varying vegetative shade conditions is critical for plant survival. In response to neighboring shade, many plants initiate shade avoidance, but transition to a canopy adaptation strategy under persistent vegetation ...",
+   "doi": "10.1073/pnas.2613044123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Physiologic and pharmacologic role of the glucocorticoid receptor in germinal center B cells and plasmacytic differentiation",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2624410123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceThese results uncover a role for the glucocorticoid receptor in the homeostasis of the germinal center (GC), the counterpart of most B cell lymphomas, and in plasmacytic differentiation. These functions are in part mediated by a functional ...",
+   "doi": "10.1073/pnas.2624410123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "RE1 silencing transcription factor is reduced in endometriosis, and uterine deletion in mice alters progesterone responsiveness",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2619014123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceEndometriosis is a common disease in women characterized by altered steroid hormone signaling, infertility, and pelvic pain. RE1 silencing transcription factor (REST) is a candidate regulator of steroid hormone signaling in gynecologic disease,...",
+   "doi": "10.1073/pnas.2619014123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "PPP1R1B differentially modulates alcohol intake and emotional comorbidity through distinct prefrontal circuits",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2611266123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceExcessive alcohol consumption frequently co-occurs with anxiety and depression in alcohol use disorder (AUD), yet the specific neural circuits and molecular mechanisms coordinating these comorbid conditions remain poorly defined. This study ...",
+   "doi": "10.1073/pnas.2611266123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Phylogenetic profiling reveals evolutionary coupling between methyltransferases and the cytoskeleton",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2619603123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceHistone methyltransferases are generally viewed as regulators of chromatin. Here, we show that the evolutionary history of these enzymes points to a broader role coordinating genome organization and cellular architecture. Using phylogenetic ...",
+   "doi": "10.1073/pnas.2619603123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Intermittent Cauchy walks enable optimal 3D search across target shapes and sizes",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2614625123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceHow organisms and autonomous systems locate rare targets in complex environments is a fundamental problem spanning biology, physics, and engineering. While most theory assumes simplified, low-dimensional settings, real-world search occurs in ...",
+   "doi": "10.1073/pnas.2614625123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Multi-omics characterization of white matter free water reveals genetic and vascular determinants of neurological disorders",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2611353123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceWhite matter free water (FW-WM) is a brain imaging measure that can capture changes in extracellular water content and microstructural alterations in white matter. However, its genetic underpinnings and clinical potential remain largely ...",
+   "doi": "10.1073/pnas.2611353123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Dormancy stabilizes structured food webs",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2633661123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceMany organisms across the tree of life and along food chains are able to go dormant, producing inactive spores, seeds, or resting stages that temporarily “sit out” the processes of life, including ecological interactions with other species. ...",
+   "doi": "10.1073/pnas.2633661123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Principles of use of tensile J-curve materials in antagonistic arrangements",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604227123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceThe intelligent biomechanics of J-shaped force–displacement curve of soft tissue can impart animal-like adaptability to robotic designs. For example, animal joints are elastic, capable of initially stretching with minimal resistance, followed ...",
+   "doi": "10.1073/pnas.2604227123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Wearable interstitial fluid sensing of time-resolved uric acid for early prediction of flare-associated pain in an induced mouse model",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2622418123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceGout flares are painful, unpredictable events that are poorly explained by isolated serum uric acid measurements. This study shows that time-resolved monitoring of uric acid in interstitial fluid can resolve dynamic biochemical changes ...",
+   "doi": "10.1073/pnas.2622418123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Phase transition in a dryland shrub–grass ecosystem: Emergence through local trade-offs",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2618656123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceA fundamental question in complex systems is how macroscopic order arises from microscopic interactions. Ecosystems face the same challenge: how do local interactions among individuals generate complex system-level behaviors? Here we combine ...",
+   "doi": "10.1073/pnas.2618656123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Dynamic supercoiling sponsors transcription amplification by MYC",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2602097123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceMYC is dysregulated in most cancers, yet its precise functions in transcription are poorly understood. Using a genetic system that distinguishes transcriptional activation from amplification, we reveal a functional interplay between MYC-driven ...",
+   "doi": "10.1073/pnas.2602097123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Lipid droplets buffer hydrogen sulfide–induced redox imbalance",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2613433123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceThe concentration of hydrogen sulfide (H2S) derived from gut microbial metabolism determines whether respiration in colonic epithelial cells is stimulated or inhibited. We found that cells increase lipid droplet (LD) synthesis to counter ...",
+   "doi": "10.1073/pnas.2613433123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Chromatin dynamics secondary to dexamethasone exposure identifies 67 genes linked to elevated IOP and primary open-angle glaucoma",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2609070123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceSteroid-induced elevated intraocular pressure (IOP) is a risk factor for primary open-angle glaucoma (POAG). IOP is regulated by trabecular meshwork (TM). We have generated genome topology, epigenome, and expression profiles of three ...",
+   "doi": "10.1073/pnas.2609070123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Recurrent hybridization between highly divergent paramecium species",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2611799123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceAn important issue in evolutionary biology is to understand the process of speciation, i.e., how two reproductively isolated species emerge from an ancestral population. Various factors can initiate the speciation process, but whatever the ...",
+   "doi": "10.1073/pnas.2611799123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Phosphatases regulating ERK activation and ERK-dependent cell migration",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2613268123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceThe extracellular signal-regulated kinase (ERK) signaling pathway is essential for development and is implicated in many cancers, but its activity is highly dynamic and can only be approximated with methods that analyze fixed tissue. We ...",
+   "doi": "10.1073/pnas.2613268123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Modest loss of sleep increases susceptibility to cybersecurity threats",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2622467123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. Sleep restriction leads to impaired cognitive processing across domains. I examined whether the transition to daylight saving time (DST), typically accompanied by compromised sleep, would lead to an increase in the probability of falling prey to a ...",
+   "doi": "10.1073/pnas.2622467123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Correction for Ge et al., Empirical validation of race-neutral normative brain morphometry models across ethnoracially diverse populations",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2635735123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026.",
+   "doi": "10.1073/pnas.2635735123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Correction for Santos et al., Treating language contact as normal: Coalescent-theoretic modeling of the prehistory of the Bantu language family",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2637570123?af=R",
+   "date": "2026-11-11T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026.",
+   "doi": "10.1073/pnas.2637570123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
   },
   {
    "title": "Le célèbre sculpteur est mort sans avoir vu son œuvre achevée : on vous raconte la saga de la construction du monument aux morts de Montauban par Antoine Bourdelle - ladepeche.fr",
@@ -3225,6 +4099,310 @@
    "alt": null
   },
   {
+   "title": "IFITM1-mediated restriction of henipavirus entry is associated with ephrinB2 reorganization and confinement in membrane nanodomains",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2615997123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceNipah (NiV) and Hendra (HeV) viruses are zoonotic paramyxoviruses that cause fatal encephalitis in humans. Here, we show that IFITM1 inhibits NiV and HeV entry at the surface of epithelial and endothelial cells. The host receptor ephrinB2 is ...",
+   "doi": "10.1073/pnas.2615997123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Extracellular vesicles presenting “don’t eat me” signal limit the efferocytic capacity in lung fibrosis",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2609811123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceIdiopathic pulmonary fibrosis is a progressive and fatal lung disease with limited therapeutic options and no treatments that restore proper tissue repair and resolution. We identify impaired clearance of dying cells (efferocytosis) as a ...",
+   "doi": "10.1073/pnas.2609811123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Acute degradation of Pumilio proteins reveals a biphasic posttranscriptional regulatory hierarchy in embryonic stem cell fate decision",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2619145123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceThis study reveals how the RNA-binding proteins Pumilio1 and Pumilio2 orchestrate embryonic stem cell fate through a biphasic posttranscriptional regulatory hierarchy. Using acute protein degradation combined with time-resolved transcriptomics ...",
+   "doi": "10.1073/pnas.2619145123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Elastic tricriticality at the collapse of magnetic order in a valence fluctuating Eu-based compound",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2614506123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceWhen studying the rich diversity of phases characterizing materials with strongly correlated electrons, the underlying lattice is usually regarded as a weak perturbation to the interacting electrons. In this study, we show that this common ...",
+   "doi": "10.1073/pnas.2614506123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Host infection selects for sRNA variants that drive bacterial social cheating",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2621458123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceBacterial populations are not genetically uniform: variants that exploit the cooperative activities of their neighbors, social cheaters, can emerge rapidly within infected tissue and undermine collective bacterial productivity. We show that ...",
+   "doi": "10.1073/pnas.2621458123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "A trefoil knot mimic and multiple pore states define the mechanism of a split-shell Tc toxin",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2626865123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceMany vertebrate- and invertebrate-infecting bacteria deploy toxin complex (Tc) toxins, giant molecular syringes that inject toxic cargo into target cells. Because some Tc toxins kill insect pests, they are also promising bioinsecticides. How ...",
+   "doi": "10.1073/pnas.2626865123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "The highly heat-inducible HspA6 and the thermolabile DnaJB5 are potent regulators of heat shock transcription factor 1 activity",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2623767123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceThe heat shock response (HSR) is a cellular homeostatic transcriptional program to counter environmental and endogenous challenges to the proteome. Central to the HSR is heat shock transcription factor Hsf1 that acts as a thermosensor in ...",
+   "doi": "10.1073/pnas.2623767123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Stereodynamical control of a four-atom reaction: HD + OH → D + H2O",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2625794123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceStereodynamics enables control over the initial orientation or alignment of reactants beyond their internal quantum states, thereby providing a powerful tool for probing and manipulating chemical reactions. To date, all reactive differential ...",
+   "doi": "10.1073/pnas.2625794123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "VAMP725 and VAMP726 interact with cellulose synthase to support secondary cell wall formation",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2625546123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificancePlant cell walls, essential for growth and biomechanics, rely on cellulose—synthesized by plasma membrane–localized cellulose synthase (CESA) complexes. How CESAs are trafficked to the cell surface remains unclear. Here, we show that the SNARE ...",
+   "doi": "10.1073/pnas.2625546123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Homeostatic control of stem cell activity during intestinal regeneration",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2618514123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceStem cells must balance proliferation with quiescence to maintain tissue homeostasis. This study identifies nuclear factor Y (NF-Y) as a transcriptional repressor that restricts intestinal stem cell hyperproliferation by directly suppressing ...",
+   "doi": "10.1073/pnas.2618514123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Disruption of the NTCP–EGFR receptor complex as a strategy for selective inhibition of hepatitis B and D virus entry",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2603986123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceHepatitis B virus (HBV) enters into hepatocytes with its host entry receptor, sodium taurocholate cotransporting polypeptide (NTCP), and its cofactor, epidermal growth factor receptor (EGFR). However, the biological relevance and its potential ...",
+   "doi": "10.1073/pnas.2603986123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Programmable multistable structures via bioinspired, mechanically guided 4D printing",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2614289123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceMultistable structures, capable of rapid and complex shape morphing, are highly sought after for actuators, energy harvesting, and flexible devices. Inspired by growth-induced shape formation in plant leaves and fruits, we propose a ...",
+   "doi": "10.1073/pnas.2614289123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Spatial transcriptomics reveals organizational properties of the mouse spinal cord and alterations in neuropathic pain",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2623177123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceThe spinal cord receives and integrates somatosensory inputs and executes motor and autonomic outputs, yet the spatial organization of its diverse cell types in the spinal cord remains incompletely understood. Using spatially resolved single-...",
+   "doi": "10.1073/pnas.2623177123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "A heavy molybdenum reservoir in Neoarchean seawater tracks extensive iron oxidation",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2608195123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceUnderstanding when and how seawater became oxygenated in the lead-up to the Great Oxidation Event (GOE) is key to reconstructing a fundamental step in Earth’s environmental evolution. However, the spatial extent and persistence of oxygenated ...",
+   "doi": "10.1073/pnas.2608195123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "N-terminal integrity governs heptamer assembly and maturation in a mosquito innexin hemichannel",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2627957123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceGap junction channels enable direct communication between neighboring cells, but how their subunits assemble into defined oligomeric architectures remains poorly understood. We determined Cryoelectron microscopy (cryo-EM) structures of an ...",
+   "doi": "10.1073/pnas.2627957123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "RNA and proteins joined up at the origins of life: Persistence is the point",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2625327123?af=R",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceLife first arose about four billion years ago on earth from simple molecules. Today’s life is a collaboration between proteins (PR) and nucleic acids (NA: RNA and DNA). While many studies have shown how small NA and PR could arise individually,...",
+   "doi": "10.1073/pnas.2625327123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
    "title": "Mille ans d’histoire : des fouilles archéologiques révèlent les secrets de ce prieuré rénové grâce au Loto du patrimoine - Ouest-France",
    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPWnhySFFheG93OTdrWDFWaTJHcFFUbnJleWJoSWZKMWNTR0VqV2RldjM1TE1sejYxZ1UxUUlpZzQxcGdYd1FlakhlYkxacDZUeXYyNUxQWDJ3Ymk1MXpjUXAtUDY2d0NIQjVaai1NekJkTWhJa0t3M2RkdTBqaEtSakMyV1ZkaTBpMWFxYVFKT05jaS1pRkhmTmo0ellsenprWWE1R2pCeGlpVFVSaFlOY01kT1ZIZ3JDOWhxelNiZ2ZaZXV0d3V6cFhVZGRPZUxHOXFDMUZyYll5NjlmWTJvaXR2MElGT0IzaVE0ajc2WkdJQU5oVzVwX05ZMEZnQ3U1eXVFQ2RmZjZRbEZ1SGZYbkdCNmh3YXM1OTE4amVqd01HazM3WEVWRA?oc=5",
    "date": "2026-11-10T06:44:01+00:00",
@@ -3646,6 +4824,424 @@
    "doi": null,
    "first_seen": "2026-11-09T13:58:27+00:00",
    "alt": null
+  },
+  {
+   "title": "Intensification of compound wind drought and heatwave events under climate change",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604442123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceAs renewable energy penetration increases, electricity systems will become increasingly vulnerable to extreme weather. One particularly critical hazard is the compound wind drought–heatwave (WDHW), during which weak winds suppress power ...",
+   "doi": "10.1073/pnas.2604442123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Leaf hydraulic and photosynthetic traits mediate forest-scale resource use efficiencies across the continental United States",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2526434123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceThis study investigates the role of leaf functional traits in driving forest processes across a continental-scale climatic gradient. For eight temperate forests, ecosystem productivity and water use efficiency, and their sensitivity to drought,...",
+   "doi": "10.1073/pnas.2526434123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Structural basis of hypervariable region 1 dynamics on HCV envelope glycoproteins in immune evasion",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2606727123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceThe hypervariable region 1 (HVR1) of the hepatitis C virus (HCV) E2 glycoprotein is dispensable for viral replication yet plays a central role in immune evasion. Here, we report the crystal structure of the neutralizing antibody RM1-38 bound ...",
+   "doi": "10.1073/pnas.2606727123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Active and passive crowding pathways drive topological and mechanical divergence in myoblasts",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2618900123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceMany tissues develop and repair under crowded conditions, but most physical models of cell crowding were developed for epithelial cells that form polygonal sheets. We show that elongated muscle precursor cells behave differently: when densely ...",
+   "doi": "10.1073/pnas.2618900123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Loss of DUSP2–RPA signaling enhances virtual memory T cell–mediated innate-like antiviral immunity",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2620849123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceVirtual memory CD8+T (TVM) cells accumulate with age and mount rapid antiviral responses without antigen recognition. Here, we show that TVMcells mediate innate-like antiviral immunity and identify Dual-specificity phosphatase 2 (DUSP2) as a ...",
+   "doi": "10.1073/pnas.2620849123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Coevolution of social network structure and life history in toothed whales",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2631011123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceSocial relationships are key determinants of biological fitness in many species, yet most comparative evolutionary analyses rely on coarse measures like group size, which may not capture the true complexity and consequences of social behavior. ...",
+   "doi": "10.1073/pnas.2631011123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Generating interesting scientific ideas using knowledge graphs and LLMs: Evaluations with 100 research group leaders",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2611349123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceScientific progress relies on novel ideas, but the sheer volume of research makes them difficult to identify, especially across disciplines. We introduceSCIMUSE, an AI system combining a knowledge graph from 58 million papers and large ...",
+   "doi": "10.1073/pnas.2611349123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Targeting of STEAP3 by a selenium D–π–A photosensitizer that activates ferroptosis",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2622307123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceTargeted photosensitizers that induce nonapoptotic cell death offer a promising strategy to overcome apoptosis resistance, yet the molecular targets underlying most photosensitizers remain poorly defined, constraining the rational development ...",
+   "doi": "10.1073/pnas.2622307123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Signaling mechanism of the transmembrane energy receptor Aer",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2621083123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceTransmembrane energy receptors, such asEscherichia coliAer, interpret metabolic signals to optimally position bacteria in their environment. We apply cryoelectron microscopy (cryo-EM) and pulse-diplolar ESR spectroscopy to characterize the ...",
+   "doi": "10.1073/pnas.2621083123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "History-dependent droplet friction driven by contact-line aging",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2619504123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificancePredicting when droplets start and continue moving is central to liquid transport, harvesting, coating, and printing. Conventional descriptions usually predict that droplet friction increases with instantaneous velocity, but this view cannot ...",
+   "doi": "10.1073/pnas.2619504123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Rapid vaterite-mediated shell repair for acid-induced damage in a deep-sea mussel",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2616760123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceThe protective calcareous shells of mollusks are valued by humans not only for their beauty but also provide a model for the development of nature-inspired materials and tissue engineering in medicine. Hence, understanding the diverse ...",
+   "doi": "10.1073/pnas.2616760123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Belonging to a group with shared ideology leads preschool children to resist revising their beliefs despite disconfirming evidence",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2622764123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceShared beliefs can strengthen our social bonds, but they can also hinder our willingness to revise these beliefs in light of evidence. While adults often maintain group-aligned beliefs despite counterevidence, it remains unclear when this ...",
+   "doi": "10.1073/pnas.2622764123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "A replaceable soma enables negative senescence in harvester ants",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612817123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificancePhysical decline and increased mortality are associated with aging, but some species display increased survival and reproduction with age. Such species share two features: continued growth after the onset of reproduction and a mechanism to ...",
+   "doi": "10.1073/pnas.2612817123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Isotopically heavy carbon in the core",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610912123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceEarth’s core likely holds the majority of the planet’s carbon, yet its composition has remained beyond direct observation. By analyzing carbon isotopes in undegassed melt inclusions from Hawaiian lavas that sample different parts of the ...",
+   "doi": "10.1073/pnas.2610912123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "The decision to stop “counting” explains numerical underproduction in primates",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2620933123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceProducing a specific number of actions is a fundamental component of counting, yet little is known about how the brain determines when a counting sequence should end. We show that two rhesus macaques systematically terminated counting ...",
+   "doi": "10.1073/pnas.2620933123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Millennial-scale variability in Greenland dust provenance during Dansgaard–Oeschger events of the last glacial period",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2618898123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceGreenland ice-core records show dust concentrations up to 15 times higher during colder than warmer phases of abrupt climate shifts in the last glacial period. Earlier studies identified East Asian deserts as the primary dust source. Here, ...",
+   "doi": "10.1073/pnas.2618898123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Optimal scenario design for climate emulation",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2620731123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceClimate emulators developed through machine learning promise to revolutionize impact assessments by offering an inexpensive way to explore future climates. However, these models often fail to generalize to scenarios that differ from their ...",
+   "doi": "10.1073/pnas.2620731123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "A Nasca-period perinatal burial reveals cyclopia associated with trisomy 13 in southern Peru",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2625042123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. Cyclopia, is an extremely rare congenital condition resulting from severe disruption of early brain and facial development and is typically lethal before or shortly after birth. We examined two infants buried together in a Middle Nasca-period cemetery in ...",
+   "doi": "10.1073/pnas.2625042123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Rare recovery of reassortants between contemporary clade 2.3.4.4b H5N1 viruses and human influenza A viruses in vitro",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2631654123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. Influenza A virus (IAV) pandemics can arise when animal-derived and human-adapted IAVs exchange genome segments; however, whether contemporary clade 2.3.4.4b H5N1 viruses can generate viable reassortants with human IAVs is unclear. Here, we tested the ...",
+   "doi": "10.1073/pnas.2631654123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Realizing environmental benefits through the diffusion of smart farming innovations",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2634314123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026.",
+   "doi": "10.1073/pnas.2634314123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "When climate change does not make history",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2634836123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026.",
+   "doi": "10.1073/pnas.2634836123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Expression of Concern for Cordero et al., Combination of tucatinib and neural stem cells secreting anti-HER2 antibody prolongs survival of mice with metastatic brain cancer",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2637565123?af=R",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026.",
+   "doi": "10.1073/pnas.2637565123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
   },
   {
    "title": "\"15 à 20 % seulement des épaves au large des Aresquiers ont été découvertes\" : une identification majeure en 2026 pour le club d’archéologie sous-marine, mais année creuse en vue pour 2027 - Midi Libre",
@@ -4901,6 +6497,44 @@
     "tweets": 0,
     "url": "",
     "checked_at": "2026-11-11T12:46:43+00:00"
+   }
+  },
+  {
+   "title": "Simply aging",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2605454123?af=R",
+   "date": "2026-11-06T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceAging is a risk factor for most chronic diseases, yet it is often described through many disconnected mechanisms and measurements. This article offers a unifying view: because biological processes are inherently imperfect, deleterious changes ...",
+   "doi": "10.1073/pnas.2605454123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Correction for Pande et al., A lipid cue drives the subcellular localization of a self-inserting bacterial transmembrane protein",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2637119123?af=R",
+   "date": "2026-11-06T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026.",
+   "doi": "10.1073/pnas.2637119123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
    }
   },
   {
@@ -8252,6 +9886,63 @@
    }
   },
   {
+   "title": "Heme signatures in mineralized red blood cells within vascular canals of a 115-million-year-old dinosaur bone",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2614248123?af=R",
+   "date": "2026-11-02T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceThis research is significant because it provides strong evidence that original biological molecules can survive in dinosaur fossils, challenging the long-held assumption that such compounds degrade over millions of years. Crucially, it reports ...",
+   "doi": "10.1073/pnas.2614248123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Ancient genomes from Mendoza, Argentina, trace the dynamics of colonial urban formation in the Southern Cone of the Americas",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2609419123?af=R",
+   "date": "2026-11-02T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceEuropean colonization transformed the demographic and social landscapes of the Americas through settlement, forced migration and labor, and systems of social stratification. From a genome-wide perspective, the colonial Southern Cone remains ...",
+   "doi": "10.1073/pnas.2609419123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Rapid soil degradation of a cross-linked, semicrystalline polyethylene-like polyester produced by Colletes bees",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2607098123?af=R",
+   "date": "2026-11-02T08:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. SignificanceNearly a third of plastic produced globally is mismanaged and enters the environment. Roughly one third is polyethylene, which persists in the environment for centuries. To address the plastic pollution crisis, many have attempted to design ...",
+   "doi": "10.1073/pnas.2607098123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
    "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
    "link": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm",
    "date": "2026-11-02T07:30:31+00:00",
@@ -9542,6 +11233,63 @@
     "tweets": 0,
     "url": "",
     "checked_at": "2026-11-11T12:46:43+00:00"
+   }
+  },
+  {
+   "title": "D-termining factors influencing phenotypic evolution in prehistoric Europe",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2628058123?af=R",
+   "date": "2026-10-30T07:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026.",
+   "doi": "10.1073/pnas.2628058123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Evidence and gaps in the proposed ALDH9A1–carnitine–acetyl-CoA–IL-1β axis",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2630263123?af=R",
+   "date": "2026-10-30T07:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026.",
+   "doi": "10.1073/pnas.2630263123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
+   }
+  },
+  {
+   "title": "Reply to Yu and Yu: Clarifying the role of carnitine metabolism in the ALDH9A1-associated immunotherapy resistance program",
+   "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2632549123?af=R",
+   "date": "2026-10-30T07:00:00+00:00",
+   "source": "PNAS",
+   "kind": "journal",
+   "abstract": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026.",
+   "doi": "10.1073/pnas.2632549123?af=R",
+   "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-18T14:09:48+00:00"
    }
   },
   {
@@ -36373,17 +38121,6 @@
    "source": "The Guardian — Archaeology",
    "kind": "media",
    "abstract": "Film star promotes Christopher Nolan film epic wearing gold artefacts dating back almost 3,000 years The Odyssey is a story about a Greek king’s long journey home. But a pair of earrings worn on the new film adaptation’s press tour – and their long separation from their homeland – is sparking controversy. At a photocall in London, Zendaya, who plays the goddess Athena in the Christopher Nolan film , wore a pair of earrings fashioned from Iranian artefacts dating back to 700BC. Continue reading...",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
-   "link": "https://www.sciencedaily.com/releases/2026/07/260721000828.htm",
-   "date": "2026-07-21T08:59:24+00:00",
-   "source": "ScienceDaily — Archaeology",
-   "kind": "media",
-   "abstract": "Ancient DNA from China’s vast 4,000-year-old Shimao settlement is revealing how one of East Asia’s earliest complex societies was organized. Researchers found that its people were largely descended from local Yellow River farming communities, but also had genetic ties to distant southern and steppe populations, pointing to extensive prehistoric contact.",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
