@@ -1,19 +1,338 @@
 {
- "generated_at": "2026-11-18T23:23:44+00:00",
+ "generated_at": "2026-11-19T14:29:03+00:00",
  "counts": {
-  "total": 2805,
-  "journal": 982,
-  "media": 1823,
-  "new_this_run": 78
+  "total": 2832,
+  "journal": 983,
+  "media": 1849,
+  "new_this_run": 95
  },
  "items": [
   {
-   "title": "Le chef de l’Etat préside une réunion d’installation de l’Agence nationale d’Archéologie : Un glorieux passé à exalter - El Moudjahid",
+   "title": "Editorial Board",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0305440326002748?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Archaeological Science",
+   "kind": "journal",
+   "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science, Volume 196 Author(s):",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "En 2015, un Britannique faisait installer un câble dans son jardin : à 45 centimètres sous terre, les travaux ont révélé la mosaïque d’une villa romaine - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPUTZPaVhWeDZ0UDNyRGNPeGRlZ1JRZ0JPTm1UN0tNNVExeEo2TldfUXhmNm94NnJERFBjNTVsXzVOTm9uZ1dXdHlsZkR5UUNNRkJYSTRMc0U4UVhXSU9mU0oyZ09JQTNWa3d1Vks1V3JrNXowQjBiVzcyUkZVY2xEeVpmaWIxWWdidGlTV2d0MkNMWUh4bE9jeWk1c0w5eXRVNGVzN0FTcjdmLWVWUUtuemhoRm9MUXNNNHFKNjVILWdsdGZSellOZ1BsVmJXNHhhRDdKdWoxNEw2bkJDTzhiMVVGcVI5Z1BwMXRaaE1ieURoVTNBS0hjYnMyTlh3RUM5N0s2MTNIOHdGU19weWlsaTdLTTNMTUlQOXRrdXU2Y0hFekFmWkZIN2pPNkNCQ0dueTZN?oc=5",
+   "date": "2026-11-19T14:20:59+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "En 2015, un Britannique faisait installer un câble dans son jardin : à 45 centimètres sous terre, les travaux ont révélé la mosaïque d’une villa romaine &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Pendant plus de 30 ans, des ossements vieux de 6 000 ans ont été considérés comme ceux des premières vaches d’Irlande : ils appartenaient en réalité à un ours et un sanglier - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOQTZpT0NNNTRoUERMOXN5NzIwNFViSGJ4dDVFLWxUcWd5bi1RSnlhVXk3VTlWM3RZeVE4RVVlU0s3aUJPc3MzM3ZrdTF4bHpqdFhLc2hEV2NELWNjckNzRVpQSjRBNUxHQ0lmMzB6a1VfNmluSW94cTYxWW9wVUNtWXNIM0M1QTBPVHhSZEoxenlfMmkwZ1RGRFo3RG5QNGVtdDE3SkRwLXBBM2tkSGY1WC1kSm1wLU9OM0tzQ0FaZm5ZX0tnYS1CWVRuVjk1TGk3TkFKaUt2TnpSTFFvVFR4ZHoyampEMi1aOHVXakRRSWpWTk4zX0NCdzhaNTVYRk9fOVIwejlQS1ZER1dwRnhuVTdiQTNhZ0NIUGVmazJwUWZENm44OU9VeER3bmMxQy0zY0VpbktKRTNxNHY0d2owZ05mOFZlb1ViX2hpTlgtdzU?oc=5",
+   "date": "2026-11-19T13:00:53+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Pendant plus de 30 ans, des ossements vieux de 6 000 ans ont été considérés comme ceux des premières vaches d’Irlande : ils appartenaient en réalité à un ours et un sanglier &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Rare 2,000-year-old Iron Age chariot brooch now on show in Andover, England",
+   "link": "https://archaeologymag.com/2026/11/iron-age-chariot-brooch-now-on-show-in-andover/",
+   "date": "2026-11-19T12:58:24+00:00",
+   "source": "archaeologymag.com",
+   "kind": "media",
+   "abstract": "A rare copper-alloy brooch from the Late Iron Age is now on show at the Museum of the Iron Age in Andover. The object was found near Bullington, Hampshire, roughly 10 miles from the museum. The piece dates to between the late 1st century BCE and the late 1st century CE, which makes the brooch [&#8230;]",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Mesurer le temps : une révolution se prépare",
+   "link": "https://www.sciencesetavenir.fr/fondamental/terre-lune-bientot-deux-facons-de-mesurer-le-temps_196184?xtor=RSS-10",
+   "date": "2026-11-19T12:49:21+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "La Conférence générale des poids et mesures a décidé d’engager une redéfinition de la seconde et adopté deux autres résolutions qui modifieront notre rapport au temps, sur Terre comme dans l’espace.",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "As Scandinavian Countries Slowly Converted to Christianity, Crusades Often Took on the Form of Viking Raids",
+   "link": "https://www.smithsonianmag.com/history/scandinavian-countries-slowly-converted-christianity-crusades-took-form-viking-raids-180989836/",
+   "date": "2026-11-19T12:00:00+00:00",
+   "source": "Smithsonian — History",
+   "kind": "media",
+   "abstract": "A new book by historian Thomas Williams closes the gap between the two cultures and brings some otherwise unfamiliar medieval figures and events to life",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "This colossal statue was a wonder of the ancient world – until 900 camels took it away",
+   "link": "https://www.historyextra.com/membership/this-colossal-statue-was-a-wonder-of-the-ancient-world-until-900-camels-took-it-away/",
+   "date": "2026-11-19T11:30:14+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "The giant statue of a god inspired awe in ancient travellers to the island of Rhodes, but it did not last long as a wonder before it came crashing down Along with a pyramid, a temple, a mausoleum, a lighthouse, a near-mythical garden and another statue, the Colossus of Rhodes earned its place as one of the Seven Wonders of the Ancient World . The mighty bronze figure of the sun god Helios stood at 70 cubits high, or around 32 metres, making it the tallest statue of antiquity. It took 12 years to build, but would ultimately be the shortest-lived of the Seven Wonders as it lasted less than 60 years. Constructing a colossus The Greek island of Rhodes had grown into a prosperous trading hub in the Mediterranean Sea when, in 305 BC, it fell under attack by the military leader Demetrius, who was son of Antigonus, king of Macedonia and one of Alexander the Great ’s generals. A master of siege warfare, earning the title of Poliocetes (the Besieger), Demetrius nevertheless failed as the forces of Rhodes withstood the onslaught for a year. To celebrate this great victory, the Rhodians decided to build a statue to honour their patron god, Helios. It would be designed by the island’s preeminen…",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Do we really know what Henry VIII's wives looked like?",
+   "link": "https://www.historyextra.com/membership/do-we-really-know-what-henry-viiis-wives-looked-like/",
+   "date": "2026-11-19T11:27:00+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Take a closer look the famous paintings of Henry VIII's six wives with Professor Tracy Borman, and discover the history hidden within the art Professor Tracy Borman, chief historian at Historical Royal Palaces and all-round Tudor expert, takes a closer look at six extraordinary Tudor paintings, revealing the hidden symbols, surprising details and royal ambitions behind them. Discover why Anne Boleyn's hands were repainted, how a portrait helped seal the fate of Anne of Cleves, and why we may never know what Catherine Howard actually looked like. From Catherine of Aragon's unusual companion to Katherine Parr's dazzling jewels, these portraits reveal more than the faces of Henry VIII's queens. In these paintings, there are fascinating clues to the women's personalities, reputations and struggles for power, and show how even a royal portrait could become a weapon in the Tudor court. View Green Video on the source website Want to know more? Join us from 8 December for the full series available in the HistoryExtra app. Professor Tracy Borman takes us beyond the well-pedalled fictions surrounding these six women. Over six episodes we’ll consider Catherine of Aragon, Anne Boleyn, Jane Sey…",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Tabagisme : l'Europe toujours accro à la cigarette",
+   "link": "https://www.sciencesetavenir.fr/sante/en-europe-les-fumeurs-ont-plus-de-mal-a-arreter-que-dans-le-reste-du-monde-selon-l-oms_196175?xtor=RSS-16",
+   "date": "2026-11-19T10:36:41+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Malgré une baisse du nombre de fumeurs ces quinze dernières années, l'Europe reste la région du monde où le tabagisme recule le moins vite. Dans un rapport l'Organisation mondiale de la santé (OMS) alerte également sur la progression inquiétante du vapotage chez les adolescents.&nbsp;",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Produits défrisants et risques de cancer : L'Oréal trouve un accord avec quatre plaignantes",
+   "link": "https://www.sciencesetavenir.fr/sante/l-oreal-conclut-un-accord-avec-quatre-femmes-americaines-apres-des-plaintes-liees-aux-produits-defrisants_196229?xtor=RSS-16",
+   "date": "2026-11-19T10:32:02+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Le géant français des cosmétiques L'Oréal a conclu un accord avec quatre femmes afro-américaines qui l'accusaient d'avoir commercialisé des produits défrisants susceptibles d'augmenter le risque de cancer. Une procédure qui s'inscrit dans un contexte de multiplication des plaintes aux États-Unis contre ces produits capillaires.",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Les multiples impacts de l'exposome sur notre santé",
+   "link": "https://www.sciencesetavenir.fr/sante/l-exposome-et-ses-consequences-sur-la-sante_196228?xtor=RSS-16",
+   "date": "2026-11-19T10:27:05+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Dès avant la naissance, nous sommes exposés à une infinité de facteurs qui peuvent avoir un impact, positif ou négatif, sur le développement et la santé. Des chercheurs ont tenté de mesurer ces impacts, dans l’étude sur l’exposome la plus approfondie à ce jour.",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Exhibition Shows Roman Skill in Ancient Scotland",
+   "link": "https://www.nytimes.com/2026/11/19/fashion/exhibition-roman-occupation-national-museum-of-scotland-edinburgh.html",
+   "date": "2026-11-19T10:00:17+00:00",
+   "source": "New York Times — Archaeology",
+   "kind": "media",
+   "abstract": "Storage jars and a copper alloy necklet are among the displays at the National Museum in Edinburgh.",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Dans un morceau d'ambre vieux de 98 millions d'années, des chercheurs ont retrouvé une mante religieuse dont l'abdomen ressemblait à des feuilles - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUlFqenZKYmw4aWtrRGJNVFdtMWVBdlRUWnRNNEYxLVdBMVFBWHZzWGUwLVVVdDN1Q0F6YkhNalgyOVRQdnpFY1dQNHNmVkZQQ2tMZ1Z2RzhxSm1wTm5ydV9BN29XTVdUd1ktN05aY3FmYVJMTEh2ZXowbjVONDNqTFg3SlBXTmU2MHloX000N1JVdXRDVHVSYWRiSWpwY3RFZWoxRXJvdFdaYkNjY3E3YjlHWmJ6QzZmSDhWUVYwWDQtb0ZJVDd5RDlHYjdiY0xGT0xzZkJlN1pKaHpTSW9VZjBlS3h3bUlrWVlVRnZvRkZHcER4M2stZDAwN0x1ZkpycGtxaDlEYWp6V0djTXJRRXN1ZElabnZ2N3VvU05YSXVpb0JtcEl3YUdKNA?oc=5",
+   "date": "2026-11-19T09:00:42+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Dans un morceau d'ambre vieux de 98 millions d'années, des chercheurs ont retrouvé une mante religieuse dont l'abdomen ressemblait à des feuilles &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Un rare squelette de dinosaure entre aux collections nationales",
+   "link": "https://www.sciencesetavenir.fr/sciences/un-rare-squelette-de-dinosaure-entre-aux-collections-nationales_196173?xtor=RSS-18",
+   "date": "2026-11-19T08:51:19+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Dubreuillosaurus valesdunensis, un dinosaure carnivore vieux de 167 millions d'années découvert en 1994 en France va finalement faire partie des collections nationales. Il avait été craint un temps que ce fossile exceptionnel soit vendu à des collectionneurs privés.",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "“Décarboner l’aviation n’est plus une option, c’est devenu une nécessité absolue”",
+   "link": "https://www.sciencesetavenir.fr/nature-environnement/climat/decarboner-l-aviation-n-est-plus-une-option-c-est-devenu-une-necessite-absolue_196212?xtor=RSS-15",
+   "date": "2026-11-19T07:24:02+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "\"Il est nécessaire de repenser le secteur aérien, aujourd’hui responsable d’une part non négligeable et croissante du réchauffement climatique d’origine humaine.\" Entretien avec Jean Jouzel et Alain Ratier. Propos recueillis par Louise Odet.",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily Quiz: 19 November",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-11-19T07:00:08+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "\"Comment l'IA révolutionne les maths\", à découvrir dans Sciences et Avenir de décembre 2026",
+   "link": "https://www.sciencesetavenir.fr/decouvrir/agenda/edito-comment-l-ia-revolutionne-les-maths-a-decouvrir-dans-sciences-et-avenir-de-decembre-2026_196203?xtor=RSS-27",
+   "date": "2026-11-19T07:00:00+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "\"Mathématiques 2.0\", c'est l'éditorial du rédacteur en chef du mensuel Mathieu Nowak, extrait de Sciences et Avenir n°958, notre numéro daté décembre 2026. Le magazine est disponible dans tous les points de vente habituels.",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Tebboune installe l’Agence nationale d’archéologie : Un pas décisif pour la protection du patrimoine - L'Algérie Aujourd'hui",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT0RoWTlGeG5fUTlBc0hNTkx5ZEMwN0UyaS01U1BMMDZScThfMTBnNndXc21VcGJWcGJfWm1VZllvYlJNaW5UVUxKVlB5LTBwV3JtT095MlJhakV0MjA3aXhmbXpQMW5YMEl5UEJvd0V5ODV4czRGME9ETVBlT0prQ3Q1eEg5RVdEMGdWOFd4UXJqYmlwRTNWcWo3dVRtTGxpNmpOcVVlVFBoTnRRUWxyc0NfdjE0VDU4SVN0UExFb3Z6Y0hCRVE?oc=5",
+   "date": "2026-11-19T06:48:11+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Tebboune installe l’Agence nationale d’archéologie : Un pas décisif pour la protection du patrimoine &nbsp;&nbsp; L'Algérie Aujourd'hui",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Rome : alors qu'ils exploraient clandestinement le sous-sol de leur école, des lycéens découvrent une villa vieille de 1800 ans - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPdTBIcVJtRjIyTU1aclBIandOM3ZRclpjeFNkWlFpQVhYWnJnd0pHWXJDZmlFaDdST1B3eXYzemtVZU1XZ1NWaHJXOVVBWWkyY1hBV2tJNmV0Wm1NREROaUhoZ3AtTW1hblJTZTUtNTFPTjBTbVFpb2M5STZiSm1mWUNfSEsyNW5OWDdERUV3d05CVDBtR1ZJbFc4ZXNraDdJYnZVQmhaLWN1alljaHZJT1RiVFd2YTN3RlFxVmxGbW5paVNRbXBHTDIyUEZ5a0ZYc2RQbG13QmhOYnRZajV5Rk5YOUZrbVoxTUdScWptR1EydElRNzlHRm83bTdUSG8wSU04Zi1tOWVMNmpT?oc=5",
+   "date": "2026-11-19T06:00:08+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Rome : alors qu'ils exploraient clandestinement le sous-sol de leur école, des lycéens découvrent une villa vieille de 1800 ans &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Montrevault-sur-Èvre. Fief patrimoine s’intéresse à l’archéologie - Ouest-France",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZ2V3OWNYX1piTU5iS2x5VGxuQlZDZFBIbVlOLVBvRlpZN3pFZzYtd1dEZ2NHWXdfQm1IeDRWNEg1Tk1yb19STE1ORHVESWtiUExhbmdnWlFJZWdYdlRkOWExcmtQRk1IQWlpcXhnbVdua29jQmNORUxfRm9sbG8xbW5fS2xMeS1JaTFtQXFiRXU3cFBhZ1NSTWJmaG5nY244YlZHUTFfT3hVSFI0TXItQ3AySmh4UkdOeHdVZ2JUeWNjdWVEa0hRaV9rdzlnbXl6TTZta0kwOHZkM2ZUQWZZMnFfcVhPLXBSUkl0a205UW12UXBZNHhFNGMyd3RQWE5K?oc=5",
+   "date": "2026-11-19T05:23:39+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Montrevault-sur-Èvre. Fief patrimoine s’intéresse à l’archéologie &nbsp;&nbsp; Ouest-France",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
+   "link": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
+   "date": "2026-11-19T05:22:38+00:00",
+   "source": "The Guardian — Archaeology",
+   "kind": "media",
+   "abstract": "HMCS Spitfire was commissioned by colonial government to protect against Russian warships during the Crimean war The wreck of Australia’s first locally built warship has been discovered 128 years after sinking off the coast of far north Queensland. Marine archaeologists found the remains of Ex HMCS Spitfire on 21 August, the anniversary of its sinking in 1898. Continue reading...",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie : mystérieux masques shu chinois - Télépro",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRTNDdHBPNWZjZEVsTVdkclFzZnpGZlc4ekJDNjJ2Y3JRc0dtX3JoVXBkenRSbHVsR09HcmtBSG5CYTZPVFdBUmRZakpYbUsyTC1ZUWlqYkZxNjVoU1k2OFJQMWlNU3FOczRxM2VvWlkteERRY0l5MjlZQTFDZGtoNTBDekdlZXJhVC1YTDRTZE9rTkU?oc=5",
+   "date": "2026-11-19T05:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : mystérieux masques shu chinois &nbsp;&nbsp; Télépro",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Des fouilles archéologiques vont être menées sur les ruines de l'incendie du centre historique de Bergerac - ici.fr",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVE9TVnN1SU1XckZxdm1VUkJ5bFMxMTI0YWU4WXZnWnJoejhCbWFTd3o0RDF6TVB1NFhCU1o0STdZUHpzVjBjSEs1UTNFajR4OGMtRHRZV0lQdVRBQXFzT1JvNENlZHdzODV1eXZvYk5JVVJMNHJpRzBXSDJSWjhzbDVWbEtTYmFhQWlDVFByeHd6d1U1MWstWUZOdTF5VjZhTXN6eWtfWEVneUVkQ2RCQS1GM2tUV1Y3a0hlenlwY29WSG9BT2kyNXhCWEFOWXVHMEhzTFdyY0hmMFd3NFRMMUdUWVl6Zk1nMnVaOW9yRE1jNG1uRFJiS2x3Z3ZyTTQwZHc?oc=5",
+   "date": "2026-11-19T04:37:26+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Des fouilles archéologiques vont être menées sur les ruines de l'incendie du centre historique de Bergerac &nbsp;&nbsp; ici.fr",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
+   "date": "2026-11-19T03:11:22+00:00",
+   "source": "ScienceDaily — Archaeology",
+   "kind": "media",
+   "abstract": "A major new investigation into Stonehenge’s mysterious six-ton Altar Stone has uncovered fresh clues while ruling out several suspected sources. Once thought to have originated in Wales, the massive sandstone slab is now believed to have come from northeastern Scotland, although researchers have yet to find an exact match.",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Should we save every old building?",
+   "link": "https://phys.org/news/2026-11-should-we-save-every-old.html",
+   "date": "2026-11-19T01:00:01+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "When you visit one of Norway's open-air museums, you can experience a piece of old Norway: log-built timber houses, farmsteads and farm complexes, often situated in a historic cultural landscape.",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Cela fait 20 ans qu'on #attend la concrétisation du \"Centre wallon d’archéologie du bâti\" place Saint-Jacques - TodayInLiege",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVVhJeENrZGJwb3FoaHRoOGtSbEJFOEdET1JRWjlsaWszeVItMVQ2TFBPZ2cwNG44cjVWbklOR3RkQlo5X3Z5VWZmUG5Wa3ZrVGNfcnd5OXZQdkFYSkpXOTRCWklWNlB5S0g0UUNmN3pESFgzcTRKSkxuV2hVNDZERXRWM1hFUUZPa0xWZHVvQU1DdHpJeFc1WEtCMHRBUmRHV3BYc240VDFWRGNBaC1YdXl0akpOMGI0aHpaTUtZUklLTlhsTHJqRkczS2NQZw?oc=5",
+   "date": "2026-11-18T23:42:33+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Cela fait 20 ans qu'on #attend la concrétisation du \"Centre wallon d’archéologie du bâti\" place Saint-Jacques &nbsp;&nbsp; TodayInLiege",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archaeology students find Roman treasures on first excavation",
+   "link": "https://phys.org/news/2026-11-archaeology-students-roman-treasures-excavation.html",
+   "date": "2026-11-18T23:30:08+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "The discoveries include gold jewelry, inscriptions and a finely carved gemstone, and were made at a site in Redesdale, Northumberland.",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "This strange creature lived 309 million years ago, long before the dinosaurs",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm",
+   "date": "2026-11-18T23:24:05+00:00",
+   "source": "ScienceDaily — Archaeology",
+   "kind": "media",
+   "abstract": "More than 300 million years ago, long before dinosaurs roamed Earth, the Chicago area was a steamy, swampy landscape teeming with bizarre creatures. Now, scientists at the Field Museum have identified a previously unrecognized species of ancient amphibian ancestor, revealing new clues about the evolution of frogs and salamanders.",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
+  },
+  {
+   "title": "Le chef de l’État préside une réunion d’installation de l’Agence nationale d’archéologie : un glorieux passé à exalter - El Moudjahid",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdzZhMjJjcFRhLUtRQTU0V0Q0TXFzY1VUMFZ6WlJmYXZYVk1IOHJLLWZCMHpqZVFQNHN3RXM3eldFNnpSMS1tc0xuTF9FOGFMVU1jNnNTalRYLUhuSDZuZ3g1bDdxVzQ5X0tabVUwSEQ0NGVWVVZKbnFTallHTHNtMVk2a3FyLXJhbXpCeVFxN1ZaYThlMGNuRDV4SktWRVNYSUdISk45bmlVTzNBVE56YUNVNlRtOUdTbklEMFRrWGdCUnU4QXhpUkVtTnI3LTRCalhSZDd1WjNheHp3Q1l2SHpRVmFCRDVvakdsUUhyYVUzUS1fOFE?oc=5",
    "date": "2026-11-18T22:57:48+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Le chef de l’Etat préside une réunion d’installation de l’Agence nationale d’Archéologie : Un glorieux passé à exalter &nbsp;&nbsp; El Moudjahid",
+   "abstract": "Le chef de l’État préside une réunion d’installation de l’Agence nationale d’archéologie : un glorieux passé à exalter &nbsp;&nbsp; El Moudjahid",
+   "doi": null,
+   "first_seen": "2026-11-18T23:23:44+00:00",
+   "alt": null
+  },
+  {
+   "title": "Tebboune installe Slimane Hachi - L'Expression",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjdIREZTbk1zWHAzalMzYlBQZXNQa19WZ2Uxb1dnNlpydW1VeDg5RGRaYm1mWmJoZnc4QmhEWlZPNjJtOU91R2tjT0VWcVJrNGZnZUdGaW1CVkJycVJZeTROQ2hVWGo1OGhfcFZPRUp2aEpmbi1pdHpTT1FyeTUzQzBrU1E?oc=5",
+   "date": "2026-11-18T22:41:24+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Tebboune installe Slimane Hachi &nbsp;&nbsp; L'Expression",
    "doi": null,
    "first_seen": "2026-11-18T23:23:44+00:00",
    "alt": null
@@ -36,17 +355,6 @@
     "url": "",
     "checked_at": "2026-11-18T23:23:44+00:00"
    }
-  },
-  {
-   "title": "Tebboune installe Slimane Hachi - L'Expression",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjdIREZTbk1zWHAzalMzYlBQZXNQa19WZ2Uxb1dnNlpydW1VeDg5RGRaYm1mWmJoZnc4QmhEWlZPNjJtOU91R2tjT0VWcVJrNGZnZUdGaW1CVkJycVJZeTROQ2hVWGo1OGhfcFZPRUp2aEpmbi1pdHpTT1FyeTUzQzBrU1E?oc=5",
-   "date": "2026-11-18T22:30:34+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Tebboune installe Slimane Hachi &nbsp;&nbsp; L'Expression",
-   "doi": null,
-   "first_seen": "2026-11-18T23:23:44+00:00",
-   "alt": null
   },
   {
    "title": "Le président Tebboune préside une réunion de travail consacrée à l'installation de l'Agence nationale d'archéologie - Algerie Eco",
@@ -134,17 +442,6 @@
    "abstract": "COPENHAGEN, DENMARK—According to a statement released by the University of Copenhagen, Mikkel Nørtoft of the [&#8230;] The post Wealth and Status of Early Herders Evaluated appeared first on Archaeology Magazine . COPENHAGEN, DENMARK—According to a statement released by the University of Copenhagen , Mikkel Nørtoft of the University of Copenhagen has developed a system using multiple sources of information to reconstruct social status from grave goods. To test the method, data from some 300 Corded Ware culture graves in Bohemia dated to between 4,000 and 5,000 years ago was evaluated. The analyses of the graves were then compared with genetic ancestry and Y-chromosome patterns to track paternal lineages. The estimated ages of the individuals in the study, and their sex and known illnesses, were included as well. The study suggests that social inequality emerged over several centuries after people from the steppe migrated into Bohemia. At first, differences in wealth appear to have been small, mostly age-related, and distributed across different lineages. “Archaeologists have long debated whether steppe populations migrating across Europe from Ukraine brought with them a highly uneq…",
    "doi": null,
    "first_seen": "2026-11-18T23:23:44+00:00",
-   "alt": null
-  },
-  {
-   "title": "Saint-Paul-Trois-Châteaux. La journée départementale d’archéologie livrera ses secrets ce samedi 21 novembre - Le Dauphiné Libéré",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWndZWjhYeTBWU0x3a0ZzRVB3N2hwdmQ5N3Q3S0tCTTJ6Z0QzZm4yMk5MOEpPU1hDUWJyM2c1dWVxaTRpR0M4NDlJenBjakd3YXI1MG1SZDc3bGlYVkR0V1JqTUVhVUdqLThLM1U1VFR6VWZCam1VeEtMaGZjejgyQ183b1pEVHFXbTk0YzFlVEFtYjAxVzBXQXlvcWlTX3VFY1JMaHU2Q0FQLXNHUFctY2ZicnBTQXZUR3R4RHI4akZqeGU3Snc?oc=5",
-   "date": "2026-11-18T18:10:15+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Saint-Paul-Trois-Châteaux. La journée départementale d’archéologie livrera ses secrets ce samedi 21 novembre &nbsp;&nbsp; Le Dauphiné Libéré",
-   "doi": null,
-   "first_seen": "2026-11-18T19:25:23+00:00",
    "alt": null
   },
   {
@@ -250,17 +547,6 @@
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "Le président de la République préside une réunion de travail consacrée à l'installation de l'Agence nationale d'archéologie &nbsp;&nbsp; وكالة الأنباء الجزائرية",
-   "doi": null,
-   "first_seen": "2026-11-18T19:25:23+00:00",
-   "alt": null
-  },
-  {
-   "title": "Metz. Conférence \"L'Âme souterraine des fortifications messines et une archéologie au quotidien\" organisée par les Sites et monuments de Moselle (SMM) - Le Republicain Lorrain",
-   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOcHNDaUNsQmlJZm5FTGZGcC1WcGh3RHRmTlU3UmtKa2dBWnFYd2luRTVSbmRVN2hyVVViYzFVdHFyWXVYcEZ2WlJzX29tWGRZelBUSzVGRFFmNFJETVVFOXU4am1QVUJrYWhXd0RsQnZzdXU3bjYtS1ZyYk5HM2NCLWYwamJfUmNPc0JTWVR3a1dKQ0RGS0ZKbkpIbGFaV1JmaFdJVnRyc3RKSk5uNE1yOVpRLW9BM2Z1cEZZWE5YVnVVUllubjZ5XzdzejRtNUVEZXhIY3QtcENfanI1LWcxVmxsTlFSUHg5cnBQQU9iMXlsUWVqOVlxcnFYY3J5NEhQdmhyMG42VGZjbzVVZ1p0QUI4OExNNkoxWWVYSVNBdEx5WWZlMmdBbXpLUWxGektTeUFZ?oc=5",
-   "date": "2026-11-18T15:50:56+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Metz. Conférence \"L'Âme souterraine des fortifications messines et une archéologie au quotidien\" organisée par les Sites et monuments de Moselle (SMM) &nbsp;&nbsp; Le Republicain Lorrain",
    "doi": null,
    "first_seen": "2026-11-18T19:25:23+00:00",
    "alt": null
@@ -475,14 +761,14 @@
    "alt": null
   },
   {
-   "title": "Daily Quiz: 18 November",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-11-18T07:00:07+00:00",
-   "source": "BBC HistoryExtra",
+   "title": "Saint-Paul-Trois-Châteaux. La journée départementale d’archéologie livrera ses secrets ce samedi 21 novembre - Le Dauphiné Libéré",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWndZWjhYeTBWU0x3a0ZzRVB3N2hwdmQ5N3Q3S0tCTTJ6Z0QzZm4yMk5MOEpPU1hDUWJyM2c1dWVxaTRpR0M4NDlJenBjakd3YXI1MG1SZDc3bGlYVkR0V1JqTUVhVUdqLThLM1U1VFR6VWZCam1VeEtMaGZjejgyQ183b1pEVHFXbTk0YzFlVEFtYjAxVzBXQXlvcWlTX3VFY1JMaHU2Q0FQLXNHUFctY2ZicnBTQXZUR3R4RHI4akZqeGU3Snc?oc=5",
+   "date": "2026-11-18T06:10:59+00:00",
+   "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "abstract": "Saint-Paul-Trois-Châteaux. La journée départementale d’archéologie livrera ses secrets ce samedi 21 novembre &nbsp;&nbsp; Le Dauphiné Libéré",
    "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
+   "first_seen": "2026-11-18T19:25:23+00:00",
    "alt": null
   },
   {
@@ -505,6 +791,17 @@
    "abstract": "50 ans depuis les fouilles de Biache-Saint-Vaast : la Maison de l'archéologie dévoile les secrets de l'homme de Néandertal &nbsp;&nbsp; France 3 Régions",
    "doi": null,
    "first_seen": "2026-11-18T14:09:48+00:00",
+   "alt": null
+  },
+  {
+   "title": "Metz. Conférence \"L'Âme souterraine des fortifications messines et une archéologie au quotidien\" organisée par les Sites et monuments de Moselle (SMM) - Le Republicain Lorrain",
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOcHNDaUNsQmlJZm5FTGZGcC1WcGh3RHRmTlU3UmtKa2dBWnFYd2luRTVSbmRVN2hyVVViYzFVdHFyWXVYcEZ2WlJzX29tWGRZelBUSzVGRFFmNFJETVVFOXU4am1QVUJrYWhXd0RsQnZzdXU3bjYtS1ZyYk5HM2NCLWYwamJfUmNPc0JTWVR3a1dKQ0RGS0ZKbkpIbGFaV1JmaFdJVnRyc3RKSk5uNE1yOVpRLW9BM2Z1cEZZWE5YVnVVUllubjZ5XzdzejRtNUVEZXhIY3QtcENfanI1LWcxVmxsTlFSUHg5cnBQQU9iMXlsUWVqOVlxcnFYY3J5NEhQdmhyMG42VGZjbzVVZ1p0QUI4OExNNkoxWWVYSVNBdEx5WWZlMmdBbXpLUWxGektTeUFZ?oc=5",
+   "date": "2026-11-18T03:50:20+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Metz. Conférence \"L'Âme souterraine des fortifications messines et une archéologie au quotidien\" organisée par les Sites et monuments de Moselle (SMM) &nbsp;&nbsp; Le Republicain Lorrain",
+   "doi": null,
+   "first_seen": "2026-11-18T19:25:23+00:00",
    "alt": null
   },
   {
@@ -840,6 +1137,17 @@
    "alt": null
   },
   {
+   "title": "Les Celtes : une civilisation européenne révélée par l’archéologie plus que par les écrits gréco-latins - Agence Bretagne Presse",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWd1ZUdJempwWXNOZjNLS0c0ZC1pbUpaUFZNdDh2eUtWbVN0NGJ1aTFrajRMcnlNRjFIRkxnM2M2QTN0aG5kOENNWl9wOEFtT3BseVZkcW05b1RmZDZjc3Fqc1VBanhVZkJ5aGxPOWt2Z3UyZHZ3QzlqVXJUMUZnZmlFXzFobkU?oc=5",
+   "date": "2026-11-17T10:08:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Les Celtes : une civilisation européenne révélée par l’archéologie plus que par les écrits gréco-latins &nbsp;&nbsp; Agence Bretagne Presse",
+   "doi": null,
+   "first_seen": "2026-11-13T13:11:31+00:00",
+   "alt": null
+  },
+  {
    "title": "La consommation d’antibiotiques recule, mais la résistance des bactéries se renforce",
    "link": "https://www.sciencesetavenir.fr/sante/antibioresistance-la-france-face-a-une-menace-qui-progresse-malgre-la-baisse-des-prescriptions_196166?xtor=RSS-16",
    "date": "2026-11-17T09:04:16+00:00",
@@ -901,6 +1209,17 @@
     "url": "",
     "checked_at": "2026-11-18T14:09:48+00:00"
    }
+  },
+  {
+   "title": "Le château de Couloumé : des amours secrètes d'un abbé et d’une femme mariée à l'accueil de l'empereur Napoléon III et de l'impératrice Eugénie - ladepeche.fr",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORGxxSjVTYnl6NXg5QTlYZDVEMklmZ2FNWmk0ekZ3QUMxVXpKc3dWbWJPbVZxN3U2LWIwZlY3dGs4a25nTWtzN1JPR1VIZzQtX2VjTWY3dFpJZ0Rsb3NvUXpCbmhONFFoUGJjelhSblVGZDhYSnBhLWphSXlRTmtMUzlUZ2daNDJvdUdBQUxoZnM3S0hkS09EMm42Q3dtVDJ6UlNkdHdVZ25BYlMyTEZucFNWNWFkUVE1dFBRd3p3SnYzT1RrYlF6dG1qMlJHYnFTbnhEcENUMXNSOUJXOXl0WV9rNzJNd2tkbEh3bl9mSkI4SU9hak5vbmRiU0ZPc2R2aml5anFqY0RrRFYtcFFTRkVKUQ?oc=5",
+   "date": "2026-11-17T06:20:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Le château de Couloumé : des amours secrètes d'un abbé et d’une femme mariée à l'accueil de l'empereur Napoléon III et de l'impératrice Eugénie &nbsp;&nbsp; ladepeche.fr",
+   "doi": null,
+   "first_seen": "2026-11-19T14:29:03+00:00",
+   "alt": null
   },
   {
    "title": "À Pompéi, de mystérieux impacts pourraient dévoiler l’usage d’une arme de type “mitrailleuse” antique grecque - Science et vie",
@@ -1218,7 +1537,7 @@
    "date": null,
    "source": "Journal of Archaeological Science",
    "kind": "journal",
-   "abstract": "Publication date: Available online 16 November 2026 Source: Journal of Archaeological Science Author(s): Sonia Carbonell Pastor, Margalida A. Coll Sabater, Adrià Breu Barcons",
+   "abstract": "Publication date: December 2026 Source: Journal of Archaeological Science, Volume 196 Author(s): Sonia Carbonell Pastor, Margalida A. Coll Sabater, Adrià Breu Barcons",
    "doi": null,
    "first_seen": "2026-11-16T13:44:10+00:00",
    "alt": null
@@ -1927,17 +2246,6 @@
    "abstract": "C’est une avancée que les spécialistes n’attendaient plus vraiment. Pour la première fois, un médicament semble parvenir à faire reculer significativement l’un des cancers les plus redoutables.&nbsp;&nbsp;&nbsp;",
    "doi": null,
    "first_seen": "2026-11-14T12:15:22+00:00",
-   "alt": null
-  },
-  {
-   "title": "Les Celtes : une civilisation européenne révélée par l’archéologie plus que par les écrits gréco-latins - Agence Bretagne Presse",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWd1ZUdJempwWXNOZjNLS0c0ZC1pbUpaUFZNdDh2eUtWbVN0NGJ1aTFrajRMcnlNRjFIRkxnM2M2QTN0aG5kOENNWl9wOEFtT3BseVZkcW05b1RmZDZjc3Fqc1VBanhVZkJ5aGxPOWt2Z3UyZHZ3QzlqVXJUMUZnZmlFXzFobkU?oc=5",
-   "date": "2026-11-14T08:31:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Les Celtes : une civilisation européenne révélée par l’archéologie plus que par les écrits gréco-latins &nbsp;&nbsp; Agence Bretagne Presse",
-   "doi": null,
-   "first_seen": "2026-11-13T13:11:31+00:00",
    "alt": null
   },
   {
@@ -38425,17 +38733,6 @@
    "abstract": "Mettre en valeur le patrimoine &nbsp;&nbsp; Toulouse Mairie Métropole, site officiel.",
    "doi": null,
    "first_seen": "2026-10-10T11:13:20+00:00",
-   "alt": null
-  },
-  {
-   "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
-   "link": "https://www.sciencedaily.com/releases/2026/07/260722032105.htm",
-   "date": "2026-07-22T13:10:01+00:00",
-   "source": "ScienceDaily — Archaeology",
-   "kind": "media",
-   "abstract": "Ancient fern savannahs may have transformed parts of Europe into a wildfire-prone inferno during the end-Triassic mass extinction. New fossil evidence suggests the ferns repeatedly regrew after fires, creating fresh fuel that helped prolong the devastation.",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
   }
  ]
