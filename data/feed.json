@@ -1,12 +1,122 @@
 {
- "generated_at": "2026-11-20T23:05:10+00:00",
+ "generated_at": "2026-11-21T13:31:25+00:00",
  "counts": {
-  "total": 2878,
-  "journal": 981,
-  "media": 1897,
-  "new_this_run": 70
+  "total": 2885,
+  "journal": 983,
+  "media": 1902,
+  "new_this_run": 77
  },
  "items": [
+  {
+   "title": "Waste or tool? Combined use-wear analysis of Mesolithic knapped stone and shell tools in Asturias (northern Iberia)",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0305440326002682?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Archaeological Science",
+   "kind": "journal",
+   "abstract": "Publication date: January 2027 Source: Journal of Archaeological Science, Volume 197 Author(s): Jorge Calvo-Gómez, David Cuenca-Solana, Diego Herrero-Alonso, Natividad Fuertes-Prieto, Igor Gutiérrez-Zugasti",
+   "doi": null,
+   "first_seen": "2026-11-21T13:31:25+00:00",
+   "alt": null
+  },
+  {
+   "title": "Rethinking “abandonment”: recursive place-making and social memory in Peru through the <em>placas pintadas</em> portable rock art tradition",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0278416526000838?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Anthropological Archaeology",
+   "kind": "journal",
+   "abstract": "Publication date: December 2026 Source: Journal of Anthropological Archaeology, Volume 84 Author(s): David A. Reid, Kurt Rademaker",
+   "doi": null,
+   "first_seen": "2026-11-21T13:31:25+00:00",
+   "alt": null
+  },
+  {
+   "title": "Chronothérapie : et si l’heure du traitement faisait la différence ?",
+   "link": "https://www.sciencesetavenir.fr/sante/remettre-les-gelules-a-l-heure_195959?xtor=RSS-16",
+   "date": "2026-11-21T13:00:00+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Le bon médicament au bon moment. Apparue il y a une trentaine d’années, la chronothérapie cherche à adapter les traitements à notre horloge biologique et au rythme d’activité des cellules concernées.&nbsp;",
+   "doi": null,
+   "first_seen": "2026-11-21T13:31:25+00:00",
+   "alt": null
+  },
+  {
+   "title": "En 1943, un ingénieur cherchait un substitut au caoutchouc pour l'effort de guerre : sa pâte rebondissante est devenue un jouet 7 ans plus tard - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPYThQVnJmODZDWFI0S2xERjJYV2lSYUZqdkpVcktBOFNzUUFxdUtQQm9vWkg2VTdSZjFMQ05qRUNIbFR5QzBsWC1xa3QyandwWkFZUVRrTWtPbGdmbjZ3azNpTXktTUZXZTZGTS04VWxiaXhGLUFBWHZrbEVtcHp6R0ljTmZNWkFXdmY1Tl85QmxwRno0aHJPOUFBYUNPLXp4bFFtOTgzSkpDNkdMWXlxT1JSLUFNdDZrbDhjRmRBc25uMUxNWlhHMEF4d2w5dGRoRzRsNVROWFhGTldLNTN5ZmpyOFpBbUFic1dla1lqYi03SnRwNHRmX3NRT2U1UEprLXFkM1pWbl96TDlZcDZxYTdxTlJ6NndyV0x0LXdhbTR2WVFPMkJFS0tLYjVObjNfQnVZaGlhWUs?oc=5",
+   "date": "2026-11-21T10:40:15+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "En 1943, un ingénieur cherchait un substitut au caoutchouc pour l'effort de guerre : sa pâte rebondissante est devenue un jouet 7 ans plus tard &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-21T13:31:25+00:00",
+   "alt": null
+  },
+  {
+   "title": "Après des semaines de tensions locales, le mémorial de Cardeilhac va être remis en place - ladepeche.fr",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVGtWcE1FdUN6TVA0VTRNNmV5U3J2TkdZZS1GYkt5b2RJNnNwcldMRVVwMXZqNUVGOUFPVlRVUGVBMXpJcm5kZkF3YmxfRi00TVFRNG9rb18wWVFUaGx3V19sQS1SMl9uVEdGdktITTc3Y0FBcGRGXzRTb1pqZ3djTzNVUk10YjN2M01yMm1fNmQwRzdwdE9jZEJrWXFJVUgtQUIxSjRaZTd3dUYtMzdBcjN3ZmFsSGRkeUZpTzhOMHN2ZWNDb3ZoX2xWOHNsMkNUQXc?oc=5",
+   "date": "2026-11-21T09:47:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Après des semaines de tensions locales, le mémorial de Cardeilhac va être remis en place &nbsp;&nbsp; ladepeche.fr",
+   "doi": null,
+   "first_seen": "2026-11-21T13:31:25+00:00",
+   "alt": null
+  },
+  {
+   "title": "200 hippopotames : l'encombrant héritage d'un baron de la drogue",
+   "link": "https://www.sciencesetavenir.fr/animaux/colombie-les-hippopotames-de-pablo-escobar-une-invasion-devenue-incontrolable_196279?xtor=RSS-26",
+   "date": "2026-11-21T09:00:00+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "En Colombie, près de 200 pachydermes, descendants des quatre spécimens importés par Pablo Escobar, peuplent aujourd’hui le bassin du fleuve Magdalena. Leur prolifération bouleverse les écosystèmes locaux et contraint le gouvernement colombien à prendre des mesures radicales.&nbsp;",
+   "doi": null,
+   "first_seen": "2026-11-21T13:31:25+00:00",
+   "alt": null
+  },
+  {
+   "title": "La vie de château au Moyen Âge était plus confortable qu’on ne le croit - Courrier international",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObTVQN3dGMll2TUM4X3JIb19KRUE5MkpMNG1IWTA3d05nMnMyZGlVekoxd2dlZDAtS3dOcERIUE1ObVlIUDRtSnBQdUI3OV9IbnhZdi1VUkdHOXNWS2wyNnhsdzE4cl9zeXF1RkJnZnlmTEJEZ3BPaXBNdFdERG1oLUZPY1pGcWhKbzdXWlk0Y2dVQm90bUVfMDQzeURpQ05EMzNtOTdpQzNENGJjd2VHcHU0d2pEZlc0c0E1NVl2aGZEcTg2WXZwTE1FTEVNUkM0M1R4V2FQUQ?oc=5",
+   "date": "2026-11-21T07:22:09+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "La vie de château au Moyen Âge était plus confortable qu’on ne le croit &nbsp;&nbsp; Courrier international",
+   "doi": null,
+   "first_seen": "2026-11-21T13:31:25+00:00",
+   "alt": null
+  },
+  {
+   "title": "RÉCIT. \"Tout mais pas ça !\" Comment la mère de Véronique Sanson, ancienne résistante, s'est évadée d'un camp de prisonnières du Tarn, où elle était internée - ladepeche.fr",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPSGl4TjJDRGYyQ2JxbUI0N256ZGhCd1haUWNfSE5yRE4wQWo2VGRJN2FfUmlNRF9pV3hsYk5hRzNvanlhTEljb2M1RlRJNWlCVU02T2ZjNEM4VDZEZlZmZ1ZGWjc2NWpRZ2NkeXhDWV9ZT2Q4cWVrRFJ4bndFeHN0aldyc25QSG9XRVNqeGdLY21ubzdTbk1PU2JVbVp6cnc3R1JQY2pOa2pBUHNrRXRfQ3M5NHBJQS1WSGVCOW5pVi1WY2VaVnJNeGstUGdTVHhhMzBFbG5tWmQ1VHQ0MGdSTUw2eE9XVzA3b0VJemV2X2p0ZGIwQUZFN1NCYkZsQXRZLVZSTVVUVE5qUFFjR2tDTDMxckNDV1FYNnlteU50THI?oc=5",
+   "date": "2026-11-21T07:01:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "RÉCIT. \"Tout mais pas ça !\" Comment la mère de Véronique Sanson, ancienne résistante, s'est évadée d'un camp de prisonnières du Tarn, où elle était internée &nbsp;&nbsp; ladepeche.fr",
+   "doi": null,
+   "first_seen": "2026-11-21T13:31:25+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily Quiz: 21 November",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-11-21T07:00:14+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "Visite commentée du musée archéologique de Dijon - jds.fr",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVd3WlFVdWZWTk5aa0hSSktfSkIzSVI2X2QtSElubTh1RTJYZ1FzZGYyR2kzdzk1UmhGd0pJRXlRb19DT3Y1VFg5aEVtMVBTZVZYMVJhQlloeVdpSW9VbEpfeThrS1hGbXBrMnltampmYUVfNno2Y0hUOWhHQkpuSHNBLXNIVnlwaXR0NkpwZkticzg0WUF3ZE54UU8tY291MHRRUUloUWxPeVlQNDJzaw?oc=5",
+   "date": "2026-11-20T23:14:15+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Visite commentée du musée archéologique de Dijon &nbsp;&nbsp; jds.fr",
+   "doi": null,
+   "first_seen": "2026-11-21T13:31:25+00:00",
+   "alt": null
+  },
   {
    "title": "Ancient bison hunting site in Texas challenges long-held assumptions",
    "link": "https://phys.org/news/2026-11-ancient-bison-site-texas-held.html",
@@ -27,6 +137,17 @@
    "abstract": "Researchers recently used multispectral imaging technology to try to uncover hidden information from medieval manuscripts at the Rare Book and Manuscript Library at the University of Illinois Urbana-Champaign. The library hosted a digital imaging workshop in early October that served as a pilot study for how the technology can help analyze fragile, centuries-old documents.",
    "doi": null,
    "first_seen": "2026-11-20T23:05:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Qui est Slimane Hachi, le nouveau directeur général de l’Agence nationale de l’archéologie ? - Algerie360",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XSXlVRFRWZnVHNXlOQ3IyR1ZnbW9FMU83aEx6WHVJa0JGdkR1UXhkZHRfM0dWYUxYWFFvVmowTmNkbU5kZmVlQXdBRHY0NXlPTHh5NmZuWTBqQ2U5OGJRRHZuYjZ3T21aSGY2OW1pUm5wV29ielQ5TjRB?oc=5",
+   "date": "2026-11-20T20:29:26+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Qui est Slimane Hachi, le nouveau directeur général de l’Agence nationale de l’archéologie ? &nbsp;&nbsp; Algerie360",
+   "doi": null,
+   "first_seen": "2026-11-18T23:23:44+00:00",
    "alt": null
   },
   {
@@ -129,17 +250,6 @@
    "alt": null
   },
   {
-   "title": "Daily Quiz: 20 November",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-11-20T16:06:13+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
    "title": "Arsameia tunnel in Turkey may have drawn ancient pilgrims into the dark",
    "link": "https://archaeologymag.com/2026/11/arsameia-tunnel-drew-pilgrims-into-the-dark/",
    "date": "2026-11-20T15:57:52+00:00",
@@ -203,17 +313,6 @@
    "abstract": "Archéologie du littoral atlantique : une plongée inédite dans l'histoire ancienne des sociétés littorales de la façade atlantique &nbsp;&nbsp; Mer et Marine",
    "doi": null,
    "first_seen": "2026-11-20T19:07:40+00:00",
-   "alt": null
-  },
-  {
-   "title": "Tebboune installe Slimane Hachi - L'Expression",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjdIREZTbk1zWHAzalMzYlBQZXNQa19WZ2Uxb1dnNlpydW1VeDg5RGRaYm1mWmJoZnc4QmhEWlZPNjJtOU91R2tjT0VWcVJrNGZnZUdGaW1CVkJycVJZeTROQ2hVWGo1OGhfcFZPRUp2aEpmbi1pdHpTT1FyeTUzQzBrU1E?oc=5",
-   "date": "2026-11-20T14:36:07+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Tebboune installe Slimane Hachi &nbsp;&nbsp; L'Expression",
-   "doi": null,
-   "first_seen": "2026-11-18T23:23:44+00:00",
    "alt": null
   },
   {
@@ -475,9 +574,20 @@
    }
   },
   {
+   "title": "Carpentras. Le Groupe d’histoire et d’archéologie prépare l’avenir de ses collections - Le Dauphiné Libéré",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUUlzVThyM2ttQ004NHZXaDR2cDh2bWRFdUQ3ZURMdU4tT2dmTHM3elI4by1SX2hZTXJjX0paZm9DUVV4UlBqQl9TZl9tbkZPSEk5ZTJYOEx0dTlkR2pta0ZyYk1PY3hCNm5aQmExc1NndnZBRWFQYTNCbHlWOFlTcmlRR1pkaTliUWZmN1B2SU5jSjd1RnpRM2RpRVVxR2NWM0N0ekJ0REFKRFFNTjE0VTVIZ0lhSUdhakV1MXJBcDllOFFWZUE?oc=5",
+   "date": "2026-11-19T18:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Carpentras. Le Groupe d’histoire et d’archéologie prépare l’avenir de ses collections &nbsp;&nbsp; Le Dauphiné Libéré",
+   "doi": null,
+   "first_seen": "2026-11-19T19:29:53+00:00",
+   "alt": null
+  },
+  {
    "title": "«Le caractère exceptionnel de cette découverte réside dans la rareté des sites»: des objets du V - L'Est Républicain",
    "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNM2FIUjNtME1BTmRjZjdSQmxEdGNzblU0T2dLUlZ0MjNnQjd5VWc2Ny1EUjRVXzZlcW9IZE45SktQVG5KTk5rU1VXc0dudlJGMU5kSE8tMU9yQnVYZWZrQjFLTm9yOUdtd1VyUVhVRUNTRkxZUHE3cU1xbFl5QWE4a0E5SGZ4X3I3ZC1nbzhqeW9QSTNDZ1F2SWtLSlBXWWJtMUVoQng5OWJaaUZSV0VWcVlJX1h3WVkwZlJjSWhDRkNKUXRhMnJ4Nk5iME9DcGIzVjNsVG9UX1hKbHphdTQ2NzBwTzZlQmxiTkhVZWJhNWlBR2JsODQwemhUaTFvSTdvdWdUYU40SUxGRlI5V1FMTWFOUzZwMnF0cktRd0FmT2g2dWJXYWV2RkZ6dGJUZkQ0?oc=5",
-   "date": "2026-11-19T17:50:48+00:00",
+   "date": "2026-11-19T17:45:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "«Le caractère exceptionnel de cette découverte réside dans la rareté des sites»: des objets du V &nbsp;&nbsp; L'Est Républicain",
@@ -794,17 +904,6 @@
    "alt": null
   },
   {
-   "title": "Carpentras. Le Groupe d’histoire et d’archéologie prépare l’avenir de ses collections - Le Dauphiné Libéré",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUUlzVThyM2ttQ004NHZXaDR2cDh2bWRFdUQ3ZURMdU4tT2dmTHM3elI4by1SX2hZTXJjX0paZm9DUVV4UlBqQl9TZl9tbkZPSEk5ZTJYOEx0dTlkR2pta0ZyYk1PY3hCNm5aQmExc1NndnZBRWFQYTNCbHlWOFlTcmlRR1pkaTliUWZmN1B2SU5jSjd1RnpRM2RpRVVxR2NWM0N0ekJ0REFKRFFNTjE0VTVIZ0lhSUdhakV1MXJBcDllOFFWZUE?oc=5",
-   "date": "2026-11-19T05:53:04+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Carpentras. Le Groupe d’histoire et d’archéologie prépare l’avenir de ses collections &nbsp;&nbsp; Le Dauphiné Libéré",
-   "doi": null,
-   "first_seen": "2026-11-19T19:29:53+00:00",
-   "alt": null
-  },
-  {
    "title": "Montrevault-sur-Èvre. Fief patrimoine s’intéresse à l’archéologie - Ouest-France",
    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZ2V3OWNYX1piTU5iS2x5VGxuQlZDZFBIbVlOLVBvRlpZN3pFZzYtd1dEZ2NHWXdfQm1IeDRWNEg1Tk1yb19STE1ORHVESWtiUExhbmdnWlFJZWdYdlRkOWExcmtQRk1IQWlpcXhnbVdua29jQmNORUxfRm9sbG8xbW5fS2xMeS1JaTFtQXFiRXU3cFBhZ1NSTWJmaG5nY244YlZHUTFfT3hVSFI0TXItQ3AySmh4UkdOeHdVZ2JUeWNjdWVEa0hRaV9rdzlnbXl6TTZta0kwOHZkM2ZUQWZZMnFfcVhPLXBSUkl0a205UW12UXBZNHhFNGMyd3RQWE5K?oc=5",
    "date": "2026-11-19T05:23:39+00:00",
@@ -934,6 +1033,17 @@
    }
   },
   {
+   "title": "Tebboune installe Slimane Hachi - L'Expression",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjdIREZTbk1zWHAzalMzYlBQZXNQa19WZ2Uxb1dnNlpydW1VeDg5RGRaYm1mWmJoZnc4QmhEWlZPNjJtOU91R2tjT0VWcVJrNGZnZUdGaW1CVkJycVJZeTROQ2hVWGo1OGhfcFZPRUp2aEpmbi1pdHpTT1FyeTUzQzBrU1E?oc=5",
+   "date": "2026-11-18T22:30:34+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Tebboune installe Slimane Hachi &nbsp;&nbsp; L'Expression",
+   "doi": null,
+   "first_seen": "2026-11-18T23:23:44+00:00",
+   "alt": null
+  },
+  {
    "title": "Le président Tebboune préside une réunion de travail consacrée à l'installation de l'Agence nationale d'archéologie - Algerie Eco",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOEtjX1FReER1TEVNY09uYzR1M1FCdTY3R3ozR2JCaDNSeTZLQUpRUUw4WnBaeEdEOGgyaGRuRkJXUGo4X1NRRjVVcTk3NTVxN01wVm41eHBXZHFYcF8yQnZvdHFod1dfVVRTVEJSZFBSaFl0YUVYQ2F1RmhybXRWa3VFNjlXRG1NbExOOGZoSC1Fa24wV0hNRVN6R05KaG42WlR2LTZybkJhaWZQWTFGTDE5TVc0clB0a0JXX1Z4djVVV0MxUE5mYjRDWE9DNzRJNmtqaTlfVm81cDRDcjczamF3?oc=5",
    "date": "2026-11-18T20:45:20+00:00",
@@ -962,17 +1072,6 @@
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "Stara Zagora réunit opéra, cinéma et archéologie en une semaine de novembre &nbsp;&nbsp; Foro3D",
-   "doi": null,
-   "first_seen": "2026-11-18T23:23:44+00:00",
-   "alt": null
-  },
-  {
-   "title": "Les missions élargies de la nouvelle Agence d’archéologie dévoilées - Algerie360",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XSXlVRFRWZnVHNXlOQ3IyR1ZnbW9FMU83aEx6WHVJa0JGdkR1UXhkZHRfM0dWYUxYWFFvVmowTmNkbU5kZmVlQXdBRHY0NXlPTHh5NmZuWTBqQ2U5OGJRRHZuYjZ3T21aSGY2OW1pUm5wV29ielQ5TjRB?oc=5",
-   "date": "2026-11-18T19:38:13+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Les missions élargies de la nouvelle Agence d’archéologie dévoilées &nbsp;&nbsp; Algerie360",
    "doi": null,
    "first_seen": "2026-11-18T23:23:44+00:00",
    "alt": null
@@ -1019,6 +1118,17 @@
    "abstract": "COPENHAGEN, DENMARK—According to a statement released by the University of Copenhagen, Mikkel Nørtoft of the [&#8230;] The post Wealth and Status of Early Herders Evaluated appeared first on Archaeology Magazine . COPENHAGEN, DENMARK—According to a statement released by the University of Copenhagen , Mikkel Nørtoft of the University of Copenhagen has developed a system using multiple sources of information to reconstruct social status from grave goods. To test the method, data from some 300 Corded Ware culture graves in Bohemia dated to between 4,000 and 5,000 years ago was evaluated. The analyses of the graves were then compared with genetic ancestry and Y-chromosome patterns to track paternal lineages. The estimated ages of the individuals in the study, and their sex and known illnesses, were included as well. The study suggests that social inequality emerged over several centuries after people from the steppe migrated into Bohemia. At first, differences in wealth appear to have been small, mostly age-related, and distributed across different lineages. “Archaeologists have long debated whether steppe populations migrating across Europe from Ukraine brought with them a highly uneq…",
    "doi": null,
    "first_seen": "2026-11-18T23:23:44+00:00",
+   "alt": null
+  },
+  {
+   "title": "Saint-Paul-Trois-Châteaux. La journée départementale d’archéologie livrera ses secrets ce samedi 21 novembre - Le Dauphiné Libéré",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWndZWjhYeTBWU0x3a0ZzRVB3N2hwdmQ5N3Q3S0tCTTJ6Z0QzZm4yMk5MOEpPU1hDUWJyM2c1dWVxaTRpR0M4NDlJenBjakd3YXI1MG1SZDc3bGlYVkR0V1JqTUVhVUdqLThLM1U1VFR6VWZCam1VeEtMaGZjejgyQ183b1pEVHFXbTk0YzFlVEFtYjAxVzBXQXlvcWlTX3VFY1JMaHU2Q0FQLXNHUFctY2ZicnBTQXZUR3R4RHI4akZqeGU3Snc?oc=5",
+   "date": "2026-11-18T18:04:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Saint-Paul-Trois-Châteaux. La journée départementale d’archéologie livrera ses secrets ce samedi 21 novembre &nbsp;&nbsp; Le Dauphiné Libéré",
+   "doi": null,
+   "first_seen": "2026-11-18T19:25:23+00:00",
    "alt": null
   },
   {
@@ -1335,17 +1445,6 @@
    "abstract": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificed A coroner’s investigation into Northern Ireland ’s most venerable cold case has concluded that the victim was decapitated more than 2,000 years ago. The inquest-style inquiry determined that Ballymacombs More Woman – the name given to iron age remains found in a County Derry bog three years ago – was between 15 and 22 years old when she was beheaded from behind with a bladed weapon. Continue reading...",
    "doi": null,
    "first_seen": "2026-11-18T14:09:48+00:00",
-   "alt": null
-  },
-  {
-   "title": "Saint-Paul-Trois-Châteaux. La journée départementale d’archéologie livrera ses secrets ce samedi 21 novembre - Le Dauphiné Libéré",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWndZWjhYeTBWU0x3a0ZzRVB3N2hwdmQ5N3Q3S0tCTTJ6Z0QzZm4yMk5MOEpPU1hDUWJyM2c1dWVxaTRpR0M4NDlJenBjakd3YXI1MG1SZDc3bGlYVkR0V1JqTUVhVUdqLThLM1U1VFR6VWZCam1VeEtMaGZjejgyQ183b1pEVHFXbTk0YzFlVEFtYjAxVzBXQXlvcWlTX3VFY1JMaHU2Q0FQLXNHUFctY2ZicnBTQXZUR3R4RHI4akZqeGU3Snc?oc=5",
-   "date": "2026-11-18T06:10:59+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Saint-Paul-Trois-Châteaux. La journée départementale d’archéologie livrera ses secrets ce samedi 21 novembre &nbsp;&nbsp; Le Dauphiné Libéré",
-   "doi": null,
-   "first_seen": "2026-11-18T19:25:23+00:00",
    "alt": null
   },
   {
@@ -39215,28 +39314,6 @@
    "source": "The Guardian — Archaeology",
    "kind": "media",
    "abstract": "Jewellery with origins in Iran worn at an Odyssey photocall turns the spotlight on the trade in archaeological finds The Odyssey has stormed cinemas, but while its take on the Homeric epic has created ripples among western classicists, it is an actor’s earrings that have made waves further afield. Zendaya, who portrays the goddess Athena in the movie, provoked outrage when she appeared at a London photocall wearing earrings that were allegedly made from Iranian artefacts dating back to the 1st millennium BC. Continue reading...",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "Ancient ape fossil in Egypt challenges the story of human origins",
-   "link": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
-   "date": "2026-07-24T07:03:54+00:00",
-   "source": "ScienceDaily — Archaeology",
-   "kind": "media",
-   "abstract": "A newly identified fossil ape from northern Egypt is reshaping ideas about where the ancestors of modern apes first emerged. Analyses place it closer to living apes than any known East African species of the same age, pointing to North Africa and the Middle East as a possible birthplace and crossroads for the ape lineage that eventually produced gibbons, orangutans, gorillas, chimpanzees, and humans.",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "New giant salamander species discovered in 3.5-million-year-old fossils",
-   "link": "https://www.sciencedaily.com/releases/2026/07/260722032119.htm",
-   "date": "2026-07-24T01:58:41+00:00",
-   "source": "ScienceDaily — Archaeology",
-   "kind": "media",
-   "abstract": "Fossils discovered in Japan more than two decades ago have finally been identified as a new genus and species of giant salamander. Limnospondylus ajimuensis lived around 3.5 million years ago in a warmer, wetter Kyushu and may have reached 1.1 meters in length. Its discovery hints that many more unknown giant salamanders could be hiding among fossils previously given the wrong classification.",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
