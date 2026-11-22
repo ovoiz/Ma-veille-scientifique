@@ -1,12 +1,111 @@
 {
- "generated_at": "2026-11-21T22:11:16+00:00",
+ "generated_at": "2026-11-22T13:25:15+00:00",
  "counts": {
-  "total": 2897,
+  "total": 2908,
   "journal": 983,
-  "media": 1914,
-  "new_this_run": 71
+  "media": 1925,
+  "new_this_run": 45
  },
  "items": [
+  {
+   "title": "Comment l’IA fait-elle des maths ?",
+   "link": "https://www.sciencesetavenir.fr/fondamental/mathematiques/comment-l-ia-fait-elle-des-maths_196275?xtor=RSS-10",
+   "date": "2026-11-22T13:00:00+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Cette année l'IA est devenue capable de démontrer des théorèmes qui résistaient aux mathématiciens. Derrière ces prouesses des milliers d'agents intelligents travaillent ensemble pour défricher des pistes élaborer des preuves et vérifier leur validité.",
+   "doi": null,
+   "first_seen": "2026-11-22T13:25:15+00:00",
+   "alt": null
+  },
+  {
+   "title": "PARIS : Vente Artcurial - L'archéologie et les arts d'Orient totalisent plus de 7,7 millions d' - Presse Agence",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQazJCcFFMQ0h1VmdPbkttLUVLeFdXZVNqaUxPckFXRDZJVkFVN1o5WDJqeHhiMmlxMVZ4bG5ZTGtjR21sM0x1akxwMDBTb3ZXM1pBV3pUdWVjM1d4N1pJbU00OHJldTRoclAzRU42WmV4V2hmT0JtejZJclNVb3BEME1ydHg4OEhKZ0c0QkkyNWRfWmNISFNrVzg2N1VOQmhCakY4bG8yaFVwUlp6bUhkdkRHcw?oc=5",
+   "date": "2026-11-22T12:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "PARIS : Vente Artcurial - L'archéologie et les arts d'Orient totalisent plus de 7,7 millions d' &nbsp;&nbsp; Presse Agence",
+   "doi": null,
+   "first_seen": "2026-11-22T13:25:15+00:00",
+   "alt": null
+  },
+  {
+   "title": "Explorez 4 000 ans de l’histoire amérindienne dans ce musée archéologique de France - Actu.fr",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcUZUR1U4emQtSmZpblJGUVpqQWpGMG42MW5rNlRPYVptQXdPQnJvU1R4WE9udWVuenB0U2JDOWhKTkZodXpITUdNRTllN2tJVHhMcUZMajhOYXZWMDVxcWUyNGtTcGMxMnN2VjNhOEcycmhzR1NQS2QwWlJEX2hZUWtJc191ZDRvc3FIbkpJZWZfRzJpb1FqOHNMc0d6TWR0VUxHc0ZRZTRYVkEwMnRKMWx5Znp6M00zeGNzeWpBM3lQWGNkSGFrTG91aHBEakxyX3R1U2luUTlIUnJOZkE?oc=5",
+   "date": "2026-11-22T10:52:01+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Explorez 4 000 ans de l’histoire amérindienne dans ce musée archéologique de France &nbsp;&nbsp; Actu.fr",
+   "doi": null,
+   "first_seen": "2026-11-22T13:25:15+00:00",
+   "alt": null
+  },
+  {
+   "title": "Il y a 125 000 ans, des chasseurs d’Arabie empoisonnaient peut-être déjà leurs lances pour chasser - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOc0pIS25zOGhkN2JUcjJjeWNpcnd1a0k5aDU4RkF1QkpKbVVCZEtITnR2TEtCSjNISlZDS2JqUzRDUFRWaVhDcGVudWNOWUNkVzNaX0stTmlLUFFIbGktOWVkdGZJejYyRHJZazVZQnZnWmUtQ05SQVBUeHd4b09Ya2NWaHF6Y0xIUkxoLUM2MWhCX0NRcVNmc0IzaVRGVXRPcWVqVmxLcElkZG52ZDd3SFM0V3NVd1BkY0NNQ2xDSGJ0WmFCTTg4SnA2VFppTnBIM2txcXBQX3FKSURkZDVQc1ZtNUs1YjdYWHhNa1dVSQ?oc=5",
+   "date": "2026-11-22T10:03:32+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Il y a 125 000 ans, des chasseurs d’Arabie empoisonnaient peut-être déjà leurs lances pour chasser &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-22T13:25:15+00:00",
+   "alt": null
+  },
+  {
+   "title": "Ancien gendarme, il enquête sur ces Morts pour la France oubliés, dont certains ne figurent sur aucun monument - ladepeche.fr",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWllmVkRiTnM4SEVXWEpiaGNLN0pKUjZJcFRDQkh5b0tYUDNYUDY5MEdhQnVWX21JMW5BZUNFWmFQT19EbkUtUGlrWDRtektXOEFjMXVaU1FHMmdOaVF3anYzNkUtdWNnRkxkTnk2RkV2dGphUmFHSzhiUk10c21kUFFVSDB3UHljSEQ2RW42YXAzekthTnByWHBpZUZHRWZQYzFla2toWkRQMEJ2aTVTVXhXRTVRRnRXTXR1bEk4U0ZGQ3hzc0lzZ05pcWxIQUZCWEdFYXd1WDBIcTRfWjFUWUZRNFFxMkZwU3lPLXF3?oc=5",
+   "date": "2026-11-22T09:46:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Ancien gendarme, il enquête sur ces Morts pour la France oubliés, dont certains ne figurent sur aucun monument &nbsp;&nbsp; ladepeche.fr",
+   "doi": null,
+   "first_seen": "2026-11-22T13:25:15+00:00",
+   "alt": null
+  },
+  {
+   "title": "Pourquoi ne retrouve-t-on que des femmes parmi les fossiles d’Homo naledi ?",
+   "link": "https://www.sciencesetavenir.fr/archeo-paleo/homo-naledi-l-enigme-des-femmes-fossiles_196287?xtor=RSS-4",
+   "date": "2026-11-22T09:00:00+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Dans les grottes de Rising Star, en Afrique du Sud, les squelettes d’Homo naledi réservent une surprise. L’analyse des protéines de leur émail dentaire suggère que les individus retrouvés seraient tous de sexe féminin. Un résultat inattendu qui intrigue les spécialistes de cette ancienne espèce humaine.",
+   "doi": null,
+   "first_seen": "2026-11-22T13:25:15+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie – À Dax, sous la halle Pomade détruite, un abri antiaérien de la Seconde Guerre mondiale - Les Annonces Landaises",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV3dodEEyeWthQlZGUGd6RGY2ai1nVFF6RE5OT2VfVVlGOFpuWGZtZkJsck85SkZ5VGJGbWFCSndLcS1PQkdoLWYxX1pvMlJBckdmQU9EajRVeTVVelZEM01GekRQRWVHckRoRFpPaWppUEhhUEVaX1FsYlBNd0dTZlVETl9Gb2ozUTh0T1NrY2JhY3RUYkhRenNJRjRZbWROSGFfdnVRcTI5azVPSlV4enpHS1JOcEFEWTBjRVgyYnV4Q01VQk5qRTRvWGkwa1FEYU9HUl9GdGtkNnM?oc=5",
+   "date": "2026-11-22T07:30:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie – À Dax, sous la halle Pomade détruite, un abri antiaérien de la Seconde Guerre mondiale &nbsp;&nbsp; Les Annonces Landaises",
+   "doi": null,
+   "first_seen": "2026-11-22T13:25:15+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily Quiz: 22 November",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-11-22T07:00:16+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "Le festival du film d’archéologie sous-marine et du patrimoine maritime du 27 au 29 novembre à Port-Vendres et Collioure - ici.fr",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTHVuc21XMXhPNVhqbFE2Uno1c29nR3JVbHo5ZzRwai1VT0lFX3BuU2ZjY0lKa0swRnN5TENOanVySVZINTM4XzQ4WG1NTkRkOHNYRHlOZzJEbEVjQjlOY3hXdm5mT2NNLVVxb3YzbWxpQXdRTWhuRGV6RXc1bmhtdUJhc250SFJZYTk5S2VwY1MycGhpMHpBMktRWEk0U2lMQjY3OUFEWXRDYnJKUXlYWGxfUEtxNnhvbVhRelVMcEdlcmI5Qnp2bndUR2pvV2hmVnhqdUt0VkotTXFPUDRGYVNxT1VTYkRtUnpXYUEzTHJscGZsanlCWjNTQlU1dw?oc=5",
+   "date": "2026-11-22T06:40:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Le festival du film d’archéologie sous-marine et du patrimoine maritime du 27 au 29 novembre à Port-Vendres et Collioure &nbsp;&nbsp; ici.fr",
+   "doi": null,
+   "first_seen": "2026-11-22T13:25:15+00:00",
+   "alt": null
+  },
   {
    "title": "Il y a 125 000 ans, l’un des déserts les plus arides du monde aurait abrité des lacs et des hippopotames, selon des nouvelles recherches - Science et vie",
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQbFduSTNHcmNmZm1qck5JUldkYjNEQUJTSlAzQWNzcmp0RFdNaGNmaXRNOG8xVUFTVXJfOFFNa19qYTU3QzRkakdNU0JCWWFjNlBQenJ4LWtqYk1tQjgwWm9aR2tpdEVzek1vSldaSGJCa2ZmNEE1bjRnMU5IdFdIaFlPdmRZcnlZNXh0ZDZNRTBoY0NaQzFSM2lEVkxqMVhzNUowSWpNRGtqMDVvMDNFNVJ6enIzRi1xbnkzVnROZXN0RU9hVURmMGctSDlEcHZQdXp4Mnh5M2Fqa1Blc0lEc1o2OFhJUUlKQlVIY0VLclRHSURtUTJFbU1IZi1wbllSNEx3QzZuZG9uOUJZWHhrWkczSFhBbVlaWWpGZk5vRlo?oc=5",
@@ -225,14 +324,14 @@
    "alt": null
   },
   {
-   "title": "Daily Quiz: 21 November",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-11-21T07:00:14+00:00",
-   "source": "BBC HistoryExtra",
+   "title": "Une mystérieuse structure enfouie depuis 2.600 ans vient d'être repérée en Égypte depuis l'espace - Slate.fr",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVpfQjVZVThKWnVpRWpGa3VqeTUwV0RMUjZUSi1jdFl3X1ZUUFhqYWZmcGozdlpqLUVEb1pfSVAwR1ZCZ1pCT0lIZlVfaWlKdlM4Yk9mQ2NNdEVUTkNqTzkzVHd4eXJhVmRMby1FVkpWb2F5cl9GNllmYVkwX0RTdm9VTmN2aVdRLVdWVkZ3bWRBN0dUSXVSQjBRNElqNjVJSk4wRVZfVWFmUW5acEg2R01idERVd9IBuwFBVV95cUxQbVczQ3ZPLVBwaHRqNFpzV3htRkV4dzk5NGpaa3lwTi01cmRLR3o5SmpIZlQtcktZa2oxVUNPQ3NRaE1SV1lvQXdOcnJpZEJiZ0gzM0RyTXhoXzVtME8zVWhPYTVqMnhvVDJxVlZDQnd6WkV3VlJJVWQwazlRVDR0alBDdUFqMjBjM1E1R1I1SFlUczJ6VE9NNHJ5MENLd2ZERG1NcnBsQjVLWlV4Y1VXMThDUDBkQm93bm5F?oc=5",
+   "date": "2026-11-21T06:55:06+00:00",
+   "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "abstract": "Une mystérieuse structure enfouie depuis 2.600 ans vient d'être repérée en Égypte depuis l'espace &nbsp;&nbsp; Slate.fr",
    "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
+   "first_seen": "2026-11-22T13:25:15+00:00",
    "alt": null
   },
   {
@@ -574,6 +673,17 @@
    "abstract": "",
    "doi": null,
    "first_seen": "2026-10-02T11:09:24+00:00",
+   "alt": null
+  },
+  {
+   "title": "Découverte fortuite en archéologie : que faire si le chantier révèle des vestiges ? - Hassan KOHEN",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNUFtcXE1aG10dDFmWXkzWjh5eDVIUk9YMzVrVG9iajBISjZBUG1WMVoxY05xU3RmQk5lWWF3T0hIbFpTZVNyZUhsRkk2ZUc3ZEJyWkFSNFF1c1hMTktubkhvUXB2RGdKd24tcWE5eXQtVElzYmtkUjlHZVVhWHZoaw?oc=5",
+   "date": "2026-11-20T07:33:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Découverte fortuite en archéologie : que faire si le chantier révèle des vestiges ? &nbsp;&nbsp; Hassan KOHEN",
+   "doi": null,
+   "first_seen": "2026-11-22T13:25:15+00:00",
    "alt": null
   },
   {
@@ -1390,6 +1500,17 @@
    "alt": null
   },
   {
+   "title": "Metz. Conférence \"L'Âme souterraine des fortifications messines et une archéologie au quotidien\" organisée par les Sites et monuments de Moselle (SMM) - Le Republicain Lorrain",
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOcHNDaUNsQmlJZm5FTGZGcC1WcGh3RHRmTlU3UmtKa2dBWnFYd2luRTVSbmRVN2hyVVViYzFVdHFyWXVYcEZ2WlJzX29tWGRZelBUSzVGRFFmNFJETVVFOXU4am1QVUJrYWhXd0RsQnZzdXU3bjYtS1ZyYk5HM2NCLWYwamJfUmNPc0JTWVR3a1dKQ0RGS0ZKbkpIbGFaV1JmaFdJVnRyc3RKSk5uNE1yOVpRLW9BM2Z1cEZZWE5YVnVVUllubjZ5XzdzejRtNUVEZXhIY3QtcENfanI1LWcxVmxsTlFSUHg5cnBQQU9iMXlsUWVqOVlxcnFYY3J5NEhQdmhyMG42VGZjbzVVZ1p0QUI4OExNNkoxWWVYSVNBdEx5WWZlMmdBbXpLUWxGektTeUFZ?oc=5",
+   "date": "2026-11-18T15:45:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Metz. Conférence \"L'Âme souterraine des fortifications messines et une archéologie au quotidien\" organisée par les Sites et monuments de Moselle (SMM) &nbsp;&nbsp; Le Republicain Lorrain",
+   "doi": null,
+   "first_seen": "2026-11-18T19:25:23+00:00",
+   "alt": null
+  },
+  {
    "title": "Hungary's freedom fight: how one nation's resistance to Soviet tyranny changed history forever",
    "link": "https://www.historyextra.com/membership/hungarys-freedom-fight-how-one-nations-resistance-to-soviet-tyranny-changed-history-forever/",
    "date": "2026-11-18T15:30:24+00:00",
@@ -1607,17 +1728,6 @@
    "abstract": "50 ans depuis les fouilles de Biache-Saint-Vaast : la Maison de l'archéologie dévoile les secrets de l'homme de Néandertal &nbsp;&nbsp; France 3 Régions",
    "doi": null,
    "first_seen": "2026-11-18T14:09:48+00:00",
-   "alt": null
-  },
-  {
-   "title": "Metz. Conférence \"L'Âme souterraine des fortifications messines et une archéologie au quotidien\" organisée par les Sites et monuments de Moselle (SMM) - Le Republicain Lorrain",
-   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOcHNDaUNsQmlJZm5FTGZGcC1WcGh3RHRmTlU3UmtKa2dBWnFYd2luRTVSbmRVN2hyVVViYzFVdHFyWXVYcEZ2WlJzX29tWGRZelBUSzVGRFFmNFJETVVFOXU4am1QVUJrYWhXd0RsQnZzdXU3bjYtS1ZyYk5HM2NCLWYwamJfUmNPc0JTWVR3a1dKQ0RGS0ZKbkpIbGFaV1JmaFdJVnRyc3RKSk5uNE1yOVpRLW9BM2Z1cEZZWE5YVnVVUllubjZ5XzdzejRtNUVEZXhIY3QtcENfanI1LWcxVmxsTlFSUHg5cnBQQU9iMXlsUWVqOVlxcnFYY3J5NEhQdmhyMG42VGZjbzVVZ1p0QUI4OExNNkoxWWVYSVNBdEx5WWZlMmdBbXpLUWxGektTeUFZ?oc=5",
-   "date": "2026-11-18T03:50:20+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Metz. Conférence \"L'Âme souterraine des fortifications messines et une archéologie au quotidien\" organisée par les Sites et monuments de Moselle (SMM) &nbsp;&nbsp; Le Republicain Lorrain",
-   "doi": null,
-   "first_seen": "2026-11-18T19:25:23+00:00",
    "alt": null
   },
   {
@@ -3646,6 +3756,17 @@
     "url": "",
     "checked_at": "2026-11-18T14:09:48+00:00"
    }
+  },
+  {
+   "title": "Expérimentation et archéologie. Questions, avancées et méthodologies - Université Bordeaux Montaigne",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUs0QlpKZzYzN2k0dzdjbjllcDAxQXJzRkpqYU9CXzNneXBFMjdIMEJObUZFZVNIUXhlVzlrWmVncEQ5bjllSXNtU0VPV3A4b1ZadG1aUkJuWFRmZVZaY3hlS1VTV0s3OHdsc3N2R1VaQkRocTk5QTM1SXlhRFJRVHFKR1hsLTlGRTQ3ZlJjenNFc2lYOGxuckdkakQ2dnBjV3R3MkNzTlhEVV9tbW5OdC1UX0ZnQkpLNS1LTnFjcjBoa2JoTWJpd1VtTFh5QQ?oc=5",
+   "date": "2026-11-13T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Expérimentation et archéologie. Questions, avancées et méthodologies &nbsp;&nbsp; Université Bordeaux Montaigne",
+   "doi": null,
+   "first_seen": "2026-11-03T22:18:20+00:00",
+   "alt": null
   },
   {
    "title": "When the Saudi desert was green: a 125,000-year-old lakeside reveals how early humans lived",
@@ -5829,6 +5950,17 @@
    }
   },
   {
+   "title": "Ce que l’archéologie du Néolithique doit à Pierre et Anne-Marie Pét... - OpenEdition Journals",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01TTRNU0NPY0R2Ym1EcG5nV1hzQzFnb01lRmY4NHRBV3VDVzc0dzUyMzVDUjVZWTFIM1pZd2NHekFQWF9XMW9ncFhSd3RBbFBHM25RX1p3VVJuZ1F4dDdr?oc=5",
+   "date": "2026-11-10T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Ce que l’archéologie du Néolithique doit à Pierre et Anne-Marie Pét... &nbsp;&nbsp; OpenEdition Journals",
+   "doi": null,
+   "first_seen": "2026-11-22T13:25:15+00:00",
+   "alt": null
+  },
+  {
    "title": "Mille ans d’histoire : des fouilles archéologiques révèlent les secrets de ce prieuré rénové grâce au Loto du patrimoine - Ouest-France",
    "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPWnhySFFheG93OTdrWDFWaTJHcFFUbnJleWJoSWZKMWNTR0VqV2RldjM1TE1sejYxZ1UxUUlpZzQxcGdYd1FlakhlYkxacDZUeXYyNUxQWDJ3Ymk1MXpjUXAtUDY2d0NIQjVaai1NekJkTWhJa0t3M2RkdTBqaEtSakMyV1ZkaTBpMWFxYVFKT05jaS1pRkhmTmo0ellsenprWWE1R2pCeGlpVFVSaFlOY01kT1ZIZ3JDOWhxelNiZ2ZaZXV0d3V6cFhVZGRPZUxHOXFDMUZyYll5NjlmWTJvaXR2MElGT0IzaVE0ajc2WkdJQU5oVzVwX05ZMEZnQ3U1eXVFQ2RmZjZRbEZ1SGZYbkdCNmh3YXM1OTE4amVqd01HazM3WEVWRA?oc=5",
    "date": "2026-11-10T06:44:01+00:00",
@@ -6670,23 +6802,23 @@
    }
   },
   {
+   "title": "Archéologie : oui, les hommes préhistoriques se droguaient et nous en avons désormais une preuve très ancienne - historia.fr",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcVZvUVJ3cURkUXpxaVJ1TE42M3prVW1oUWl6N255YkhlOU1zTWJCNHZYWm1oODV0elJpRFFaTTlUX3BoZHk4VnZ0TjNzMWREMDJFVDdIcWdHODN6QkNrOE4xdFhyWWZ2M0Jmdlh4aERCOV9oaUY5aDZSSjdWVGV3UWx2dUVNcV9BdE9XT1pBRmZ6SVhWUmtHMEdCeGFjbENNWXhJYS11N09PNGJmcXRkQmtNRGZZd0hIR2ZCSlJFaXhNa293eFFEWS1ULVZwZUtob2ZEaTFjUUc2U1dlN3RNZTBtb1BONDFKMnV2b2syUTd5eHR2d05iVzd3RDBVajg?oc=5",
+   "date": "2026-11-09T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : oui, les hommes préhistoriques se droguaient et nous en avons désormais une preuve très ancienne &nbsp;&nbsp; historia.fr",
+   "doi": null,
+   "first_seen": "2026-11-09T13:58:27+00:00",
+   "alt": null
+  },
+  {
    "title": "\"15 à 20 % seulement des épaves au large des Aresquiers ont été découvertes\" : une identification majeure en 2026 pour le club d’archéologie sous-marine, mais année creuse en vue pour 2027 - Midi Libre",
    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNNnl5NVFLNEVDOTBjck9VeWVIMkRIaUx1LXNPTVUweEcxSGNvc1piOEk0VVNDNm4wT2tWTWc4bzduLWtqM2JlTkJuSGRRNG1IV2RMM0tWV1laTkVpMFhKRGJJX3FlVllGOE1adG03NnVNUEt5NkoyS1Q0R2QwZ0VlYVNBNkFUWk9HMWZzc1pWWmZtVEllUXd6V1JwVGQ1LV9FMmlPdjhaQ2RVV05WNExEMjBoVnFXejR5RTBfdmdHanZRUVdyVUdCTzBBSllWNGpfZFBiM1p0QjdjdHU1Mm9LT0ZIOXRKc0ZneUY5MC1PT2NDcXFDWnAyczI2TWVkY0ZpNGRjWXAwNXlTMmYtVTFwdnh0WUpheTZXNDhpT2E3Qm9HWGNad0E?oc=5",
    "date": "2026-11-09T07:31:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "\"15 à 20 % seulement des épaves au large des Aresquiers ont été découvertes\" : une identification majeure en 2026 pour le club d’archéologie sous-marine, mais année creuse en vue pour 2027 &nbsp;&nbsp; Midi Libre",
-   "doi": null,
-   "first_seen": "2026-11-09T13:58:27+00:00",
-   "alt": null
-  },
-  {
-   "title": "Archéologie : oui, les hommes préhistoriques se droguaient et nous en avons désormais une preuve très ancienne - historia.fr",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcVZvUVJ3cURkUXpxaVJ1TE42M3prVW1oUWl6N255YkhlOU1zTWJCNHZYWm1oODV0elJpRFFaTTlUX3BoZHk4VnZ0TjNzMWREMDJFVDdIcWdHODN6QkNrOE4xdFhyWWZ2M0Jmdlh4aERCOV9oaUY5aDZSSjdWVGV3UWx2dUVNcV9BdE9XT1pBRmZ6SVhWUmtHMEdCeGFjbENNWXhJYS11N09PNGJmcXRkQmtNRGZZd0hIR2ZCSlJFaXhNa293eFFEWS1ULVZwZUtob2ZEaTFjUUc2U1dlN3RNZTBtb1BONDFKMnV2b2syUTd5eHR2d05iVzd3RDBVajg?oc=5",
-   "date": "2026-11-09T05:55:03+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Archéologie : oui, les hommes préhistoriques se droguaient et nous en avons désormais une preuve très ancienne &nbsp;&nbsp; historia.fr",
    "doi": null,
    "first_seen": "2026-11-09T13:58:27+00:00",
    "alt": null
@@ -7189,17 +7321,6 @@
    "alt": null
   },
   {
-   "title": "Archéologie : « Une découverte exceptionnelle » en Bavière, la riche tombe d'une femme celte révèle une surprenante offrande funéraire - Connaissance des Arts",
-   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQNzdKaVVhYm5aTnFQeHh5cVdjR2E1bWItdVpOWVlrbWdkU1BjM3JnSWxFc29SNW8wMXRjWVBScnRPTE5SUUNuQmlEUUFaOEZ6c0diZnhMS2xnc1hQcHJJd3U5bTdrQW8zckJKeVdEZURKMzRZNXBlRmhmbnJ4TjZtVDBORGhwSGYtR0xTXzFIZGZpam8yV1lOMnFQdzV3WXF1bHFfZl9JU2Myc0N0NTYxZEt1aExzODZFUktmNU54cTUtNk54M2NidVVFdl9Xc09FMUZiZGVtakRUaHo1ZHJEZUJNNDFqRGExOS1kOEt6UzYtME9sb2lmdDM5ck9jWHB0VElObW1iakJmalNfM0psVGQtT0dFelNGSDVpMm1LOTA2Y2gzQXR2elluYVdoZw?oc=5",
-   "date": "2026-11-07T17:36:50+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Archéologie : « Une découverte exceptionnelle » en Bavière, la riche tombe d'une femme celte révèle une surprenante offrande funéraire &nbsp;&nbsp; Connaissance des Arts",
-   "doi": null,
-   "first_seen": "2026-11-07T20:53:39+00:00",
-   "alt": null
-  },
-  {
    "title": "Les expos scientifiques à ne pas manquer d’ici fin 2026",
    "link": "https://www.sciencesetavenir.fr/decouvrir/expositions/les-expositions-scientifiques-a-ne-pas-manquer-d-ici-fin-2026_195992?xtor=RSS-27",
    "date": "2026-11-07T17:00:00+00:00",
@@ -7329,6 +7450,17 @@
    "abstract": "Il y a 237 millions d’années, un « crapaud cuirassé » de 90 cm vivait dans l’océan : sa découverte réécrit l’histoire des amphibiens &nbsp;&nbsp; Science et vie",
    "doi": null,
    "first_seen": "2026-11-07T11:46:29+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie : « Une découverte exceptionnelle » en Bavière, la riche tombe d'une femme celte révèle une surprenante offrande funéraire - Connaissance des Arts",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQNzdKaVVhYm5aTnFQeHh5cVdjR2E1bWItdVpOWVlrbWdkU1BjM3JnSWxFc29SNW8wMXRjWVBScnRPTE5SUUNuQmlEUUFaOEZ6c0diZnhMS2xnc1hQcHJJd3U5bTdrQW8zckJKeVdEZURKMzRZNXBlRmhmbnJ4TjZtVDBORGhwSGYtR0xTXzFIZGZpam8yV1lOMnFQdzV3WXF1bHFfZl9JU2Myc0N0NTYxZEt1aExzODZFUktmNU54cTUtNk54M2NidVVFdl9Xc09FMUZiZGVtakRUaHo1ZHJEZUJNNDFqRGExOS1kOEt6UzYtME9sb2lmdDM5ck9jWHB0VElObW1iakJmalNfM0psVGQtT0dFelNGSDVpMm1LOTA2Y2gzQXR2elluYVdoZw?oc=5",
+   "date": "2026-11-07T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : « Une découverte exceptionnelle » en Bavière, la riche tombe d'une femme celte révèle une surprenante offrande funéraire &nbsp;&nbsp; Connaissance des Arts",
+   "doi": null,
+   "first_seen": "2026-11-07T20:53:39+00:00",
    "alt": null
   },
   {
@@ -7697,17 +7829,6 @@
    "alt": null
   },
   {
-   "title": "Photographie aérienne archéologique : conférence à Saint-Dizier - Ville de Saint-Dizier",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYm5VaVdoSVdJRVVBaDUtc25saGlKWXVxSUJtQXRrS0hvYk0xa3hfZFZtMC1SbzhBTndHR2dzNXQ4RHJGN25SaS15dVJVcjhVY2dUVVF4eUJjTUZRSXh3YlB5VDNrTEhyLVJwbFdOYmtUa1ozbHdkNFo4VVZ3VDZKVmpORjItdFFjLWdLX0E3SjdDNlVSYUtNYmJqdXh4T0otaEp3?oc=5",
-   "date": "2026-11-06T10:04:57+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Photographie aérienne archéologique : conférence à Saint-Dizier &nbsp;&nbsp; Ville de Saint-Dizier",
-   "doi": null,
-   "first_seen": "2026-11-06T18:01:37+00:00",
-   "alt": null
-  },
-  {
    "title": "The WW2 nurses who saved lives in the skies",
    "link": "https://www.historyextra.com/membership/the-ww2-nurses-who-saved-lives-in-the-skies/",
    "date": "2026-11-06T09:40:37+00:00",
@@ -7760,6 +7881,17 @@
    "abstract": "",
    "doi": null,
    "first_seen": "2026-11-06T12:59:46+00:00",
+   "alt": null
+  },
+  {
+   "title": "Photographie aérienne archéologique : conférence à Saint-Dizier - Ville de Saint-Dizier",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYm5VaVdoSVdJRVVBaDUtc25saGlKWXVxSUJtQXRrS0hvYk0xa3hfZFZtMC1SbzhBTndHR2dzNXQ4RHJGN25SaS15dVJVcjhVY2dUVVF4eUJjTUZRSXh3YlB5VDNrTEhyLVJwbFdOYmtUa1ozbHdkNFo4VVZ3VDZKVmpORjItdFFjLWdLX0E3SjdDNlVSYUtNYmJqdXh4T0otaEp3?oc=5",
+   "date": "2026-11-06T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Photographie aérienne archéologique : conférence à Saint-Dizier &nbsp;&nbsp; Ville de Saint-Dizier",
+   "doi": null,
+   "first_seen": "2026-11-06T18:01:37+00:00",
    "alt": null
   },
   {
@@ -8321,17 +8453,6 @@
    "alt": null
   },
   {
-   "title": "La photographie à l’honneur au Musée d’Archéologie nationale - Le Café pédagogique",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjB4dFkzOF90dGNEbGhLUjN6RU43cVJDQjc5REVPVmE5cDJkdG5qak9vcE0tOU1RWDQ1YjcyYmE0Tnl5TFdNMFpEcVNtRFVkTU1xU2JYZVNqSlc4Vzd0cGRHVDZ4UVVYOGs2amYxNGpIdE53eTRUMDZzLVZQMTBxWlVxT3lBTVZaLXB5dXBsNHM4S0RQZU5GT18zLXRtMzA4ZGZBVA?oc=5",
-   "date": "2026-11-05T10:09:03+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "La photographie à l’honneur au Musée d’Archéologie nationale &nbsp;&nbsp; Le Café pédagogique",
-   "doi": null,
-   "first_seen": "2026-11-05T13:16:26+00:00",
-   "alt": null
-  },
-  {
    "title": "What can you do with a medieval ass? Here are 9 uses that are bound to surprise you",
    "link": "https://www.historyextra.com/membership/medieval-donkey-middle-ages-importance-what-used-for/",
    "date": "2026-11-05T09:30:53+00:00",
@@ -8382,6 +8503,17 @@
    "source": "Sciences et Avenir — Archéo & paléo",
    "kind": "media",
    "abstract": "Une deuxième cyberattaque en trois semaines contre des frigidaires européens rend brûlante la question de la vulnérabilité des appareils connectés à internet. Quelques éléments pour mieux comprendre l'ampleur du problème.",
+   "doi": null,
+   "first_seen": "2026-11-05T13:16:26+00:00",
+   "alt": null
+  },
+  {
+   "title": "La photographie à l’honneur au Musée d’Archéologie nationale - Le Café pédagogique",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjB4dFkzOF90dGNEbGhLUjN6RU43cVJDQjc5REVPVmE5cDJkdG5qak9vcE0tOU1RWDQ1YjcyYmE0Tnl5TFdNMFpEcVNtRFVkTU1xU2JYZVNqSlc4Vzd0cGRHVDZ4UVVYOGs2amYxNGpIdE53eTRUMDZzLVZQMTBxWlVxT3lBTVZaLXB5dXBsNHM4S0RQZU5GT18zLXRtMzA4ZGZBVA?oc=5",
+   "date": "2026-11-05T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "La photographie à l’honneur au Musée d’Archéologie nationale &nbsp;&nbsp; Le Café pédagogique",
    "doi": null,
    "first_seen": "2026-11-05T13:16:26+00:00",
    "alt": null
@@ -8742,17 +8874,6 @@
    "alt": null
   },
   {
-   "title": "Histoire de l'archéologie - ActuaLitté.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFlabjg4V2pVZk9rWkI2NXlBOXBZU1B5WXhxTFVLNnp5TVhmSVRVVXJTeC1nbEJTS1hhZnBEX3g4ZFYtRWFINjNtd1U5bUM5cnowdU5mdk9qSVhGOVkwWmlvdkVKU1l4NzJ3eXZhNVhZSTFNSWVIZnpINFZXcDFzTWtmQi1MMUQ0bE9iLVNaakNYT21WQ0VnWUtXVG9JWW9lN0Rqb24xRVp2OHlsbXc?oc=5",
-   "date": "2026-11-04T17:12:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Histoire de l'archéologie &nbsp;&nbsp; ActuaLitté.com",
-   "doi": null,
-   "first_seen": "2026-11-04T22:37:57+00:00",
-   "alt": null
-  },
-  {
    "title": "Archaeologists reach the original floor of Nubia’s largest cathedral in Sudan",
    "link": "https://archaeologymag.com/2026/11/original-floor-of-nubias-largest-cathedral-in-sudan/",
    "date": "2026-11-04T17:06:33+00:00",
@@ -9003,6 +9124,17 @@
    "abstract": "Actualité | Une nécropole de tout-petits à Auxerre : les pratiques funéraires antiques sous le microscope &nbsp;&nbsp; Inrap",
    "doi": null,
    "first_seen": "2026-11-04T18:39:53+00:00",
+   "alt": null
+  },
+  {
+   "title": "Histoire de l'archéologie - ActuaLitté.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFlabjg4V2pVZk9rWkI2NXlBOXBZU1B5WXhxTFVLNnp5TVhmSVRVVXJTeC1nbEJTS1hhZnBEX3g4ZFYtRWFINjNtd1U5bUM5cnowdU5mdk9qSVhGOVkwWmlvdkVKU1l4NzJ3eXZhNVhZSTFNSWVIZnpINFZXcDFzTWtmQi1MMUQ0bE9iLVNaakNYT21WQ0VnWUtXVG9JWW9lN0Rqb24xRVp2OHlsbXc?oc=5",
+   "date": "2026-11-04T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Histoire de l'archéologie &nbsp;&nbsp; ActuaLitté.com",
+   "doi": null,
+   "first_seen": "2026-11-04T22:37:57+00:00",
    "alt": null
   },
   {
@@ -9408,6 +9540,17 @@
    "alt": null
   },
   {
+   "title": "Appel à participation – Faire dialoguer les historien·ne·s de l’archéologie : terrains, sources et méthodes - INHA - Institut national d'histoire de l'art",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYnlHZGNqVEJ6cGJ2bGJlbUktOHlBd2tDUFFENkFhcXVObnhrLUUwLTNydEEzUy1vOVhUWkNfQzZENEVjVEtYUkxTdGZRWnNnR3BkMElhemI0RWlhV3VQUHlWOHc2VXdYYldnYWIwekJwXzRBUWxBNXFTWWVwMV9ocnBKajExMmxNdVNLeGdxVzVFV25WQ0c2aTVlUHNwcmhQQzVYdTJ2bWx0RlU0TzVoNG5USkdRT2EzMW5mTS1UbVdYcno2TG5TNXhNQzhEcGI4NTdzVzByYmFvMWNUcFpIYi1qdGw1R3RVaFY0bGdWR0xQTElOQUF4V01rbmU?oc=5",
+   "date": "2026-11-04T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Appel à participation – Faire dialoguer les historien·ne·s de l’archéologie : terrains, sources et méthodes &nbsp;&nbsp; INHA - Institut national d'histoire de l'art",
+   "doi": null,
+   "first_seen": "2026-10-27T16:42:22+00:00",
+   "alt": null
+  },
+  {
    "title": "La cité de Troie a-t-elle réellement existé ? sur RMC Story : sur les traces d'Homère, entre mythe et archéologie - Serie News",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUVFaRGFleS1NQXM5empVUHYtWTEtdkpiV3ZyWFlJS2xGakJmQ0lCZFY0Zi04UUo4RkVnV2w4aHF4TFNvb0JIUGJOa0dDNzc3QXNIUlVya3NBNzVSdm9jWUtJbmFvX2Nma3h6ZXF4bXRnaTF1X0xYaF9GWm1hd2NkOTlGMVg3ZEVRR0ZzSms3S09zXzJlNjlQd2dqcUVwNjJwMk9BSlFJQmJHWTlQWjZVREhnSVdzZHRYRldXVTBCRmk5bU1semJRRUtsZ1Jsdi0wbmxmNXc0eHBYV3cwLTBlWEZERUlWanJOLVlXWk5hNlFxX3ltdUE?oc=5",
    "date": "2026-11-04T07:55:46+00:00",
@@ -9630,17 +9773,6 @@
    "alt": null
   },
   {
-   "title": "Archéologie : découverte exceptionnelle de 260 sépultures de fœtus et bébés dans une nécropole gallo-romaine en Bourgogne - historia.fr",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNa180b3FaUlBDM0F3TTd3enlSbmxndTFrYS0xWFFfc0RjUUFHbUxGeDJYcy04dUFySG5KWG9XZG92OWVCbEdpT0tKbURLMjRUWE81RUZ5c0prWG1FRmxxRE0zNFlwT0M4cndnTWp5SzhtaHBKNHRTajJyNVZFLXpJV25TWi1yYl8xRlpiV3duODlqc1d3UUtXbEtfZFdnNDlteFUyRjByOElmX01rN29lYUZ3bkJ2eE8yVVdyS0JhanlpUjd1SzZxYXp3cmJpNW1adk9URkFnUmxZZ2lFR0laSDhacGxQellNOEFVQW9yUTFGUTJNZDFja0N4Rzh6UThFT1pHZkVZVGo4Q0JlX3poYldSZTZyUGM?oc=5",
-   "date": "2026-11-03T18:13:50+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Archéologie : découverte exceptionnelle de 260 sépultures de fœtus et bébés dans une nécropole gallo-romaine en Bourgogne &nbsp;&nbsp; historia.fr",
-   "doi": null,
-   "first_seen": "2026-11-03T22:18:20+00:00",
-   "alt": null
-  },
-  {
    "title": "Mesolithic Site Discovered in Ireland",
    "link": "https://archaeology.org/news/2026/11/03/mesolithic-site-discovered-in-ireland/",
    "date": "2026-11-03T18:00:00+00:00",
@@ -9847,17 +9979,6 @@
    "alt": null
   },
   {
-   "title": "Expérimentation et archéologie. Questions, avancées et méthodologies - Université Bordeaux Montaigne",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUs0QlpKZzYzN2k0dzdjbjllcDAxQXJzRkpqYU9CXzNneXBFMjdIMEJObUZFZVNIUXhlVzlrWmVncEQ5bjllSXNtU0VPV3A4b1ZadG1aUkJuWFRmZVZaY3hlS1VTV0s3OHdsc3N2R1VaQkRocTk5QTM1SXlhRFJRVHFKR1hsLTlGRTQ3ZlJjenNFc2lYOGxuckdkakQ2dnBjV3R3MkNzTlhEVV9tbW5OdC1UX0ZnQkpLNS1LTnFjcjBoa2JoTWJpd1VtTFh5QQ?oc=5",
-   "date": "2026-11-03T11:20:19+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Expérimentation et archéologie. Questions, avancées et méthodologies &nbsp;&nbsp; Université Bordeaux Montaigne",
-   "doi": null,
-   "first_seen": "2026-11-03T22:18:20+00:00",
-   "alt": null
-  },
-  {
    "title": "Analysis of Inca mummies reveals which drugs sacrificed children took",
    "link": "https://archaeologymag.com/2026/11/inca-mummies-drugs-sacrificed-children/",
    "date": "2026-11-03T10:59:16+00:00",
@@ -9949,6 +10070,17 @@
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "Conférence - Vivre comme des dieux ? Une archéologie des regards sur les peintures romaines &nbsp;&nbsp; Ville de Nîmes",
+   "doi": null,
+   "first_seen": "2026-11-03T22:18:20+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie : découverte exceptionnelle de 260 sépultures de fœtus et bébés dans une nécropole gallo-romaine en Bourgogne - historia.fr",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNa180b3FaUlBDM0F3TTd3enlSbmxndTFrYS0xWFFfc0RjUUFHbUxGeDJYcy04dUFySG5KWG9XZG92OWVCbEdpT0tKbURLMjRUWE81RUZ5c0prWG1FRmxxRE0zNFlwT0M4cndnTWp5SzhtaHBKNHRTajJyNVZFLXpJV25TWi1yYl8xRlpiV3duODlqc1d3UUtXbEtfZFdnNDlteFUyRjByOElmX01rN29lYUZ3bkJ2eE8yVVdyS0JhanlpUjd1SzZxYXp3cmJpNW1adk9URkFnUmxZZ2lFR0laSDhacGxQellNOEFVQW9yUTFGUTJNZDFja0N4Rzh6UThFT1pHZkVZVGo4Q0JlX3poYldSZTZyUGM?oc=5",
+   "date": "2026-11-03T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : découverte exceptionnelle de 260 sépultures de fœtus et bébés dans une nécropole gallo-romaine en Bourgogne &nbsp;&nbsp; historia.fr",
    "doi": null,
    "first_seen": "2026-11-03T22:18:20+00:00",
    "alt": null
@@ -10364,6 +10496,17 @@
    }
   },
   {
+   "title": "L'archéologie préventive à Nice et dans la Métropole Nice Côte d'Azur - jds.fr",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT3liZHlrZl9EMTVzRTU0clBlRW05Snh4N2xxWEJ0bjlZMEZYclNneWZwQlNYSHdfQ2lrSjZqdzFSU2kwNFJoVmtrOXVIeFBvVFlCbHZqbU5qV05LYWx6OEpEbVBEX3NLRU5TdWdON1pWWXZEQjhWWEVMcV9aLVdwb2VxNGF5TkFQUXFrb3JCYXptT0p5dEV2RW9rc19WRGRrQVhpczdBRkktRC1N?oc=5",
+   "date": "2026-11-03T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "L'archéologie préventive à Nice et dans la Métropole Nice Côte d'Azur &nbsp;&nbsp; jds.fr",
+   "doi": null,
+   "first_seen": "2026-11-22T13:25:15+00:00",
+   "alt": null
+  },
+  {
    "title": "REDISCOVERING THE DEAD: REANALYSIS OF A LOST IRON AGE CEMETERY AT HIGHSTED, KENT",
    "link": "https://onlinelibrary.wiley.com/doi/10.1111/ojoa.70030?af=R",
    "date": "2026-11-03T04:35:52+00:00",
@@ -10725,17 +10868,6 @@
    "alt": null
   },
   {
-   "title": "Journée d'étude : Journée archéologique régionale d’Île-de-France - Inrap",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UU1QwM1kxUlBGa2dNQTdMSjk1MERSUjI5Rm1WMk8tOHFyWTBMQkNFRlg1Mlh5NVlqWUVqakpRckhNM0YteHF3a3BfejRmcTZ0Nk9aRGtYYjdKbEZ4ZXNjeXFrUzV0QkdQMHRVcWhlVWZEajZpbHJmU0hBQmRGdDQ?oc=5",
-   "date": "2026-11-02T09:29:04+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Journée d'étude : Journée archéologique régionale d’Île-de-France &nbsp;&nbsp; Inrap",
-   "doi": null,
-   "first_seen": "2026-11-02T13:35:58+00:00",
-   "alt": null
-  },
-  {
    "title": "Le traitement anti-obésité Wegovy arrive en comprimé dans les pharmacies françaises",
    "link": "https://www.sciencesetavenir.fr/sante/le-traitement-anti-obesite-wegovy-arrive-en-comprime-dans-les-pharmacies-francaises_195789?xtor=RSS-16",
    "date": "2026-11-02T09:19:59+00:00",
@@ -10775,6 +10907,17 @@
    "source": "Sciences et Avenir — Archéo & paléo",
    "kind": "media",
    "abstract": "Un procès intenté contre l'état pour inaction climatique par des jeunes canadiens s'est ouvert lundi 2 novembre à Vancouver. Dépression, anxiété et trouble de stress post-traumatique comme témoins à charge que la dégradation du climat impacte fortement les jeunes générations",
+   "doi": null,
+   "first_seen": "2026-11-02T13:35:58+00:00",
+   "alt": null
+  },
+  {
+   "title": "Journée d'étude : Journée archéologique régionale d’Île-de-France - Inrap",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UU1QwM1kxUlBGa2dNQTdMSjk1MERSUjI5Rm1WMk8tOHFyWTBMQkNFRlg1Mlh5NVlqWUVqakpRckhNM0YteHF3a3BfejRmcTZ0Nk9aRGtYYjdKbEZ4ZXNjeXFrUzV0QkdQMHRVcWhlVWZEajZpbHJmU0hBQmRGdDQ?oc=5",
+   "date": "2026-11-02T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Journée d'étude : Journée archéologique régionale d’Île-de-France &nbsp;&nbsp; Inrap",
    "doi": null,
    "first_seen": "2026-11-02T13:35:58+00:00",
    "alt": null
@@ -11369,6 +11512,17 @@
    }
   },
   {
+   "title": "Archéologie : des diagnostics dans le - Article - Val de Marne Le Département",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0R0MjFqQXlNbzVmdjd2d1BFUVpyRncta2hrUHF6RmdQQTRsOXVJQjRpemdSV2tCdmQxWjg3b2t3MWFnWjA4eEpwSm5OZXRScEF5Q3JuQi1aYVlhRkZRNnRuZmR2X0l1V0hCS2RPMEtPWWNBSXAtQUlfRWMzZ2VvaVNnejllYUNYZGZfWDMzajBjYlhJTFJnT1BXNElEOFk1SDZfaHhKNmZLZmRCZXBxbk5IbjVoQQ?oc=5",
+   "date": "2026-11-02T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : des diagnostics dans le - Article &nbsp;&nbsp; Val de Marne Le Département",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
    "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
    "link": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm",
    "date": "2026-11-02T07:30:31+00:00",
@@ -11762,17 +11916,6 @@
    "alt": null
   },
   {
-   "title": "Clairoix. 118 vestiges archéologiques mis à jour sur le chantier de 220 logements de la ZAC de la Grande Couture - Oise Hebdo",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWDRpbUplWWlXZ1h5WWVNNFkwd0hWdVdVSWdmaXRnM2JnOG56OWFGaEtrbW5xZkFSRm9hV2l0VFZrM0JqZGVLVEFURzVEckNBekF0amlkdDVxZjduNnZsYnlpNGNBa1lYb2NfcHhvUzFDQ0hIVUlzcFdQTnlyQ2hXVm9WY0R4QzhncUQ3MnM1QzZOeUY0VWM5dEk0aldNTG4weTVZU2VpZm9KZ2c?oc=5",
-   "date": "2026-10-31T09:57:02+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Clairoix. 118 vestiges archéologiques mis à jour sur le chantier de 220 logements de la ZAC de la Grande Couture &nbsp;&nbsp; Oise Hebdo",
-   "doi": null,
-   "first_seen": "2026-10-31T10:57:35+00:00",
-   "alt": null
-  },
-  {
    "title": "Près du mur d’Hadrien, des latrines vieilles de 1 800 ans révèlent que les soldats romains étaient massivement contaminés par des parasites intestinaux - Science et vie",
    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPeTFLMlhNLVk5UXo2YXMyUmtKNHVvOUJWRVNWZXZHVnZMX1NnTm1yX2ZNR0RGME8tQjBIYXA2Tkw3R0F4V1RUVHRDUnFCZ3ZqS1N5V2gwQWdVeVM0THlFdzhhazNpSWF1QlQtNHFMQk9vOTRSdEhZQzFrUkNScFRpclRqa1MxY2RtcjFrTHNBTElXNVFOWlZrZXkyRFZEclcxTENMbUxMbllYZnJmWjhsTldadFRlMHd0R1JNUnFRSWlSVW5nWU5uRGZRYTVmQlBzcE1aNWp4d04tUkFyY1VKWW5OZ0FCY1dlbS02NjAyUkowU2RXVWpxRG9vU3BzeV8wbUdqVG8waHVMdHM5NFVRdjdLVy10eVVoZm9uaFFNZjRPdTdWMWwzY2FBUEwxeW9qbk00aw?oc=5",
    "date": "2026-10-31T09:29:35+00:00",
@@ -11839,12 +11982,12 @@
    "alt": null
   },
   {
-   "title": "Naves accueille la Journée des prospecteurs : découvertes archéologiques et échanges en Limousin - La Montagne",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZGYwYnVRWUp3Ynd6LXBQY0pOd3M0OS1KMzVFcmtaeXc2aHIwWEU3VzlFTGctX3RxT1p6dnBReThIQ3pBUVlYcjVsb1RWZnU0Vy1URTZ1bzlBRWFaaTFqajRwbWxMaWlhNDNOWlpaVVlXWEdPb25BRkNOWGR6SGhEdGNHOFFuNzJJWTA3bmZMUWc1OGJVSFZheUxjTTJnejB2T0Z4YjliREJzUzM2dGFOZ0VwbmV2NkFseEhSS0NRSVI3VHpRaFNoWTRpNzhTZ3NYWTdrcDV6NENfTDNxVHB4RVkyRno?oc=5",
-   "date": "2026-10-31T05:52:00+00:00",
+   "title": "Clairoix. 118 vestiges archéologiques mis à jour sur le chantier de 220 logements de la ZAC de la Grande Couture - Oise Hebdo",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWDRpbUplWWlXZ1h5WWVNNFkwd0hWdVdVSWdmaXRnM2JnOG56OWFGaEtrbW5xZkFSRm9hV2l0VFZrM0JqZGVLVEFURzVEckNBekF0amlkdDVxZjduNnZsYnlpNGNBa1lYb2NfcHhvUzFDQ0hIVUlzcFdQTnlyQ2hXVm9WY0R4QzhncUQ3MnM1QzZOeUY0VWM5dEk0aldNTG4weTVZU2VpZm9KZ2c?oc=5",
+   "date": "2026-10-31T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
-   "abstract": "Naves accueille la Journée des prospecteurs : découvertes archéologiques et échanges en Limousin &nbsp;&nbsp; La Montagne",
+   "abstract": "Clairoix. 118 vestiges archéologiques mis à jour sur le chantier de 220 logements de la ZAC de la Grande Couture &nbsp;&nbsp; Oise Hebdo",
    "doi": null,
    "first_seen": "2026-10-31T10:57:35+00:00",
    "alt": null
@@ -11852,10 +11995,21 @@
   {
    "title": "A Madagascar, des fouilles archéologiques font parler les trésors des pirates de l’océan Indien - Le Monde.fr",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQME91RGhQRGlGMzhZM2dyajNTbUVKaS1UMjM3OE1tZm9xeGhUcEVYcFBwb3ByRUoteUpYSGc2U1lva2cwOHpkS21sRDgtdDNEYkxuMG51aHM3REhxWWM3VUo4NDNaRW1xeGZ2U01qZjFkVmU4elp5MXVKY0VfY0dvNEZpR3c3dWFVYWRqRDZ0V1lESWVETzdFSTZfRDluOXdsQVMyZm1PeWRCY1pOb1BmVEhoWmFDMjJLdWx2Nm5QSFVTSTM0TEtob3hrOHFpY0R2WGtoWnZzZWFvamVuUU02ZFY1VUtWRUtaUHJlVEN1LU80UEtHYmhRWE5n?oc=5",
-   "date": "2026-10-31T04:30:31+00:00",
+   "date": "2026-10-31T07:00:00+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "A Madagascar, des fouilles archéologiques font parler les trésors des pirates de l’océan Indien &nbsp;&nbsp; Le Monde.fr",
+   "doi": null,
+   "first_seen": "2026-10-31T10:57:35+00:00",
+   "alt": null
+  },
+  {
+   "title": "Naves accueille la Journée des prospecteurs : découvertes archéologiques et échanges en Limousin - La Montagne",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZGYwYnVRWUp3Ynd6LXBQY0pOd3M0OS1KMzVFcmtaeXc2aHIwWEU3VzlFTGctX3RxT1p6dnBReThIQ3pBUVlYcjVsb1RWZnU0Vy1URTZ1bzlBRWFaaTFqajRwbWxMaWlhNDNOWlpaVVlXWEdPb25BRkNOWGR6SGhEdGNHOFFuNzJJWTA3bmZMUWc1OGJVSFZheUxjTTJnejB2T0Z4YjliREJzUzM2dGFOZ0VwbmV2NkFseEhSS0NRSVI3VHpRaFNoWTRpNzhTZ3NYWTdrcDV6NENfTDNxVHB4RVkyRno?oc=5",
+   "date": "2026-10-31T05:52:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Naves accueille la Journée des prospecteurs : découvertes archéologiques et échanges en Limousin &nbsp;&nbsp; La Montagne",
    "doi": null,
    "first_seen": "2026-10-31T10:57:35+00:00",
    "alt": null
@@ -11900,17 +12054,6 @@
    "source": "Archaeology Magazine",
    "kind": "media",
    "abstract": "CANBERRA, AUSTRALIA—China Daily reports that Australian officials have repatriated the looted heads of two statues [&#8230;] The post Australia Repatriates Ancient Sculptures to China appeared first on Archaeology Magazine . CANBERRA, AUSTRALIA— China Daily reports that Australian officials have repatriated the looted heads of two statues dating to the Northern Song Dynasty ( A.D. 960–1127) to China. The sculptures, which depict a civil official and a military official, were taken from imperial mausoleums near Kaifeng, the Song Dynasty capital in central China. Chinese Ambassador to Australia Liu Jinsong said that the statues once stood guard at ancient tombs—the civil official at the Yongchang Mausoleum and the military official at the Yongyu Mausolem. The National Gallery of Australia acquired the sculptures in 1995. China’s National Cultural Heritage Administration requested their return in 2025. “The return of these two statues is not the end of their story,” Jinsong said. “It is a new beginning for research, conservation, and cultural heritage,” he added. To read about excavations at Kaifeng, go to “ Bridge to the Past .” The post Australia Repatriates Ancient Sculptures to Ch…",
-   "doi": null,
-   "first_seen": "2026-10-30T21:31:45+00:00",
-   "alt": null
-  },
-  {
-   "title": "Archéologie : découverte dans un lac volcanique en Italie, une épée vieille de 3200 ans intrigue les archéologues - Connaissance des Arts",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQQ2ZUZ1owY1VmOFZyOTRkZ083Vk5pZjNVdkxsWGprVV9Lc3JhMk43c3VYcFlTM0lrNDgxWkJfT3p4N1Z4QmNPNEtRYzkwaHc0cE4wSkUtRzdiNzhSbTJwb2xiWEhrbjZjOFhFbXQ3VlByLTVNYXg0ZmN0djdTdGVpeVpXT2lraTJzT2xqZk9OaXplaUJiUC1kX1VVMVFNRGRNTDhyYnhQV1kxSW5ZYUxZNlY4NmFjNXFCS082UXlyLXRERE1Fd2VYMHZWZGstYS16Q0ZtSlVwVWl4MWRuQnNvU25pUUZodlVTOXFtYVlIdGtTdFQ5ZE1mV3NqNVpGMVY3SzNRRGtEYzhLZjdVSThrRVprMWNrSkxV?oc=5",
-   "date": "2026-10-30T18:30:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Archéologie : découverte dans un lac volcanique en Italie, une épée vieille de 3200 ans intrigue les archéologues &nbsp;&nbsp; Connaissance des Arts",
    "doi": null,
    "first_seen": "2026-10-30T21:31:45+00:00",
    "alt": null
@@ -12212,17 +12355,6 @@
    }
   },
   {
-   "title": "Archéologie: un site vieux d'environ 1000 ans livre des informations précieuses sur Madagascar - RFI",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdnRTQVhidGNGd1c1MTJkZ0VUR3Z1XzNTOERYRjRjejhxdmJWSkRac3lodE5uNkVyV2ZjWWp6OWV3Z3BfVWlIVTNhODVLZ19Bd1hVMnBEbF9yQXk3TmF2UWZfeGZqaTViUjNWRFFqZUYzLTNpV3JVYkdleE1aTDI2TFF5VXdQV1dObktGTVQ1OW45R0xNR0JPTVdKY1M0Wmc5S0x5b3pPZE9ocThFSWF0NFF4NWMySnVjLWJXZkdhZ1VKVkJMVFRrbE4tN0VIbFNPaFhMdnF2TThIUQ?oc=5",
-   "date": "2026-10-30T12:38:55+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Archéologie: un site vieux d'environ 1000 ans livre des informations précieuses sur Madagascar &nbsp;&nbsp; RFI",
-   "doi": null,
-   "first_seen": "2026-10-30T17:01:40+00:00",
-   "alt": null
-  },
-  {
    "title": "Découverte en Russie, cette pelle à pain vieille de 1 000 ans cachait un autre usage : un plateau de jeu gravé au dos - Science et vie",
    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUkZpY2x1VWVaY1NyQkJQMW5xcVp4Qk1tRHhwVTJIbUN4TWdGMXRsSkhSTkhPX3kweXV0aHVGM21NLWY0NHAtbTBlcWZVSXpja2gxaGw3c0ZkT2xIZGg1X3Y1M2EyOUdWZ0QxWnduSHYzeUxjeFZ2OW15TGtFYTlMai1CZ0ZveWxnZlkwcE5KOTY2WmUteFlEZWRRMENacnpIbXNGcVY0OUJIZXFia2JfRzBYcndBRDRWT0ZwVlJaQUxRblZ6NjRPX3BLX2tzdVRWWjV2dS1kTXpkc2RmWm1YaVk5VDU2ekNna1FybWwzdlhjZ01sODJtNWhuVVlaTXNXSXA1Vjhpdw?oc=5",
    "date": "2026-10-30T12:00:03+00:00",
@@ -12374,6 +12506,28 @@
    "abstract": "Il y a 1 600 ans, les Romains fabriquaient du verre capable de changer de couleur : des chercheurs ont réussi à reproduire leur technique &nbsp;&nbsp; Science et vie",
    "doi": null,
    "first_seen": "2026-10-30T11:26:45+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie : découverte dans un lac volcanique en Italie, une épée vieille de 3200 ans intrigue les archéologues - Connaissance des Arts",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQQ2ZUZ1owY1VmOFZyOTRkZ083Vk5pZjNVdkxsWGprVV9Lc3JhMk43c3VYcFlTM0lrNDgxWkJfT3p4N1Z4QmNPNEtRYzkwaHc0cE4wSkUtRzdiNzhSbTJwb2xiWEhrbjZjOFhFbXQ3VlByLTVNYXg0ZmN0djdTdGVpeVpXT2lraTJzT2xqZk9OaXplaUJiUC1kX1VVMVFNRGRNTDhyYnhQV1kxSW5ZYUxZNlY4NmFjNXFCS082UXlyLXRERE1Fd2VYMHZWZGstYS16Q0ZtSlVwVWl4MWRuQnNvU25pUUZodlVTOXFtYVlIdGtTdFQ5ZE1mV3NqNVpGMVY3SzNRRGtEYzhLZjdVSThrRVprMWNrSkxV?oc=5",
+   "date": "2026-10-30T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : découverte dans un lac volcanique en Italie, une épée vieille de 3200 ans intrigue les archéologues &nbsp;&nbsp; Connaissance des Arts",
+   "doi": null,
+   "first_seen": "2026-10-30T21:31:45+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie: un site vieux d'environ 1000 ans livre des informations précieuses sur Madagascar - RFI",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdnRTQVhidGNGd1c1MTJkZ0VUR3Z1XzNTOERYRjRjejhxdmJWSkRac3lodE5uNkVyV2ZjWWp6OWV3Z3BfVWlIVTNhODVLZ19Bd1hVMnBEbF9yQXk3TmF2UWZfeGZqaTViUjNWRFFqZUYzLTNpV3JVYkdleE1aTDI2TFF5VXdQV1dObktGTVQ1OW45R0xNR0JPTVdKY1M0Wmc5S0x5b3pPZE9ocThFSWF0NFF4NWMySnVjLWJXZkdhZ1VKVkJMVFRrbE4tN0VIbFNPaFhMdnF2TThIUQ?oc=5",
+   "date": "2026-10-30T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie: un site vieux d'environ 1000 ans livre des informations précieuses sur Madagascar &nbsp;&nbsp; RFI",
+   "doi": null,
+   "first_seen": "2026-10-30T17:01:40+00:00",
    "alt": null
   },
   {
@@ -12895,17 +13049,6 @@
    "alt": null
   },
   {
-   "title": "Automask : un outil numérique au service de l’archéologie et du patrimoine - Ministère de la Culture",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcmNEV0xTY3RHel9QeDVvNk9QdFNzelRsMXp0MmFXelU0SklJelg0WElPOGJ5UzVZS0NVQzV0SG9OU0o0WmNJNGFZNFYySS1WQnBOWDRnS2NlcGhIVlBPRkdUR3R0eGJZanlEN2VlUW9idGFzWG14UkFzSFhxSDE2T0tMTF9ZM2xROVhjRFFDLVZoYmhOU2NjMmpGTGhfMV95S1oxTWFiZF8zNDNaZTRWcThIODIwZjVwUmNFZ0dYZXdpUm1IM1lCLWpHQlEwZw?oc=5",
-   "date": "2026-10-29T13:38:44+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Automask : un outil numérique au service de l’archéologie et du patrimoine &nbsp;&nbsp; Ministère de la Culture",
-   "doi": null,
-   "first_seen": "2026-10-29T17:26:36+00:00",
-   "alt": null
-  },
-  {
    "title": "Amiante : le FIVA part à la recherche des victimes encore privées d’indemnisation",
    "link": "https://www.sciencesetavenir.fr/sante/amiante-30-ans-apres-son-interdiction-indemniser-les-victimes-reste-un-defi_195747?xtor=RSS-16",
    "date": "2026-10-29T13:24:10+00:00",
@@ -13101,6 +13244,17 @@
    "abstract": "Musée national d’archéologie : après un an de blocage, le chantier relancé avec un marché de 67 MDH &nbsp;&nbsp; Le Desk",
    "doi": null,
    "first_seen": "2026-10-29T11:34:24+00:00",
+   "alt": null
+  },
+  {
+   "title": "Automask : un outil numérique au service de l’archéologie et du patrimoine - Ministère de la Culture",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcmNEV0xTY3RHel9QeDVvNk9QdFNzelRsMXp0MmFXelU0SklJelg0WElPOGJ5UzVZS0NVQzV0SG9OU0o0WmNJNGFZNFYySS1WQnBOWDRnS2NlcGhIVlBPRkdUR3R0eGJZanlEN2VlUW9idGFzWG14UkFzSFhxSDE2T0tMTF9ZM2xROVhjRFFDLVZoYmhOU2NjMmpGTGhfMV95S1oxTWFiZF8zNDNaZTRWcThIODIwZjVwUmNFZ0dYZXdpUm1IM1lCLWpHQlEwZw?oc=5",
+   "date": "2026-10-29T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Automask : un outil numérique au service de l’archéologie et du patrimoine &nbsp;&nbsp; Ministère de la Culture",
+   "doi": null,
+   "first_seen": "2026-10-29T17:26:36+00:00",
    "alt": null
   },
   {
@@ -13757,17 +13911,6 @@
    "abstract": "Historian Malcolm Gaskill reveals how emotions like grief and uncertainty have shaped our relationship with the supernatural for centuries Ghosts, witches, flying nuns, and spirits summoned from beyond the grave might seem to belong to a less rational age. But were our ancestors really so different from us in their beliefs? In this episode, historian Malcolm Gaskill joins Elinor Evans to discuss his new book, Worlds of Fear and Wonder , and reveals how emotions like grief and uncertainty have shaped our relationship with the supernatural for centuries.",
    "doi": null,
    "first_seen": "2026-10-28T11:23:55+00:00",
-   "alt": null
-  },
-  {
-   "title": "RAN 2026 – Rencontres d’archéologie de la Narbonnaise - Hominides",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkN0YTQtcTJPRWRIUUc5dC15VkJBa1dZSzFHblJGSDBaSmc3QTdMVHFuVDk4dWp1RWJBZkNSSWxlODVyemw0ZUZMV29ZaXFmNV84dG4xTDRHZ0VlQzF4cWk1SlAxM2tiUjlRbkNybHI3MHU3ZUI1YW1UR283SlBBdnZ3?oc=5",
-   "date": "2026-10-28T07:04:53+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "RAN 2026 – Rencontres d’archéologie de la Narbonnaise &nbsp;&nbsp; Hominides",
-   "doi": null,
-   "first_seen": "2026-10-07T11:49:51+00:00",
    "alt": null
   },
   {
@@ -18565,17 +18708,6 @@
    "abstract": "Vénérand : les adhérents de la Société d’archéologie et d’histoire dévoilent leurs talents cachés &nbsp;&nbsp; Sud Ouest",
    "doi": null,
    "first_seen": "2026-10-21T15:58:25+00:00",
-   "alt": null
-  },
-  {
-   "title": "Archéologie : des diagnostics dans le Val-de-Marne en 2026 - Val de Marne Le Département",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0R0MjFqQXlNbzVmdjd2d1BFUVpyRncta2hrUHF6RmdQQTRsOXVJQjRpemdSV2tCdmQxWjg3b2t3MWFnWjA4eEpwSm5OZXRScEF5Q3JuQi1aYVlhRkZRNnRuZmR2X0l1V0hCS2RPMEtPWWNBSXAtQUlfRWMzZ2VvaVNnejllYUNYZGZfWDMzajBjYlhJTFJnT1BXNElEOFk1SDZfaHhKNmZLZmRCZXBxbk5IbjVoQQ?oc=5",
-   "date": "2026-10-21T07:00:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Archéologie : des diagnostics dans le Val-de-Marne en 2026 &nbsp;&nbsp; Val de Marne Le Département",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
   },
   {
@@ -27701,17 +27833,6 @@
    }
   },
   {
-   "title": "Appel à participation – Faire dialoguer les historien·ne·s de l’archéologie : terrains, sources et méthodes - INHA - Institut national d'histoire de l'art",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYnlHZGNqVEJ6cGJ2bGJlbUktOHlBd2tDUFFENkFhcXVObnhrLUUwLTNydEEzUy1vOVhUWkNfQzZENEVjVEtYUkxTdGZRWnNnR3BkMElhemI0RWlhV3VQUHlWOHc2VXdYYldnYWIwekJwXzRBUWxBNXFTWWVwMV9ocnBKajExMmxNdVNLeGdxVzVFV25WQ0c2aTVlUHNwcmhQQzVYdTJ2bWx0RlU0TzVoNG5USkdRT2EzMW5mTS1UbVdYcno2TG5TNXhNQzhEcGI4NTdzVzByYmFvMWNUcFpIYi1qdGw1R3RVaFY0bGdWR0xQTElOQUF4V01rbmU?oc=5",
-   "date": "2026-10-07T07:00:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Appel à participation – Faire dialoguer les historien·ne·s de l’archéologie : terrains, sources et méthodes &nbsp;&nbsp; INHA - Institut national d'histoire de l'art",
-   "doi": null,
-   "first_seen": "2026-10-27T16:42:22+00:00",
-   "alt": null
-  },
-  {
    "title": "Des signes de \"morts violentes\" récemment identifiés sur des crânes inhumés dans une nécropole royale égyptienne - Geo.fr",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1p4UVZ4T3d5U3hINkEycXh2U2VVZkJUUExwcC1KdTYxaG05TnFmaUx0b1JHc1E0OUhfUzVqLXlOVTRIX0tvcUJNbUoxeWx5Z0kzNmdSLW9yc2FsRUhtNDU0d2Rha2hZY25RTjVPYW45NzVfRzZ0d1pGUTR0cTd5Tl9DeER3UzlIMjFQQlpDVFNoaEc0cEJHQ2o2TXpRNUxZTlBJeUo3VkVaZUZtTnV3eTZLQllCbGstVVhhcVhJV2V6dGlqVkxDeHA2YlQ1bWRZZnRCVngzdDNjS3FCQWc?oc=5",
    "date": "2026-10-07T03:36:00+00:00",
@@ -27981,6 +28102,17 @@
    "abstract": "Incaprettamento : ce que révèle ce supplice découvert au néolithique &nbsp;&nbsp; Ça m'intéresse",
    "doi": null,
    "first_seen": "2026-10-06T12:04:19+00:00",
+   "alt": null
+  },
+  {
+   "title": "RAN 2026 – Rencontres d’archéologie de la Narbonnaise - Hominides",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkN0YTQtcTJPRWRIUUc5dC15VkJBa1dZSzFHblJGSDBaSmc3QTdMVHFuVDk4dWp1RWJBZkNSSWxlODVyemw0ZUZMV29ZaXFmNV84dG4xTDRHZ0VlQzF4cWk1SlAxM2tiUjlRbkNybHI3MHU3ZUI1YW1UR283SlBBdnZ3?oc=5",
+   "date": "2026-10-06T07:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "RAN 2026 – Rencontres d’archéologie de la Narbonnaise &nbsp;&nbsp; Hominides",
+   "doi": null,
+   "first_seen": "2026-10-07T11:49:51+00:00",
    "alt": null
   },
   {
@@ -39443,17 +39575,6 @@
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "Nouveau collège de Parthenay : lancement des fouilles d’archéologie préventive &nbsp;&nbsp; Conseil départemental des Deux-Sèvres",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "Treasure as trinkets: Zendaya’s earrings renew debate on ownership of ancient artefacts",
-   "link": "https://www.theguardian.com/culture/2026/jul/25/treasure-as-trinkets-zendayas-earrings-renew-debate-on-ownership-of-ancient-artefacts",
-   "date": "2026-07-25T11:00:40+00:00",
-   "source": "The Guardian — Archaeology",
-   "kind": "media",
-   "abstract": "Jewellery with origins in Iran worn at an Odyssey photocall turns the spotlight on the trade in archaeological finds The Odyssey has stormed cinemas, but while its take on the Homeric epic has created ripples among western classicists, it is an actor’s earrings that have made waves further afield. Zendaya, who portrays the goddess Athena in the movie, provoked outrage when she appeared at a London photocall wearing earrings that were allegedly made from Iranian artefacts dating back to the 1st millennium BC. Continue reading...",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
