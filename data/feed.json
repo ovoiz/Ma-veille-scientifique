@@ -1,12 +1,116 @@
 {
- "generated_at": "2026-11-24T15:57:09+00:00",
+ "generated_at": "2026-11-24T21:17:02+00:00",
  "counts": {
-  "total": 2986,
-  "journal": 988,
-  "media": 1998,
-  "new_this_run": 58
+  "total": 2994,
+  "journal": 989,
+  "media": 2005,
+  "new_this_run": 43
  },
  "items": [
+  {
+   "title": "Editorial Board",
+   "link": "https://www.sciencedirect.com/science/article/pii/S004724842600120X?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Human Evolution",
+   "kind": "journal",
+   "abstract": "Publication date: December 2026 Source: Journal of Human Evolution, Volume 221 Author(s):",
+   "doi": null,
+   "first_seen": "2026-11-24T21:17:02+00:00",
+   "alt": null
+  },
+  {
+   "title": "Ancient Australian Diet Was Broad From 45,000 Years Ago",
+   "link": "https://www.anthropology.net/p/ancient-australian-diet-was-broad",
+   "date": "2026-11-24T20:56:22+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "Bones from Riwi rock shelter show a wide menu from first settlement, and a PNAS study argues the prey choice model reads such diet breadth backward. The oldest animal bones at Riwi, a rock shelter on the edge of the Great Sandy Desert in northwestern Australia, record an ancient Australian diet from about 45,000 years ago, and very few of them come from large kangaroos. Of the 447 identified fragments in the earliest time slice, the most numerous are small wallabies, along with lizards and snakes. Large kangaroos become common only after 34 ka (thousand years ago), and between 34 and 30 ka they are the largest single category of identified bone. That order runs against what archaeologists usually expect of early hunters. The prey choice model, from behavioral ecology, ranks animals by the food they return for the effort of catching them. It predicts that people add smaller, lower-ranked species only when large, high-ranked prey can no longer feed them. A broad diet then reads as a sign of shortage. In 2012 1 O&#8217;Connell and Allen applied this logic to Sahul, the combined landmass of Australia, New Guinea and the Aru Islands, and predicted that diets there stayed narrow until th…",
+   "doi": "10.1073/pnas.2619837123",
+   "first_seen": "2026-11-24T21:17:02+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-24T21:17:02+00:00"
+   }
+  },
+  {
+   "title": "What 15,520 simulations say about Neanderthal extinction",
+   "link": "https://www.anthropology.net/p/what-15520-simulations-say-about",
+   "date": "2026-11-24T20:24:13+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "An agent-based model of Ice Age Europe finds climate rarely finished off Neanderthals unless incoming populations of our own species grew large. Of the 15,520 simulated versions of Europe between 55,000 and 27,000 years before present (BP) in a new study of Neanderthal extinction, 12,982 landed on one branch of the classification tree the authors used to sort outcomes, and in 98.2 percent of the runs on that branch, the last Neanderthal band was gone before the simulation ended. Every one of tho&#8230; Read more",
+   "doi": null,
+   "first_seen": "2026-11-24T21:17:02+00:00",
+   "alt": null
+  },
+  {
+   "title": "Tunnels Underneath Hagia Sophia Excavated",
+   "link": "https://archaeology.org/news/2026/11/24/tunnels-underneath-hagia-sophia-excavated/",
+   "date": "2026-11-24T18:30:00+00:00",
+   "source": "Archaeology Magazine",
+   "kind": "media",
+   "abstract": "ISTANBUL, TURKEY—Hürriyet Daily News reports that some 3,000 tons of debris has been removed from [&#8230;] The post Tunnels Underneath Hagia Sophia Excavated appeared first on Archaeology Magazine . ISTANBUL, TURKEY— Hürriyet Daily News reports that some 3,000 tons of debris has been removed from the tunnels beneath the Vezir Garden and West Garden sections of Hagia Sophia, a structure completed in A.D. 537 during the rule of the Byzantine emperor Justinian I (reigned A.D. 527–565). The more than 1,300 feet of tunnels are thought to have been part of the city’s drainage system, explained Mehmet Nuri Ersoy, Turkey’s Culture and Tourism Minister. As the debris was cleared, researchers repaired damaged vaults and reinforced sections of the tunnels with stainless steel supports. A nearly 600-foot-long section running parallel to the entrance to Hagia Sophia may have once been connected to a Roman road. In the Vezir Garden section, the excavation revealed an underground burial structure that may predate the construction of Hagia Sophia. Conservation and study of the underground structures continues. To read about a Byzantine shipwreck dating to Justinian’s reign, go to “ Shipping Stone…",
+   "doi": null,
+   "first_seen": "2026-11-24T21:17:02+00:00",
+   "alt": null
+  },
+  {
+   "title": "Bison Jump Site Identified in Texas",
+   "link": "https://archaeology.org/news/2026/11/24/bison-jump-site-identified-in-texas/",
+   "date": "2026-11-24T18:00:00+00:00",
+   "source": "Archaeology Magazine",
+   "kind": "media",
+   "abstract": "HOUSTON, TEXAS—According to a statement released by Rice University, a bison jump has been found [&#8230;] The post Bison Jump Site Identified in Texas appeared first on Archaeology Magazine . Bison bones exposed during excavation at the Nighthawk site, Caprock Canyons State Park, Texas HOUSTON, TEXAS—According to a statement released by Rice University , a bison jump has been found in Caprock Canyons State Park, which is located in the Texas Panhandle. Known as the Nighthawk site, this is the second bison jump identified in the state, explained August “Gus” Costa of Rice University. It had been previously thought that herding large numbers of bison over cliffs in order to kill or incapacitate them was a hunting technique limited to the northern Great Plains. “Large-scale bison harvests (like jumps) are exciting because they require a large group of people working together to be successful,” Costa added. The labor was likely shared by large groups of people split up into specialized teams: those who located the herd and drove the animals toward the cliff; a group that directed the bison toward the drop; and those who killed injured animals and processed their meat and hides. People…",
+   "doi": "10.1017/aaq.2026.10229",
+   "first_seen": "2026-11-24T21:17:02+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-24T21:17:02+00:00"
+   }
+  },
+  {
+   "title": "This Danish Man Was a Rare Witness to the Agricultural Revolution",
+   "link": "https://www.nytimes.com/2026/11/24/science/rodhals-man-neolithic-farming-witness.html",
+   "date": "2026-11-24T17:31:15+00:00",
+   "source": "New York Times — Archaeology",
+   "kind": "media",
+   "abstract": "Excavated in 1956, “Rodhals Man” lived — and ate — at the cusp of one of the biggest shifts in human history, a new study says.",
+   "doi": null,
+   "first_seen": "2026-11-24T21:17:02+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie : en Espagne, un cou géant de dinosaure pesant plus de 15 tonnes découvert, il pourrait appartenir à une nouvelle espèce de titanosaure - Sud Ouest",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOVk1aSGpwVU9mREszWldac2g0ZnJ3eWU5eV9DeThyOEgxRXZ3OFZHSXlwdjFoeUpwYmxBYzNGbTlXdmFRd2pLYTFiSjBxZ1RsQUUxdHRteTh4a3ZWbUppTUxlcDltV05TMkFwdlJQb0g4MmljUlE3bXd4UUdxYzZJNml1MDctbjdsNFd3amIwa2hIX2xtcE45bGVjbGZ1SmxRal9NQnBrMUdzeGl6eEJVRzA2S3AyQkExQkgzU19fN1daUW4tcDRyR1FhMzdmYjQwQ0RlS0ZMZE9tRXBpLTlJeUhwRnhPc1BieFEteWpQUTU4YWpzM3BHOGJTazd4TnNyUjNVR3M3Vms1R1FwOG5oRDhGam1ZQkV6?oc=5",
+   "date": "2026-11-24T16:55:14+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : en Espagne, un cou géant de dinosaure pesant plus de 15 tonnes découvert, il pourrait appartenir à une nouvelle espèce de titanosaure &nbsp;&nbsp; Sud Ouest",
+   "doi": null,
+   "first_seen": "2026-11-24T21:17:02+00:00",
+   "alt": null
+  },
+  {
+   "title": "Données archéologiques obtenues par la fouille d'une vingtaine de conteneurs enterrés de la ville de Vienne - Inrap",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa2l0cmFmejVzOU1nald4bzZnc3QtbWg0OWJ3cFgyNTlQclpBU3BxU1QyWXlfYW5sb0cwVml2UFNJUEsza2MwZ191RWV1UF9vMEk5TTZldlYwWTVKbHlpWjVRaEtKNVRlOEZ3cEZmdXlvT2JVR0lSZ3ZPUmhmWVVnYk9aZVQ1dkk2Rm8tZk5oQ2F0LUticTR3LXd6ZmJkb1lDc2dSNjlR?oc=5",
+   "date": "2026-11-24T15:50:55+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Données archéologiques obtenues par la fouille d'une vingtaine de conteneurs enterrés de la ville de Vienne &nbsp;&nbsp; Inrap",
+   "doi": null,
+   "first_seen": "2026-11-24T21:17:02+00:00",
+   "alt": null
+  },
   {
    "title": "L'alcool progresse chez les mineurs et reste meurtrier sur les routes",
    "link": "https://www.sciencesetavenir.fr/sante/l-alcool-progresse-chez-les-mineurs-et-reste-meurtrier-sur-les-routes_196379?xtor=RSS-16",
@@ -71,6 +175,17 @@
    "abstract": "Excavations at the mortuary temple of Thutmose III in Thebes have turned up 40 charred papyrus fragments linked to a curse ritual against Apophis, the serpent of chaos in Egyptian myth. The pieces came from a rubbish deposit and are about 3,400 years old. They are the earliest direct physical evidence of the ritual, and [&#8230;]",
    "doi": null,
    "first_seen": "2026-11-24T15:57:09+00:00",
+   "alt": null
+  },
+  {
+   "title": "Alain Beyneix, « La dame de Capdenac. Un faux archéologique » (Jérôme Millon) - Livres Hebdo",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXpJRDFHTmJlUUVTSzh6TlZZQTRoSEYxWVM4aFBrSGNSTDVwaTVwc3ZjYnp4MDFQYnVXdGh1cXc0Qm8zdGw5QnNwWUxkNzQ1SF9uZ3lNcjZFY3ZGQXFjZzI3eU4wNTM5MDN1QTQ4SFd6UFpWQ0MwbmhKUGIwdmttNVlSTFdrUFRBb3lYVlRBY01uVnRqT2x6UkVjMmdITkwybnJvNTJ2Yw?oc=5",
+   "date": "2026-11-24T13:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Alain Beyneix, « La dame de Capdenac. Un faux archéologique » (Jérôme Millon) &nbsp;&nbsp; Livres Hebdo",
+   "doi": null,
+   "first_seen": "2026-11-24T21:17:02+00:00",
    "alt": null
   },
   {
@@ -222,7 +337,7 @@
    "date": "2026-11-24T07:30:10+00:00",
    "source": "The Guardian — Archaeology",
    "kind": "media",
-   "abstract": "A campaign securing the landmark return to India of ancestral remains taken during British colonial rule has opened a wider conversation about restitution The lacerating legacy of colonialism survives in many spaces, particularly in museum collections and private holdings across the western world. And it’s not just limited to inanimate artefacts or cultural objects. For almost 80 years, human remains were displayed on crowded glass shelves at Pitt Rivers Museum at Oxford University, one of the world’s most celebrated institutions. Continue reading...",
+   "abstract": "A campaign securing the landmark return to India of ancestral remains taken during British colonial rule has opened a wider conversation about restitution • Don’t get This is India delivered to your inbox? Sign up here The lacerating legacy of colonialism survives in many spaces, particularly in museum collections and private holdings across the western world. And it’s not just limited to inanimate artefacts or cultural objects. For almost 80 years, human remains were displayed on crowded glass shelves at Pitt Rivers Museum at Oxford University, one of the world’s most celebrated institutions. Continue reading...",
    "doi": null,
    "first_seen": "2026-11-24T15:57:09+00:00",
    "alt": null
@@ -3229,17 +3344,6 @@
    "alt": null
   },
   {
-   "title": "Archéologie : l’IA guide les recherches dans le désert - Libnanews",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95eERLRWhaa1FkQmV2LUJsTHRiSU95ZmtkZXFjMlkySkpfbi03Rm9mb3lhU1Z1N2NfZzJEZDZFUWFjejZqOFZqY0ZObGszNEx0YzZiUzJhVGh3YUp3Q2ZtWlotbGZ5TW5SQWU4dXB0bHdzU19seHhVOF82Qm5hTGM?oc=5",
-   "date": "2026-11-16T18:15:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Archéologie : l’IA guide les recherches dans le désert &nbsp;&nbsp; Libnanews",
-   "doi": null,
-   "first_seen": "2026-11-16T21:04:10+00:00",
-   "alt": null
-  },
-  {
    "title": "Did Paleolithic Arabians Poison Their Weapons?",
    "link": "https://archaeology.org/news/2026/11/16/did-paleolithic-arabians-poison-their-weapons/",
    "date": "2026-11-16T18:00:00+00:00",
@@ -3553,6 +3657,17 @@
    "abstract": "Pratiquement disparu il y a plus d'un demi-siècle, le millet oléagineux pourrait constituer une céréale intéressante face au réchauffement climatique. Très résistant, il est de nouveau cultivé à Taïwan.",
    "doi": null,
    "first_seen": "2026-11-16T13:44:10+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie : l’IA guide les recherches dans le désert - Libnanews",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95eERLRWhaa1FkQmV2LUJsTHRiSU95ZmtkZXFjMlkySkpfbi03Rm9mb3lhU1Z1N2NfZzJEZDZFUWFjejZqOFZqY0ZObGszNEx0YzZiUzJhVGh3YUp3Q2ZtWlotbGZ5TW5SQWU4dXB0bHdzU19seHhVOF82Qm5hTGM?oc=5",
+   "date": "2026-11-16T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : l’IA guide les recherches dans le désert &nbsp;&nbsp; Libnanews",
+   "doi": null,
+   "first_seen": "2026-11-16T21:04:10+00:00",
    "alt": null
   },
   {
@@ -33008,7 +33123,7 @@
    "date": null,
    "source": "Journal of Human Evolution",
    "kind": "journal",
-   "abstract": "Publication date: Available online 18 July 2026 Source: Journal of Human Evolution Author(s): C. Falguères, Q. Shao, C. Perrenoud, C. Stringer, O. Tombret, L. Garbé, A. Darlas",
+   "abstract": "Publication date: December 2026 Source: Journal of Human Evolution, Volume 221 Author(s): C. Falguères, Q. Shao, C. Perrenoud, C. Stringer, O. Tombret, L. Garbé, A. Darlas",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -33019,7 +33134,7 @@
    "date": null,
    "source": "Journal of Human Evolution",
    "kind": "journal",
-   "abstract": "Publication date: Available online 31 March 2026 Source: Journal of Human Evolution Author(s): Dimitris S. Kostopoulos, Georgios Th. Lazaridis",
+   "abstract": "Publication date: December 2026 Source: Journal of Human Evolution, Volume 221 Author(s): Dimitris S. Kostopoulos, Georgios Th. Lazaridis",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
@@ -40486,17 +40601,6 @@
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "L'archéologie « préventive » française en grande difficulté malgré son apport au patrimoine historique &nbsp;&nbsp; Basta Media",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "The Guardian view on ancient DNA: a female shaman exposes our flawed assumptions about the past | Editorial",
-   "link": "https://www.theguardian.com/commentisfree/2026/jul/27/the-guardian-view-on-ancient-dna-a-female-shaman-exposes-our-flawed-assumptions-about-the-past",
-   "date": "2026-07-27T17:25:15+00:00",
-   "source": "The Guardian — Archaeology",
-   "kind": "media",
-   "abstract": "Thanks to new technology we are are acquiring insights into earlier times, and realising how little we truly know Archaeologists believe the Upton Lovell Shaman, who lived in what is now Wiltshire 4,000 years ago, was an important religious leader and metalworker because of the artefacts and tools buried with the body. Until very recently it was also believed, on considerably slimmer evidence, that this shaman was a man: it was simply assumed that someone of such status must be male, and the view was barely questioned over the years. Now ancient DNA analysis performed at the Francis&nbsp;Crick Institute has revealed that the body, held&nbsp;by the Wiltshire Museum, is in fact a woman. That should cause a stir in bronze-age studies. But&nbsp;it is also yet another example of how many of our assumptions about human history have been upended by the rise of ancient DNA analysis over the past two decades. Others include the revelation that there were (frequent) liaisons between humans and Neanderthals just 50,000 years ago, a reconstruction suggesting that the first modern Britons had “dark to black” skin, and the closing of longstanding mysteries such as what really killed two members …",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
