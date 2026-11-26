@@ -1,12 +1,265 @@
 {
- "generated_at": "2026-11-26T00:59:31+00:00",
+ "generated_at": "2026-11-26T15:23:55+00:00",
  "counts": {
-  "total": 3146,
-  "journal": 1107,
-  "media": 2039,
-  "new_this_run": 73
+  "total": 3171,
+  "journal": 1111,
+  "media": 2060,
+  "new_this_run": 63
  },
  "items": [
+  {
+   "title": "Ancient DNA reveals selective use of woody lineages in archaeological fish traps and wattle structures",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0305440326002694?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Archaeological Science",
+   "kind": "journal",
+   "abstract": "Publication date: January 2027 Source: Journal of Archaeological Science, Volume 197 Author(s): Steven B. Janssens, Arne Mertens, Sander de Backer, Wim Baert, Floris Beke, Tim Bellens, Silke Lange, Victor Deklerck, Jean-Marie Vanhove, Yves Bawin, Sonja Deneve",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "Beyond the rural-urban divide: Lowland Maya communal lifeways across the settlement density continuum",
+   "link": "https://www.sciencedirect.com/science/article/pii/S027841652600084X?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Anthropological Archaeology",
+   "kind": "journal",
+   "abstract": "Publication date: December 2026 Source: Journal of Anthropological Archaeology, Volume 84 Author(s): Jocelyne M. Ponce",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "Une enquête inédite rend hommage à une femme décapitée il y a plus de 2000 ans",
+   "link": "https://www.sciencesetavenir.fr/archeo-paleo/une-femme-decapitee-il-y-a-plus-de-2000-ans-decouverte-en-irlande-du-nord_196584?xtor=RSS-4",
+   "date": "2026-11-26T15:09:35+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Une jeune femme abandonnée dans une tourbière est la première jamais trouvée en Irlande du Nord. Le public irlandais a tout de suite adopté cette nouvelle parente surgie du passé.",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "Centres de données dans l'espace : SpaceX autorisé à lancer un million de satellites",
+   "link": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/centres-de-donnees-dans-l-espace-spacex-autorise-a-lancer-un-million-de-satellites_196546?xtor=RSS-12",
+   "date": "2026-11-26T14:28:21+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "L'administration Trump a donné son feu vert au gigantesque projet de centres de données dans l'espace de SpaceX. Baptisée Starmind, cette constellation pourrait compter jusqu'à un million de satellites, au grand dam des astronomes, qui redoutent une dégradation sans précédent du ciel nocturne.",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "2,000-year-old burial ground in Poland yields rare crescent-shaped pendant and thousands of finds",
+   "link": "https://archaeologymag.com/2026/11/burial-ground-in-baranow-poland-yields-thousands-of-finds/",
+   "date": "2026-11-26T14:16:18+00:00",
+   "source": "archaeologymag.com",
+   "kind": "media",
+   "abstract": "A burial ground near Baranów, central Poland, yielded several thousand Roman-period finds after three years of work. Archaeologists began work in 2023 and completed the full dig this year, tracing the cemetery across more than one hectare. The graves belonged to people of the Przeworsk culture, which flourished across much of present-day Poland from the [&#8230;]",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "Il y a 3 200 ans, trois grandes sécheresses auraient précipité l’effondrement des civilisations méditerranéennes selon des climatologues - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOSU1mS19hSXdhWWM2d1ZEcG9vTDdWNDdBbWgyeVNpZk56U3hwMXZHbkhrNVh5Q0JDdElONjVaYkI5S0twOEVJRGRqbFFjNlM2WWtLSFBlWndaNW9uVU5ZT29uN0VJOUgwOXplS3k5Z241azdpS3dNUjhrdWh0TkJ3RzlGSTJvYkdOOEZoczhvMzhNd0dZZ0puVmFZeDZWUFNJQ1JkUTRDRlZTY1hZbjIzbk1ZVnpXdWhrVnJhemhSOVJEOW9nWmQtRHdZdklIbGd1bXUzbVg3dXVkdUtjOVVIdkJWOV85alVmbnJnYTYtTXlpVjlZMV9HS1A1dWNwNGxDVU9jRjQtWUlBZEtsNGoxM0otZGRhUjQxSllSbTJEVnl1Mk0?oc=5",
+   "date": "2026-11-26T14:00:20+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Il y a 3 200 ans, trois grandes sécheresses auraient précipité l’effondrement des civilisations méditerranéennes selon des climatologues &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "Les data centers consomment beaucoup plus d’électricité que prévu",
+   "link": "https://www.sciencesetavenir.fr/high-tech/les-data-centers-consomment-beaucoup-plus-d-electricite-que-prevu_196534?xtor=RSS-12",
+   "date": "2026-11-26T13:45:36+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Une nouvelle estimation réalisée par des chercheurs de Harvard conclut que les centres de données actuels nécessitent près de trois fois plus d’électricité que les estimations précédentes.",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "À Minorque, des archéologues ont retrouvé ce qui pourrait être un biberon vieux de 2 000 ans - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcjJvcGhQRndQZTZWWERvSzRTVWxpMnpKZmpfYWNMMm15MjRzVnBaUVEtTWwxUVdnUjhpRVpfM0ozck5KVG5ScVVYZUM3X3RUbmVKV3VpMGk0cDZBamJMWlhxTFJ1dW5sZlljRDYtYXhYSVNJMGdveUY1emxtdUNhcWlzb1dsRkI0RkZkRFFzbFpDc19lNVBOODBjZnhqQnlYZWVKM1RFUVhkSGtDRUZSNFBWZ0xhNk5FZl9pSzZ4RThaRXMwQlRab2J6OWRCUEc2ckw0bURocFhCZzV4bzhNNzI1N0RNQUx3?oc=5",
+   "date": "2026-11-26T13:40:10+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "À Minorque, des archéologues ont retrouvé ce qui pourrait être un biberon vieux de 2 000 ans &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "10 facts you (probably) didn't know about the Middle Ages",
+   "link": "https://www.historyextra.com/period/medieval/middle-ages-facts-what-customs-writers-knights-serfs-marriage-travel/",
+   "date": "2026-11-26T13:05:00+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "How much do you really know about the Middle Ages? Here, John H Arnold, professor of medieval history, reveals 10 facts about the medieval period that might surprise you They weren’t all knights or serfs or clergy Although certain medieval writers described their society as divided into ‘three orders’ – those who prayed, those who fought, and those who laboured – that became an increasingly inaccurate picture after about 1100. The population of Europe increased hugely across the 12th and 13th centuries, with cities and towns getting much larger. Paris grew about tenfold (and London nearly as much) in this period. In the cities, people had all kinds of jobs: merchants , salesmen, carpenters, butchers, weavers, food sellers, architects, painters, jugglers. And in the countryside, it was not at all the case that everyone was an impoverished ‘serf’ (that is, ‘unfree’ and tied to the land). Many peasants were free men – and women – and owned their own land, while others who were to some degree ‘unfree’ in fact bought and sold land and goods, much like other free men. There certainly were poor, oppressed serfs, but it wasn't a universal condition. People had the vote Well, some people at…",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "Early Stone Age rock carvings in Scandinavia may have been signposts for hunting grounds",
+   "link": "https://phys.org/news/2026-11-early-stone-age-scandinavia-signposts.html",
+   "date": "2026-11-26T13:00:05+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "Between roughly 9,000 and 4,000 B.C., artists in ancient Scandinavia painstakingly carved large, sometimes life-size images of elk, reindeer, bears and other creatures into rock faces teetering on the edge of fjords, rivers and lakes. But their meaning has long been debated.",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "5,000-year-old Danish tomb pots likely held soured milk, hinting at Neolithic rituals",
+   "link": "https://archaeologymag.com/2026/11/danish-tomb-pots-milk-neolithic-rituals/",
+   "date": "2026-11-26T12:17:08+00:00",
+   "source": "archaeologymag.com",
+   "kind": "media",
+   "abstract": "A new study in Antiquity suggests some 5,000-year-old pottery vessels from Denmark held fermented dairy products. Researchers filled replica pots with several foods and drinks and compared the damage each left on the inner walls. Soured milk came closest to the marks on the ancient vessels. During the Neolithic period, farmers built thousands of passage [&#8230;]",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "Huit dents vieilles de 184 000 ans bouleversent l'histoire d'Homo erectus et de son extinction en Asie - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOc29FSzZKR2FUeWMyTXNmVFIyanBKQ0ZjYkNTQzF5NEx0Qk9BMjl1ak9TTWlLZXVBMTJWN3E4MDE4TXRvcnBvM3RnM0RaU0pTX2tpS0d2XzN4TUFJX1RPcE8zcEpKR2drM3l1OEY1aG5HNVlxYUw3bmVfZXJDODVDUnp4bzdUXzcxQ3hKbml1UE1zUHg4TWdBWUdneTN2WnRhbFJmVmd1U2xSQ25KdXhiX25USW9paFhsSVNoR3FTRGsxZGdSdVJwMmUxWXZsU0NieHlpXzR3MjdfRV9UVzhnTTZUNWx3WnJHUVlWXzNleHZSWG03?oc=5",
+   "date": "2026-11-26T11:40:48+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Huit dents vieilles de 184 000 ans bouleversent l'histoire d'Homo erectus et de son extinction en Asie &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie : un trésor viking découvert dans un champ sur l'île de Man pourrait cacher la plus ancienne tombe de femme - Connaissance des Arts",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQ2RSWFY2OTA3S2h2b0YwQUVwUTNSbzNic1o3QU5nVFlEXzBJeDBlcjRhQi1VYnpVcXlyVlFjbjlCbVVwLXBWY1RKQXp5b01fSWMyYlNiN1o2SGh0cmczaTVKZUJRVnpCaUJqOUZPamZxeTU4aUZhdFhEWUZHb292bTdyTlNIWnJJVGVtMmlrMG9od0tHT0ZEbXhWYk9XVzdDajc1U3d0OWdJRW9ia1FoMDVQbG10NlpyOVlkVktQNXR1cEtWTXNJZDJpUm1FTFFNZFQtMzgwVnQxai0ybTVKZm1XOWxqUUpmR1JIX0g5SG5NOFJCMFZLZWoxYnd4dmFMdHhSbFhSMEtyOV9QbWtWb2xTdUZYQ3d3U25RZFFGQzE?oc=5",
+   "date": "2026-11-26T11:30:42+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : un trésor viking découvert dans un champ sur l'île de Man pourrait cacher la plus ancienne tombe de femme &nbsp;&nbsp; Connaissance des Arts",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "This 345-million-year-old fossil had scientists fooled for decades",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm",
+   "date": "2026-11-26T10:46:17+00:00",
+   "source": "ScienceDaily — Archaeology",
+   "kind": "media",
+   "abstract": "A famous 345-million-year-old fossil has turned out to be something entirely different from what scientists believed for decades. Advanced X-ray imaging revealed hidden gills and thousands of tiny teeth, exposing a primitive aquatic or amphibious creature rather than an early reptile. The discovery suggests that several adaptations associated with life on land actually evolved in animals still dependent on water.",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "Conférence au Festival du film d'archéologie sous-marine à Collioure - L'Indépendant",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWNYU3pGU0JPZXdIUGVUWXdoREt5SE9RYm14WWQxa21qZzJwRl9VZ0tVd0hseENmSkU3Zmo4UTd1TXVWMnFDSC1WcktheWdid1c3dERpc0Y0U193U0pNYUF2M2ltaUQzeHd6ZXEwdER5ZVljNWpUQkR6TjBvc0hTQXcyU3VYYkYtdkVITE9iWG1HaHg3dVhqOXB2V003MzVHN000WWFDNktORnNseFNzNXZ4d0pLQ01ueVpn?oc=5",
+   "date": "2026-11-26T10:22:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Conférence au Festival du film d'archéologie sous-marine à Collioure &nbsp;&nbsp; L'Indépendant",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "Andrew Ramage Has Died. He Found Receipts for the ‘World’s First Millionaire.’",
+   "link": "https://www.nytimes.com/2026/11/26/science/andrew-ramage-dead.html",
+   "date": "2026-11-26T10:03:02+00:00",
+   "source": "New York Times — Archaeology",
+   "kind": "media",
+   "abstract": "An archaeologist, he unearthed evidence that the saying “as rich as Croesus” is apt: King Croesus was very, very wealthy. Mr. Ramage died at 87.",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "Slimane Hachi. Directeur général de la nouvelle Agence nationale d’archéologie : «L’objectif final est de restituer à la nation son récit historique et culturel - El Watan",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWERTRUUyLUQwaUNoU1RhV1RsWnZvMk1TZ2VEdWN4NjhnYkpudzRhcmcycVltVnkxWjloam56aloxRXB4ektwMGhkczVPX2ZWVjBFdVFtWEJfNEJlTU5CdFRibWMwY2R0ZlAxUzVZVU1lOEFkMnFINDh0WkcySWFHMVZKWGNQYktVRHBVVkg2R1Zhd1hONW42R09jRGRJSFhzaF9UMERLa0Qxbld6THRYMHE1YVNiM3o0UVZvbEdWSnN0aGVUaDhvUFhwd1JVVnppQ20xOHBCYUZXSlRia19wQ2ItV1h2ZUhGVEduN0R1RkVCSGNHd1BFUTNFV09xTUdpYW01cQ?oc=5",
+   "date": "2026-11-26T09:24:59+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Slimane Hachi. Directeur général de la nouvelle Agence nationale d’archéologie : «L’objectif final est de restituer à la nation son récit historique et culturel &nbsp;&nbsp; El Watan",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "L’agence nationale d’archéologie dévoile ses premiers objectifs : Cap sur la récupération des biens algériens détenus à l’étranger - El Watan",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZTBNbFRBSW0yRWZaUlpCbnhsOHA4ZjdpcTdrQnJXMGVwTG1yVExSUUZ4Z0U1MVFSeGROa3NWUmZXMS0xYmZWRW5EeDZ6MmhjZ2l4UGExXzRUaVNxcDFWRy1QQjc0NFFneFBuS19pSTM2ZElTMVN2Tm9mZE8tYlpLaGtkNUxOVlcxb1JNdFlIczh5SGFmTDFhVURZalpNc0piUHAwWVNvZXY5VmVmN0MwenAyVEdmTUQ1Qnh3S1V6ZmlBYVhGeTgwNllWamRZcVlVVFJ0WUhyZmZsX1RwWkE?oc=5",
+   "date": "2026-11-26T09:24:59+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "L’agence nationale d’archéologie dévoile ses premiers objectifs : Cap sur la récupération des biens algériens détenus à l’étranger &nbsp;&nbsp; El Watan",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "The Black Death: a global contagion",
+   "link": "https://www.historyextra.com/membership/the-black-death-a-global-contagion/",
+   "date": "2026-11-26T09:05:06+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Thomas Asbridge reveals how the plague tore across the medieval world with devastating speed The Black Death is remembered as one of the most devastating catastrophes in human history – a pandemic that swept across continents and killed millions. But where did it come from? How did it travel so quickly through towns and countryside? And did people at the time understand just how terrifying the illness would be? In this first episode of our three-part series on the deadly disease, Emily Briffett and historian Thomas Asbridge – author of new book The Black Death: A Global History , published by Allen Lane – trace the origins and spread of the Black Death. Watch now, or listen ad-free below: View Green Video on the source website Go Beyond the Podcast If you’d like to find out more about the Black Death and its impact on the medieval world, Emily Briffett has put together some essential reading, listening and viewing from the HistoryExtra archive to help deepen your understanding .",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "Des enfants incas drogués aux hallucinogènes avant d’être sacrifiés - Pour la Science",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS0RRaDNhTTZZWWFHVlNvOE5QamZ2NXd0WnkwN3NTT0NWMm94NHcycnRFYS1DNUpGUVcwd3J1SEFCcWFWbmtSRVNjSWJ1TkdtUWM1aWVJWEI0bF8ySnk1NzZpcDdrOXdHSk9GUEYybjE4NUk4NVBlLXFRRVNicGwwVktZcExkZHQ1VFZUWXdTd3NzLWx6Wm5CWDZ4OEo0S3BwNDVNcFJJT096VXZwMWFoVFJXZ2RCUkM1SjdkV1ZB?oc=5",
+   "date": "2026-11-26T09:02:17+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Des enfants incas drogués aux hallucinogènes avant d’être sacrifiés &nbsp;&nbsp; Pour la Science",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily Quiz: 26 November",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-11-26T07:00:04+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
+  {
+   "title": "En Ukraine, une tranchée militaire a révélé une tombe grecque de 2 500 ans encore intacte - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSGY5eHE1ZlU3Tm50dGFHaENKWGJSTUZBX0hFNWs4LWJTRHpZMDBDNENWbG9YZUZKX1F6OVpkU29GLUlhQ2lRaE5XeFUwQ0xMUS1xUlg5NlpKMnk1UEJHczkzNnBzSENNb2dpOTZWdkxZZFotdnRWR3FBRmJpdFRmY1k3V1Nab243VTBiNDdkaV84dHR6cklfM0gtZHZOcENDT1lPbXRmU3B6cDJzMGIzckNkb3VRNzhRWkZyMTBuV24tSFNnMFdyeHh2MzlMNmd3c29ld1l3dHRSMGZkaU1LWg?oc=5",
+   "date": "2026-11-26T05:00:22+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "En Ukraine, une tranchée militaire a révélé une tombe grecque de 2 500 ans encore intacte &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
+   "title": "Dracénie : « Archéologie d’ici et d’ailleurs » - TV83",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RVzJZaE42SWNySTc2RFpEZnotbFRzdWw5RzNPWV9EbzJJNG9tRjNlOUVqTzZmS0NxNWpuRUtCcXNqa0lzdWlyMkY2X2I3NVZCeHFCbzRlc0JZUV9iU2x3Z1VXeGNsWW0xTW5Ca2pWbTQ?oc=5",
+   "date": "2026-11-26T03:03:33+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Dracénie : « Archéologie d’ici et d’ailleurs » &nbsp;&nbsp; TV83",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
   {
    "title": "Giant deer bones may push human arrival in Ireland back by 1,000 years",
    "link": "https://phys.org/news/2026-11-giant-deer-bones-human-ireland.html",
@@ -28,6 +281,44 @@
    "doi": null,
    "first_seen": "2026-11-26T00:59:31+00:00",
    "alt": null
+  },
+  {
+   "title": "Exposure matters more than persuasiveness for digital mass persuasion",
+   "link": "https://www.nature.com/articles/s41562-026-02644-9",
+   "date": "2026-11-26T00:00:00+00:00",
+   "source": "Nature Human Behaviour",
+   "kind": "journal",
+   "abstract": "Nature Human Behaviour, Published online: 26 November 2026; doi:10.1038/s41562-026-02644-9 The persuasive impact of digital media content depends both on its persuasiveness per person and on how many people are exposed to it, and there is greater variability in exposure than persuasiveness across content. Together, these facts suggest exposure matters more than persuasiveness for digital mass persuasion. Nature Human Behaviour, Published online: 26 November 2026; doi:10.1038/s41562-026-02644-9 The persuasive impact of digital media content depends both on its persuasiveness per person and on how many people are exposed to it, and there is greater variability in exposure than persuasiveness across content. Together, these facts suggest exposure matters more than persuasiveness for digital mass persuasion.",
+   "doi": "10.1038/s41562-026-02644-9",
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-26T15:23:55+00:00"
+   }
+  },
+  {
+   "title": "Redefine ‘evidence-based’ interventions as ongoing partnerships",
+   "link": "https://www.nature.com/articles/s41562-026-02647-6",
+   "date": "2026-11-26T00:00:00+00:00",
+   "source": "Nature Human Behaviour",
+   "kind": "journal",
+   "abstract": "Nature Human Behaviour, Published online: 26 November 2026; doi:10.1038/s41562-026-02647-6 Redefine ‘evidence-based’ interventions as ongoing partnerships Nature Human Behaviour, Published online: 26 November 2026; doi:10.1038/s41562-026-02647-6 Redefine ‘evidence-based’ interventions as ongoing partnerships",
+   "doi": "10.1038/s41562-026-02647-6",
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-26T15:23:55+00:00"
+   }
   },
   {
    "title": "Acheulean Hand Axes Found in Kalahari Desert",
@@ -57,7 +348,7 @@
    "date": "2026-11-25T18:41:17+00:00",
    "source": "BBC HistoryExtra",
    "kind": "media",
-   "abstract": "A nun with a superior erotic understanding, Pompeia and her bedroom circumstances, and an ongoing quest for equality. Here’s what the historical record tells us about women’s sex lives down the ages To hear the old cliché, you’d think that for centuries before modern feminism, women simply lay back and thought of England. Or, depending on the century and the woman, of ancient Athens, the Habsburg Empire or the French Third Republic. It’s a poor version of history. Women have always found ways to express desire, and at times their appetites have been cause for celebration. But there’s a darker history here, too, of hypocrisy and repression, and of the fear a woman who knows what she wants can inspire. Speaking on the HistoryExtra podcast about her book, Flick: The Story of Female Pleasure , Kate Lister offers 13 takeaways from her work. What were prehistoric phallic objects used for? At Hohle Fels cave in south-western Germany, archaeologists recovered a polished stone phallus roughly 30,000 years old, measuring about 20 centimetres long. Fashioned from fine-grained siltstone, it was reconstructed from 14 fragments, with a piece discovered in 2004 allowing researchers to piece toget…",
+   "abstract": "A nun with a superior erotic understanding, Pompeia and her bedroom circumstances, and an ongoing quest for equality. Here’s what the historical record tells us about women’s sex lives down the ages To hear the old cliché, you’d think that for centuries before modern feminism, women simply lay back and thought of England. Or, depending on the century and the woman, of ancient Athens, the Habsburg Empire or the French Third Republic. It’s a poor version of history. Women have always found ways to express desire, and at times their appetites have been cause for celebration. But there’s a darker history here, too, of hypocrisy and repression, and of the fear a woman who knows what she wants can inspire. Speaking on the HistoryExtra podcast about her book, Flick: The Story of Female Pleasure , Kate Lister offers 13 takeaways from her work. 1. Humans have been creating phallic objects for a very long time At Hohle Fels cave in southwestern Germany, archaeologists recovered a polished stone phallus roughly 30,000 years old, measuring about 20 centimetres long. Fashioned from fine-grained siltstone, it was reconstructed from 14 fragments, with a piece discovered in 2004 allowing researche…",
    "doi": null,
    "first_seen": "2026-11-25T20:29:24+00:00",
    "alt": null
@@ -236,6 +527,17 @@
    "alt": null
   },
   {
+   "title": "Why Mussolini's ghost still haunts Italy",
+   "link": "https://www.historyextra.com/membership/why-mussolinis-ghost-still-haunts-italy/",
+   "date": "2026-11-25T11:45:01+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Why did Mussolini’s image survive long after the fall of fascism? Stephen Gundle explores Italy’s uneasy relationship with its dictator, from family photographs and fading fascist slogans to waxworks and modern popular culture More than 80 years after Benito Mussolini’s death, his image still haunts Italy. Stephen Gundle speaks to Danny Bird about the dictator’s strange afterlife, and how Mussolini’s image survived in statues, 'ghost signs', films and even waxwork museums. From his spectacular downfall in 1945 to the ways modern populists have inherited elements of his political style, Stephen questions what happens when a society doesn't fully confront its past – and why some dictators refuse to disappear.",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
    "title": "Viking oval brooches weren’t mass-produced, new 3D scans show",
    "link": "https://archaeologymag.com/2026/11/viking-oval-brooches-werent-mass-produced/",
    "date": "2026-11-25T11:24:43+00:00",
@@ -332,17 +634,6 @@
    "abstract": "Une cargaison du début de l'âge du bronze a été identifiée au large de la Turquie. Il s'agirait de la plus vieille épave jamais découverte",
    "doi": null,
    "first_seen": "2026-11-25T15:42:55+00:00",
-   "alt": null
-  },
-  {
-   "title": "Daily Quiz: 25 November",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-11-25T07:00:10+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
   },
   {
@@ -6723,6 +7014,17 @@
    "alt": null
   },
   {
+   "title": "Ce que l’archéologie du Néolithique doit à Pierre et Anne-Marie Pét... - OpenEdition Journals",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5odkRGbGRhdEoySWR4a0V0SnJ6VGRsdy1PM1A1bnNRbEs3R0lQMXMtUVNxaFQySlJYdEdPdDdLaWI2ZWY1YXBNUjlNZDgtSmExVWdteDk2Q3dkWHM3Mkdj?oc=5",
+   "date": "2026-11-13T23:17:27+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Ce que l’archéologie du Néolithique doit à Pierre et Anne-Marie Pét... &nbsp;&nbsp; OpenEdition Journals",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
+  },
+  {
    "title": "Neolithic Battle Axes Blur the Rhine Boundary, 3500–2600 BC",
    "link": "https://www.anthropology.net/p/neolithic-battle-axes-blur-the-rhine",
    "date": "2026-11-13T20:16:33+00:00",
@@ -7377,6 +7679,28 @@
     "url": "",
     "checked_at": "2026-11-25T01:25:44+00:00"
    }
+  },
+  {
+   "title": "Jours de l'art I Reconstruire les sites archéologiques - Institut Catholique de Paris - ICP",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFNDalprWFNHOVRmR3N3MW5hSDdVc0szenhfSjljZUxtMEQzMWNyU0NqeHc3cENtVjI3S2JtaG9oVEFDSXBiVjhpQTJVQzh3dUN6ZGl1TXFSQ01MMEtaWHE5cFh2SGhpeGlGd0gwWUpFaG92bDd4R0lYWFVyZk0zMHpRRUhLcmpwWkprZkFxdC13YjdiSnBtVXZsWVg?oc=5",
+   "date": "2026-11-13T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Jours de l'art I Reconstruire les sites archéologiques &nbsp;&nbsp; Institut Catholique de Paris - ICP",
+   "doi": null,
+   "first_seen": "2026-11-24T15:57:09+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie du littoral atlantique une plongée inédite dans l'histoire ancienne des sociétés littorales de la façade atlantique - Université de Bretagne Occidentale (UBO)",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa2FMYnRXTG1seGlCQmpLRWNPZUFJYVRiNTRWR1R5dXhTVW5kMGV1Y2dnWEgwZGtFUjlKWEJ0aUZqbWw2NXltbXZ6OFlMR01sY0pWekk1YVctWUlWME5SOGQ5MTFSLUhrckZwSGJOLUpvbDBvR3hUTmtQdVhoUktWclFMQjdXZTlkWWlGLXhrV0FXeW1Gek1Rd01zWGxSVXpwMmd5emg2dkp3RFYtXy1NaDZUS0h3bk5GNUJJbnNn?oc=5",
+   "date": "2026-11-13T08:00:00+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie du littoral atlantique une plongée inédite dans l'histoire ancienne des sociétés littorales de la façade atlantique &nbsp;&nbsp; Université de Bretagne Occidentale (UBO)",
+   "doi": null,
+   "first_seen": "2026-11-26T15:23:55+00:00",
+   "alt": null
   },
   {
    "title": "When the Saudi desert was green: a 125,000-year-old lakeside reveals how early humans lived",
@@ -11507,6 +11831,17 @@
    "alt": null
   },
   {
+   "title": "Photographie aérienne archéologique : conférence à Saint-Dizier - Ville de Saint-Dizier",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYm5VaVdoSVdJRVVBaDUtc25saGlKWXVxSUJtQXRrS0hvYk0xa3hfZFZtMC1SbzhBTndHR2dzNXQ4RHJGN25SaS15dVJVcjhVY2dUVVF4eUJjTUZRSXh3YlB5VDNrTEhyLVJwbFdOYmtUa1ozbHdkNFo4VVZ3VDZKVmpORjItdFFjLWdLX0E3SjdDNlVSYUtNYmJqdXh4T0otaEp3?oc=5",
+   "date": "2026-11-06T10:04:57+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Photographie aérienne archéologique : conférence à Saint-Dizier &nbsp;&nbsp; Ville de Saint-Dizier",
+   "doi": null,
+   "first_seen": "2026-11-06T18:01:37+00:00",
+   "alt": null
+  },
+  {
    "title": "The WW2 nurses who saved lives in the skies",
    "link": "https://www.historyextra.com/membership/the-ww2-nurses-who-saved-lives-in-the-skies/",
    "date": "2026-11-06T09:40:37+00:00",
@@ -11559,17 +11894,6 @@
    "abstract": "",
    "doi": null,
    "first_seen": "2026-11-06T12:59:46+00:00",
-   "alt": null
-  },
-  {
-   "title": "Photographie aérienne archéologique : conférence à Saint-Dizier - Ville de Saint-Dizier",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYm5VaVdoSVdJRVVBaDUtc25saGlKWXVxSUJtQXRrS0hvYk0xa3hfZFZtMC1SbzhBTndHR2dzNXQ4RHJGN25SaS15dVJVcjhVY2dUVVF4eUJjTUZRSXh3YlB5VDNrTEhyLVJwbFdOYmtUa1ozbHdkNFo4VVZ3VDZKVmpORjItdFFjLWdLX0E3SjdDNlVSYUtNYmJqdXh4T0otaEp3?oc=5",
-   "date": "2026-11-06T08:00:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Photographie aérienne archéologique : conférence à Saint-Dizier &nbsp;&nbsp; Ville de Saint-Dizier",
-   "doi": null,
-   "first_seen": "2026-11-06T18:01:37+00:00",
    "alt": null
   },
   {
@@ -11842,17 +12166,6 @@
    "abstract": "Été 44, des enfants sous les bombes : quelles traces matérielles ? &nbsp;&nbsp; OpenEdition Journals",
    "doi": null,
    "first_seen": "2026-11-06T12:59:46+00:00",
-   "alt": null
-  },
-  {
-   "title": "Jours de l'art I Reconstruire les sites archéologiques - Institut Catholique de Paris - ICP",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFNDalprWFNHOVRmR3N3MW5hSDdVc0szenhfSjljZUxtMEQzMWNyU0NqeHc3cENtVjI3S2JtaG9oVEFDSXBiVjhpQTJVQzh3dUN6ZGl1TXFSQ01MMEtaWHE5cFh2SGhpeGlGd0gwWUpFaG92bDd4R0lYWFVyZk0zMHpRRUhLcmpwWkprZkFxdC13YjdiSnBtVXZsWVg?oc=5",
-   "date": "2026-11-06T02:14:20+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Jours de l'art I Reconstruire les sites archéologiques &nbsp;&nbsp; Institut Catholique de Paris - ICP",
-   "doi": null,
-   "first_seen": "2026-11-24T15:57:09+00:00",
    "alt": null
   },
   {
@@ -43203,28 +43516,6 @@
    "source": "ScienceDaily — Archaeology",
    "kind": "media",
    "abstract": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a reinforced skull, powerful jaw muscles, and a short snout built for tackling larger prey.",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "Archéologie : au large de la Croatie, une épave révèle le plus important trésor d’or byzantin jamais découvert en Méditerranée - Connaissance des Arts",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWXRhVnJ5RF9Sb3lTZkFNQVRPcWZMVThFNC1tUkdpMlJibkZ4RHpUeFhmYndTWGdYMnE5eTI2Wm5qdWl4Q2dXdjJQbk90d3hYWTVUV0VvVUNPTU1YV3V3NXRqOGFheFI2czEzNUY4UkdnVVdLLXp5VW9qLXNWeDlCLUh3eEQzcVJkRGJWQk1iVnVoYjhxTUVFdFc0bllsVW85NzRKaUVrWmdWWWt2RGpzQzJndWFnMVV5QnMyNl9CVEdUaFY3QnJjWk1KZXlCbnVkUXF2VG9KVXdkUFZ1R05rTW1yM2I3aUdwS2laYnlBcHJOV3I5T3NMeDByNXpNVE94a0dIR2cwV005ckpLelBCc1RjWjFMU1JR?oc=5",
-   "date": "2026-07-29T07:00:00+00:00",
-   "source": "Google News — archéologie (FR)",
-   "kind": "media",
-   "abstract": "Archéologie : au large de la Croatie, une épave révèle le plus important trésor d’or byzantin jamais découvert en Méditerranée &nbsp;&nbsp; Connaissance des Arts",
-   "doi": null,
-   "first_seen": "2026-10-04T11:08:54+00:00",
-   "alt": null
-  },
-  {
-   "title": "Magic circle: Stonehenge offers lucky visitors 20 minutes alone in monument",
-   "link": "https://www.theguardian.com/uk-news/2026/jul/29/stonehenge-offers-visitors-20-minutes-alone-in-monument",
-   "date": "2026-07-29T04:00:23+00:00",
-   "source": "The Guardian — Archaeology",
-   "kind": "media",
-   "abstract": "Handful of ticketholders will be selected at random for up-close visits to ancient site throughout August Trips to Stonehenge can be a little hectic. Tens of thousands of people turn up to celebrate summer and winter solstices and most other days the site is a place of bustle, excited conversation and selfie action. But throughout August, English Heritage is offering visitors the chance to win some guaranteed solitude within the hulking stones. Continue reading...",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
