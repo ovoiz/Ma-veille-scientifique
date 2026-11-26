@@ -1,12 +1,34 @@
 {
- "generated_at": "2026-11-25T20:29:24+00:00",
+ "generated_at": "2026-11-26T00:59:31+00:00",
  "counts": {
-  "total": 3144,
+  "total": 3146,
   "journal": 1107,
-  "media": 2037,
-  "new_this_run": 80
+  "media": 2039,
+  "new_this_run": 73
  },
  "items": [
+  {
+   "title": "Giant deer bones may push human arrival in Ireland back by 1,000 years",
+   "link": "https://phys.org/news/2026-11-giant-deer-bones-human-ireland.html",
+   "date": "2026-11-26T00:00:06+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "A team of archaeologists and scientists has uncovered tantalizing new evidence that Late Upper Paleolithic hunter-gatherers may have lived in southern Ireland around 13,500 years ago—nearly a millennium earlier than currently confirmed.",
+   "doi": null,
+   "first_seen": "2026-11-26T00:59:31+00:00",
+   "alt": null
+  },
+  {
+   "title": "Fermented milk may have held ritual power in Neolithic Denmark",
+   "link": "https://phys.org/news/2026-11-fermented-held-ritual-power-neolithic.html",
+   "date": "2026-11-26T00:00:02+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "Experimental archaeology sheds light on the substances fermented in Neolithic Scandinavian pottery and deposited in tombs, suggesting fermented dairy products held symbolic significance in prehistoric funerary rituals.",
+   "doi": null,
+   "first_seen": "2026-11-26T00:59:31+00:00",
+   "alt": null
+  },
   {
    "title": "Acheulean Hand Axes Found in Kalahari Desert",
    "link": "https://archaeology.org/news/2026/11/25/acheulean-handaxes-found-in-kalahari-desert/",
