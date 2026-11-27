@@ -1,12 +1,350 @@
 {
- "generated_at": "2026-11-27T01:00:20+00:00",
+ "generated_at": "2026-11-27T15:11:33+00:00",
  "counts": {
-  "total": 3187,
-  "journal": 1111,
-  "media": 2076,
-  "new_this_run": 75
+  "total": 3214,
+  "journal": 1112,
+  "media": 2102,
+  "new_this_run": 63
  },
  "items": [
+  {
+   "title": "Rethinking simple prepared core technologies: A high-resolution volumetric study of Middle Pleistocene cores from the Gran Dolina TD10.2 Bison Bed (Sierra de Atapuerca, Spain)",
+   "link": "https://www.sciencedirect.com/science/article/pii/S0047248426001156?dgcid=rss_sd_all",
+   "date": null,
+   "source": "Journal of Human Evolution",
+   "kind": "journal",
+   "abstract": "Publication date: January 2027 Source: Journal of Human Evolution, Volume 222 Author(s): Diego Lombao, Juan I. Morales, Andión Arteaga-Brieba, Andreu Ollé, Marina Mosquera",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "How ancient builders helped the Lighthouse of Alexandria withstand 18 earthquakes",
+   "link": "https://phys.org/news/2026-11-ancient-builders-lighthouse-alexandria-earthquakes.html",
+   "date": "2026-11-27T14:40:02+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "More than 2,000 years after it was built, the legendary Lighthouse of Alexandria is being brought back to life through scientific research and the use of virtual universes. For the first time, a scientifically complete 3D reconstruction reveals how one of the Seven Wonders of the World was built.",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Giant deer bones hint at humans in Ireland 13,500 years ago",
+   "link": "https://www.anthropology.net/p/giant-deer-bones-hint-at-humans-in",
+   "date": "2026-11-27T14:39:54+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "A split giant deer metatarsal from Ballynamintra Cave, County Waterford, dated to 13,573&#8211;13,321 cal BP, may carry the oldest butchery marks in Ireland. Around 13,500 years ago, the left metatarsal of a giant deer, the long bone of the lower hind leg, was split open lengthwise, apparently while still fresh, and its pieces ended up in Ballynamintra Cave in County Waterford. If people split it, the bone is the oldest trace of humans in Ireland. They came out of the cave when Richard Ussher and Leith Adams 1 dug there in 1878 and 1879, and the bone was reported at the time as split deliberately for marrow; Ussher&#8217;s note on the cave presented its Irish elk, the old name for the giant deer, as apparently contemporary with people. In 1997 the Irish Quaternary Fauna Project rejected that reading, and the bone stayed in the National Museum of Ireland as ordinary Ice Age fauna. That dismissal fit the accepted picture. In the authors&#8217; assessment, the only convincing evidence of humans in Ireland before the Mesolithic (the hunter-gatherer period after the Ice Age) is a brown bear kneecap with stone-tool cut marks from Alice and Gwendoline Cave in County Clare, dated to about …",
+   "doi": "10.1353/ria.0.a1009058",
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": {
+    "score": 0,
+    "outlets": [],
+    "msm": 0,
+    "blogs": 0,
+    "tweets": 0,
+    "url": "",
+    "checked_at": "2026-11-27T15:11:33+00:00"
+   }
+  },
+  {
+   "title": "Neolithic passage tombs held 29 of 31 corroded pots",
+   "link": "https://www.anthropology.net/p/neolithic-passage-tombs-held-29-of",
+   "date": "2026-11-27T14:32:39+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "Funnel Beaker pottery from Zealand, Denmark, suggests tomb vessels held reactive contents; in tests, raw milk left to mold matched the damage best. The inside of a lugged pot from the chamber of Korsh&#248;j, one of the Neolithic passage tombs of western Zealand in Denmark, has been eaten down to the clay body. Like every corroded pot in a new study of the region&#8217;s pottery, it dates to the Middle Neolithic, c. 3200&#8211;2900 BC. The stone grit (temper) in its clay now stands proud of the surface where the finer material around it has dissolved. A white residue coats the damaged zone up to the liquid line, with a thin brown crust above it, and small white deposits sit in pits on the outer wall, where the authors think the residue may have seeped through. Lugged vessel from the Korsh&#248;j passage tomb showing extensive interior corrosion, exterior spalling and pitting, and white residue deposits extending to the interior liquid line. Thin brown crust-like deposits adhere above the residue-bearing and corroded zone. Credit: Lone Claudi-Hansen and Adam Cordes. Vessel from the collection of the National Museum of Denmark Korsh&#248;j is one of 31 corroded vessels in the study, …",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Crocodile mummies at Kom Ombo share one embalming recipe across centuries",
+   "link": "https://archaeologymag.com/2026/11/crocodile-mummies-at-kom-ombo-embalming-recipe/",
+   "date": "2026-11-27T14:22:58+00:00",
+   "source": "archaeologymag.com",
+   "kind": "media",
+   "abstract": "Chemical tests on seven crocodile mummies point to a local embalming recipe at Kom Ombo in southern Egypt, used for several centuries. The mix was beeswax with pine resin or tar and a little cedar tar. British Museum researchers reported the results in Scientific Reports. Priests mummified crocodiles in huge numbers for the god Sobek [&#8230;]",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Scandinavian rock carvings at 4 sites: hunting signposts?",
+   "link": "https://www.anthropology.net/p/scandinavian-rock-carvings-at-4-sites",
+   "date": "2026-11-27T14:22:22+00:00",
+   "source": "Anthropology.net",
+   "kind": "media",
+   "abstract": "Large elk petroglyphs in Norway and Sweden sit beside rapids and narrow crossings, and a new study argues they pointed hunters to the right spots. At Landverk, on the north shore of Lake &#197;nnsj&#246;n in J&#228;mtland, Sweden, two large elk, probably carved in the late Mesolithic or early Neolithic, stand on a rock sloping into the lake. Their hooves sit at a waterline that rises over them in some seasons. The larger one, 1.65 meters long, has front legs drawn shorter than its back legs, as if lowering its head to drink or stepping in to swim. Most of the lines carved across its body sit over the heart and lungs. Elk carving at G&#228;rde, Sweden, made before 5000 BCE. Width: about 1.15 m. The red coloring is a present-day enhancement to make the carving easier to see. Credit: Jan Magne Gjerde, from T. Persson et al., World Archaeology (2026) Landverk belongs to the oldest tradition of Scandinavian rock carvings: large and sometimes life-size images of elk ( Alces alces , the animal North Americans call moose) and reindeer. The tradition ran from about 9000 to 4000 BCE. The animals usually stand without any scene around them, and they tend to sit near water. Explanations for th…",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "En 1879, un botaniste a enterré des graines dans 20 bouteilles — 147 ans après, certaines germent encore - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdGQ2MlJfV2QtZi1LdFlzQzhOcTcxVXNYeVNCV3psWHVKVkw1cHdZZTRxU2UxN3BCdVJhUU9VZG8wNkhhbTdQa1FHc0R1VkJkNWRIX3Q4V2xmYmRaSDFyNXpvR2p5QUZ1MVlDc09NWVZnbUpkZjI5QkVSVGxtUzJVYnFPTU9udkFHck50RmtNX2t5RE1zWjdEcTVFQTNFTFVBQ09GU3o5a09aSnMyWDlwbVhKbloxYkpVTXFYRTFoN1ZIRDc1VHd0QTMzeFVZMFFRdkdEb0Y5WGRlYl95SnFycWdQSDNwcU9YYTZ0eDdORFo2Tkxa?oc=5",
+   "date": "2026-11-27T14:00:41+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "En 1879, un botaniste a enterré des graines dans 20 bouteilles — 147 ans après, certaines germent encore &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Homo Erectus Lived in Rainforests, Upending Ideas About Their Adaptability",
+   "link": "https://www.nytimes.com/2026/11/27/science/homo-erectus-early-humans-china-rainforests.html",
+   "date": "2026-11-27T13:21:47+00:00",
+   "source": "New York Times — Archaeology",
+   "kind": "media",
+   "abstract": "A handful of teeth reveals that our distant relatives survived in the dense rainforests of southern China, expanding our understanding of their flexibility.",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "En Angleterre, des archéologues ont découvert un bébé romain enterré dans une jarre retournée avec deux oiseaux - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPV25EVE55cDZsbDJ0N0UyckUwWVVHX0NMWjA1ZExDNXhxMlhtRXZ3eVJlZUd3cFBrRDFNcVN2OVZhVktweDhqM2poNzJnQjhwazhBejR1Tl9RXzMwalB6UVRiZTNidTBUSjMxTU4tczlMTWZSX1BBaUt3Zzl5czVyOFFvSEFTTVpXellwQ0Q1SlZMQUlYTmNjNmZGVGdfRnlOQndhZEcxcHVLZlpaNENoMmNicElCVlB4VVlOT2tBOTJBOVdXeXIwbDh5ZUVvcVRrZFdvSHVjckpiTHdYUjlWWm4zR0M1bE4yeG1VejRja0RVcUJnZDU5ZXo4bDlDU3BDYmc?oc=5",
+   "date": "2026-11-27T13:00:28+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "En Angleterre, des archéologues ont découvert un bébé romain enterré dans une jarre retournée avec deux oiseaux &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Il y a 6 millions d'années, ce cachalot vivait avec les deux narines du côté gauche du crâne - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUkhPdE8yWmE3MWJ2bmpQZE1hWEo2UlNBMHFrdHY5QTc0YXdIRF92MEdEVklzc2xpUEtyeDNJVnRwOGtIa2ZOdWpmZ2Rlc2d6RnJvZmVGVXFFak92Q1F6Z1dYbTcwaTNCYUttaHR1UjRVOHBreVB3YTFBYVdZV20zWkpSSnNyRG5mQTFndXQ2ckw1RU9ud05IZXkxVzdGMnZCdWV5RkE0M1lvdmtpVmlUZVY3MUl2UmQwZUxPWlBUOWN6STZtUDc5NGNiYTJoZ1RLbDFPa29CQmlNc01LX0RBcFdfRGpMeWM?oc=5",
+   "date": "2026-11-27T12:20:53+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Il y a 6 millions d'années, ce cachalot vivait avec les deux narines du côté gauche du crâne &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Cancer : le tournant des nouveaux traitements",
+   "link": "https://www.sciencesetavenir.fr/sante/cancer-les-lignes-bougent_196538?xtor=RSS-16",
+   "date": "2026-11-27T12:20:27+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "La lutte contre le cancer connaît une formidable accélération. Des progrès dans les traitements, que l'on n'osait pas encore imaginer il y a quelques années, ouvrent désormais de nouvelles perspectives face à certains des cancers les plus redoutés.",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie : une exposition pour découvrir les trésors enfouis au lycée du Neubourg - Actu.fr",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeHpsTllKWVBMWlA5M251M045d3g2T1dTaUt2WDQ1bnF4ZEs3dnRTZ2ZoT2d1X2kxWjBxM3pLRHlXLWs1eWduQk5aRTlockk2SldweV9xSHdyQ2J3WmJmc0NQa3VzbDFFQTZNYWVJeVR5QXJ1N3czUXdTS21jenpTSE1JZ192bVdmXzBaYXJVTjBCUHI0UnV0UllBVl9kLUN1LVlXN2dodWdVNzRaeXdKaFpfemNQSmFDV3ZhMkRkREF4XzQwNVVBbU05bTQwWlo1LVdTZzZnMA?oc=5",
+   "date": "2026-11-27T12:16:02+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie : une exposition pour découvrir les trésors enfouis au lycée du Neubourg &nbsp;&nbsp; Actu.fr",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Depuis 130 ans, les archéologues ne savent toujours pas l'identité ni le sexe d'une statue romaine retrouvée à Pampelune - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQX1ozRGEyQlFJS0lmNGcySGVwR0NmRGxLYUpzVWVJdlZ2bFJLaUZnX1RvRDFfMHVCcmdDUlo0N2pCZTI5WDRXYVZ1cEJCeDU3dkZxb3hPSE9tNGZuMFhXTWJ4clNmYVFOdngwRmIwbm9YdERSSjFISHNXSzVMZ2dqRUdwMWVrRWVoNUJPcTZtNmVJN3Zqc2V6MTF3aDM0TkYwV1VtZlRGN0hBdG5RMTlTRjluaUxySE80WWxrVXN3YlFvNnVoNzBlZFlOcXo4X0R4NHJtWjRkMUdIYWpCcHgwblZ4SHA5amE0S1hlMGVBWmZ3d2FfQi1VTDU0T2N2cnJPLWRUQWlqVllpcVE?oc=5",
+   "date": "2026-11-27T12:00:45+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Depuis 130 ans, les archéologues ne savent toujours pas l'identité ni le sexe d'une statue romaine retrouvée à Pampelune &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Ports puniques de Carthage : l’INP annonce de nouvelles découvertes - Tekiano",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONjVxTm5OUU1INWgxMDVyZktQM1hhZmQzVUZJYUlGVHJXZXcydUZhb3psRGNrUHZpbng4TG9zUElLUTB4UXhKVFlxMEotSVVqb00wOVNDc3cxck0tRDRYcEsxSW9MSnlvMnFrTzRKbnFabFI5VWFNNkpkQXVEMFQ1RFZWX0pOZ3p6a0hPa3BzVUhMTEpGXy1EdVAtSlBsaFN2WmfSAaoBQVVfeXFMUEhSS3VqSEtjdTNHOXdZNWhKSS14YUxjMGYzNTdlWFk0bmE1Z1FxYjBkemphU21PZENMMXZGSnVBVnlwcE5SRWd3TXVxMkpWWlBKZ1ZvOGcxUGk4ZkNqQThqbE1wX245aGVUdHFUZmZsQl9HcDRCX1hBemZMQ0Q4eThESTJsTFlfa05DOTQtVFVzVDA3YTM0QnVhdmNkREVCeVBPOFdXTDU5NEE?oc=5",
+   "date": "2026-11-27T11:33:15+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Ports puniques de Carthage : l’INP annonce de nouvelles découvertes &nbsp;&nbsp; Tekiano",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Beeswax and pine link crocodile mummies made centuries apart at one Egyptian site",
+   "link": "https://phys.org/news/2026-11-beeswax-link-crocodile-mummies-centuries.html",
+   "date": "2026-11-27T11:00:01+00:00",
+   "source": "Phys.org — Archéologie & fossiles",
+   "kind": "media",
+   "abstract": "In a practice spanning centuries, ancient Egyptians mummified thousands of crocodiles they associated with Sobek, a god linked to the Nile, fertility and royal power. In one unique example, embalmers from the middle of the 1st millennium BC at Kom Ombo in southern Egypt mounted more than 25 hatchlings on reeds along the back and neck of a crocodile nearly 4 meters (13 feet) long. The arrangement may echo the way young crocodiles ride on their mother's back.",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "What happened to King Harold's children after the battle of Hastings?",
+   "link": "https://www.historyextra.com/membership/harold-godwinson-children-after-hastings-battle-what-happened/",
+   "date": "2026-11-27T10:45:20+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "William the Conqueror had conquered and launched a new era in England under the Normans, but he had to keep an eye on the heirs of his fallen foe The battle of Hastings was over: from the bloody fighting on 14 October 1066, William, Duke of Normandy, emerged as King of England while Harold Godwinson, after less than a year on the throne, was dead. The Norman Conquest had begun, yet the family of the fallen king still posed a threat to William the Conqueror . Yes, three of Harold’s brothers also died that same year: Tostig had allied with Harald Hardrada and been killed at the battle of Stamford Bridge, while Gyrth and Leofwine perished alongside Harold at Hastings. But in the early years of William’s reign Harold’s mother Gytha became a figurehead of rebellion in Exeter, and there were concerns that his seven children may one day seek to restore their line. Who were Harold Godwinson’s children? Harold Godwinson had five sons and two daughters. With his first wife, Edith Swanneck , he had three boys, Godwin, Edmund and Magnus, and two girls, Gunhild and Gytha. He had two more boys, Harold and Ulf, possibly with his second wife, Ealdgyth, although the lack of historical records means…",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Archéologie. Chaîne d'attache en acier de l'époque romaine trouvée à Eschenz - La Liberté",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYzdhSzlldHFSWXpoTDcxRzc5TVl4UFVDRUxaUjJOdnBhbmZPbl9PN1Q3eS1CMzJmdi0zSUZaLThVaDk5S2xxc0Y1ZTdJUGh4dWhlZ3lHQWxqUFlqNWJZV0RobTJIbXpsT1FQMU5tYUxRRmtZaENmS29CUF9SVkhUTlhwcnBHd0RrcjRSaHB2SVZYWXIxaEVmalFsNEUxZU5zQkpaS3N3?oc=5",
+   "date": "2026-11-27T10:16:16+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Archéologie. Chaîne d'attache en acier de l'époque romaine trouvée à Eschenz &nbsp;&nbsp; La Liberté",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Book Review: ‘Reading the Bones,’ by Marc Aronson and John S. Mead",
+   "link": "https://www.nytimes.com/2026/11/27/books/review/reading-the-bones-marc-aronson-john-mead.html",
+   "date": "2026-11-27T10:01:53+00:00",
+   "source": "New York Times — Archaeology",
+   "kind": "media",
+   "abstract": "In “Reading the Bones,” an award-winning nonfiction writer and a sixth-grade science teacher tell the riveting tale.",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Naufrage au large d’Ibiza : la Méditerranée sous la menace d’une marée noire",
+   "link": "https://www.sciencesetavenir.fr/nature-environnement/pollution/l-espagne-mobilisee-pour-eviter-toute-pollution-majeure-apres-le-naufrage-d-un-navire-au-large-d-ibiza_196547?xtor=RSS-15",
+   "date": "2026-11-27T09:37:57+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Un navire-citerne transportant 7.000 tonnes de carburant s’est retourné au large d’Ibiza, dans une zone abritant deux espaces marins protégés, dont un corridor de migration des cétacés. Si la situation semble stabilisée, la double coque du navire constitue une protection essentielle contre le risque de marée noire.",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "The crime-solving surgeon who inspired Sherlock Holmes",
+   "link": "https://www.historyextra.com/membership/the-crime-solving-surgeon-who-inspired-sherlock-holmes/",
+   "date": "2026-11-27T08:54:33+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Sherlock Holmes is one of fiction’s greatest detectives – but his skills of deduction weren't plucked from thin air. Historian Lindsey Fitzharris introduces surgeon Joseph Bell, whose crime-solving antics inspired Arthur Conan Doyle Sherlock Holmes is one of history's greatest fictional detectives – but his powers of deduction weren't a simple figment of the imagination. In this episode, historian Lindsey Fitzharris introduces listeners to Edinburgh surgeon Joseph Bell, a medical man who used his remarkable powers of observation to diagnose patients, help pioneer modern forensic science... and investigate suspicious deaths. Speaking to Elinor Evans, Lindsey reveals how Bell's skills captured the imagination of a medical student named Arthur Conan Doyle.",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Les rapports de fouilles archéologiques du Centre-Val de Loire en ligne - Ministère de la Culture",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdWtzamNNVmxtRi1pd0Jxdk1qSFJrRi1Sd2tIVmxJWEJfUlZuX2FfS2lXQV9SMEZJcWxCeFZNbXZrMkVSTF9VMThxcVRfdnllM2VYRlNJZ08xeTl6SEJpdFNVeEwxMnhuVjNueEVqNEstTjhvUXJTYm5hSzQ0UjdaOTFZQjlXVTY4RHY4bjJUdk5NTGVzTWRVTU82QkZQVUNEcHRlbDEwbHBmYXpDWElmdVdSRnFPM21NWU8zN3JDOFlyMzFETjdQdGtLU2dfUUVqampFQnRid3hmNHdxSDJCOWlVMXNDVlh4WV9ManFyUEpzV3hJUkJnNXNNaFUyc2dfNDVFeQ?oc=5",
+   "date": "2026-11-27T08:44:24+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Les rapports de fouilles archéologiques du Centre-Val de Loire en ligne &nbsp;&nbsp; Ministère de la Culture",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Les décrets portant création de l’agence d’archéologie et de l’orchestre philharmonique publiés - L'Algérie Aujourd'hui",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ1o3NWtiWno4Wm5uQVlHSVZxU05MOEJUWkZOVHJyRVk3WlREbkVTMlhaTnZPVDRsemtkSGpvazlGU2ZQNGg2VkhuaUhDdG51dXR0bGpTREpZZUhXazgtenRUR3B6cU5EWW5pdC11eXM4blpob2RSU2ljSEo5SlFkYTlBWGJqWjk4X3VseE11aUFqUDlpTWxtTzl3cy1ldXZ0TFdsN3kwSms2UXB6eURUTURNS2pQYlNHSWFqUFYwbi0?oc=5",
+   "date": "2026-11-27T08:38:31+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Les décrets portant création de l’agence d’archéologie et de l’orchestre philharmonique publiés &nbsp;&nbsp; L'Algérie Aujourd'hui",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "History crossword: 20 November",
+   "link": "https://www.historyextra.com/membership/history-crossword-20-november/",
+   "date": "2026-11-27T08:31:51+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "The History Round: our weekly trivia challenge",
+   "link": "https://www.historyextra.com/period/general-history/weekly-history-quiz/",
+   "date": "2026-11-27T08:31:06+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Have you been paying attention? Test your knowledge of the stories we’ve published over the past seven days with our weekly quiz, updated every Friday. Test your knowledge with our general knowledge weekly history quiz... View Riddle on the source website Did you know we have other regular quizzes here at HistoryExtra? To test your historical knowledge even further, try our daily quizzes , or our weekly crossword .",
+   "doi": null,
+   "first_seen": "2026-10-02T11:09:24+00:00",
+   "alt": null
+  },
+  {
+   "title": "Can you solve our history crossword of the week?",
+   "link": "https://www.historyextra.com/period/general-history/crossword/",
+   "date": "2026-11-27T08:30:13+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "",
+   "doi": null,
+   "first_seen": "2026-10-02T11:09:24+00:00",
+   "alt": null
+  },
+  {
+   "title": "Un million de satellites dans l'espace : est-ce possible ?",
+   "link": "https://www.sciencesetavenir.fr/sciences/un-million-de-satellites-dans-l-espace-est-ce-possible_196586?xtor=RSS-18",
+   "date": "2026-11-27T08:26:51+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Plus d'un million de satellites pourront être envoyés dans l'espace pour compléter la constellation Starlink. L'autorisation des autorités américaines soulève de nombreuses questions sur la viabilité d'un tel projet et ses conséquences.",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "La Nasa a percuté un astéroïde : les premières images dévoilent un résultat inattendu !",
+   "link": "https://www.sciencesetavenir.fr/espace/dimorphos-apres-le-choc-les-images-qui-surprennent-les-scientifiques_196590?xtor=RSS-9",
+   "date": "2026-11-27T08:03:22+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "La sonde Hera a dévoilé les premières images de Dimorphos, quatre ans après l'impact volontaire d'un vaisseau de la Nasa destiné à dévier sa trajectoire. Les clichés révèlent des transformations inattendues.",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Nettoyage, livraison, sécurité : les robots entrent en ville à Singapour",
+   "link": "https://www.sciencesetavenir.fr/high-tech/singapour-teste-la-ville-du-futur-avec-des-robots-dopes-a-l-ia_196589?xtor=RSS-12",
+   "date": "2026-11-27T07:43:35+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "À Singapour, un quartier futuriste sert de terrain d'expérimentation à des robots autonomes pilotés par l'intelligence artificielle. Nettoyage, livraison, sécurité : ces machines sont testées en conditions réelles pour transformer le quotidien urbain.",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "L'IA affole les internautes et submerge les centres antipoison",
+   "link": "https://www.sciencesetavenir.fr/nutrition/un-yaourt-perime-une-limace-dans-la-salade-l-ia-affole-les-francais-et-sature-les-centres-antipoison_196588?xtor=RSS-28",
+   "date": "2026-11-27T07:38:50+00:00",
+   "source": "Sciences et Avenir — Archéo & paléo",
+   "kind": "media",
+   "abstract": "Depuis l'été, les centres antipoison français sont submergés d'appels. En cause : les réponses parfois alarmistes de l'intelligence artificielle, qui inquiètent les internautes et épuisent les équipes.",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Daily Quiz: 27 November",
+   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
+   "date": "2026-11-27T07:00:16+00:00",
+   "source": "BBC HistoryExtra",
+   "kind": "media",
+   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
+   "doi": null,
+   "first_seen": "2026-09-29T14:02:13+00:00",
+   "alt": null
+  },
   {
    "title": "Digital access to early music",
    "link": "https://phys.org/news/2026-11-digital-access-early-music.html",
@@ -32,7 +370,7 @@
   {
    "title": "Découverte archéologique à Carthage : un ancien mur de fortification romain exhumé - Webmanagercenter",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXhqT041cWVmeHVZMkZGU3FvdWR5bHVUREdQR3ZZSUlqY2JIV1Mtb1p3STluZ3pfMFdfcy1iS2Rvbi04RmVBSWlpYzNoeExxYnFJeXpHcTM4bE1UV2pkMEFiajBKT0J0Y1U4bDVMbW5WdXkxeDdtVTU3UGJkVm1icEEyckhNVWI4dHdtczdZV2s5aFRPcGFDQ1dwVmxFLUhkdFR3QlZ0bW9TOXRBZ2ZLUUw4LV95UzhkbE41Q3cyd3Zwa0prejJOdGx2Umk?oc=5",
-   "date": "2026-11-26T21:22:10+00:00",
+   "date": "2026-11-26T21:22:37+00:00",
    "source": "Google News — archéologie (FR)",
    "kind": "media",
    "abstract": "Découverte archéologique à Carthage : un ancien mur de fortification romain exhumé &nbsp;&nbsp; Webmanagercenter",
@@ -404,17 +742,6 @@
    "alt": null
   },
   {
-   "title": "Daily Quiz: 26 November",
-   "link": "https://www.historyextra.com/membership/daily-history-trivia-quiz/",
-   "date": "2026-11-26T07:00:04+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Test your history knowledge with our daily quiz – updated each morning at 7am UK time View Riddle on the source website If you want to test your historical knowledge further, why not try our weekly crossword too?",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
    "title": "En Ukraine, une tranchée militaire a révélé une tombe grecque de 2 500 ans encore intacte - Science et vie",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSGY5eHE1ZlU3Tm50dGFHaENKWGJSTUZBX0hFNWs4LWJTRHpZMDBDNENWbG9YZUZKX1F6OVpkU29GLUlhQ2lRaE5XeFUwQ0xMUS1xUlg5NlpKMnk1UEJHczkzNnBzSENNb2dpOTZWdkxZZFotdnRWR3FBRmJpdFRmY1k3V1Nab243VTBiNDdkaV84dHR6cklfM0gtZHZOcENDT1lPbXRmU3B6cDJzMGIzckNkb3VRNzhRWkZyMTBuV24tSFNnMFdyeHh2MzlMNmd3c29ld1l3dHRSMGZkaU1LWg?oc=5",
    "date": "2026-11-26T05:00:22+00:00",
@@ -569,6 +896,28 @@
     "url": "",
     "checked_at": "2026-11-25T20:29:24+00:00"
    }
+  },
+  {
+   "title": "En 2019, du bleu a été identifié dans les dents d’une femme morte il y a plus de 850 ans : elle aurait peint de précieux manuscrits médiévaux - Science et vie",
+   "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOd1RwaHkzcGNOb0s0LXNZS0FKeWNrMjlMMHpzUkc1QkdYQW0yaUE1RXR5MUwwWkVhT1B2S3hyZDREanZnYVp5WG16bVhYREN6Q2FxZGp6WkgzbjdLYzdycUtlaGJRUUYxOWpYU0l4b0c2dGN5T1hFZEI2X2gxRzExVDR5V2p3bzNoTmlza3pEWFBmOEhROXhjeWF1cUdrSzlIUndVWEJ2VjJNYVBXUVNoajVqTEl3Q1RJUDZGNTBUMW5JVVRva2RuRzlFaFNINmdVdzlHaG5fdzNpc1B4a3pPdXh2NkdzVFhxTXNjRG44cjR2T1Q5WFZsNW9kdF9YLW5ScG03QzhTNkFzWFY1dnZHVzBncm01REVEdXBhaFFwYU85ak5DclE?oc=5",
+   "date": "2026-11-25T17:20:05+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "En 2019, du bleu a été identifié dans les dents d’une femme morte il y a plus de 850 ans : elle aurait peint de précieux manuscrits médiévaux &nbsp;&nbsp; Science et vie",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
+  },
+  {
+   "title": "Fouilles archéologiques à Dieppe : ces tombes révèleront-elles leurs secrets ? - Paris Normandie",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU3pVQVJ0NjNQWkJTaGxtWmFxbzZLOVNrQVlac2pJZUJicmZMdnJVUXA0c0tYVlR6X0p5SmxuWV9tbVRvbU9IUlhpNVpvcGw1dDdfQzNiSk1xLWhzUlQ1Y1k0OTY3RFI0Yzh5RW9pbG5qZkkxbXlwVDcyWDEyNGs3Vkh4SlowZG14bGlNMThMUlBobnFMWDdldE1DdXd2bXVlNV9odjdMUk5sanFPb3FWN3VGZ1JES2FFZG5TcTNwZXBaUHZuczY5Umw0NA?oc=5",
+   "date": "2026-11-25T17:08:39+00:00",
+   "source": "Google News — archéologie (FR)",
+   "kind": "media",
+   "abstract": "Fouilles archéologiques à Dieppe : ces tombes révèleront-elles leurs secrets ? &nbsp;&nbsp; Paris Normandie",
+   "doi": null,
+   "first_seen": "2026-11-27T15:11:33+00:00",
+   "alt": null
   },
   {
    "title": "San Francisco en alerte face à un risque majeur d'inondations",
@@ -1283,7 +1632,7 @@
   {
    "title": "Ancient Egyptian Cats Lived Squalid Lives Before Mummification",
    "link": "https://www.nytimes.com/2026/11/24/science/ancient-egyptian-cats-mummies.html",
-   "date": "2026-11-24T10:01:52+00:00",
+   "date": "2026-11-24T10:01:53+00:00",
    "source": "New York Times — Archaeology",
    "kind": "media",
    "abstract": "Cats destined to be offerings paid a high price to receive glory in the afterlife, markings on their skulls revealed.",
@@ -2736,17 +3085,6 @@
    "alt": null
   },
   {
-   "title": "The History Round: our weekly trivia challenge",
-   "link": "https://www.historyextra.com/period/general-history/weekly-history-quiz/",
-   "date": "2026-11-20T08:31:10+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "Have you been paying attention? Test your knowledge of the stories we’ve published over the past seven days with our weekly quiz, updated every Friday. Test your knowledge with our general knowledge weekly history quiz... View Riddle on the source website Did you know we have other regular quizzes here at HistoryExtra? To test your historical knowledge even further, try our daily quizzes , or our weekly crossword .",
-   "doi": null,
-   "first_seen": "2026-10-02T11:09:24+00:00",
-   "alt": null
-  },
-  {
    "title": "History crossword: 13 November",
    "link": "https://www.historyextra.com/membership/history-crossword-13-november/",
    "date": "2026-11-20T08:30:55+00:00",
@@ -2755,17 +3093,6 @@
    "abstract": "",
    "doi": null,
    "first_seen": "2026-11-20T14:05:54+00:00",
-   "alt": null
-  },
-  {
-   "title": "Can you solve our history crossword of the week?",
-   "link": "https://www.historyextra.com/period/general-history/crossword/",
-   "date": "2026-11-20T08:29:08+00:00",
-   "source": "BBC HistoryExtra",
-   "kind": "media",
-   "abstract": "",
-   "doi": null,
-   "first_seen": "2026-10-02T11:09:24+00:00",
    "alt": null
   },
   {
@@ -43670,28 +43997,6 @@
    "source": "ScienceDaily — Archaeology",
    "kind": "media",
    "abstract": "Modern humans carry DNA from two mysterious extinct lineages in addition to Neanderthals and Denisovans. Their hidden genetic legacy shows that our evolutionary past was shaped by repeated mixing among many different human groups.",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "This 4,000-year-old city defied the rules of history",
-   "link": "https://www.sciencedaily.com/releases/2026/07/260729010730.htm",
-   "date": "2026-07-30T13:02:20+00:00",
-   "source": "ScienceDaily — Archaeology",
-   "kind": "media",
-   "abstract": "As Mohenjo-daro prospered, the gap between its richest and poorest households actually shrank. Its shared infrastructure, fair trade systems, and lack of powerful royal elites suggest that equality may have helped fuel the ancient city’s success.",
-   "doi": null,
-   "first_seen": "2026-09-29T14:02:13+00:00",
-   "alt": null
-  },
-  {
-   "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
-   "link": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm",
-   "date": "2026-07-30T06:34:21+00:00",
-   "source": "ScienceDaily — Archaeology",
-   "kind": "media",
-   "abstract": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a reinforced skull, powerful jaw muscles, and a short snout built for tackling larger prey.",
    "doi": null,
    "first_seen": "2026-09-29T14:02:13+00:00",
    "alt": null
